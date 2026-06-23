@@ -1,0 +1,16 @@
+[
+  { "id": "3", "comarca_code": "3", "name": "Alt Penedès" },
+  { "id": "6", "comarca_code": "6", "name": "Anoia" },
+  { "id": "7", "comarca_code": "7", "name": "Bages" },
+  { "id": "11", "comarca_code": "11", "name": "Baix Llobregat" },
+  { "id": "13", "comarca_code": "13", "name": "Barcelonès" },
+  { "id": "14", "comarca_code": "14", "name": "Berguedà" },
+  { "id": "17", "comarca_code": "17", "name": "Garraf" },
+  { "id": "21", "comarca_code": "21", "name": "Maresme" },
+  { "id": "24", "comarca_code": "24", "name": "Osona" },
+  { "id": "34", "comarca_code": "34", "name": "Selva" },
+  { "id": "40", "comarca_code": "40", "name": "Vallès Occidental" },
+  { "id": "41", "comarca_code": "41", "name": "Vallès Oriental" },
+  { "id": "42", "comarca_code": "42", "name": "Moianès" },
+  { "id": "43", "comarca_code": "43", "name": "Lluçanès" }
+]

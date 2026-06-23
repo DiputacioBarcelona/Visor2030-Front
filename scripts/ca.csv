@@ -1,0 +1,1364 @@
+key,value
+TITLE,Visor 2030
+HOMEPAGE.TITLE,Indicadors locals ODS de la província de Barcelona
+HOMEPAGE.DESCRIPTION,"Des de la Diputació de Barcelona posem al vostre abast una plataforma per a la visualització d’un sistema d’indicadors multidimensional en clau d’Agenda 2030 sobre la realitat econòmica, social i ambiental dels municipis de la província de Barcelona. Amb aquest conjunt de dades volem afavorir el debat, la reflexió i anàlisi, i la millora de la presa de decisions tant dels ens locals com de la pròpia Diputació."
+HOMEPAGE.SUBTITLE,Sobre els ODS
+HOMEPAGE.SDG_DESCRIPTION,"Els Objectius de Desenvolupament Sostenible són una crida global a posar fi a la pobresa, protegir el planeta i garantir el benestar per a tothom. Adoptats per les Nacions Unides el 2015, ofereixen un marc comú per afrontar els grans reptes globals. Des de la Diputació de Barcelona, impulsem la seva aplicació local com a eina per planificar, prendre decisions informades i fer seguiment del progrés cap a un futur més sostenible i just."
+HOMEPAGE.FOOTER_TITLE,Sobre el Visor 2030
+HOMEPAGE.FOOTER_TEXT,"El visor mesura l’assoliment dels ODS als municipis a partir d’una selecció de 76 indicadors distribuïts entre els 17 objectius. Aquests indicadors s’han triat segons la seva rellevància temàtica i la disponibilitat de dades a escala municipal.
+
+El càlcul de l’índex sintètic s’expressa en una escala de 0 a 100 i  incorpora ponderacions per població, ajustaments metodològics i tractament de valors extrems per garantir la comparació entre municipis. També s’inclouen referències comarcals i provincials.
+
+Les dades cobreixen el màxim nombre de municipis i anys disponibles segons cada font, i es preveu una actualització periòdica"
+HOMEPAGE.METODOLOGIA_BUTTON,Consulteu la metodologia
+SDG,ODS {sdg}
+TARGET,Fita {target}
+INDICATORS,Indicadors
+INDICATOR,Indicador
+EVOLUCIO,Evolució
+DISTRIBUCIO,Distribució
+PREVIOUS_YEAR,Any anterior
+COMARCA_AVERAGE,Comarca del {comarca}
+PROVINCE_AVERAGE,Província de Barcelona
+SOURCE,Fonts de dades i metodologia
+PROVINCIA_BARCELONA,Província de Barcelona
+NO_MUNICIPALITY_DATA,No hi ha dades disponibles per a aquest municipi
+CHOOSE_TARGET,Tria la fita per la qual vols veure els indicadors
+HIGH,Alta
+MEDIUM,Mitja
+LOW,Baixa
+VERY_HIGH,Molt alta
+SI,Sí
+NO,No
+UNKNOWN,---
+ACTUALITZAT,Actualitzat
+NO_ACTUALITZAT,No actualitzat
+CLICK_SDG,Fes clic en algún dels ODS per veure'n la informació en detall
+NAVEGA_PER_MUNICIPI,Navega per municipi
+CERCA_MUNICIPI,Cerca municipi
+SELECCIONA_UN_MUNICIPI,Selecciona un municipi
+PROGRAMS_BUDGET,Pressupostos per programa
+PROGRAMS_TITLE,Programes
+BUDGET,Pressupost
+BUDGET_TITLE,Pressupost
+TOTAL_BUDGET,Total
+TOTAL_ASSIGNED_BUDGET,Assignat a ODS
+TOTAL_UNASSIGNED_BUDGET,Sense assignar
+PER_CAPITOLS,Desglossament per capítols
+ERROR,Hi ha hagut un error en la càrrega de les dades. Proveu-ho de nou més tard.
+POINTS_BY_SDG,Puntuació per ODS
+BUDGET_SUBTITLE,"El pressupost assignat reflecteix els recursos econòmics destinats a iniciatives vinculades als ODS. S’hi indica tant el total com la distribució per objectius, així com la part pendent d’assignació. L’anàlisi facilita l’avaluació de l’alineament entre les polítiques locals i els compromisos de sostenibilitat. Són recursos pressupostats i assignats, però encara no liquidats."
+RANKING,Ranking
+COMPOSITION,Composició
+CHAPTERS,Capítols
+DISTRIBUTION,Distribució
+ALL,Tots
+FILTER_BY_SDG,Filtrar per ODS
+SDGS.1.TITLE,Fi de la pobresa
+SDGS.1.DESCRIPTION,Posar fi a la pobresa en totes les seves formes arreu del món.
+SDGS.1.TARGETS.1.DESCRIPTION,Reduir la pobresa extrema
+SDGS.1.TARGETS.1.INDICATORS.1.TITLE,% Població amb ingressos < 40%
+SDGS.1.TARGETS.1.INDICATORS.1.DESCRIPTION,Percentatge de població que viu en unitats de consum amb una renda disponible inferior al 40% de la mediana
+SDGS.1.TARGETS.1.INDICATORS.1.UNIT,%
+SDGS.1.TARGETS.1.INDICATORS.1.VALUES.1.TITLE,
+SDGS.1.TARGETS.1.INDICATORS.1.VALUES.1.UNIT,
+SDGS.1.TARGETS.1.INDICATORS.1.VALUES.2.TITLE,
+SDGS.1.TARGETS.1.INDICATORS.1.VALUES.2.UNIT,
+SDGS.1.TARGETS.1.INDICATORS.1.SOURCE,- [Porcentaje de población con ingresos por unidad de consumo por debajo/encima de determinados umbrales relativos por sexo](https://www.ine.es/jaxiT3/Tabla.htm?t=30901) (INE)
+SDGS.1.TARGETS.2.DESCRIPTION,"Reduir la proporció de població que viu en la pobresa, mitjançant l'augment dels programes integrals que l'abordin en totes les seves dimensions."
+SDGS.1.TARGETS.2.INDICATORS.1.TITLE,% Població amb ingressos < 60%
+SDGS.1.TARGETS.2.INDICATORS.1.DESCRIPTION,Percentatge de població que viu en unitats de consum amb una renda disponible inferior al 60% de la mediana
+SDGS.1.TARGETS.2.INDICATORS.1.UNIT,%
+SDGS.1.TARGETS.2.INDICATORS.1.VALUES.1.TITLE,
+SDGS.1.TARGETS.2.INDICATORS.1.VALUES.1.UNIT,%
+SDGS.1.TARGETS.2.INDICATORS.1.VALUES.2.TITLE,
+SDGS.1.TARGETS.2.INDICATORS.1.VALUES.2.UNIT,
+SDGS.1.TARGETS.2.INDICATORS.1.SOURCE,- [Porcentaje de población con ingresos por unidad de consumo por debajo/encima de determinados umbrales relativos por sexo](https://www.ine.es/jaxiT3/Tabla.htm?t=30901) (INE)
+SDGS.1.TARGETS.2.INDICATORS.2.TITLE,Renda mediana
+SDGS.1.TARGETS.2.INDICATORS.2.DESCRIPTION,"Valor de renda que, ordenant a tots els individus de menor a major ingrés, deixa una meitat dels mateixos per sota d'aquest valor i l'altra meitat per sobre"
+SDGS.1.TARGETS.2.INDICATORS.2.UNIT,€
+SDGS.1.TARGETS.2.INDICATORS.2.VALUES.1.TITLE,
+SDGS.1.TARGETS.2.INDICATORS.2.VALUES.1.UNIT,€
+SDGS.1.TARGETS.2.INDICATORS.2.VALUES.2.TITLE,
+SDGS.1.TARGETS.2.INDICATORS.2.VALUES.2.UNIT,
+SDGS.1.TARGETS.2.INDICATORS.2.SOURCE,- [Indicadores de renta media y mediana](https://www.ine.es/jaxiT3/Tabla.htm?t=30896) (INE)
+SDGS.1.TARGETS.2.INDICATORS.3.TITLE,Nombre de socis de cooperatives per 1.000 habitants
+SDGS.1.TARGETS.2.INDICATORS.3.DESCRIPTION,Nombre de socis de cooperatives per 1.000 habitants
+SDGS.1.TARGETS.2.INDICATORS.3.UNIT,socis/es/1.000 hab.
+SDGS.1.TARGETS.2.INDICATORS.3.VALUES.1.TITLE,Número de socis/es de cooperatives
+SDGS.1.TARGETS.2.INDICATORS.3.VALUES.1.UNIT,socis/es
+SDGS.1.TARGETS.2.INDICATORS.3.VALUES.2.TITLE,Població total
+SDGS.1.TARGETS.2.INDICATORS.3.VALUES.2.UNIT,persones
+SDGS.1.TARGETS.2.INDICATORS.3.SOURCE,"- [Registre General de Cooperatives de la Generalitat de Catalunya](https://analisi.transparenciacatalunya.cat/Treball/Registre-General-de-Cooperatives-de-la-Generalitat/euku-fzbx/about_data) (Dades Obertes de Catalunya)
+- [Dades històriques de població dels municipis de Catalunya](https://analisi.transparenciacatalunya.cat/Sector-P-blic/Dades-hist-riques-de-poblaci-dels-municipis-de-Cat/x5sz-niat/about_data) (Dades Obertes de Catalunya)"
+SDGS.1.TARGETS.3.DESCRIPTION,"Reforçar en l'àmbit local sistemes i mesures apropiades de protecció social per a totes les persones, per tal d'aconseguir una àmplia cobertura de les persones vulnerables."
+SDGS.1.TARGETS.3.INDICATORS.1.TITLE,Renda Gar. Ciut. per 10.000 hab.
+SDGS.1.TARGETS.3.INDICATORS.1.DESCRIPTION,"Mitjana de persones que han estat beneficiaries de la Renda Garantida de Ciutadania a l'any de referència, per cada 10.000 habitants"
+SDGS.1.TARGETS.3.INDICATORS.1.UNIT,persones/10.000 hab.
+SDGS.1.TARGETS.3.INDICATORS.1.VALUES.1.TITLE,Mitjana de persones beneficiàries
+SDGS.1.TARGETS.3.INDICATORS.1.VALUES.1.UNIT,persones
+SDGS.1.TARGETS.3.INDICATORS.1.VALUES.2.TITLE,Població total
+SDGS.1.TARGETS.3.INDICATORS.1.VALUES.2.UNIT,persones
+SDGS.1.TARGETS.3.INDICATORS.1.SOURCE,"- [Renda Garantida de Ciutadania](https://www.idescat.cat/pub/?id=ris&n=9549) (IDESCAT)
+- [Dades històriques de població dels municipis de Catalunya](https://analisi.transparenciacatalunya.cat/Sector-P-blic/Dades-hist-riques-de-poblaci-dels-municipis-de-Cat/x5sz-niat/about_data) (Dades Obertes de Catalunya)"
+SDGS.1.TARGETS.4.DESCRIPTION,"Garantir que les persones, especialment les pobres i vulnerables, tinguin els mateixos drets, així com accés als serveis bàsics, recursos naturals, econòmics i financers en igualtat de condicions."
+SDGS.1.TARGETS.4.INDICATORS.1.TITLE,Taxa de prestacions desocupació
+SDGS.1.TARGETS.4.INDICATORS.1.DESCRIPTION,"Nombre de persones beneficiàries de prestacions que protegeixen la situació per atur en els àmbits contributiu, assistencial, renda activa d'inserció i programa d'activació per l'ocupació respecte el total d'aturats registrats que han tingut ocupació anterior"
+SDGS.1.TARGETS.4.INDICATORS.1.UNIT,%
+SDGS.1.TARGETS.4.INDICATORS.1.VALUES.1.TITLE,Persones beneficiàries de prestacions
+SDGS.1.TARGETS.4.INDICATORS.1.VALUES.1.UNIT,persones
+SDGS.1.TARGETS.4.INDICATORS.1.VALUES.2.TITLE,Mitjana anual d'aturats registrats que han tingut ocupació anterior
+SDGS.1.TARGETS.4.INDICATORS.1.VALUES.2.UNIT,persones
+SDGS.1.TARGETS.4.INDICATORS.1.SOURCE,"- [Persones beneficiàries de prestacions](https://www.diba.cat/hg2/presentaciomun.asp?prid=1327) (DIBA)
+- [Atur registrat](https://www.idescat.cat/pub/?id=atureg&n=4299) (IDESCAT)
+
+S'agafa la dada de Juny de les persones beneficiàries de prestacions i la mitjana anual d'aturats registrats."
+SDGS.1.TARGETS.4.INDICATORS.2.TITLE,Proporció de persones amb discapacitat que reben una pensió
+SDGS.1.TARGETS.4.INDICATORS.2.DESCRIPTION,Proporció de persones amb discapacitat que reben una pensió
+SDGS.1.TARGETS.4.INDICATORS.2.UNIT,%
+SDGS.1.TARGETS.4.INDICATORS.2.VALUES.1.TITLE,Pensions d'invalidesa
+SDGS.1.TARGETS.4.INDICATORS.2.VALUES.1.UNIT,pensions
+SDGS.1.TARGETS.4.INDICATORS.2.VALUES.2.TITLE,Persones reconegudes legalment com a discapacitades
+SDGS.1.TARGETS.4.INDICATORS.2.VALUES.2.UNIT,persones
+SDGS.1.TARGETS.4.INDICATORS.2.SOURCE,"- [Pensions d'invalidesa](https://www.idescat.cat/pub/?id=ppsr&n=9383) (IDESCAT)
+
+- [Persones reconegudes legalment com a discapacitades](https://www.idescat.cat/pub/?id=regdis&n=441) (IDESCAT)
+
+"
+SDGS.1.TARGETS.5.DESCRIPTION,"Fomentar la resiliència de les persones pobres i vulnerables, i reduir la seva exposició i vulnerabilitat als fenòmens extrems relacionats amb el clima i altres pertorbacions i desastres econòmics, socials i ambientals."
+SDGS.1.TARGETS.5.INDICATORS.1.TITLE,Refugis climàtics gratuïts
+SDGS.1.TARGETS.5.INDICATORS.1.DESCRIPTION,Refugis climàtics gratuïts
+SDGS.1.TARGETS.5.INDICATORS.1.UNIT,refugis/10.000 hab.
+SDGS.1.TARGETS.5.INDICATORS.1.VALUES.1.TITLE,Refugis climàtics
+SDGS.1.TARGETS.5.INDICATORS.1.VALUES.1.UNIT,refugis
+SDGS.1.TARGETS.5.INDICATORS.1.VALUES.2.TITLE,Població
+SDGS.1.TARGETS.5.INDICATORS.1.VALUES.2.UNIT,persones
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.0.TITLE,Refugis gratuïts i accessibles
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.0.VALUES.1.TITLE,Refugis
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.0.VALUES.1.UNIT,persones
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.0.VALUES.2.TITLE,Població
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.0.VALUES.2.UNIT,persones
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.2.TITLE,Refugis gratuïts i no accessibles
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.2.VALUES.1.TITLE,Refugis
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.2.VALUES.1.UNIT,persones
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.2.VALUES.2.TITLE,Població
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.2.VALUES.2.UNIT,persones
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.3.TITLE,Refugis gratuïts i NA accessibles
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.3.VALUES.1.TITLE,Refugis
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.3.VALUES.1.UNIT,persones
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.3.VALUES.2.TITLE,Població
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.3.VALUES.2.UNIT,persones
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.4.TITLE,Refugis no gratuïts i accessibles
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.4.VALUES.1.TITLE,Refugis
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.4.VALUES.1.UNIT,persones
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.4.VALUES.2.TITLE,Població
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.4.VALUES.2.UNIT,persones
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.5.TITLE,Refugis no gratuïts i no accessibles
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.5.VALUES.1.TITLE,Refugis
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.5.VALUES.1.UNIT,persones
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.5.VALUES.2.TITLE,Població
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.5.VALUES.2.UNIT,persones
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.6.TITLE,Refugis no gratuïts i NA accessibles
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.6.VALUES.1.TITLE,Refugis
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.6.VALUES.1.UNIT,persones
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.6.VALUES.2.TITLE,Població
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.6.VALUES.2.UNIT,persones
+SDGS.1.TARGETS.5.INDICATORS.1.SOURCE,"- [Refugis climàtics](https://analisi.transparenciacatalunya.cat/Seguretat/Refugis-clim-tics-dels-municipis-de-Catalunya/9gu7-iwci/about_data) (Dades Obertes de Catalunya)
+- [Dades històriques de població dels municipis de Catalunya](https://analisi.transparenciacatalunya.cat/Sector-P-blic/Dades-hist-riques-de-poblaci-dels-municipis-de-Cat/x5sz-niat/about_data) (Dades Obertes de Catalunya)"
+SDGS.2.TITLE,Fam zero
+SDGS.2.DESCRIPTION,"Posar fi a la fam, aconseguir la seguretat alimentària i millorar la nutrició i promoure la agricultura sostenible."
+SDGS.2.TARGETS.1.DESCRIPTION,"Garantir l'accés a aliments segurs, nutritius i suficients, especialment a aquella població en situació de vulnerabilitat alimentària, fomentant l'agricultura sostenible, de proximitat i resilient al canvi climàtic i als fenòmens meteorològics extrems."
+SDGS.2.TARGETS.1.INDICATORS.1.TITLE,% Superfície agrícola ecològica
+SDGS.2.TARGETS.1.INDICATORS.1.DESCRIPTION,% Superfície agricola ecològica
+SDGS.2.TARGETS.1.INDICATORS.1.UNIT,%
+SDGS.2.TARGETS.1.INDICATORS.1.VALUES.1.TITLE,Superfície amb certificat ecològic
+SDGS.2.TARGETS.1.INDICATORS.1.VALUES.1.UNIT,ha
+SDGS.2.TARGETS.1.INDICATORS.1.VALUES.2.TITLE,Superfície destinada al conreu
+SDGS.2.TARGETS.1.INDICATORS.1.VALUES.2.UNIT,ha
+SDGS.2.TARGETS.1.INDICATORS.1.SOURCE,- [Dades de parcel·les d’explotacions (DUN) de Catalunya](https://analisi.transparenciacatalunya.cat/Medi-Rural-Pesca/Dades-de-parcel-les-d-explotacions-DUN-de-Cataluny/si4p-ygat/about_data) (Dades Obertes de Catalunya)
+SDGS.2.TARGETS.3.DESCRIPTION,Fomentar la productivitat agrícola i els ingressos de les persones que es dediquen a la producció d’aliments a petita escala.
+SDGS.2.TARGETS.3.INDICATORS.1.TITLE,Terres agrícoles per 100 hab.
+SDGS.2.TARGETS.3.INDICATORS.1.DESCRIPTION,Superfície total destinada a conreu (aliments i farratges) respecte del nombre d'habitants (hectàrees/100 habitants)
+SDGS.2.TARGETS.3.INDICATORS.1.UNIT,ha/100 hab.
+SDGS.2.TARGETS.3.INDICATORS.1.VALUES.1.TITLE,Superfície destinada al conreu
+SDGS.2.TARGETS.3.INDICATORS.1.VALUES.1.UNIT,ha
+SDGS.2.TARGETS.3.INDICATORS.1.VALUES.2.TITLE,Total població
+SDGS.2.TARGETS.3.INDICATORS.1.VALUES.2.UNIT,persones
+SDGS.2.TARGETS.3.INDICATORS.1.SOURCE,"- [Dades de parcel·les d’explotacions (DUN) de Catalunya
+](https://analisi.transparenciacatalunya.cat/Medi-Rural-Pesca/Dades-de-parcel-les-d-explotacions-DUN-de-Cataluny/si4p-ygat/about_data) (Dades Obertes de Catalunya)
+- [Població. Per sexe](hhttps://www.idescat.cat/pub/?id=censph&n=538&hist=taules%2Fv2%2Fcensph%2F538%2F565%2Fmun%2Fdata%3F_LAST_%3D3%5Ec%3D2%2Fr%3D1%2Ft%3D-1c%3B0d%2C2%3B-2c%2Fe%3D01) (IDESCAT)"
+SDGS.2.TARGETS.3.INDICATORS.2.TITLE,Atur en agricultura
+SDGS.2.TARGETS.3.INDICATORS.2.DESCRIPTION,Atur en agricultura respecte l'atur total
+SDGS.2.TARGETS.3.INDICATORS.2.UNIT,%
+SDGS.2.TARGETS.3.INDICATORS.2.VALUES.1.TITLE,Mitjana anual d'atur registrat en agricultura
+SDGS.2.TARGETS.3.INDICATORS.2.VALUES.1.UNIT,persones
+SDGS.2.TARGETS.3.INDICATORS.2.VALUES.2.TITLE,Mitjana anual d'atur total
+SDGS.2.TARGETS.3.INDICATORS.2.VALUES.2.UNIT,persones
+SDGS.2.TARGETS.3.INDICATORS.2.SOURCE,- [Atur registrat. Per sectors. Mitjanes anuals](https://www.idescat.cat/pub/?id=atureg&n=4302&geo=cat) (IDESCAT)
+SDGS.2.TARGETS.3.INDICATORS.3.TITLE,% Hectàrees d'explotacions de petita escala
+SDGS.2.TARGETS.3.INDICATORS.3.DESCRIPTION,% Hectàrees d'explotacions de petita escala
+SDGS.2.TARGETS.3.INDICATORS.3.UNIT,%
+SDGS.2.TARGETS.3.INDICATORS.3.VALUES.1.TITLE,Hectàrees d'explotacions de petita escala
+SDGS.2.TARGETS.3.INDICATORS.3.VALUES.1.UNIT,ha
+SDGS.2.TARGETS.3.INDICATORS.3.VALUES.2.TITLE,Total d'hectàrees d'explotacions
+SDGS.2.TARGETS.3.INDICATORS.3.VALUES.2.UNIT,ha
+SDGS.2.TARGETS.3.INDICATORS.3.SUBINDICATORS.0.TITLE,% Hectàrees d'explotacions de petita escala
+SDGS.2.TARGETS.3.INDICATORS.3.SUBINDICATORS.0.VALUES.1.TITLE,Hectàrees d'explotacions de petita escala
+SDGS.2.TARGETS.3.INDICATORS.3.SUBINDICATORS.0.VALUES.1.UNIT,ha
+SDGS.2.TARGETS.3.INDICATORS.3.SUBINDICATORS.0.VALUES.2.TITLE,Total d'hectàrees d'explotacions
+SDGS.2.TARGETS.3.INDICATORS.3.SUBINDICATORS.0.VALUES.2.UNIT,ha
+SDGS.2.TARGETS.3.INDICATORS.3.SUBINDICATORS.2.TITLE,% Explotacions de petita escala
+SDGS.2.TARGETS.3.INDICATORS.3.SUBINDICATORS.2.VALUES.1.TITLE,Explotacions de petita escala
+SDGS.2.TARGETS.3.INDICATORS.3.SUBINDICATORS.2.VALUES.1.UNIT,explotacions
+SDGS.2.TARGETS.3.INDICATORS.3.SUBINDICATORS.2.VALUES.2.TITLE,Total d'explotacions
+SDGS.2.TARGETS.3.INDICATORS.3.SUBINDICATORS.2.VALUES.2.UNIT,explotacions
+SDGS.2.TARGETS.3.INDICATORS.3.SOURCE,"- [Cens agrari. Grandària de les explotacions per superfície total (2020)](https://www.idescat.cat/pub/?id=censag&n=16090) (IDESCAT)
+- [Cens agrari. Grandària de les explotacions per superfície total (2009)](https://www.idescat.cat/pub/?id=censag&n=5099) (IDESCAT)
+- [Cens agrari. Dimensió de les explotacions, segons la superfície total (1982–1999)](https://www.idescat.cat/pub/?id=censag&n=5099) (IDESCAT)"
+SDGS.2.TARGETS.3.INDICATORS.4.TITLE,% d'explotacions de petita escala
+SDGS.2.TARGETS.3.INDICATORS.4.DESCRIPTION,% d'explotacions de petita escala
+SDGS.2.TARGETS.3.INDICATORS.4.UNIT,%
+SDGS.2.TARGETS.3.INDICATORS.4.VALUES.1.TITLE,Explotacions de petita escala
+SDGS.2.TARGETS.3.INDICATORS.4.VALUES.1.UNIT,explotacions
+SDGS.2.TARGETS.3.INDICATORS.4.VALUES.2.TITLE,Total d'explotacions
+SDGS.2.TARGETS.3.INDICATORS.4.VALUES.2.UNIT,explotacions
+SDGS.2.TARGETS.3.INDICATORS.4.SOURCE,"- [Cens agrari. Grandària de les explotacions per superfície total (2020)](https://www.idescat.cat/pub/?id=censag&n=16090) (IDESCAT)
+- [Cens agrari. Grandària de les explotacions per superfície total (2009)](https://www.idescat.cat/pub/?id=censag&n=5099) (IDESCAT)
+- [Cens agrari. Dimensió de les explotacions, segons la superfície total (1982–1999)](https://www.idescat.cat/pub/?id=censag&n=5099) (IDESCAT)"
+SDGS.2.TARGETS.4.DESCRIPTION,Nom de fita no disponible
+SDGS.2.TARGETS.5.DESCRIPTION,"Mantenir la diversitat genètica de les llavors, dels cultius i dels animals de granja i domesticats, així com de les espècies silvestres connexes."
+SDGS.3.TITLE,Salut i benestar
+SDGS.3.DESCRIPTION,Assegurar una vida sana i promoure el benestar per a tothom en totes les edats.
+SDGS.3.TARGETS.3.DESCRIPTION,Nom de fita no disponible
+SDGS.3.TARGETS.4.DESCRIPTION,Incrementar programes de promoció d'hàbits saludables per reduir el risc de malalties no transmissibles  i promoure la salut mental i el benestar.
+SDGS.3.TARGETS.4.INDICATORS.1.TITLE,Índex de Sobreenvelliment
+SDGS.3.TARGETS.4.INDICATORS.1.DESCRIPTION,Relació entre la població de 85 anys i més amb la població de 65 i més.
+SDGS.3.TARGETS.4.INDICATORS.1.UNIT,%
+SDGS.3.TARGETS.4.INDICATORS.1.VALUES.1.TITLE,Població de 85 anys i més
+SDGS.3.TARGETS.4.INDICATORS.1.VALUES.1.UNIT,persones
+SDGS.3.TARGETS.4.INDICATORS.1.VALUES.2.TITLE,Població de 65 anys i més
+SDGS.3.TARGETS.4.INDICATORS.1.VALUES.2.UNIT,persones
+SDGS.3.TARGETS.4.INDICATORS.1.SOURCE,"- [Població. Per sexe i edat quinquennal (2023–)](https://www.idescat.cat/pub/?id=censph&n=539&hist=taules%2Fv2%2Fcensph%2F539%2F5976%2Fmun%2Fdata%3FAGE%3DTOTAL%26_LAST_%3D3%5Ec%3D3%2Fr%3D1%2Ft%3D-1c%3B0d%2C2%3B2%2C0%3B-3c%2Fe%3D0) (IDESCAT)
+- [Població a 1 de gener. Per sexe i edat any a any (2014–2022)](https://www.idescat.cat/pub/?id=pmh&n=1180&hist=taules%2Fv2%2Fpmh%2F1180%2F8078%2Fmun%2Fdata%3FAGE%3DTOTAL%26_LAST_%3D3%5Ec%3D3%2Fr%3D1%2Ft%3D-1c%3B0d%2C2%3B2%2C0%3B-3c%2Fe%3D0) (IDESCAT)
+- [Població a 1 de gener. Per sexe i edat any a any (2000–2013)](https://www.idescat.cat/pub/?id=pmh&n=1180&hist=taules%2Fv2%2Fpmh%2F1180%2F1063%2Fmun%2Fdata%3FMUN%3DTOTAL%5Ec%3D3%2Fr%3D2%2Ft%3D1%2C0%3B0d%2C13%3B-2c%3B-3c%2Fe%3D0) (IDESCAT)"
+SDGS.3.TARGETS.4.INDICATORS.2.TITLE,Edat mitjana de defuncions
+SDGS.3.TARGETS.4.INDICATORS.2.DESCRIPTION,Edat mitjana de defuncions
+SDGS.3.TARGETS.4.INDICATORS.2.UNIT,anys
+SDGS.3.TARGETS.4.INDICATORS.2.VALUES.1.TITLE,
+SDGS.3.TARGETS.4.INDICATORS.2.VALUES.1.UNIT,anys
+SDGS.3.TARGETS.4.INDICATORS.2.VALUES.2.TITLE,
+SDGS.3.TARGETS.4.INDICATORS.2.VALUES.2.UNIT,
+SDGS.3.TARGETS.4.INDICATORS.2.SOURCE,"- [Defuncions segons sexe i edat](https://www.idescat.cat/pub/?id=def&n=269) (IDESCAT)
+
+Es disposa de poques de dades de municipis. Per a aquells municipis sense dades, s'utilitza el valor de la comarca com a valor indicatiu del municipi."
+SDGS.3.TARGETS.5.DESCRIPTION,"Enfortir la prevenció i el tractament de l’abús de substàncies addictives, inclosos l’ús indegut d’estupefaents i el consum nociu d’alcohol."
+SDGS.3.TARGETS.6.DESCRIPTION,Reduir a la meitat el nombre de morts i lesions causats per accidents de trànsit.
+SDGS.3.TARGETS.6.INDICATORS.1.TITLE,Taxa de mortalitat trànsit
+SDGS.3.TARGETS.6.INDICATORS.1.DESCRIPTION,Persones mortes o ferides greus en accidents de trànsit per cada 10.000 habitants.
+SDGS.3.TARGETS.6.INDICATORS.1.UNIT,persones/10.000 hab.
+SDGS.3.TARGETS.6.INDICATORS.1.VALUES.1.TITLE,Nombre de morts i ferits greus
+SDGS.3.TARGETS.6.INDICATORS.1.VALUES.1.UNIT,persones
+SDGS.3.TARGETS.6.INDICATORS.1.VALUES.2.TITLE,Població total
+SDGS.3.TARGETS.6.INDICATORS.1.VALUES.2.UNIT,persones
+SDGS.3.TARGETS.6.INDICATORS.1.SOURCE,"- [Accidents de trànsit amb morts o ferits greus a Catalunya](https://analisi.transparenciacatalunya.cat/Transport/Accidents-de-tr-nsit-amb-morts-o-ferits-greus-a-Ca/rmgc-ncpb/about_data) (Dades Obertes de Catalunya)
+- [Dades històriques de població dels municipis de Catalunya](https://analisi.transparenciacatalunya.cat/Sector-P-blic/Dades-hist-riques-de-poblaci-dels-municipis-de-Cat/x5sz-niat/about_data) (Dades Obertes de Catalunya)"
+SDGS.3.TARGETS.7.DESCRIPTION,Impulsar mesures per garantir l’accés universal als serveis de salut sexual i reproductiva.
+SDGS.3.TARGETS.8.DESCRIPTION,Nom de fita no disponible
+SDGS.3.TARGETS.9.DESCRIPTION,"Reduir substancialment el nombre de morts i malalties causades per productes químics perillosos i la pol·lució de l’aire, l’aigua i el sòl."
+SDGS.3.TARGETS.d.DESCRIPTION,Nom de fita no disponible
+SDGS.4.TITLE,Educació de qualitat
+SDGS.4.DESCRIPTION,"Assegurar una educació inclusiva, equitativa i de qualitat i promoure oportunitats d'aprenentatge durant tota la vida per a tothom."
+SDGS.4.TARGETS.1.DESCRIPTION,"Contribuir a l'èxit educatiu, assegurant l'accés a una educació gratuïta, equitativa i de qualitat"
+SDGS.4.TARGETS.1.INDICATORS.1.TITLE,Taxa de matriculació PFI
+SDGS.4.TARGETS.1.INDICATORS.1.DESCRIPTION,Alumnes matriculats a PFI sobre el total de població d'entre 16 i 21 anys al municipi.
+SDGS.4.TARGETS.1.INDICATORS.1.UNIT,%
+SDGS.4.TARGETS.1.INDICATORS.1.VALUES.1.TITLE,Nombre total d'alumnes matriculats a PFI
+SDGS.4.TARGETS.1.INDICATORS.1.VALUES.1.UNIT,persones
+SDGS.4.TARGETS.1.INDICATORS.1.VALUES.2.TITLE,Nombre total de població d'entre 16 i 21 anys
+SDGS.4.TARGETS.1.INDICATORS.1.VALUES.2.UNIT,persones
+SDGS.4.TARGETS.1.INDICATORS.1.SOURCE,"- [Alumnes matriculats per ensenyament i unitats dels centres docents](https://analisi.transparenciacatalunya.cat/Educaci-/Alumnes-matriculats-per-ensenyament-i-unitats-dels/xvme-26kg/about_data) (Dades Obertes de Catalunya)
+- [Població. Per sexe i edat any a any (2011–)](https://www.idescat.cat/pub/?id=censph&n=10&hist=taules%2Fv2%2Fcensph%2F10%2F5975%2Fmun%2Fdata%3FAGE%3DTOTAL%26_LAST_%3D3%5Ec%3D3%2Fr%3D1%2Ft%3D-1c%3B0d%2C2%3B2%2C0%3B-3c%2Fe%3D0) (IDESCAT)"
+SDGS.4.TARGETS.1.INDICATORS.2.TITLE,Taxa de graduació ESO
+SDGS.4.TARGETS.1.INDICATORS.2.DESCRIPTION,Graduats d'educació secundària obligatòria del municipi respecte el total de matriculats a 4t d'ESO.
+SDGS.4.TARGETS.1.INDICATORS.2.UNIT,%
+SDGS.4.TARGETS.1.INDICATORS.2.VALUES.1.TITLE,Nombre total d'alumnes de 4t d'ESO que promocionen
+SDGS.4.TARGETS.1.INDICATORS.2.VALUES.1.UNIT,alumnes
+SDGS.4.TARGETS.1.INDICATORS.2.VALUES.2.TITLE,Nombre total d'alumnes de 4t d'ESO
+SDGS.4.TARGETS.1.INDICATORS.2.VALUES.2.UNIT,alumnes
+SDGS.4.TARGETS.1.INDICATORS.2.SOURCE,- [Estadística de l'ensenyament. Educació secundària obligatòria.](https://educacio.gencat.cat/ca/departament/estadistiques/estadistiques-ensenyament/curs-actual/eso/) (Departament d'Educació i Formació Professional de la Generalitat de Catalunya)
+SDGS.4.TARGETS.2.DESCRIPTION,Vetllar perquè tots els infants de 0 a 3 anys tinguin accés a serveis d’atenció i desenvolupament i a un ensenyament qualitat.
+SDGS.4.TARGETS.2.INDICATORS.1.TITLE,Taxa d'educació infantil de 1r cicle
+SDGS.4.TARGETS.2.INDICATORS.1.DESCRIPTION,"Percentatge d'infants de 0-2 anys que estan escolaritzats en educació infantil de primer cicle al municipi (dades globals, i per sector de titularitat: públic corporacions locals, públic Dpt. Educació, privat)."
+SDGS.4.TARGETS.2.INDICATORS.1.UNIT,%
+SDGS.4.TARGETS.2.INDICATORS.1.VALUES.1.TITLE,Nombre total d'alumnes matriculats a primer cicle d'educació infantil
+SDGS.4.TARGETS.2.INDICATORS.1.VALUES.1.UNIT,persones
+SDGS.4.TARGETS.2.INDICATORS.1.VALUES.2.TITLE,Nombre total de població d'entre 0 i 2 anys
+SDGS.4.TARGETS.2.INDICATORS.1.VALUES.2.UNIT,persones
+SDGS.4.TARGETS.2.INDICATORS.1.SOURCE,"- [Alumnes matriculats per ensenyament i unitats dels centres docents](https://analisi.transparenciacatalunya.cat/Educaci-/Alumnes-matriculats-per-ensenyament-i-unitats-dels/xvme-26kg/about_data) (Dades Obertes de Catalunya)
+- [Població. Per sexe i edat any a any (2011–)](https://www.idescat.cat/pub/?id=censph&n=10&hist=taules%2Fv2%2Fcensph%2F10%2F5975%2Fmun%2Fdata%3FAGE%3DTOTAL%26_LAST_%3D3%5Ec%3D3%2Fr%3D1%2Ft%3D-1c%3B0d%2C2%3B2%2C0%3B-3c%2Fe%3D0) (IDESCAT)"
+SDGS.4.TARGETS.3.DESCRIPTION,Nom de fita no disponible
+SDGS.4.TARGETS.4.DESCRIPTION,"Augmentar substancialment el nombre de joves i persones adultes perquè tinguin les competències necessàries per accedir al mercat de treball, a un lloc de treball digne i a l'emprenedoria, en condicions d'igualtat."
+SDGS.4.TARGETS.4.INDICATORS.1.TITLE,Formació (Educació primària o inferior)
+SDGS.4.TARGETS.4.INDICATORS.1.DESCRIPTION,Nivell de formació assolit (Educació primària o inferior)
+SDGS.4.TARGETS.4.INDICATORS.1.UNIT,%
+SDGS.4.TARGETS.4.INDICATORS.1.VALUES.1.TITLE,Població de 15 anys o més amb educació primària o inferior
+SDGS.4.TARGETS.4.INDICATORS.1.VALUES.1.UNIT,persones
+SDGS.4.TARGETS.4.INDICATORS.1.VALUES.2.TITLE,Total de població de 15 anys o més
+SDGS.4.TARGETS.4.INDICATORS.1.VALUES.2.UNIT,persones
+SDGS.4.TARGETS.4.INDICATORS.1.SUBINDICATORS.0.TITLE,Educació primària o inferior
+SDGS.4.TARGETS.4.INDICATORS.1.SUBINDICATORS.0.VALUES.1.TITLE,Població de 15 anys o més amb educació primària o inferior
+SDGS.4.TARGETS.4.INDICATORS.1.SUBINDICATORS.0.VALUES.1.UNIT,persones
+SDGS.4.TARGETS.4.INDICATORS.1.SUBINDICATORS.0.VALUES.2.TITLE,Total de població de 15 anys o més
+SDGS.4.TARGETS.4.INDICATORS.1.SUBINDICATORS.0.VALUES.2.UNIT,persones
+SDGS.4.TARGETS.4.INDICATORS.1.SUBINDICATORS.2.TITLE,Primera etapa d’educació secundària i similar
+SDGS.4.TARGETS.4.INDICATORS.1.SUBINDICATORS.2.VALUES.1.TITLE,Població de 15 anys o més amb primera etapa d’educació secundària i similar
+SDGS.4.TARGETS.4.INDICATORS.1.SUBINDICATORS.2.VALUES.1.UNIT,persones
+SDGS.4.TARGETS.4.INDICATORS.1.SUBINDICATORS.2.VALUES.2.TITLE,Total de població de 15 anys o més
+SDGS.4.TARGETS.4.INDICATORS.1.SUBINDICATORS.2.VALUES.2.UNIT,persones
+SDGS.4.TARGETS.4.INDICATORS.1.SUBINDICATORS.3.TITLE,Segona etapa d’educació secundària i similar
+SDGS.4.TARGETS.4.INDICATORS.1.SUBINDICATORS.3.VALUES.1.TITLE,Població de 15 anys o més amb segona etapa d’educació secundària i similar
+SDGS.4.TARGETS.4.INDICATORS.1.SUBINDICATORS.3.VALUES.1.UNIT,persones
+SDGS.4.TARGETS.4.INDICATORS.1.SUBINDICATORS.3.VALUES.2.TITLE,Total de població de 15 anys o més
+SDGS.4.TARGETS.4.INDICATORS.1.SUBINDICATORS.3.VALUES.2.UNIT,persones
+SDGS.4.TARGETS.4.INDICATORS.1.SUBINDICATORS.4.TITLE,Educació superior
+SDGS.4.TARGETS.4.INDICATORS.1.SUBINDICATORS.4.VALUES.1.TITLE,Població de 15 anys o més amb educació superior
+SDGS.4.TARGETS.4.INDICATORS.1.SUBINDICATORS.4.VALUES.1.UNIT,persones
+SDGS.4.TARGETS.4.INDICATORS.1.SUBINDICATORS.4.VALUES.2.TITLE,Total de població de 15 anys o més
+SDGS.4.TARGETS.4.INDICATORS.1.SUBINDICATORS.4.VALUES.2.UNIT,persones
+SDGS.4.TARGETS.4.INDICATORS.1.SOURCE,- [Població. Per nivell de formació assolit](https://www.idescat.cat/pub/?id=censph&n=7104&hist=taules%2Fv2%2Fcensph%2F7104%2F20170%2Fmun%2Fdata%5Ec%3D2%2Fr%3D1%2Ft%3D-1c%3B-0d%2C0%3B-2c%2Fe%3D0) (IDESCAT)
+SDGS.4.TARGETS.4.INDICATORS.2.TITLE,Formació (primera etapa d’educació secundària)
+SDGS.4.TARGETS.4.INDICATORS.2.DESCRIPTION,Nivell de formació assolit (primera etapa d’educació secundària)
+SDGS.4.TARGETS.4.INDICATORS.2.UNIT,%
+SDGS.4.TARGETS.4.INDICATORS.2.VALUES.1.TITLE,Població de 15 anys o més amb primera etapa d’educació secundària i similar
+SDGS.4.TARGETS.4.INDICATORS.2.VALUES.1.UNIT,persones
+SDGS.4.TARGETS.4.INDICATORS.2.VALUES.2.TITLE,Total de població de 15 anys o més
+SDGS.4.TARGETS.4.INDICATORS.2.VALUES.2.UNIT,persones
+SDGS.4.TARGETS.4.INDICATORS.2.SOURCE,- [Població. Per nivell de formació assolit](https://www.idescat.cat/pub/?id=censph&n=7104&hist=taules%2Fv2%2Fcensph%2F7104%2F20170%2Fmun%2Fdata%5Ec%3D2%2Fr%3D1%2Ft%3D-1c%3B-0d%2C0%3B-2c%2Fe%3D0) (IDESCAT)
+SDGS.4.TARGETS.4.INDICATORS.3.TITLE,Formació (segona etapa d’educació secundària)
+SDGS.4.TARGETS.4.INDICATORS.3.DESCRIPTION,Nivell de formació assolit (segona etapa d’educació secundària)
+SDGS.4.TARGETS.4.INDICATORS.3.UNIT,%
+SDGS.4.TARGETS.4.INDICATORS.3.VALUES.1.TITLE,Població de 15 anys o més amb primera etapa d’educació secundària i similar
+SDGS.4.TARGETS.4.INDICATORS.3.VALUES.1.UNIT,persones
+SDGS.4.TARGETS.4.INDICATORS.3.VALUES.2.TITLE,Total de població de 15 anys o més
+SDGS.4.TARGETS.4.INDICATORS.3.VALUES.2.UNIT,persones
+SDGS.4.TARGETS.4.INDICATORS.3.SOURCE,- [Població. Per nivell de formació assolit](https://www.idescat.cat/pub/?id=censph&n=7104&hist=taules%2Fv2%2Fcensph%2F7104%2F20170%2Fmun%2Fdata%5Ec%3D2%2Fr%3D1%2Ft%3D-1c%3B-0d%2C0%3B-2c%2Fe%3D0) (IDESCAT)
+SDGS.4.TARGETS.4.INDICATORS.4.TITLE,Formació (educació superior)
+SDGS.4.TARGETS.4.INDICATORS.4.DESCRIPTION,Nivell de formació assolit (Educació superior)
+SDGS.4.TARGETS.4.INDICATORS.4.UNIT,%
+SDGS.4.TARGETS.4.INDICATORS.4.VALUES.1.TITLE,Població de 15 anys o més amb educació superior
+SDGS.4.TARGETS.4.INDICATORS.4.VALUES.1.UNIT,persones
+SDGS.4.TARGETS.4.INDICATORS.4.VALUES.2.TITLE,Total de població de 15 anys o més
+SDGS.4.TARGETS.4.INDICATORS.4.VALUES.2.UNIT,persones
+SDGS.4.TARGETS.4.INDICATORS.4.SOURCE,- [Població. Per nivell de formació assolit](https://www.idescat.cat/pub/?id=censph&n=7104&hist=taules%2Fv2%2Fcensph%2F7104%2F20170%2Fmun%2Fdata%5Ec%3D2%2Fr%3D1%2Ft%3D-1c%3B-0d%2C0%3B-2c%2Fe%3D0) (IDESCAT)
+SDGS.4.TARGETS.5.DESCRIPTION,"Eliminar les disparitats de gènere en l’educació i garantir  l’equitat en l’accés, les condicions i els resultats a tots els col·lectius en situació de vulnerabilitat"
+SDGS.4.TARGETS.5.INDICATORS.1.TITLE,Índex de paritat en activitats educatives
+SDGS.4.TARGETS.5.INDICATORS.1.DESCRIPTION,Índex de paritat entre dones i homes de la població de més de 15 anys que han realitzat activitats educatives en els darrers 12 mesos.
+SDGS.4.TARGETS.5.INDICATORS.1.UNIT,
+SDGS.4.TARGETS.5.INDICATORS.1.VALUES.1.TITLE,Dones que estudien
+SDGS.4.TARGETS.5.INDICATORS.1.VALUES.1.UNIT,dones
+SDGS.4.TARGETS.5.INDICATORS.1.VALUES.2.TITLE,Homes que estudien
+SDGS.4.TARGETS.5.INDICATORS.1.VALUES.2.UNIT,homes
+SDGS.4.TARGETS.5.INDICATORS.1.SOURCE,- [Població de 15 anys o més. Pel nivell més alt dels estudis en curs i sexe.](https://www.idescat.cat/pub/?id=censph&n=16690&hist=taules%2Fv2%2Fcensph%2F16690%2F20161%2Fmun%2Fdata%3FEDU_LEV_CS%3DTOTAL%5Ec%3D2%2Fr%3D1%2Ft%3D-1c%3B-0d%2C0%3B-2c%3B3%2C0%2Fe%3D01) (IDESCAT)
+SDGS.4.TARGETS.7.DESCRIPTION,Garantir que tot l’alumnat adquireixi els coneixements teòrics i pràctics necessaris per promoure el desenvolupament sostenible.
+SDGS.4.TARGETS.a.DESCRIPTION,"Garantir que els equipaments educatius responguin a les necessitats dels infants i les persones amb discapacitat i tinguin en compte les qüestions de gènere, oferint entorns d’aprenentatge segurs, no violents, inclusius i eficaços."
+SDGS.4.TARGETS.a.INDICATORS.1.TITLE,Taxa d'alumnes per professor
+SDGS.4.TARGETS.a.INDICATORS.1.DESCRIPTION,Taxa d'alumnes per professor
+SDGS.4.TARGETS.a.INDICATORS.1.UNIT,alumn./prof.
+SDGS.4.TARGETS.a.INDICATORS.1.VALUES.1.TITLE,Alumnes en centres públics *
+SDGS.4.TARGETS.a.INDICATORS.1.VALUES.1.UNIT,alumnes
+SDGS.4.TARGETS.a.INDICATORS.1.VALUES.2.TITLE,Professorat en centres públics *
+SDGS.4.TARGETS.a.INDICATORS.1.VALUES.2.UNIT,professor/es
+SDGS.4.TARGETS.a.INDICATORS.1.SOURCE,"- [Alumnes matriculats per ensenyament i unitats dels centres docents](https://analisi.transparenciacatalunya.cat/Educaci-/Alumnes-matriculats-per-ensenyament-i-unitats-dels/xvme-26kg/about_data) (Dades Obertes de Catalunya)
+- [Personal docent en centres públics titularitat del Departament d’Educació](https://analisi.transparenciacatalunya.cat/Educaci-/Personal-docent-en-centres-p-blics-titularitat-del/2ip7-jdgh/about_data) (Dades Obertes de Catalunya)"
+SDGS.5.TITLE,Igualtat de gènere
+SDGS.5.DESCRIPTION,Aconseguir la igualtat entre els gèneres i empoderar totes les dones i les nenes.
+SDGS.5.TARGETS.1.DESCRIPTION,Posar fi a totes les formes de discriminació de gènere.
+SDGS.5.TARGETS.1.INDICATORS.1.TITLE,Diferència d'atur en dones vs homes
+SDGS.5.TARGETS.1.INDICATORS.1.DESCRIPTION,Taxa d'atur dones - Taxa d'atur homes
+SDGS.5.TARGETS.1.INDICATORS.1.UNIT,p.p.
+SDGS.5.TARGETS.1.INDICATORS.1.VALUES.1.TITLE,Taxa d'atur (dones)
+SDGS.5.TARGETS.1.INDICATORS.1.VALUES.1.UNIT,%
+SDGS.5.TARGETS.1.INDICATORS.1.VALUES.2.TITLE,Taxa d'atur (homes)
+SDGS.5.TARGETS.1.INDICATORS.1.VALUES.2.UNIT,%
+SDGS.5.TARGETS.1.INDICATORS.1.SOURCE,"- [Atur registrat. Per sexe](https://www.idescat.cat/pub/?id=atureg&n=4299&geo=mun) (IDESCAT)
+- [Afiliats a la Seguretat Social segons residència padronal de l'afiliat. Per sexe. A últim dia del mes](https://www.idescat.cat/pub/?id=afi&n=8604&hist=taules%2Fv2%2Fafi%2F8604%2F8704%2Fmun%2Fdata%3F_LAST_%3D3%5Ec%3D2%2Fr%3D1%2Ft%3D-1c%3B0d%2C2%3B-2c) (IDESCAT)"
+SDGS.5.TARGETS.2.DESCRIPTION,Erradicar totes les formes de violència masclista.
+SDGS.5.TARGETS.4.DESCRIPTION,"Reconèixer i valorar les cures no remunerades i el treball domèstic no remunerat, mitjançant la prestació de serveis públics i promovent la responsabilitat compartida."
+SDGS.5.TARGETS.5.DESCRIPTION,"Vetllar per la participació plena i efectiva de les dones, i per la igualtat d’oportunitats de lideratge en tots els àmbits de presa de decisions en la vida política, econòmica i pública."
+SDGS.5.TARGETS.5.INDICATORS.1.TITLE,% Càrrecs electes dones
+SDGS.5.TARGETS.5.INDICATORS.1.DESCRIPTION,Percentatge de càrrecs electes del consistori municipal ocupats per dones
+SDGS.5.TARGETS.5.INDICATORS.1.UNIT,%
+SDGS.5.TARGETS.5.INDICATORS.1.VALUES.1.TITLE,Càrrecs electes ocupats per dones
+SDGS.5.TARGETS.5.INDICATORS.1.VALUES.1.UNIT,càrrecs
+SDGS.5.TARGETS.5.INDICATORS.1.VALUES.2.TITLE,Càrrecs electes totals
+SDGS.5.TARGETS.5.INDICATORS.1.VALUES.2.UNIT,càrrecs
+SDGS.5.TARGETS.5.INDICATORS.1.SOURCE,- [Càrrecs electes de la província de Barcelona.](https://do.diba.cat/api/dataset/electes/pag-fi/) (Diputació de Barcelona)
+SDGS.5.TARGETS.c.DESCRIPTION,Enfortir les polítiques i els plans de igualtat de gènere i d'empoderament de dones i nenes.
+SDGS.5.TARGETS.c.INDICATORS.1.TITLE,Taxa d'atur en dones
+SDGS.5.TARGETS.c.INDICATORS.1.DESCRIPTION,Taxa d'atur en dones
+SDGS.5.TARGETS.c.INDICATORS.1.UNIT,%
+SDGS.5.TARGETS.c.INDICATORS.1.VALUES.1.TITLE,Mitjana anual d'atur registrat (dones)
+SDGS.5.TARGETS.c.INDICATORS.1.VALUES.1.UNIT,dones
+SDGS.5.TARGETS.c.INDICATORS.1.VALUES.2.TITLE,Mitjana anual d'afiliacions a la Seguretat Social (dones)
+SDGS.5.TARGETS.c.INDICATORS.1.VALUES.2.UNIT,dones
+SDGS.5.TARGETS.c.INDICATORS.1.SOURCE,"- [Atur registrat. Per sexe](https://www.idescat.cat/pub/?id=atureg&n=4299&geo=mun) (IDESCAT)
+- [Afiliats a la Seguretat Social segons residència padronal de l'afiliat. Per sexe. A últim dia del mes](https://www.idescat.cat/pub/?id=afi&n=8604&hist=taules%2Fv2%2Fafi%2F8604%2F8704%2Fmun%2Fdata%3F_LAST_%3D3%5Ec%3D2%2Fr%3D1%2Ft%3D-1c%3B0d%2C2%3B-2c) (IDESCAT)"
+SDGS.5.TARGETS.c.INDICATORS.2.TITLE,Taxa d'ocupació en dones
+SDGS.5.TARGETS.c.INDICATORS.2.DESCRIPTION,Taxa d'ocupació en dones
+SDGS.5.TARGETS.c.INDICATORS.2.UNIT,%
+SDGS.5.TARGETS.c.INDICATORS.2.VALUES.1.TITLE,Mitjana anual d'afiliacions a la Seguretat Social (dones)
+SDGS.5.TARGETS.c.INDICATORS.2.VALUES.1.UNIT,dones
+SDGS.5.TARGETS.c.INDICATORS.2.VALUES.2.TITLE,Població activa (dones)
+SDGS.5.TARGETS.c.INDICATORS.2.VALUES.2.UNIT,dones
+SDGS.5.TARGETS.c.INDICATORS.2.SOURCE,"- [Afiliats a la Seguretat Social segons residència padronal de l'afiliat. Per sexe. A últim dia del mes](https://www.idescat.cat/pub/?id=afi&n=8604&hist=taules%2Fv2%2Fafi%2F8604%2F8704%2Fmun%2Fdata%3F_LAST_%3D3%5Ec%3D2%2Fr%3D1%2Ft%3D-1c%3B0d%2C2%3B-2c) (IDESCAT)
+- [Població. Per sexe i edat en grans grups](https://www.idescat.cat/pub/?id=censph&n=540&hist=taules%2Fv2%2Fcensph%2F540%2F19948%2Fmun%2Fdata%3FSEX%3DF%26AGE%3DY016_064%2CTOTAL%26_LAST_%3D3%5Er%3D1%2Ft%3D-1c%3B0d%2C2%3B-2c%3B3%2C0%2Fe%3D1) (IDESCAT)"
+SDGS.5.TARGETS.b.DESCRIPTION,Aconseguir la igualtat de gènere en l'ús de les TIC.
+SDGS.6.TITLE,Aigua neta i sanejament
+SDGS.6.DESCRIPTION,Garantir la disponibilitat i la gestió sostenible de l’aigua i el sanejament per a tothom.
+SDGS.6.TARGETS.1.DESCRIPTION,"Assegurar l’accés universal i equitatiu a l’aigua potable, a un preu assequible amb especial atenció als col·lectius més vulnerables."
+SDGS.6.TARGETS.1.INDICATORS.1.TITLE,Preu de l'aigua €/m³
+SDGS.6.TARGETS.1.INDICATORS.1.DESCRIPTION,"Preu de l'aigua (en € per m³) inclouent el preu del subminitrament, el cànon de l'aigua i el clavegueram"
+SDGS.6.TARGETS.1.INDICATORS.1.UNIT,€/m³
+SDGS.6.TARGETS.1.INDICATORS.1.VALUES.1.TITLE,Preu de l'aigua
+SDGS.6.TARGETS.1.INDICATORS.1.VALUES.1.UNIT,€/m³
+SDGS.6.TARGETS.1.INDICATORS.1.VALUES.2.TITLE,
+SDGS.6.TARGETS.1.INDICATORS.1.VALUES.2.UNIT,
+SDGS.6.TARGETS.1.INDICATORS.1.SOURCE,- [Preu de l'aigua per municipi vigent a 1 de gener](https://aca.gencat.cat/web/.content/10_ACA/L_Observatori_preu_aigua/03-Preu-per-municipis-i-evolucio/Preus_per_municipi_ca.xlsx) (Agència Catalana de l'Aigua)
+SDGS.6.TARGETS.2.DESCRIPTION,Aconseguir l’accés a uns serveis de sanejament i higiene que siguin adequats i equitatius.
+SDGS.6.TARGETS.3.DESCRIPTION,"Millorar la qualitat de l’aigua reduint la contaminació, eliminant els abocaments i incrementant sistemes de drenatge sostenible, reciclatge, reutilització i aprofitament d'aigües freàtiques."
+SDGS.6.TARGETS.4.DESCRIPTION,Augmentar significativament l’ús eficient dels recursos hídrics en tots els sectors i assegurar la sostenibilitat de l’extracció i del proveïment d’aigua dolça.
+SDGS.6.TARGETS.4.INDICATORS.1.TITLE,Consum d'aigua per habitant
+SDGS.6.TARGETS.4.INDICATORS.1.DESCRIPTION,Volum d'aigua domèstica consumida (en m³ per habitant i any)
+SDGS.6.TARGETS.4.INDICATORS.1.UNIT,m³/hab.
+SDGS.6.TARGETS.4.INDICATORS.1.VALUES.1.TITLE,Consum total d'aigua
+SDGS.6.TARGETS.4.INDICATORS.1.VALUES.1.UNIT,m³
+SDGS.6.TARGETS.4.INDICATORS.1.VALUES.2.TITLE,Població total
+SDGS.6.TARGETS.4.INDICATORS.1.VALUES.2.UNIT,persones
+SDGS.6.TARGETS.4.INDICATORS.1.SOURCE,- [Volum consumit per municipi](https://aca.gencat.cat/web/.content/20_Aigua/08_consulta_de_dades/01_dades_obertes/01_visualitzacio_interactiva_dades/01_consum-aigua_comarques_catalunya/volum-aigua-consum-municipi.xlsx) (Agència Catalana de l'Aigua)
+SDGS.6.TARGETS.5.DESCRIPTION,"Implementar la gestió integrada dels recursos hídrics en tots els àmbits, si cal mitjançant la cooperació territorial."
+SDGS.6.TARGETS.6.DESCRIPTION,"Protegir i restablir els ecosistemes relacionats amb l’aigua, inclosos boscos, muntanyes, aiguamolls, rius, aqüífers i llacs a tot el territori amb espais de valor natura."
+SDGS.6.TARGETS.b.DESCRIPTION,Impulsar i reforçar la participació de les comunitats locals en la millora de la gestió de l’aigua i del sanejament.
+SDGS.7.TITLE,Energia neta i assequible
+SDGS.7.DESCRIPTION,"Assegurar l'accés a una energia asequible, segura, sostenible i moderna per a tothom."
+SDGS.7.TARGETS.1.INDICATORS.1.TITLE,%  Renda  llars en energia
+SDGS.7.TARGETS.1.INDICATORS.1.DESCRIPTION,Cost (en percentatge) del consum final d'energia residencial (domèstica i transport) respecte de la Renda Familiar Disponible Bruta. 
+SDGS.7.TARGETS.1.INDICATORS.1.SOURCE,"Consums de combustibles líquids estimats a partir de dades provincials i catalanes. Dades de RFBD a escala municipal: per a municipis petits hi ha la dada comarcal. Dades de mobilitat a partir del parc de vehicles, no s'inclou la despesa en transport públic.
+
+- [RFDB i RFDB per habitant](https://www.idescat.cat/pub/?id=rfdbc&n=13301&hist=taules%2Fv2%2Frfdbc%2F13301%2F14148%2Fmun%2Fdata%3F_LAST_%3D7%5Ec%3D3%2Fr%3D1%2Ft%3D-3c%3B-1c%3B0d%2C6%2Fe%3D11) (IDESCAT)"
+SDGS.7.TARGETS.1.INDICATORS.1.UNIT,%
+SDGS.7.TARGETS.1.INDICATORS.1.VALUES.1.TITLE,Cost del consum final d'energia residencial per habitant
+SDGS.7.TARGETS.1.INDICATORS.1.VALUES.1.UNIT,€
+SDGS.7.TARGETS.1.INDICATORS.1.VALUES.2.TITLE,Renda per habitant
+SDGS.7.TARGETS.1.INDICATORS.1.VALUES.2.UNIT,€
+SDGS.7.TARGETS.1.DESCRIPTION,"Garantir l’accés universal a serveis d’energia assequibles, confiables i moderns, amb especial èmfasi en aquelles llars en situació de pobresa energètica."
+SDGS.7.TARGETS.2.DESCRIPTION,Augmentar substancialment la proporció d’energia renovable en el conjunt de les fonts energètiques.
+SDGS.7.TARGETS.2.INDICATORS.1.TITLE,% Llars amb energia renovable
+SDGS.7.TARGETS.2.INDICATORS.1.DESCRIPTION,Percentatge d'energia renovable consumida (tèrmica i elèctrica) sobre l'energia total consumida.
+SDGS.7.TARGETS.2.INDICATORS.1.UNIT,%
+SDGS.7.TARGETS.2.INDICATORS.1.VALUES.1.TITLE,Energia renovable consumida (tèrmica i elèctrica)
+SDGS.7.TARGETS.2.INDICATORS.1.VALUES.1.UNIT,kWh
+SDGS.7.TARGETS.2.INDICATORS.1.VALUES.2.TITLE,Energia total consumida
+SDGS.7.TARGETS.2.INDICATORS.1.VALUES.2.UNIT,kWh
+SDGS.7.TARGETS.2.INDICATORS.1.SOURCE,- [Consums energètics (per fonts i per sectors)](https://gissrv.diba.cat/arcgis/rest/services/SITAC/PAES/MapServer) (Diputació de Barcelona)
+SDGS.7.TARGETS.3.DESCRIPTION,Millorar substancialment l’eficiència energètica.
+SDGS.7.TARGETS.3.INDICATORS.1.TITLE,Consum d'energia a les llars
+SDGS.7.TARGETS.3.INDICATORS.1.DESCRIPTION,"Consum final a les llars (en kWh/habitant) incloent tots els tipus d'energia. Els consums de gasoil de calefacció, biomassa, butà i propà són estimacions fetes a partir dels consums provincials o catalans."
+SDGS.7.TARGETS.3.INDICATORS.1.UNIT,kWh/hab.
+SDGS.7.TARGETS.3.INDICATORS.1.VALUES.1.TITLE,Consum d'energia residencial
+SDGS.7.TARGETS.3.INDICATORS.1.VALUES.1.UNIT,kWh
+SDGS.7.TARGETS.3.INDICATORS.1.VALUES.2.TITLE,Total població
+SDGS.7.TARGETS.3.INDICATORS.1.VALUES.2.UNIT,persones
+SDGS.7.TARGETS.3.INDICATORS.1.SOURCE,"- [Consum d’energia elèctrica per municipis i sectors de Catalunya
+](https://analisi.transparenciacatalunya.cat/Energia/Consum-d-energia-el-ctrica-per-municipis-i-sectors/8idm-becu/about_data)(Dades Obertes de Catalunya)
+- [Consum de gas natural canalitzat per municipis i sectors de Catalunya
+](https://analisi.transparenciacatalunya.cat/Energia/Consum-de-gas-natural-canalitzat-per-municipis-i-s/qvqg-zag8/about_data)(Dades Obertes de Catalunya)
+- [Dades històriques de població dels municipis de Catalunya](https://analisi.transparenciacatalunya.cat/Sector-P-blic/Dades-hist-riques-de-poblaci-dels-municipis-de-Cat/x5sz-niat/about_data) (Dades Obertes de Catalunya)"
+SDGS.8.TITLE,Treball digne i creixement econòmic
+SDGS.8.DESCRIPTION,"Promoure el creixement econòmic sostenible, inclusiu i sostenible, l'ocupació plena i productiva i el treball digne per a toth"
+SDGS.8.TARGETS.1.DESCRIPTION,Nom de fita no disponible
+SDGS.8.TARGETS.2.DESCRIPTION,"Augmentar de forma generalitzada la productivitat econòmica arreu del territori mitjançant l'especialització, la diversificació d'activitats, la innovació, la planificació estratègica i la concertació territorial."
+SDGS.8.TARGETS.2.INDICATORS.1.TITLE,PIB per habitant
+SDGS.8.TARGETS.2.INDICATORS.1.DESCRIPTION,El producte interior brut a preus de mercat (PIB pm) mesura el resultat final de l'activitat econòmica de les unitats productores en el territori.
+SDGS.8.TARGETS.2.INDICATORS.1.UNIT,€
+SDGS.8.TARGETS.2.INDICATORS.1.VALUES.1.TITLE,
+SDGS.8.TARGETS.2.INDICATORS.1.VALUES.1.UNIT,€
+SDGS.8.TARGETS.2.INDICATORS.1.VALUES.2.TITLE,
+SDGS.8.TARGETS.2.INDICATORS.1.VALUES.2.UNIT,
+SDGS.8.TARGETS.2.INDICATORS.1.SOURCE,- [Producte interior brut](https://www.idescat.cat/pub/?id=pibc&n=13830&hist=taules%2Fv2%2Fpibc%2F13830%2F14779%2Fmun%2Fdata%5Ec%3D2%2Fr%3D1%2Ft%3D-2c%3B-1c%3B0d%2C12%2Fe%3D11) (IDESCAT)
+SDGS.8.TARGETS.3.DESCRIPTION,"Promoure polítiques orientades al desenvolupament que donin suport a les activitats productives, la creació d'ocupacó digna, l'emprenedoria i consolidació d'empreses, la creativitat i la innovació"
+SDGS.8.TARGETS.3.INDICATORS.1.TITLE,Taxa d'ocupació
+SDGS.8.TARGETS.3.INDICATORS.1.DESCRIPTION,Nombre d'afiliats residents en un municipi respecte la població de 16 a 64 anys del municipi
+SDGS.8.TARGETS.3.INDICATORS.1.UNIT,%
+SDGS.8.TARGETS.3.INDICATORS.1.VALUES.1.TITLE,Nombre d'afiliats
+SDGS.8.TARGETS.3.INDICATORS.1.VALUES.1.UNIT,persones
+SDGS.8.TARGETS.3.INDICATORS.1.VALUES.2.TITLE,Població entre 16 i 64 anys
+SDGS.8.TARGETS.3.INDICATORS.1.VALUES.2.UNIT,persones
+SDGS.8.TARGETS.3.INDICATORS.1.SOURCE,"- [Afiliats a la Seguretat Social segons residència padronal de l'afiliat. Per sexe. A últim dia del mes](https://www.idescat.cat/pub/?id=afi&n=8604) (IDESCAT)
+- [Població. Per sexe i edat en grans grups](https://www.idescat.cat/pub/?id=censph&n=540&hist=taules%2Fv2%2Fcensph%2F540%2F19948%2Fmun%2Fdata%3FAGE%3DTOTAL%26_LAST_%3D3%5Ec%3D2%2Fr%3D1%2Ft%3D-1c%3B0d%2C2%3B-2c%3B3%2C0%2Fe%3D01) (IDESCAT)
+- [Població a 1 de gener. Per sexe i edat any a any (2014–)](https://www.idescat.cat/pub/?id=pmh&n=1180&hist=taules%2Fv2%2Fpmh%2F1180%2F8078%2Fmun%2Fdata%3FAGE%3DTOTAL%26_LAST_%3D3%5Ec%3D3%2Fr%3D1%2Ft%3D-1c%3B0d%2C2%3B2%2C0%3B-3c%2Fe%3D0) (IDESCAT)
+- [Població a 1 de gener. Per sexe i edat any a any (2000–2013)](https://www.idescat.cat/pub/?id=pmh&n=1180&hist=taules%2Fv2%2Fpmh%2F1180%2F1063%2Fmun%2Fdata%3FMUN%3DTOTAL%5Ec%3D3%2Fr%3D2%2Ft%3D1%2C0%3B0d%2C13%3B-2c%3B-3c%2Fe%3D0) (IDESCAT)"
+SDGS.8.TARGETS.3.INDICATORS.2.TITLE,Establiments comercials per 1.000 hab.
+SDGS.8.TARGETS.3.INDICATORS.2.DESCRIPTION,Nombre d'establiments comercials per cada 1.000 habitants
+SDGS.8.TARGETS.3.INDICATORS.2.UNIT,establiments/1.000 hab.
+SDGS.8.TARGETS.3.INDICATORS.2.VALUES.1.TITLE,Nombre d'establiments comercials
+SDGS.8.TARGETS.3.INDICATORS.2.VALUES.1.UNIT,establiments
+SDGS.8.TARGETS.3.INDICATORS.2.VALUES.2.TITLE,Població
+SDGS.8.TARGETS.3.INDICATORS.2.VALUES.2.UNIT,persones
+SDGS.8.TARGETS.3.INDICATORS.2.SOURCE,"- [Servei de consulta del Cens d'establiments comercials de Catalunya (CECC)
+](https://analisi.transparenciacatalunya.cat/Comer-/Servei-de-consulta-del-Cens-d-establiments-comerci/2dhj-q3r8/about_data) (Dades Obertes de Catalunya)"
+SDGS.8.TARGETS.3.INDICATORS.3.TITLE,Taxa d'atur
+SDGS.8.TARGETS.3.INDICATORS.3.DESCRIPTION,Taxa d'atur
+SDGS.8.TARGETS.3.INDICATORS.3.SOURCE,- [Indicadors de relació amb l'activitat econòmica](https://www.idescat.cat/pub/?id=censph&n=16720&hist=taules%2Fv2%2Fcensph%2F16720%2F20208%2Fmun%2Fdata%3FCONCEPT%3DPP_AP_Y16O%5Ec%3D3%2Fr%3D1%2Ft%3D2%2C0%3B-1c%3B-0d%2C0%3B-3c%2Fe%3D1) (IDESCAT)
+SDGS.8.TARGETS.3.INDICATORS.3.UNIT,%
+SDGS.8.TARGETS.3.INDICATORS.3.VALUES.1.TITLE,
+SDGS.8.TARGETS.3.INDICATORS.3.VALUES.1.UNIT,
+SDGS.8.TARGETS.3.INDICATORS.3.VALUES.2.TITLE,
+SDGS.8.TARGETS.3.INDICATORS.3.VALUES.2.UNIT,
+SDGS.8.TARGETS.3.INDICATORS.4.TITLE,% Contractació pública a PIMES
+SDGS.8.TARGETS.3.INDICATORS.4.DESCRIPTION,% Contractació pública a PIMES
+SDGS.8.TARGETS.3.INDICATORS.4.SOURCE,- [Contractació pública a Catalunya: publicacions a la Plataforma de serveis de contractació pública](https://analisi.transparenciacatalunya.cat/Economia/Contractaci-p-blica-a-Catalunya-publicacions-a-la-/ybgg-dgi6/about_data) (Dades Obertes de Catalunya)
+SDGS.8.TARGETS.3.INDICATORS.4.UNIT,%
+SDGS.8.TARGETS.3.INDICATORS.4.VALUES.1.TITLE,PIMES contractades
+SDGS.8.TARGETS.3.INDICATORS.4.VALUES.1.UNIT,empreses
+SDGS.8.TARGETS.3.INDICATORS.4.VALUES.2.TITLE,Total empreses contractades
+SDGS.8.TARGETS.3.INDICATORS.4.VALUES.2.UNIT,empreses
+SDGS.8.TARGETS.4.DESCRIPTION,Millorar la producció i el consum eficients dels recursos i desvincular el creixement econòmic de la degradació del mediambient.
+SDGS.8.TARGETS.5.DESCRIPTION,Aconseguir una alta taxa d'ocupació i de qualitat d'aquells col·lectius més vulnerables en el conjunt del territori
+SDGS.8.TARGETS.5.INDICATORS.1.TITLE,% Persones aturades > 45 anys
+SDGS.8.TARGETS.5.INDICATORS.1.DESCRIPTION,% Persones aturades > 45 anys sobre el total de persones > 45 anys en edat de treballar
+SDGS.8.TARGETS.5.INDICATORS.1.UNIT,%
+SDGS.8.TARGETS.5.INDICATORS.1.VALUES.1.TITLE,Persones aturades > 45 anys (mitjana anual)
+SDGS.8.TARGETS.5.INDICATORS.1.VALUES.1.UNIT,persones
+SDGS.8.TARGETS.5.INDICATORS.1.VALUES.2.TITLE,Població entre 45 i 64 anys
+SDGS.8.TARGETS.5.INDICATORS.1.VALUES.2.UNIT,persones
+SDGS.8.TARGETS.5.INDICATORS.1.SOURCE,"- [Atur registrat. Per sexe i edat](https://www.idescat.cat/pub/?id=atureg&n=4300) (IDESCAT)
+- [Població a 1 de gener. Per sexe i edat any a any.](https://www.idescat.cat/pub/?id=pmh&n=1180&hist=taules%2Fv2%2Fpmh%2F1180%2F8078%2Fmun%2Fdata%3FAGE%3DTOTAL%26_LAST_%3D3%5Ec%3D3%2Fr%3D1%2Ft%3D-1c%3B0d%2C2%3B2%2C0%3B-3c%2Fe%3D0) (IDESCAT)
+"
+SDGS.8.TARGETS.5.INDICATORS.2.TITLE,% Persones aturades < 25 anys
+SDGS.8.TARGETS.5.INDICATORS.2.DESCRIPTION,% Persones aturades < 25 anys sobre el total de persones < 25 anys en edat de treballar
+SDGS.8.TARGETS.5.INDICATORS.2.UNIT,%
+SDGS.8.TARGETS.5.INDICATORS.2.VALUES.1.TITLE,Persones aturades < 25 anys (mitjana anual)
+SDGS.8.TARGETS.5.INDICATORS.2.VALUES.1.UNIT,persones
+SDGS.8.TARGETS.5.INDICATORS.2.VALUES.2.TITLE,Població entre 16 i 24 anys
+SDGS.8.TARGETS.5.INDICATORS.2.VALUES.2.UNIT,persones
+SDGS.8.TARGETS.5.INDICATORS.2.SOURCE,"- [Atur registrat. Per sexe i edat](https://www.idescat.cat/pub/?id=atureg&n=4300) (IDESCAT)
+- [Població a 1 de gener. Per sexe i edat any a any.](https://www.idescat.cat/pub/?id=pmh&n=1180&hist=taules%2Fv2%2Fpmh%2F1180%2F8078%2Fmun%2Fdata%3FAGE%3DTOTAL%26_LAST_%3D3%5Ec%3D3%2Fr%3D1%2Ft%3D-1c%3B0d%2C2%3B2%2C0%3B-3c%2Fe%3D0) (IDESCAT)"
+SDGS.8.TARGETS.6.DESCRIPTION,Reduir substancialment les persones joves sense ocupació i que no cursen estudis ni reben formació.
+SDGS.8.TARGETS.8.DESCRIPTION,"Protegir els drets laborals i promoure un entorn de treball segur a tot el territori, en particular les dones migrants i les persones amb ocupacions precàries."
+SDGS.8.TARGETS.9.DESCRIPTION,"Reforçar les polítiques de promoció d'un turisme sostenible, de proximitat, qualitat i que creï ocupació i promogui la cultura i els productes locals."
+SDGS.8.TARGETS.9.INDICATORS.1.TITLE,Pressió turística
+SDGS.8.TARGETS.9.INDICATORS.1.DESCRIPTION,Ratio de places turístiques per 10.000 habitants
+SDGS.8.TARGETS.9.INDICATORS.1.UNIT,places/10.000 hab.
+SDGS.8.TARGETS.9.INDICATORS.1.VALUES.1.TITLE,Places turístiques
+SDGS.8.TARGETS.9.INDICATORS.1.VALUES.1.UNIT,places
+SDGS.8.TARGETS.9.INDICATORS.1.VALUES.2.TITLE,Població
+SDGS.8.TARGETS.9.INDICATORS.1.VALUES.2.UNIT,persones
+SDGS.8.TARGETS.9.INDICATORS.1.SOURCE,"- [Places hoteleres](https://www.idescat.cat/pub/?id=turall&n=6031) (IDESCAT)
+- [Apartaments turístics](https://www.idescat.cat/pub/?id=turall&n=16721) (IDESCAT)
+- [Places de turisme rural](https://www.idescat.cat/pub/?id=turall&n=6039) (IDESCAT)
+- [Places de càmpings](https://www.idescat.cat/pub/?id=turall&n=6036) (IDESCAT)
+- [Habitatges d'ús turístic](https://www.idescat.cat/pub/?id=turall&n=16722) (IDESCAT)
+- [Dades històriques de població dels municipis de Catalunya](https://analisi.transparenciacatalunya.cat/Sector-P-blic/Dades-hist-riques-de-poblaci-dels-municipis-de-Cat/x5sz-niat/about_data) (Dades Obertes de Catalunya)"
+SDGS.9.TITLE,"Indústria, innovació i infraestructures"
+SDGS.9.DESCRIPTION,"Construir infraestructures resilents, promoure la industrialització inclusiva i sostenible i fomentar la innovació."
+SDGS.9.TARGETS.1.DESCRIPTION,"Desenvolupar infraestructures sostenibles, resilients, de qualitat i amb elevada capacitat transformadora per tal de donar suport al desenvolupament econòmic del territori, amb especial atenció a l’accés assequible i equitatiu."
+SDGS.9.TARGETS.1.INDICATORS.1.TITLE,Cobertura internet
+SDGS.9.TARGETS.1.INDICATORS.1.DESCRIPTION,"Cobertura proporcionada per les xarxes fixes de, com a mínim, 100 Mbps, que comprèn les cobertures de HFC i FTTH"
+SDGS.9.TARGETS.1.INDICATORS.1.UNIT,%
+SDGS.9.TARGETS.1.INDICATORS.1.VALUES.1.TITLE,
+SDGS.9.TARGETS.1.INDICATORS.1.VALUES.1.UNIT,
+SDGS.9.TARGETS.1.INDICATORS.1.VALUES.2.TITLE,
+SDGS.9.TARGETS.1.INDICATORS.1.VALUES.2.UNIT,
+SDGS.9.TARGETS.2.DESCRIPTION,"Reforçar les polítiques de suport al teixit productiu per aconseguir una industrialització inclusiva i sostenible, augmentant la contribució de la indústria a l'ocupació local i al PIB del conjunt del territori."
+SDGS.9.TARGETS.2.INDICATORS.1.TITLE,% Ocupació al sector industrial
+SDGS.9.TARGETS.2.INDICATORS.1.DESCRIPTION,% població ocupada en el sector industrial
+SDGS.9.TARGETS.2.INDICATORS.1.UNIT,%
+SDGS.9.TARGETS.2.INDICATORS.1.VALUES.1.TITLE,Població ocupada en el sector indústria
+SDGS.9.TARGETS.2.INDICATORS.1.VALUES.1.UNIT,persones
+SDGS.9.TARGETS.2.INDICATORS.1.VALUES.2.TITLE,Total de població ocupada
+SDGS.9.TARGETS.2.INDICATORS.1.VALUES.2.UNIT,persones
+SDGS.9.TARGETS.2.INDICATORS.1.SOURCE,- [Afiliacions a la Seguretat Social segons residència padronal de l'afiliat. Per règim de cotització i sector d'activitat econòmica.](https://www.idescat.cat/pub/?id=afi&n=10602&hist=taules%2Fv2%2Fafi%2F10602%2F11111%2Fmun%2Fdata%3F_LAST_%3D1%5Ec%3D2%2C3%2Fr%3D1%2Ft%3D-1c%3B0d%2C0%3B-2c%3B-3c) (IDESCAT)
+SDGS.9.TARGETS.3.DESCRIPTION,"Augmentar l’accés de les petites indústries i altres empreses als serveis financers, incloent els crèdits assequibles, i la integració en les cadenes de valor i els mercats."
+SDGS.9.TARGETS.4.DESCRIPTION,"Modernitzar les infraestructures i reconvertir les indústries perquè siguin sostenibles, promovent l’adopció de tecnologies, la millora de processos i la racionalitat medi ambiental."
+SDGS.9.TARGETS.5.DESCRIPTION,Augmentar la investigació científica i millorar la capacitat tecnològica dels sectors industrials.
+SDGS.9.TARGETS.5.INDICATORS.1.SOURCE,"- [Códigos de Cuenta de Cotización y Afiliados - Régimen - CNAE 2D](https://www.seg-social.es/wps/portal/wss/internet/EstadisticasPresupuestosEstudios/Estadisticas/est8/est10/est305/c43ad8ea-fe79-4329-ac8e-e5758f3c4d7a/96c57bf8-1cb3-4eea-b77e-1df627a47063) (Seguretat Social)
+"
+SDGS.9.TARGETS.5.INDICATORS.1.UNIT,empreses/10.000 hab.
+SDGS.9.TARGETS.5.INDICATORS.1.DESCRIPTION,Empreses de coneixement / 10.000 habitants
+SDGS.9.TARGETS.5.INDICATORS.1.TITLE,Empreses de coneixement per 10.000 hab. 
+SDGS.9.TARGETS.5.INDICATORS.1.VALUES.1.TITLE,Empreses de coneixement
+SDGS.9.TARGETS.5.INDICATORS.1.VALUES.1.UNIT,empreses
+SDGS.9.TARGETS.5.INDICATORS.1.VALUES.2.TITLE,Total població
+SDGS.9.TARGETS.5.INDICATORS.1.VALUES.2.UNIT,persones
+SDGS.9.TARGETS.5.INDICATORS.2.TITLE,Llocs de treball indústria
+SDGS.9.TARGETS.5.INDICATORS.2.DESCRIPTION,Afiliacions dins del municipi en el sector industrial respecte el total d'afiliacions dins del municipi
+SDGS.9.TARGETS.5.INDICATORS.2.UNIT,%
+SDGS.9.TARGETS.5.INDICATORS.2.VALUES.1.TITLE,Afiliacions en el sector industrial
+SDGS.9.TARGETS.5.INDICATORS.2.VALUES.1.UNIT,persones
+SDGS.9.TARGETS.5.INDICATORS.2.VALUES.2.TITLE,Total d'afiliacions
+SDGS.9.TARGETS.5.INDICATORS.2.VALUES.2.UNIT,persones
+SDGS.9.TARGETS.8.DESCRIPTION,Garantir l'accés universal i assequible a Internet i a les TIC al territori.
+SDGS.9.TARGETS.8.INDICATORS.1.TITLE,Cobertura d'internet
+SDGS.9.TARGETS.8.INDICATORS.1.DESCRIPTION,"Cobertura proporcionada per les xarxes fixes de, com a mínim, 100 Mbps, que comprèn les cobertures de HFC i FTTH."
+SDGS.9.TARGETS.8.INDICATORS.1.UNIT,%
+SDGS.9.TARGETS.8.INDICATORS.1.VALUES.1.TITLE,
+SDGS.9.TARGETS.8.INDICATORS.1.VALUES.1.UNIT,
+SDGS.9.TARGETS.8.INDICATORS.1.VALUES.2.TITLE,
+SDGS.9.TARGETS.8.INDICATORS.1.VALUES.2.UNIT,
+SDGS.9.TARGETS.b.DESCRIPTION,Nom de fita no disponible
+SDGS.9.TARGETS.c.DESCRIPTION,Nom de fita no disponible
+SDGS.10.TITLE,Reducció de les desigualtats
+SDGS.10.DESCRIPTION,Reduir les desigualtats en i entre els països.
+SDGS.10.TARGETS.1.DESCRIPTION,Aconseguir progressivament un creixement dels ingressos del 40% més pobre de la població del territori a una taxa superior a la mitjana nacional.
+SDGS.10.TARGETS.1.INDICATORS.1.TITLE,% Població amb ingressos < 40%
+SDGS.10.TARGETS.1.INDICATORS.1.DESCRIPTION,Percentatge de població que viu en unitats de consum amb una renda disponible inferior al 40% de la mitjana
+SDGS.10.TARGETS.1.INDICATORS.1.UNIT,%
+SDGS.10.TARGETS.1.INDICATORS.1.VALUES.1.TITLE,
+SDGS.10.TARGETS.1.INDICATORS.1.VALUES.1.UNIT,%
+SDGS.10.TARGETS.1.INDICATORS.1.VALUES.2.TITLE,
+SDGS.10.TARGETS.1.INDICATORS.1.VALUES.2.UNIT,
+SDGS.10.TARGETS.1.INDICATORS.2.TITLE,Índex Gini
+SDGS.10.TARGETS.1.INDICATORS.2.DESCRIPTION,Grau de desigualtat en una distribució d'una variable contínua. S'obté a partir de la suma de les diferències absolutes entre cada parell de rendes de la distribució.
+SDGS.10.TARGETS.1.INDICATORS.2.UNIT,
+SDGS.10.TARGETS.1.INDICATORS.2.VALUES.1.TITLE,
+SDGS.10.TARGETS.1.INDICATORS.2.VALUES.1.UNIT,
+SDGS.10.TARGETS.1.INDICATORS.2.VALUES.2.TITLE,
+SDGS.10.TARGETS.1.INDICATORS.2.VALUES.2.UNIT,
+SDGS.10.TARGETS.1.INDICATORS.3.TITLE,Desigualtat per renda
+SDGS.10.TARGETS.1.INDICATORS.3.DESCRIPTION,"Desigualtat en la distribució a través de ràtios entre centils, que s'interpreta com la renda que s'obté per al quintil superior (és a dir, el 20% de la població amb un nivell econòmic més alt) en relació amb la del quintil inferior."
+SDGS.10.TARGETS.1.INDICATORS.3.UNIT,
+SDGS.10.TARGETS.1.INDICATORS.3.VALUES.1.TITLE,
+SDGS.10.TARGETS.1.INDICATORS.3.VALUES.1.UNIT,
+SDGS.10.TARGETS.1.INDICATORS.3.VALUES.2.TITLE,
+SDGS.10.TARGETS.1.INDICATORS.3.VALUES.2.UNIT,
+SDGS.10.TARGETS.1.INDICATORS.4.TITLE,Renda per habitant
+SDGS.10.TARGETS.1.INDICATORS.4.DESCRIPTION,Relació entre el total de la renda del municipi i/o àmbit seleccionat vers la població total del municipi.
+SDGS.10.TARGETS.1.INDICATORS.4.UNIT,€/habitant
+SDGS.10.TARGETS.1.INDICATORS.4.VALUES.1.TITLE,
+SDGS.10.TARGETS.1.INDICATORS.4.VALUES.1.UNIT,
+SDGS.10.TARGETS.1.INDICATORS.4.VALUES.2.TITLE,
+SDGS.10.TARGETS.1.INDICATORS.4.VALUES.2.UNIT,
+SDGS.10.TARGETS.1.INDICATORS.4.SOURCE,- [RFDB i RFDB per habitant](https://www.idescat.cat/pub/?id=rfdbc&n=13301&hist=taules%2Fv2%2Frfdbc%2F13301%2F14148%2Fmun%2Fdata%3F_LAST_%3D7%5Ec%3D3%2Fr%3D1%2Ft%3D-3c%3B-1c%3B0d%2C6%2Fe%3D11) (IDESCAT)
+SDGS.10.TARGETS.2.DESCRIPTION,"Promoure la inclusió social, econòmica i política amb especial atenció a grups vulnerables, persones amb discapacitat i persones racialitzades. "
+SDGS.10.TARGETS.3.DESCRIPTION,"Garantir la igualtat d’oportunitats i reduir la desigualtat dels resultats, també eliminant normativa, polítiques i pràctiques discriminatòries i promovent mesures adequades."
+SDGS.10.TARGETS.4.DESCRIPTION,"Impulsar polítiques, en especial fiscals, salarials i de protecció social per aconseguir més igualtat al territori."
+SDGS.10.TARGETS.4.INDICATORS.1.TITLE,% Població amb ingressos < 50% (homes)
+SDGS.10.TARGETS.4.INDICATORS.1.DESCRIPTION,% població amb ingressos < 50% (homes)
+SDGS.10.TARGETS.4.INDICATORS.1.UNIT,%
+SDGS.10.TARGETS.4.INDICATORS.1.VALUES.1.TITLE,
+SDGS.10.TARGETS.4.INDICATORS.1.VALUES.1.UNIT,%
+SDGS.10.TARGETS.4.INDICATORS.1.VALUES.2.TITLE,
+SDGS.10.TARGETS.4.INDICATORS.1.VALUES.2.UNIT,
+SDGS.10.TARGETS.4.INDICATORS.1.SUBINDICATORS.0.TITLE,Homes
+SDGS.10.TARGETS.4.INDICATORS.1.SUBINDICATORS.0.VALUES.1.TITLE,% població amb ingressos < 50% (homes)
+SDGS.10.TARGETS.4.INDICATORS.1.SUBINDICATORS.0.VALUES.1.UNIT,%
+SDGS.10.TARGETS.4.INDICATORS.1.SUBINDICATORS.0.VALUES.2.TITLE,
+SDGS.10.TARGETS.4.INDICATORS.1.SUBINDICATORS.0.VALUES.2.UNIT,
+SDGS.10.TARGETS.4.INDICATORS.1.SUBINDICATORS.2.TITLE,Dones
+SDGS.10.TARGETS.4.INDICATORS.1.SUBINDICATORS.2.VALUES.1.TITLE,% població amb ingressos < 50% (dones)
+SDGS.10.TARGETS.4.INDICATORS.1.SUBINDICATORS.2.VALUES.1.UNIT,
+SDGS.10.TARGETS.4.INDICATORS.1.SUBINDICATORS.2.VALUES.2.TITLE,
+SDGS.10.TARGETS.4.INDICATORS.1.SUBINDICATORS.2.VALUES.2.UNIT,
+SDGS.10.TARGETS.4.INDICATORS.2.TITLE,% Població amb ingressos < 50% (dones)
+SDGS.10.TARGETS.4.INDICATORS.2.DESCRIPTION,% població amb ingressos < 50% (dones)
+SDGS.10.TARGETS.4.INDICATORS.2.UNIT,%
+SDGS.10.TARGETS.4.INDICATORS.2.VALUES.1.TITLE,
+SDGS.10.TARGETS.4.INDICATORS.2.VALUES.1.UNIT,
+SDGS.10.TARGETS.4.INDICATORS.2.VALUES.2.TITLE,
+SDGS.10.TARGETS.4.INDICATORS.2.VALUES.2.UNIT,
+SDGS.10.TARGETS.7.DESCRIPTION,"Facilitar una migració i mobilitat ordenades, segures, regulars i responsables de les persones, també mitjançant l’aplicació de polítiques migratòries planificades i ben gestionades."
+SDGS.11.TITLE,Ciutats i comunitats sostenibles
+SDGS.11.DESCRIPTION,"Fer les ciutats i els assentaments humans inclusius, segurs, resistents i sostenibles."
+SDGS.11.TARGETS.1.DESCRIPTION,"Assegurar l’accés de totes les persones a habitatges i a serveis bàsics adequats, segurs i assequibles, amb especial atenció als barris i zones amb més vulnerabilitat."
+SDGS.11.TARGETS.1.INDICATORS.1.TITLE,Esforç econòmic del lloguer
+SDGS.11.TARGETS.1.INDICATORS.1.DESCRIPTION,Mitjana del preu anual del lloguer en relació amb la renda bruta familiar
+SDGS.11.TARGETS.1.INDICATORS.1.UNIT,%
+SDGS.11.TARGETS.1.INDICATORS.1.VALUES.1.TITLE,Import del lloguer mensual mitjà
+SDGS.11.TARGETS.1.INDICATORS.1.VALUES.1.UNIT,€
+SDGS.11.TARGETS.1.INDICATORS.1.VALUES.2.TITLE,Renda familiar disponible bruta / per habitant
+SDGS.11.TARGETS.1.INDICATORS.1.VALUES.2.UNIT,€
+SDGS.11.TARGETS.1.INDICATORS.1.SOURCE,"- [Preu mitjà del lloguer d’habitatges per municipi](https://analisi.transparenciacatalunya.cat/Habitatge/Preu-mitj-del-lloguer-d-habitatges-per-municipi/qww9-bvhh/about_data) (Dades Obertes de Catalunya)
+- [RFDB i RFDB per habitant](https://www.idescat.cat/pub/?id=rfdbc&n=13301&hist=taules%2Fv2%2Frfdbc%2F13301%2F14148%2Fmun%2Fdata%3F_LAST_%3D7%5Ec%3D3%2Fr%3D1%2Ft%3D-3c%3B-1c%3B0d%2C6%2Fe%3D11) (IDESCAT)"
+SDGS.11.TARGETS.2.DESCRIPTION,"Proporcionar accés a sistemes de transport segurs, assequibles, accessibles, sostenibles i millorar la seguretat viària."
+SDGS.11.TARGETS.2.INDICATORS.1.TITLE,Taxa mortalitat trànsit
+SDGS.11.TARGETS.2.INDICATORS.1.DESCRIPTION,Persones mortes o ferides greus en accidents de trànsit per cada 10.000 habitants
+SDGS.11.TARGETS.2.INDICATORS.1.UNIT,persones/10.000 hab.
+SDGS.11.TARGETS.2.INDICATORS.1.VALUES.1.TITLE,Nombre de morts i ferits greus
+SDGS.11.TARGETS.2.INDICATORS.1.VALUES.1.UNIT,persones
+SDGS.11.TARGETS.2.INDICATORS.1.VALUES.2.TITLE,Població total
+SDGS.11.TARGETS.2.INDICATORS.1.VALUES.2.UNIT,persones
+SDGS.11.TARGETS.2.INDICATORS.1.SOURCE,"- [Accidents de trànsit amb morts o ferits greus a Catalunya](https://analisi.transparenciacatalunya.cat/Transport/Accidents-de-tr-nsit-amb-morts-o-ferits-greus-a-Ca/rmgc-ncpb/about_data) (Dades Obertes de Catalunya)
+- [Dades històriques de població dels municipis de Catalunya](https://analisi.transparenciacatalunya.cat/Sector-P-blic/Dades-hist-riques-de-poblaci-dels-municipis-de-Cat/x5sz-niat/about_data) (Dades Obertes de Catalunya)"
+SDGS.11.TARGETS.3.DESCRIPTION,Aconseguir un model urbà inclusiu i sostenible a través d'una planificació estratègica concertada amb els agents del territori i amb la participació de la ciutadania.
+SDGS.11.TARGETS.3.INDICATORS.1.TITLE,Percentatge de sòl artificialitztat
+SDGS.11.TARGETS.3.INDICATORS.1.DESCRIPTION,Percentatge de sòl artificialitzat (real o potencial). Percentatge de sòl destinat a usos urbans o infraestructures respecte la superfície total de la unitat territorial
+SDGS.11.TARGETS.3.INDICATORS.1.UNIT,%
+SDGS.11.TARGETS.3.INDICATORS.1.VALUES.1.TITLE,Superfície de sòl urbà
+SDGS.11.TARGETS.3.INDICATORS.1.VALUES.1.UNIT,ha
+SDGS.11.TARGETS.3.INDICATORS.1.VALUES.2.TITLE,Superfície total
+SDGS.11.TARGETS.3.INDICATORS.1.VALUES.2.UNIT,ha
+SDGS.11.TARGETS.3.INDICATORS.1.SOURCE,- [Dades del mapa urbanístic de Catalunya](https://analisi.transparenciacatalunya.cat/Urbanisme-infraestructures/Dades-del-mapa-urban-stic-de-Catalunya/epsm-zskb/about_data) (Dades Obertes de Catalunya)
+SDGS.11.TARGETS.3.INDICATORS.2.TITLE,Equipaments urbans per habitant
+SDGS.11.TARGETS.3.INDICATORS.2.DESCRIPTION,Equipaments urbans per habitant
+SDGS.11.TARGETS.3.INDICATORS.2.UNIT,m²/hab.
+SDGS.11.TARGETS.3.INDICATORS.2.VALUES.1.TITLE,Equipaments urbans per habitant
+SDGS.11.TARGETS.3.INDICATORS.2.VALUES.1.UNIT,m²/hab.
+SDGS.11.TARGETS.3.INDICATORS.2.VALUES.2.TITLE,
+SDGS.11.TARGETS.3.INDICATORS.2.VALUES.2.UNIT,
+SDGS.11.TARGETS.3.INDICATORS.2.SOURCE,- [Indicadors territorials de l’Observatori del Territori](https://analisi.transparenciacatalunya.cat/Urbanisme-infraestructures/Indicadors-territorials-de-l-Observatori-del-Terri/b9cr-32i4/about_data) (Dades Obertes de Catalunya)
+SDGS.11.TARGETS.4.DESCRIPTION,Redoblar els esforços per protegir i salvaguardar el patrimoni cultural i natural.
+SDGS.11.TARGETS.4.INDICATORS.1.TITLE,Superfície (m²) zona verda
+SDGS.11.TARGETS.4.INDICATORS.1.DESCRIPTION,Relació entre volum de població municipal i espai qualificat de zona verda o espai lliure en el sòl urbà del municipi
+SDGS.11.TARGETS.4.INDICATORS.1.UNIT,m²/hab
+SDGS.11.TARGETS.4.INDICATORS.1.VALUES.1.TITLE,Superfície de zona verda
+SDGS.11.TARGETS.4.INDICATORS.1.VALUES.1.UNIT,m²
+SDGS.11.TARGETS.4.INDICATORS.1.VALUES.2.TITLE,Població total
+SDGS.11.TARGETS.4.INDICATORS.1.VALUES.2.UNIT,persones
+SDGS.11.TARGETS.4.INDICATORS.2.TITLE,Equipaments culturals per població
+SDGS.11.TARGETS.4.INDICATORS.2.DESCRIPTION,Equipaments culturals per població
+SDGS.11.TARGETS.4.INDICATORS.2.SOURCE,- [Equipaments de Salut i Cultura](https://bcnagraria-diba.opendata.arcgis.com/datasets/diba::-equipaments-de-salut-i-cultura/about) (Diputació de Barcelona)
+SDGS.11.TARGETS.4.INDICATORS.2.UNIT,equip./10.000 habitants
+SDGS.11.TARGETS.4.INDICATORS.2.VALUES.1.TITLE,Equipaments culturals
+SDGS.11.TARGETS.4.INDICATORS.2.VALUES.1.UNIT,equipaments
+SDGS.11.TARGETS.4.INDICATORS.2.VALUES.2.TITLE,Població total
+SDGS.11.TARGETS.4.INDICATORS.2.VALUES.2.UNIT,persones
+SDGS.11.TARGETS.5.DESCRIPTION,Reduir de manera significativa el nombre de morts i les pèrdues econòmiques causades per desastres.
+SDGS.11.TARGETS.6.DESCRIPTION,"Reduir l’impacte ambiental negatiu en el conjunt del territori, amb especial atenció a la qualitat de l'aire i la gestió de residus municipals."
+SDGS.11.TARGETS.6.INDICATORS.1.TITLE,Residus domèstics en kg/hab/any
+SDGS.11.TARGETS.6.INDICATORS.1.DESCRIPTION,Producció de residus domèstics en kg/hab/any
+SDGS.11.TARGETS.6.INDICATORS.1.UNIT,kg/hab/any
+SDGS.11.TARGETS.6.INDICATORS.1.VALUES.1.TITLE,Generació total de residus
+SDGS.11.TARGETS.6.INDICATORS.1.VALUES.1.UNIT,t
+SDGS.11.TARGETS.6.INDICATORS.1.VALUES.2.TITLE,Població
+SDGS.11.TARGETS.6.INDICATORS.1.VALUES.2.UNIT,persones
+SDGS.11.TARGETS.6.INDICATORS.1.SOURCE,- [Estadístiques de residus municipals](https://analisi.transparenciacatalunya.cat/Medi-Ambient/Estad-stiques-de-residus-municipals/69zu-w48s/about_data) (Dades Obertes de Catalunya)
+SDGS.11.TARGETS.6.INDICATORS.2.TITLE,Taxa de recollida selectiva
+SDGS.11.TARGETS.6.INDICATORS.2.DESCRIPTION,Percentatge de recollida selectva de residus domèstics respecte del total produït.
+SDGS.11.TARGETS.6.INDICATORS.2.UNIT,%
+SDGS.11.TARGETS.6.INDICATORS.2.VALUES.1.TITLE,Total recollida selectiva
+SDGS.11.TARGETS.6.INDICATORS.2.VALUES.1.UNIT,t
+SDGS.11.TARGETS.6.INDICATORS.2.VALUES.2.TITLE,Generació total de residus
+SDGS.11.TARGETS.6.INDICATORS.2.VALUES.2.UNIT,t
+SDGS.11.TARGETS.6.INDICATORS.2.SOURCE,- [Estadístiques de residus municipals](https://analisi.transparenciacatalunya.cat/Medi-Ambient/Estad-stiques-de-residus-municipals/69zu-w48s/about_data) (Dades Obertes de Catalunya)
+SDGS.11.TARGETS.7.DESCRIPTION,"Proporcionar accés universal a més zones verdes i espais públics segurs, inclusius i accessibles, amb especial èmfasi a les dones, els infants, les persones grans i les persones amb discapacitat."
+SDGS.11.TARGETS.7.INDICATORS.1.TITLE,Superfície (m²) de zona verda
+SDGS.11.TARGETS.7.INDICATORS.1.DESCRIPTION,Relació entre volum de població municipal i espai qualificat de zona verda o espai lliure en el sòl urbà del municipi
+SDGS.11.TARGETS.7.INDICATORS.1.UNIT,m²/hab
+SDGS.11.TARGETS.7.INDICATORS.1.VALUES.1.TITLE,Superfície de zona verda
+SDGS.11.TARGETS.7.INDICATORS.1.VALUES.1.UNIT,m²
+SDGS.11.TARGETS.7.INDICATORS.1.VALUES.2.TITLE,Població anual segons el padró continu
+SDGS.11.TARGETS.7.INDICATORS.1.VALUES.2.UNIT,habitants
+SDGS.11.TARGETS.7.INDICATORS.1.SOURCE,- [Dades del mapa urbanístic de Catalunya](https://analisi.transparenciacatalunya.cat/Urbanisme-infraestructures/Dades-del-mapa-urban-stic-de-Catalunya/epsm-zskb/about_data) (Dades Obertes de Catalunya)
+SDGS.11.TARGETS.a.DESCRIPTION,"Enfortir la planificació del desenvolupament local del territori, donant suport als vincles econòmics, socials i ambientals entre zones urbanes, periurbanes i rurals."
+SDGS.12.TITLE,Producció i consum responsables
+SDGS.12.DESCRIPTION,Assegurar modalitats de consum i producció sostenibles.
+SDGS.12.TARGETS.1.DESCRIPTION,"Fomentar el consum i producció sostenibles, així com el comerç de proximitat"
+SDGS.12.TARGETS.1.INDICATORS.1.TITLE,Instal·lacions noves d'autoconsum d'energia
+SDGS.12.TARGETS.1.INDICATORS.1.DESCRIPTION,Instal·lacions noves d'autoconsum energia
+SDGS.12.TARGETS.1.INDICATORS.1.UNIT,instal·lacions/100.000 hab.
+SDGS.12.TARGETS.1.INDICATORS.1.VALUES.1.TITLE,Instal·lacions noves d'autoconsum energia
+SDGS.12.TARGETS.1.INDICATORS.1.VALUES.1.UNIT,instal·lacions
+SDGS.12.TARGETS.1.INDICATORS.1.VALUES.2.TITLE,Població total
+SDGS.12.TARGETS.1.INDICATORS.1.VALUES.2.UNIT,habitants
+SDGS.12.TARGETS.1.INDICATORS.1.SOURCE,"- [Instal·lacions d’autoconsum elèctric](https://analisi.transparenciacatalunya.cat/Energia/Instal-lacions-d-autoconsum-el-ctric/2b4s-skfm/about_data) (Dades Obertes de Catalunya)
+- [Dades històriques de població dels municipis de Catalunya](https://analisi.transparenciacatalunya.cat/Sector-P-blic/Dades-hist-riques-de-poblaci-dels-municipis-de-Cat/x5sz-niat/about_data) (Dades Obertes de Catalunya)"
+SDGS.12.TARGETS.2.DESCRIPTION,Assolir la gestió sostenible i un ús eficient dels recursos naturals.
+SDGS.12.TARGETS.2.INDICATORS.1.TITLE,Emissions de CO₂ d'edificis per habitant
+SDGS.12.TARGETS.2.INDICATORS.1.DESCRIPTION,Emissions de CO₂ d'edificis per habitant
+SDGS.12.TARGETS.2.INDICATORS.1.UNIT,kgCO₂/hab.
+SDGS.12.TARGETS.2.INDICATORS.1.VALUES.1.TITLE,Emissions de CO₂
+SDGS.12.TARGETS.2.INDICATORS.1.VALUES.1.UNIT,kgCO₂
+SDGS.12.TARGETS.2.INDICATORS.1.VALUES.2.TITLE,Població total
+SDGS.12.TARGETS.2.INDICATORS.1.VALUES.2.UNIT,persones
+SDGS.12.TARGETS.2.INDICATORS.1.SOURCE,"- [Certificats d’eficiència energètica d’edificis](https://analisi.transparenciacatalunya.cat/Energia/Certificats-d-efici-ncia-energ-tica-d-edificis/j6ii-t3w2/about_data) (Dades Obertes de Catalunya)
+- [Dades històriques de població dels municipis de Catalunya](https://analisi.transparenciacatalunya.cat/Sector-P-blic/Dades-hist-riques-de-poblaci-dels-municipis-de-Cat/x5sz-niat/about_data) (Dades Obertes de Catalunya)"
+SDGS.12.TARGETS.3.DESCRIPTION,Reduir substancialment el malbaratament alimentari i les pèrdues d’aliments a les cadenes de producció i distribució.
+SDGS.12.TARGETS.4.DESCRIPTION,Nom de fita no disponible
+SDGS.12.TARGETS.5.DESCRIPTION,"Disminuir substancialment la generació de residus mitjançant polítiques de prevenció, reducció, reciclatge i reutilització."
+SDGS.12.TARGETS.5.INDICATORS.1.TITLE,Taxa de recollida selectiva
+SDGS.12.TARGETS.5.INDICATORS.1.DESCRIPTION,Percentatge de recollida selectva de residus domèstics respecte del total produït
+SDGS.12.TARGETS.5.INDICATORS.1.UNIT,%
+SDGS.12.TARGETS.5.INDICATORS.1.VALUES.1.TITLE,Total recollida selectiva
+SDGS.12.TARGETS.5.INDICATORS.1.VALUES.1.UNIT,t
+SDGS.12.TARGETS.5.INDICATORS.1.VALUES.2.TITLE,Generació total de residus
+SDGS.12.TARGETS.5.INDICATORS.1.VALUES.2.UNIT,t
+SDGS.12.TARGETS.5.INDICATORS.1.SOURCE,- [Estadístiques de residus municipals](https://analisi.transparenciacatalunya.cat/Medi-Ambient/Estad-stiques-de-residus-municipals/69zu-w48s/about_data) (Dades Obertes de Catalunya)
+SDGS.12.TARGETS.5.INDICATORS.2.TITLE,Residus domèstics en kg/hab/any
+SDGS.12.TARGETS.5.INDICATORS.2.DESCRIPTION,Producció de residus domèstics en kg/hab/any
+SDGS.12.TARGETS.5.INDICATORS.2.UNIT,kg/hab/any
+SDGS.12.TARGETS.5.INDICATORS.2.VALUES.1.TITLE,Generació total de residus
+SDGS.12.TARGETS.5.INDICATORS.2.VALUES.1.UNIT,t
+SDGS.12.TARGETS.5.INDICATORS.2.VALUES.2.TITLE,Població
+SDGS.12.TARGETS.5.INDICATORS.2.VALUES.2.UNIT,persones
+SDGS.12.TARGETS.5.INDICATORS.2.SOURCE,- [Estadístiques de residus municipals](https://analisi.transparenciacatalunya.cat/Medi-Ambient/Estad-stiques-de-residus-municipals/69zu-w48s/about_data) (Dades Obertes de Catalunya)
+SDGS.12.TARGETS.6.DESCRIPTION,Fomentar l'adopció de pràctiques sostenibles al teixit empresarial.
+SDGS.12.TARGETS.7.DESCRIPTION,"Promoure pràctiques de contractació pública sostenible (clàusules socials, mediambientals i econòmiques)"
+SDGS.12.TARGETS.8.DESCRIPTION,Assegurar que el conjunt de la ciutadania tingui la informació i conscienciació pertinents per assolir el desenvolupament i els estils de vida sostenibles.
+SDGS.12.TARGETS.b.DESCRIPTION,Nom de fita no disponible
+SDGS.13.TITLE,Acció pel clima
+SDGS.13.DESCRIPTION,Adoptar mesures urgents per combatre el canvi climàtic i els seus efectes.
+SDGS.13.TARGETS.1.DESCRIPTION,Enfortir la resiliència i la capacitat d’adaptació als riscos relacionats amb el clima i els desastres naturals.
+SDGS.13.TARGETS.1.INDICATORS.1.TITLE,Vulnerabilitat a les onades de calor
+SDGS.13.TARGETS.1.INDICATORS.1.DESCRIPTION,"Índex propi de vulnerabilitat a les onades de calor i increment de la temperatura (Baixa, Mitja, Alta, Molt Alta)"
+SDGS.13.TARGETS.1.INDICATORS.1.UNIT,
+SDGS.13.TARGETS.1.INDICATORS.1.VALUES.1.TITLE,
+SDGS.13.TARGETS.1.INDICATORS.1.VALUES.1.UNIT,
+SDGS.13.TARGETS.1.INDICATORS.1.VALUES.2.TITLE,
+SDGS.13.TARGETS.1.INDICATORS.1.VALUES.2.UNIT,
+SDGS.13.TARGETS.1.INDICATORS.1.SOURCE,- Dades internes (Diputació de Barcelona)
+SDGS.13.TARGETS.2.DESCRIPTION,"Incorporar mesures relatives al canvi climàtic en les polítiques, les estratègies i els plans locals."
+SDGS.13.TARGETS.2.INDICATORS.1.TITLE,Emissions de CO₂ d'edificis per habitant
+SDGS.13.TARGETS.2.INDICATORS.1.DESCRIPTION,Emissions de CO₂ d'edificis per habitant
+SDGS.13.TARGETS.2.INDICATORS.1.SOURCE,"- [Certificats d’eficiència energètica d’edificis](https://analisi.transparenciacatalunya.cat/Energia/Certificats-d-efici-ncia-energ-tica-d-edificis/j6ii-t3w2/about_data) (Dades Obertes de Catalunya)
+- [Dades històriques de població dels municipis de Catalunya](https://analisi.transparenciacatalunya.cat/Sector-P-blic/Dades-hist-riques-de-poblaci-dels-municipis-de-Cat/x5sz-niat/about_data) (Dades Obertes de Catalunya)"
+SDGS.13.TARGETS.2.INDICATORS.1.UNIT,kgCO₂/hab.
+SDGS.13.TARGETS.2.INDICATORS.1.VALUES.1.TITLE,Emissions de CO₂
+SDGS.13.TARGETS.2.INDICATORS.1.VALUES.1.UNIT,kgCO₂
+SDGS.13.TARGETS.2.INDICATORS.1.VALUES.2.TITLE,Població total
+SDGS.13.TARGETS.2.INDICATORS.1.VALUES.2.UNIT,persones
+SDGS.13.TARGETS.2.INDICATORS.2.TITLE,Intensitat emissions de gasos
+SDGS.13.TARGETS.2.INDICATORS.2.DESCRIPTION,Relació entre les emissions de gasos d'efecte hivernacle i el consum d'energia (en kgCO₂/kWh).
+SDGS.13.TARGETS.2.INDICATORS.2.UNIT,kgCO₂/kWh
+SDGS.13.TARGETS.2.INDICATORS.2.VALUES.1.TITLE,
+SDGS.13.TARGETS.2.INDICATORS.2.VALUES.1.UNIT,kgCO₂/kWh
+SDGS.13.TARGETS.2.INDICATORS.2.VALUES.2.TITLE,
+SDGS.13.TARGETS.2.INDICATORS.2.VALUES.2.UNIT,
+SDGS.13.TARGETS.2.INDICATORS.2.SOURCE,- Dades internes (Diputació de Barcelona)
+SDGS.13.TARGETS.3.DESCRIPTION,"Millorar l’educació, la sensibilització i la capacitat ciutadana i institucional pel que fa a la mitigació i adaptació al canvi climàtic."
+SDGS.14.TITLE,Vida submarina
+SDGS.14.DESCRIPTION,"Conservar i utilitzar de manera sostenible els oceans, mars i recursos marins per al desenvolupament sostenible."
+SDGS.14.TARGETS.1.DESCRIPTION,"Prevenir i reduir significativament la contaminació marina de tota mena i, en particular, l’ocasionada per activitats terrestres."
+SDGS.14.TARGETS.1.INDICATORS.1.TITLE,% Platges amb qualitat d'aigua excelent
+SDGS.14.TARGETS.1.INDICATORS.1.DESCRIPTION,Percentatge de platges amb una qualitat de l'aigua de bany excel·lent respecte del total (%) d'acord amb els criteris Qualitat de les aigües de bany del Protocol de vigilància i informació de l'estat de les aigües de bany elaborat anualment per l'Agència Catalana de l'Aigua.
+SDGS.14.TARGETS.1.INDICATORS.1.UNIT,%
+SDGS.14.TARGETS.1.INDICATORS.1.VALUES.1.TITLE,
+SDGS.14.TARGETS.1.INDICATORS.1.VALUES.1.UNIT,%
+SDGS.14.TARGETS.1.INDICATORS.1.VALUES.2.TITLE,
+SDGS.14.TARGETS.1.INDICATORS.1.VALUES.2.UNIT,
+SDGS.14.TARGETS.1.INDICATORS.1.SOURCE,- Dades internes (Diputació de Barcelona)
+SDGS.14.TARGETS.2.DESCRIPTION,Protegir i promoure la gestió sostenible dels ecosistemes marins i costaners.
+SDGS.14.TARGETS.2.INDICATORS.1.TITLE,% Franja costanera lliure d'urbanització
+SDGS.14.TARGETS.2.INDICATORS.1.DESCRIPTION,Percentatge de la franja de 200 metres d'amplada de l'interior de la costa que no pertany a cap categoria de sòl improductiu artificial en el Mapa de Cobertes del Sòl respecte de la superfície total (%)
+SDGS.14.TARGETS.2.INDICATORS.1.UNIT,%
+SDGS.14.TARGETS.2.INDICATORS.1.VALUES.1.TITLE,
+SDGS.14.TARGETS.2.INDICATORS.1.VALUES.1.UNIT,%
+SDGS.14.TARGETS.2.INDICATORS.1.VALUES.2.TITLE,
+SDGS.14.TARGETS.2.INDICATORS.1.VALUES.2.UNIT,
+SDGS.14.TARGETS.2.INDICATORS.1.SOURCE,- Dades internes (Diputació de Barcelona)
+SDGS.14.TARGETS.4.DESCRIPTION,Nom de fita no disponible
+SDGS.14.TARGETS.a.DESCRIPTION,Impulsar el coneixement científic a fi de millorar la salut dels oceans i potenciar la contribució de la biodiversitat marina.
+SDGS.14.TARGETS.b.DESCRIPTION,Fomentar l'accés dels pescadors artesanals en petita escala als recursos marins i als mercats.
+SDGS.15.TITLE,Vida terrestre
+SDGS.15.DESCRIPTION,"Protegir, restaurar i promoure l'ús sostenible dels ecosistemes terrestres, gestionar de manera sostenible els boscos, lluitar contra la desertificació, aturar i revertir la degradació de les terres i aturar la pèrdua de biodiversitat."
+SDGS.15.TARGETS.1.DESCRIPTION,"Vetllar per la conservació, el restabliment i l’ús sostenible dels ecosistemes terrestres i d'aigua dolça, en particular els boscos, els aiguamolls, les muntanyes i les zones àrides."
+SDGS.15.TARGETS.1.INDICATORS.1.TITLE,% Superficie boscos
+SDGS.15.TARGETS.1.INDICATORS.1.DESCRIPTION,Superfície forestal en proporció a la superfície total
+SDGS.15.TARGETS.1.INDICATORS.1.UNIT,%
+SDGS.15.TARGETS.1.INDICATORS.1.VALUES.1.TITLE,
+SDGS.15.TARGETS.1.INDICATORS.1.VALUES.1.UNIT,%
+SDGS.15.TARGETS.1.INDICATORS.1.VALUES.2.TITLE,
+SDGS.15.TARGETS.1.INDICATORS.1.VALUES.2.UNIT,
+SDGS.15.TARGETS.1.INDICATORS.1.SOURCE,- Dades internes (Diputació de Barcelona)
+SDGS.15.TARGETS.1.INDICATORS.2.TITLE,Superfície municipal amb figura de protecció i òrgan de gestió dels espais oberts
+SDGS.15.TARGETS.1.INDICATORS.2.DESCRIPTION,"Percentatge de la superfície municipal protegida per figures de legislació sectorial (ENPE'S, PEIN, Xarxa Natura 2000, altres espais de la XPN) i que compta amb un òrgan de gestió per a la conservació del patrimoni natural."
+SDGS.15.TARGETS.1.INDICATORS.2.UNIT,%
+SDGS.15.TARGETS.1.INDICATORS.2.VALUES.1.TITLE,
+SDGS.15.TARGETS.1.INDICATORS.2.VALUES.1.UNIT,%
+SDGS.15.TARGETS.1.INDICATORS.2.VALUES.2.TITLE,
+SDGS.15.TARGETS.1.INDICATORS.2.VALUES.2.UNIT,
+SDGS.15.TARGETS.1.INDICATORS.2.SOURCE,- Dades internes (Diputació de Barcelona)
+SDGS.15.TARGETS.2.DESCRIPTION,"Augmentar el número de boscos amb gestió sostenible, posant fi a la desforestació, recuperant el boscos degradats i incrementant substancialment la repoblació forestal i la reforestació."
+SDGS.15.TARGETS.2.INDICATORS.1.TITLE,Superfície municipal corresponent als espais oberts
+SDGS.15.TARGETS.2.INDICATORS.1.DESCRIPTION,"Percentatge de la superfície municipal protegida per figures de legislació sectorial (ENPE'S, PEIN, Xarxa Natura 2000, altres espais de la XPN)"
+SDGS.15.TARGETS.2.INDICATORS.1.UNIT,%
+SDGS.15.TARGETS.2.INDICATORS.1.VALUES.1.TITLE,
+SDGS.15.TARGETS.2.INDICATORS.1.VALUES.1.UNIT,%
+SDGS.15.TARGETS.2.INDICATORS.1.VALUES.2.TITLE,
+SDGS.15.TARGETS.2.INDICATORS.1.VALUES.2.UNIT,
+SDGS.15.TARGETS.2.INDICATORS.1.SOURCE,- Dades internes (Diputació de Barcelona)
+SDGS.15.TARGETS.3.DESCRIPTION,"Lluitar contra la desertificació, rehabilitar les terres i els sòls degradats, incloses les terres afectades per la desertificació, la sequera i les inundacions."
+SDGS.15.TARGETS.4.DESCRIPTION,"Vetllar per la conservació dels ecosistemes muntanyosos, en particular, de la seva diversitat biològica."
+SDGS.15.TARGETS.4.INDICATORS.1.TITLE,Superfície del sòl no urbanitzable
+SDGS.15.TARGETS.4.INDICATORS.1.DESCRIPTION,Superfície del sòl no urbanitzable. Qualificació del MUC en el sòl no urbanitzable (N2: Protecció)
+SDGS.15.TARGETS.4.INDICATORS.1.UNIT,%
+SDGS.15.TARGETS.4.INDICATORS.1.VALUES.1.TITLE,Superfície del sòl no urbanitzable. Qualificació del MUC en el sòl no urbanitzable (N2: Protecció)
+SDGS.15.TARGETS.4.INDICATORS.1.VALUES.1.UNIT,ha
+SDGS.15.TARGETS.4.INDICATORS.1.VALUES.2.TITLE,Superfície total
+SDGS.15.TARGETS.4.INDICATORS.1.VALUES.2.UNIT,ha
+SDGS.15.TARGETS.4.INDICATORS.1.SOURCE,- [Dades del mapa urbanístic de Catalunya](https://analisi.transparenciacatalunya.cat/Urbanisme-infraestructures/Dades-del-mapa-urban-stic-de-Catalunya/epsm-zskb/about_data) (Dades Obertes de Catalunya)
+SDGS.15.TARGETS.5.DESCRIPTION,"Reduir la degradació dels hàbitats naturals, aturar la pèrdua de la diversitat biològica i protegir les espècies amenaçades."
+SDGS.15.TARGETS.8.DESCRIPTION,Adoptar mesures per prevenir la introducció d'espècies exòtiques invasores i reduir-ne significativament els efectes en els ecosistemes terrestres i aquàtics i controlar o erradicar les espècies prioritàries.
+SDGS.15.TARGETS.9.DESCRIPTION,"Integrar els valors dels ecosistemes i la diversitat biològica en la planificació local, els processos de desenvolupament, les estratègies de reducció de la pobresa i la comptabilitat."
+SDGS.15.TARGETS.a.DESCRIPTION,Mobilitzar els recursos financers per conservar i utilitzar de forma sostenible la diversitat biològica i els ecosistemes
+SDGS.16.TITLE,"Pau, justícia i institucions sòlides"
+SDGS.16.DESCRIPTION,"Promoure societats pacífiques i inclusives per al desenvolupament sostenible, facilitar l'accés a la justícia per a tothom i construir institucions eficaces, responsables i inclusives a tots els nivells."
+SDGS.16.TARGETS.1.DESCRIPTION,"Reduir considerablement totes les formes de violència i les taxes de mortalitat, amb una especial atenció als menors."
+SDGS.16.TARGETS.3.DESCRIPTION,Promoure iniciatives per millorar l'accés equitatiu a la justícia i a mecanismes de mediació amb especial atenció als col·lectius més vulnerables. 
+SDGS.16.TARGETS.5.DESCRIPTION,"Reforçar les mesures locals contra la corrupció, millorar la transparència i promoure la responsabilitat en la gestió pública."
+SDGS.16.TARGETS.6.DESCRIPTION,"Assolir institucions eficaces, responsables, transparents i que rendeixin comptes."
+SDGS.16.TARGETS.6.INDICATORS.1.TITLE,Grau de maduresa digital
+SDGS.16.TARGETS.6.INDICATORS.1.DESCRIPTION,"Grau de transformació digital de l'ens local (0-100), fruit de l'anàlisi dels principals indicadors de govern digital i obert."
+SDGS.16.TARGETS.6.INDICATORS.1.UNIT,
+SDGS.16.TARGETS.6.INDICATORS.1.VALUES.1.TITLE,
+SDGS.16.TARGETS.6.INDICATORS.1.VALUES.1.UNIT,
+SDGS.16.TARGETS.6.INDICATORS.1.VALUES.2.TITLE,
+SDGS.16.TARGETS.6.INDICATORS.1.VALUES.2.UNIT,
+SDGS.16.TARGETS.6.INDICATORS.1.SOURCE,- Dades internes (Diputació de Barcelona)
+SDGS.16.TARGETS.7.DESCRIPTION,"Garantir l'adopció de decisions inclusives, participatives i representatives que responguin a les necessitats de la ciutadania."
+SDGS.16.TARGETS.7.INDICATORS.1.TITLE,Participació a les eleccions municipals
+SDGS.16.TARGETS.7.INDICATORS.1.DESCRIPTION,Nombre d'electors que realment exerceixen el seu dret de vot. S'expressa en el percentatge del nombre de votants (inclosos els vots en blanc i els nuls) respecte al nombre total d'electors.
+SDGS.16.TARGETS.7.INDICATORS.1.UNIT,%
+SDGS.16.TARGETS.7.INDICATORS.1.VALUES.1.TITLE,Votants
+SDGS.16.TARGETS.7.INDICATORS.1.VALUES.1.UNIT,persones
+SDGS.16.TARGETS.7.INDICATORS.1.VALUES.2.TITLE,Cens electoral
+SDGS.16.TARGETS.7.INDICATORS.1.VALUES.2.UNIT,persones
+SDGS.16.TARGETS.7.INDICATORS.1.SOURCE,- [Processos electorals - Participació](https://analisi.transparenciacatalunya.cat/Sector-P-blic/Processos-electorals-Participaci-/irrv-2mfc/about_data) (Dades Obertes de Catalunya)
+SDGS.16.TARGETS.7.INDICATORS.2.TITLE,Actualització de canals de participació
+SDGS.16.TARGETS.7.INDICATORS.2.DESCRIPTION,Indicador binari (0 No actualitzat; 1 Actualitzat) relatiu a l'actualització dels canals de participació ciutadana disponibles al Portal de transparència municipal.
+SDGS.16.TARGETS.7.INDICATORS.2.UNIT,
+SDGS.16.TARGETS.7.INDICATORS.2.VALUES.1.TITLE,
+SDGS.16.TARGETS.7.INDICATORS.2.VALUES.1.UNIT,
+SDGS.16.TARGETS.7.INDICATORS.2.VALUES.2.TITLE,
+SDGS.16.TARGETS.7.INDICATORS.2.VALUES.2.UNIT,
+SDGS.16.TARGETS.7.INDICATORS.2.SOURCE,- Dades internes (Diputació de Barcelona)
+SDGS.16.TARGETS.10.DESCRIPTION,Garantir l’accés públic a la informació i protegir les llibertats fonamentals.
+SDGS.16.TARGETS.10.INDICATORS.1.TITLE,Actualització de portals de transparència
+SDGS.16.TARGETS.10.INDICATORS.1.DESCRIPTION,Grau d'actualització (0-10) de la documentació publicada al conjunt d'apartats del portal de transparència municipal
+SDGS.16.TARGETS.10.INDICATORS.1.UNIT,
+SDGS.16.TARGETS.10.INDICATORS.1.VALUES.1.TITLE,
+SDGS.16.TARGETS.10.INDICATORS.1.VALUES.1.UNIT,
+SDGS.16.TARGETS.10.INDICATORS.1.VALUES.2.TITLE,
+SDGS.16.TARGETS.10.INDICATORS.1.VALUES.2.UNIT,
+SDGS.16.TARGETS.10.INDICATORS.1.SOURCE,- Dades internes (Diputació de Barcelona)
+SDGS.16.TARGETS.b.DESCRIPTION,Promoure i aplicar reglamentació i normativa local no discriminatòria en favor del desenvolupament sostenible
+SDGS.17.TITLE,Aliances per a assolir els objectius
+SDGS.17.DESCRIPTION,Reforçar els mitjans de implementació i revifar la societat global per a assolir els objectius de desenvolupament sostenible.
+SDGS.17.TARGETS.1.DESCRIPTION,Enfortir l'autonomia i la capacitat econòmica i fiscal dels governs locals.
+SDGS.17.TARGETS.1.INDICATORS.1.DESCRIPTION,"El deute viu es calcula tenint en compte les operacions de risc en crèdits financers, valors de renda fixa i préstecs o crèdits transferits a tercers. No inclou el deute comercial de les entitats locals, és a dir, la que mantenen amb els seus proveïdors. De forma simplificada, podem dir que és la quantitat de diners que l'Ajuntament deu via crèdit"
+SDGS.17.TARGETS.1.INDICATORS.1.TITLE,Deute viu per habitant
+SDGS.17.TARGETS.1.INDICATORS.1.UNIT,€/hab
+SDGS.17.TARGETS.1.INDICATORS.1.VALUES.1.TITLE,Deute viu total
+SDGS.17.TARGETS.1.INDICATORS.1.VALUES.1.UNIT,€
+SDGS.17.TARGETS.1.INDICATORS.1.VALUES.2.TITLE,Cens total
+SDGS.17.TARGETS.1.INDICATORS.1.VALUES.2.UNIT,persones
+SDGS.17.TARGETS.1.INDICATORS.1.SOURCE,- [Endeutament ens local](https://analisi.transparenciacatalunya.cat/Sector-P-blic/Endeutament-ens-local/c9ag-cye6/about_data) (Dades Obertes de Catalunya)
+SDGS.17.TARGETS.1.INDICATORS.2.SOURCE,"- [Pressupostos dels ens municipals de Catalunya](https://analisi.transparenciacatalunya.cat/Economia/Pressupostos-dels-ens-municipals-de-Catalunya/4g9s-gzp6/about_data) (Dades Obertes de Catalunya)
+- [Dades històriques de població dels municipis de Catalunya](https://analisi.transparenciacatalunya.cat/Sector-P-blic/Dades-hist-riques-de-poblaci-dels-municipis-de-Cat/x5sz-niat/about_data) (Dades Obertes de Catalunya)
+
+Es ténen en compte els següents codis i conceptes per al càlcul dels ingressos:
+
+- IBI: 
+  - 113:  Impost sobre béns immobles (de naturalesa urbana)
+  - 112: Impost sobre béns immobles (de naturalesa rústica)
+  - 114: Impost sobre béns immobles (de caract. especials)
+- IAE:
+  - 130: Impost sobre activitats econòmiques"
+SDGS.17.TARGETS.1.INDICATORS.2.TITLE,Ingressos per l'IAE i l'IBI
+SDGS.17.TARGETS.1.INDICATORS.2.DESCRIPTION,Recaptació prevista als pressupostos municipals per l'impost d'activitats econòmiques i l'impost sobre béns immobles en €/hab
+SDGS.17.TARGETS.1.INDICATORS.2.UNIT,€/hab
+SDGS.17.TARGETS.1.INDICATORS.2.VALUES.1.TITLE,Ingressos per l'IAE i l'IBI
+SDGS.17.TARGETS.1.INDICATORS.2.VALUES.1.UNIT,€
+SDGS.17.TARGETS.1.INDICATORS.2.VALUES.2.TITLE,Població total
+SDGS.17.TARGETS.1.INDICATORS.2.VALUES.2.UNIT,persones
+SDGS.17.TARGETS.2.DESCRIPTION,"Promoure la cooperació al desenvolupament i garantir el 0,7% dels ingressos en aquest àmbit."
+SDGS.17.TARGETS.2.INDICATORS.1.TITLE,Pressupost destinat a ajuda oficial al desenvolupament
+SDGS.17.TARGETS.2.INDICATORS.1.DESCRIPTION,Pressupost destinat a ajuda oficial al desenvolupament per habitant
+SDGS.17.TARGETS.2.INDICATORS.1.UNIT,€/hab.
+SDGS.17.TARGETS.2.INDICATORS.1.VALUES.1.TITLE,Pressupost
+SDGS.17.TARGETS.2.INDICATORS.1.VALUES.1.UNIT,€
+SDGS.17.TARGETS.2.INDICATORS.1.VALUES.2.TITLE,Total població
+SDGS.17.TARGETS.2.INDICATORS.1.VALUES.2.UNIT,persones
+SDGS.17.TARGETS.2.INDICATORS.1.SOURCE,- [Fons Català de Coopreació al Desenvolupament](https://fonscatala.org/observatori-de-la-cooperacio-municipalista/)
+SDGS.17.TARGETS.4.DESCRIPTION,Fita 17.4
+SDGS.17.TARGETS.4.INDICATORS.1.TITLE,Deute viu per habitant
+SDGS.17.TARGETS.4.INDICATORS.1.DESCRIPTION,"El deute viu es calcula tenint en compte les operacions de risc en crèdits financers, valors de renda fixa i préstecs o crèdits transferits a tercers. No inclou el deute comercial de les entitats locals, és a dir, la que mantenen amb els seus proveïdors. De forma simplificada, podem dir que és la quantitat de diners que l'Ajuntament deu via crèdit"
+SDGS.17.TARGETS.4.INDICATORS.1.UNIT,€/hab
+SDGS.17.TARGETS.4.INDICATORS.1.VALUES.1.TITLE,Deute viu total
+SDGS.17.TARGETS.4.INDICATORS.1.VALUES.1.UNIT,€
+SDGS.17.TARGETS.4.INDICATORS.1.VALUES.2.TITLE,Cens total
+SDGS.17.TARGETS.4.INDICATORS.1.VALUES.2.UNIT,persones
+SDGS.17.TARGETS.6.DESCRIPTION,"Augmentar l'intercanvi de coneixement i millorar la cooperació regional i internacional, Nord-sud, Sud-Sud i triangular, en matèria de desenvolupament econòmic, social i mediambiental. "
+SDGS.17.TARGETS.8.DESCRIPTION,Nom de fita no disponible
+SDGS.17.TARGETS.14.DESCRIPTION,Millorar la coherència de les polítiques per al desenvolupament sostenible.
+SDGS.17.TARGETS.17.DESCRIPTION,"Promoure la constitució d'aliances eficaces en els àmbits públic, publicoprivat i de la societat civil que impulsin el Desenvolupament Sostenible"
+SDGS.17.TARGETS.17.INDICATORS.1.TITLE,Nombre d'entitats ONGD dividit per població
+SDGS.17.TARGETS.17.INDICATORS.1.DESCRIPTION,Nombre d' organització no governamental per al desenvolupament dividit per població
+SDGS.17.TARGETS.17.INDICATORS.1.UNIT,entitats/100.000 hab.
+SDGS.17.TARGETS.17.INDICATORS.1.VALUES.1.TITLE,Nombre entitats ONGD
+SDGS.17.TARGETS.17.INDICATORS.1.VALUES.1.UNIT,entitats
+SDGS.17.TARGETS.17.INDICATORS.1.VALUES.2.TITLE,Població total
+SDGS.17.TARGETS.17.INDICATORS.1.VALUES.2.UNIT,persones
+SDGS.17.TARGETS.17.INDICATORS.1.SOURCE,"- [Entitats inscrites en el Registre d'organitzacions no governamentals per al desenvolupament (ONGD)](https://analisi.transparenciacatalunya.cat/Societat-benestar/Entitats-inscrites-en-el-Registre-d-organitzacions/4d69-gxhb/about_data) (Dades Obertes de Catalunya)
+- [Dades històriques de població dels municipis de Catalunya](https://analisi.transparenciacatalunya.cat/Sector-P-blic/Dades-hist-riques-de-poblaci-dels-municipis-de-Cat/x5sz-niat/about_data) (Dades Obertes de Catalunya)"
+SDGS.17.TARGETS.17.INDICATORS.2.TITLE,Nombre entitats noves dividit per població
+SDGS.17.TARGETS.17.INDICATORS.2.DESCRIPTION,Nombre entitats noves dividit per població
+SDGS.17.TARGETS.17.INDICATORS.2.SOURCE,- [Entitats jurídiques del Registre d’entitats de Catalunya](https://analisi.transparenciacatalunya.cat/Legislaci-just-cia/Entitats-jur-diques-del-Registre-d-entitats-de-Cat/y6fz-g3ff/about_data) (Dades Obertes de Catalunya)\n- [Dades històriques de població dels municipis de Catalunya](https://analisi.transparenciacatalunya.cat/Sector-P-blic/Dades-hist-riques-de-poblaci-dels-municipis-de-Cat/x5sz-niat/about_data) (Dades Obertes de Catalunya)
+SDGS.17.TARGETS.17.INDICATORS.2.UNIT,entitats/100.000 hab.
+SDGS.17.TARGETS.17.INDICATORS.2.VALUES.1.TITLE,Nombre entitats noves
+SDGS.17.TARGETS.17.INDICATORS.2.VALUES.1.UNIT,entitats
+SDGS.17.TARGETS.17.INDICATORS.2.VALUES.2.TITLE,Població total
+SDGS.17.TARGETS.17.INDICATORS.2.VALUES.2.UNIT,persones
+SDGS.17.TARGETS.18.DESCRIPTION,"Millorar la disponibilitat de dades d’alta qualitat, oportunes i fiables"
+SDGS.17.TARGETS.19.DESCRIPTION,Fomentar i donar suport a la creació de sistemes seguiment i indicadors que permetin mesurar els progresos en l'assoliment dels ODS.
+SDGS.undefined.TARGETS.undefined.INDICATORS.undefined.SOURCE,"- [RFDB i RFDB per habitant](https://api.idescat.cat/taules/v2/rfdbc/13301/14148/) (IDESCAT)
+
+Consums de combustibles líquids estimats a partir de dades provincials i catalanes. Dades de RFBD a escala municipal: per a municipis petits hi ha la dada comarcal. Dades de mobilitat a partir del parc de vehicles, no s'inclou la despesa en transport públic."
+PROGRAMS.0,DEUTE PÚBLIC
+PROGRAMS.1,SERVEIS PÚBLICS BÀSICS
+PROGRAMS.2,ACTUACIONS DE PROTECCIÓ I PROMOCIÓ SOCIAL
+PROGRAMS.3,PRODUCCIÓ DE BÉNS PÚBLICS DE CARÀCTER PREFERENT
+PROGRAMS.4,ACTUACIONS DE CARÀCTER ECONÒMIC
+PROGRAMS.9,ACTUACIONS DE CARÀCTER GENERAL
+PROGRAMS.13,Seguretat i mobilitat ciutadana
+PROGRAMS.15,Habitatge i urbanisme
+PROGRAMS.16,Benestar comunitari
+PROGRAMS.17,Medi ambient
+PROGRAMS.21,Pensions
+PROGRAMS.22,Altres prestacions econòmiques a favor d’empleats
+PROGRAMS.23,Serveis Socials i promoció social
+PROGRAMS.24,Foment de l’Ocupació
+PROGRAMS.31,Sanitat
+PROGRAMS.32,Educació
+PROGRAMS.33,Cultura
+PROGRAMS.34,Esport
+PROGRAMS.41,"Agricultura, Ramaderia i Pesca"
+PROGRAMS.42,Indústria i energia
+PROGRAMS.43,"Comerç, turisme i petites i mitjanes empreses"
+PROGRAMS.44,Transport públic
+PROGRAMS.45,Infraestructures
+PROGRAMS.46,"Investigació, desenvolupament i innovació"
+PROGRAMS.49,Altres actuacions de caràcter econòmic
+PROGRAMS.91,Òrgans de govern
+PROGRAMS.92,Serveis de caràcter general
+PROGRAMS.93,Administració financera i tributària
+PROGRAMS.94,Transferències a altres Administracions Públiques
+PROGRAMS.130,Administració General de la Seguretat i Protecció Civil
+PROGRAMS.132,Seguretat i ordre públic
+PROGRAMS.133,Ordenació del trànsit i de l'estacionament
+PROGRAMS.134,Mobilitat urbana
+PROGRAMS.135,Protecció civil
+PROGRAMS.136,Servei de prevenció i extinció d'incendis
+PROGRAMS.150,Administració General d’Habitatge i Urbanisme
+PROGRAMS.151,"Urbanisme: planejament, gestió, execució i disciplina urbanística"
+PROGRAMS.152,Habitatge
+PROGRAMS.153,Vies públiques
+PROGRAMS.160,Clavegueram
+PROGRAMS.161,Subministrament domiciliari d’aigua potable
+PROGRAMS.162,"Recollida, gestió i tractament de residus"
+PROGRAMS.163,Neteja viària
+PROGRAMS.164,Cementiris i serveis funeraris
+PROGRAMS.165,Enllumenat públic
+PROGRAMS.170,Administració general del medi ambient
+PROGRAMS.171,Parcs i jardins
+PROGRAMS.172,Protecció i millora del medi ambient
+PROGRAMS.211,Pensions
+PROGRAMS.221,Altres prestacions econòmiques a favor d’empleats
+PROGRAMS.231,Assistència social primària
+PROGRAMS.241,Foment de l’Ocupació
+PROGRAMS.311,Protecció de la salubritat pública
+PROGRAMS.312,"Hospitals, serveis assistencials i centres de salut"
+PROGRAMS.320,Administració general d’educació
+PROGRAMS.321,Creació de Centres docents d’ensenyament preescolar i primari
+PROGRAMS.322,Creació de Centres docents d’ensenyament secundari
+PROGRAMS.323,"Funcionament de Centres docents d’ensenyament preescolar, primari i educació especial"
+PROGRAMS.324,Funcionament de Centres docents d’ensenyament secundari
+PROGRAMS.325,Vigilància del compliment de l’escolaritat obligatòria
+PROGRAMS.326,Serveis complementaris d’educació
+PROGRAMS.327,Foment de la convivència ciutadana
+PROGRAMS.330,Administració General de Cultura
+PROGRAMS.332,Biblioteques i Arxius
+PROGRAMS.333,Equipaments culturals i museus
+PROGRAMS.334,Promoció cultural
+PROGRAMS.336,Protecció i gestió del Patrimoni Històric-Artístic
+PROGRAMS.337,Instal·lacions d’oci
+PROGRAMS.338,Festes populars i celebracions
+PROGRAMS.340,Administració General d’Esports
+PROGRAMS.341,Promoció i foment de l’esport
+PROGRAMS.342,Instal·lacions esportives
+PROGRAMS.410,"Administració General d’Agricultura, Ramaderia i Pesca"
+PROGRAMS.412,Millora de les estructures agropecuàries i dels sistemes productius
+PROGRAMS.414,Desenvolupament rural
+PROGRAMS.415,Protecció i desenvolupament dels recursos pesquers
+PROGRAMS.419,"Altres actuacions en agricultura, ramaderia i pesca"
+PROGRAMS.420,Administració General d’Indústria i energia
+PROGRAMS.422,Indústria
+PROGRAMS.423,Mineria
+PROGRAMS.425,Energia
+PROGRAMS.430,"Administració General de Comerç, turisme i petites i mitjanes empreses"
+PROGRAMS.431,Comerç
+PROGRAMS.432,Informació i promoció turística
+PROGRAMS.433,Desenvolupament empresarial
+PROGRAMS.439,Altres actuacions sectorials
+PROGRAMS.440,Administració general del transport
+PROGRAMS.441,Transport de viatgers
+PROGRAMS.442,Infraestructures del transport
+PROGRAMS.443,Transport de mercaderies
+PROGRAMS.450,Administració General d’Infraestructures
+PROGRAMS.452,Recursos Hidràulics
+PROGRAMS.453,Carreteres
+PROGRAMS.454,Camins veïnals
+PROGRAMS.459,Altres infraestructures
+PROGRAMS.462,Investigació i estudis relacionats amb els serveis públics
+PROGRAMS.463,"Investigació científica, tècnica i aplicada"
+PROGRAMS.491,Societat de la informació
+PROGRAMS.492,Gestió del coneixement
+PROGRAMS.493,Protecció de consumidors i usuaris
+PROGRAMS.912,Òrgans de govern
+PROGRAMS.920,Administració General
+PROGRAMS.922,Coordinació i organització institucional de les entitats locals
+PROGRAMS.923,Informació bàsica i estadística
+PROGRAMS.924,Participació ciutadana
+PROGRAMS.925,Atenció als ciutadans
+PROGRAMS.926,Comunicacions internes
+PROGRAMS.929,"Imprevistos, situacions transitòries i contingències d’execució"
+PROGRAMS.931,Política econòmica i fiscal
+PROGRAMS.932,Gestió del sistema tributari
+PROGRAMS.933,Gestió del patrimoni
+PROGRAMS.934,Gestió del deute i de la tresoreria
+PROGRAMS.941,Transferències a Comunitats Autònomes
+PROGRAMS.942,Transferències a Entitats Locals territorials
+PROGRAMS.943,Transferències a altres Entitats Locals
+PROGRAMS.944,Transferències a l’Administració General de l’Estat
+PROGRAMS.1521,Promoció i gestió d’habitatge de protecció pública
+PROGRAMS.1522,Conservació i rehabilitació de l’edificació
+PROGRAMS.1531,Accés als nuclis de població
+PROGRAMS.1532,Pavimentació de vies públiques
+PROGRAMS.1621,Recollida de residus
+PROGRAMS.1622,Gestió de residus sòlids urbans
+PROGRAMS.1623,Tractament de residus
+PROGRAMS.1721,"Protecció contra la contaminació acústica, lumínica i atmosfèrica en zones urbanes"
+PROGRAMS.3321,Biblioteques Públiques
+PROGRAMS.3322,Arxius
+PROGRAMS.4311,Fires
+PROGRAMS.4312,"Mercats, Abastos i Llotges"
+PROGRAMS.4313,Comerç Ambulant
+PROGRAMS.4411,Transport col·lectiu urbà de viatgers
+PROGRAMS.4412,Altres transports de viatgers
+PROGRAMS.9231,Gestió del Padró Municipal d’Habitants
+PROGRAMS.01,Deute Públic
+PROGRAMS.011,Deute Públic
+COMARCA,Comarca
+RENDA_FAMILIAR,Renda mediana
+INDEX_GLOBAL_SDG,Índex global ODS
+TIPUS_GRAFIC,Tipus de gràfic
+PLANS_TITLE,Plans estratègics
+VALORATION_TITLE,Valoració ciutadana
+VALORATION_SUBTITLE,"La valoració ciutadana sobre aspectes relacionats amb els ODS prové d’una selecció de preguntes del Dibaròmetre, l’enquesta sobre la percepció ciutadana del municipi, els serveis i l’administració dels ajuntaments de la província de Barcelona. A continuació, es mostren les preguntes relacionades amb determinats ODS."
+QUESTIONS,Preguntes
+ND,No disponible
+BUDGET_RANKING,Classificació del pressupost per fites
+BUDGET_SUMMARY,"{city} va dedicar **{value}** a l'ODS {sdg} l'any {year}, el {percent} del seu pressupost."
+BUDGET_EVOLUTION,Evolució
+EXPLORE_BUDGET_EVOLUTION,Explora l’evolució del pressupost total o per fites dedicat a l’ODS {sdg}.
+TOTAL,Total
+POINTS_DESCRIPTION,"L’índex global mostra la puntuació agregada del municipi en relació amb els Objectius de Desenvolupament Sostenible. Per al càlcul, s’han normalitzat els indicadors de cada ODS i s’ha obtingut una mitjana ponderada que permet comparar de manera sintètica el grau d’assoliment dels objectius."
+POBLACIO,Població
+SYNTHETIC_INDEX,Índex sintètic
+ANALISI,Anàlisi
+INICI,Inici
+METODOLOGIA,Metodologia
+NAVEGA_PER_ODS,Navega per ODS
+CERCA_ODS,Cerca ODS
+ALL_TARGETS,Totes
+SEE_ALL_TARGETS,Veure indicadors per a totes les fites de l'ODS
+SHOW_ALL_INDICATORS,Es mostren els indicadors de totes les fites de l'ODS {sdg}.
+VEURE_DADES,Veure dades
+FITES_LOCALITZADES,Fites localitzades
+INDICADORS_RELACIONATS,Indicadors relacionats
+NO_INDICATORS_AVAILABLE,Indicadors no disponibles
+RELACIO_ENTRE_ODS,Relació entre ODS
+RELACIO_ENTRE_ODS_DESC,Seleccioneu els ODS per analitzar correlacions entre ells a escala general o per comarca.
+SIZE,Mida del punt
+FACET,Segmentació
+NONE,Cap
+BY_COMARCA,Segmentar per comarca
+SHOW_MEDIAN_LINES,Mostrar medianes
+TOTES,Totes
+INDEX_SINTETIC,Índex sintètic
+INDEX_SINTETIC_TEXT,"La visualització mostra la distribució del valor de l’índex en una escala de 0 a 100, fet que permet comparar els municipis entre ells i detectar diferències territorials."
+VALOR_NORMALITZAT,Valor normalitzat
+ESCALA_LOGARITMICA,Escala logarítmica
+DESCARREGA_INFORME,Descarrega l'informe en PDF
+NA,No aplica
+MAX,Màx.
+MIN,Mín.
+HABITANTS,hab.
+PLA_MUNICIPAL,Pla municipal
+PLA_COMARCAL,Pla comarcal
+PLA_INTERMUNICIPAL,Pla intermunicipal
+ANALISI_DESC,"Aquesta secció té un caràcter exploratori i permet visualitzar de manera conjunta el grau d’assoliment dels diferents ODS als municipis, a través dels índexs sintètics."
+DISTRIBUCIO_ODS,Distribució dels ODS
+DISTRIBUCIO_ODS_DESC,La visualització mostra la distribució dels municipis per a cada ODS i permet identificar patrons i diferències territorials. També es pot filtrar per comarca.
+VISIO_GENERAL,Visió general
+SHOW_TREND_LINE,Mostrar la línia de tendència
+INDICATORS_TEXT,"A continuació, per facilitar una anàlisi més específica, es presenta el detall dels indicadors que componen l’ODS, cadascun amb la seva pròpia unitat de mesura."
+INDICADOR_ASSOCIAT,Aquest indicador està associat a la fita {target}
+TRAM,Tram
+MUNICIPI,Municipi
+TOTS,Tots
+CERCA,Cerca
+EXPLORA_CAPES,Explora les diferents capes d'informació que expliquen el compliment de l'ODS
+INDICATORS_DESCRIPTION,A continuació es mostren els indicadors seleccionats per fer el seguiment del compliment de les fites localitzades associades a l'ODS **{sdg}**. La selecció té en compte la capacitat d’actuació dels governs locals i la disponibilitat de dades estadístiques.
+BUDGET_DESCRIPTION,El pressupost assignat reflecteix els recursos econòmics destinats a iniciatives vinculades a l'ODS **{sdg}**.
+PLANS_ESTRATEGICS,Plans estratègics
+PLANS_ESTRATEGICS_DESCRIPTION,Els plans estratègics s’han dissenyat tenint en compte els principis de l’Agenda 2030. A continuació es mostra la contribució a l'ODS **{sdg}** de les accions dels plans que apliquen al municipi. La contribució s'expressa en percentatges.
+VALORATION,Valoració ciutadana
+VALORATION_DESCRIPTION,"La valoració ciutadana sobre l’ODS **{sdg}** prové d’una selecció de preguntes del Dibaròmetre, l’enquesta sobre la percepció ciutadana del municipi, els serveis i l’administració dels ajuntaments de la província de Barcelona"
+SDG_GENERIC_TEXT,"A continuació es mostra un resum del grau d’assoliment de **{sdg}** als municipis, a partir d’un índex sintètic construït amb una selecció acurada d’indicadors, escollits segons la seva rellevància temàtica i la disponibilitat de dades a escala municipal."
+DESGLOSSAMENT_PLA,Desglossament del programa en temes:
+PLANS_SUBTITLE,"Els plans estratègics s’han dissenyat tenint en compte els principis de l’Agenda 2030. A continuació es mostra la contribució de les accions del pla seleccionat a cadascun dels 17 ODS, contribució expressada en percentatges."
+DOWNLOAD_DATA,Descarrega les dades
+DOWNLOAD_IMAGE,Descarrega la imatge
+METODOLOGIA_SHORT_DESC,"- El procés de localització dels ODS i la selecció de fites aplicables a escala municipal.
+- Els criteris utilitzats per seleccionar els indicadors.
+- Els ajustaments aplicats: ponderació per població, segmentacions, agrupacions, winsorització.
+- El càlcul de l’índex sintètic i la seva interpretació.
+- La cobertura territorial i temporal, i el model d’actualització de dades."
+METODOLOGIA_DESC,"El visor 2030 té com a objectiu mesurar i comparar el grau d’assoliment dels Objectius de Desenvolupament Sostenible (ODS) als municipis de la província de Barcelona mitjançant indicadors ponderats i un índex sintètic.
+
+A continuació es detalla el procediment metodològic."
+METODOLOGIA_PAGE.LOCALITZACIO,Localització dels ODS
+METODOLOGIA_PAGE.LOCALITZACIO_DESC,S’ha dut a terme un procés de localització dels ODS per identificar aquelles fites amb més rellevància al context municipal. Aquest procés ha permès prioritzar les fites relacionades amb àmbits d’actuació directa dels governs locals i amb disponibilitat d’informació estadística.
+METODOLOGIA_PAGE.SELECCIO_INDICADORS,Selecció d’indicadors
+METODOLOGIA_PAGE.SELECCIO_INDICADORS_DESC,"En total, es mostren 76 indicadors, distribuïts entre els 17 ODS, cobrint dimensions socials, econòmiques, ambientals i institucionals. S’ha procurat garantir una distribució equilibrada entre objectius i una representació adequada del territori."
+METODOLOGIA_PAGE.SELECCIO_INDICADORS_TEXT,"**La selecció d’indicadors s’ha realitzat seguint els següents criteris:**
+
+- Disponibilitat de dades per a un nombre representatiu de municipis de la província.
+- Existència de dades històriques amb la màxima continuïtat temporal de dades possible segons la disponibilitat de cada font.
+- Representativitat respecte a la fita de referència.
+- Qualitat de la font (principalment fonts oficials i públiques).
+
+**La selecció d’indicadors es basa en les següents referències:**
+
+- Comissió d’Estadística de les Nacions Unides, en relació amb l’Agenda 2030 per al Desenvolupament Sostenible.
+- Conjunt d’indicadors ODS per a la Unió Europea, liderats per Eurostat.
+- Indicadors dels Objectius de Desenvolupament Sostenible per a Catalunya, desenvolupats per Idescat conjuntament amb el CADS (Consell Assessor per al Desenvolupament Sostenible de Catalunya)."
+METODOLOGIA_PAGE.PONDERACIO,Ponderació i ajustaments metodològics
+METODOLOGIA_PAGE.PONDERACIO_DESC,"Per tal de garantir la comparativa entre municipis amb característiques molt diverses, s’han aplicat diversos ajustaments metodològics als indicadors:"
+METODOLOGIA_PAGE.PONDERACIO_1_TITLE,Ponderació per població
+METODOLOGIA_PAGE.PONDERACIO_1_DESC,"Ponderació per població: en aquells indicadors on el volum absolut podria introduir biaixos s’ha ajustat el valor tenint en compte el nombre d’habitants de cada municipi. Això permet obtenir mesures relatives (per persona o per mil habitants), que són més comparables entre municipis de diferents dimensions."
+METODOLOGIA_PAGE.PONDERACIO_2_TITLE,Ajustaments específics
+METODOLOGIA_PAGE.PONDERACIO_2_DESC,"En alguns casos s’han aplicat càlculs percentuals, segmentacions per col·lectius (per exemple, per sexe o per grups d’edat), així com agrupacions d’indicadors relacionats."
+METODOLOGIA_PAGE.PONDERACIO_3_TITLE,Comparativa territorial amb la comarca i la província
+METODOLOGIA_PAGE.PONDERACIO_3_DESC,"Per facilitar la lectura contextual dels resultats municipals, s’han inclòs valors de referència comarcals i provincials. En els casos en què la font de dades no proporciona informació agregada directament per comarca o província, s’ha calculat la mitjana estadística a partir dels valors disponibles dels municipis de cada àmbit territorial."
+METODOLOGIA_PAGE.PONDERACIO_4_TITLE,Winsorització de valors extrems
+METODOLOGIA_PAGE.PONDERACIO_4_DESC,"Per evitar que valors atípics (outliers) distorsionin els resultats dels indicadors i de l’índex sintètic, s’ha aplicat un procés de winsorització. Aquest mètode consisteix a limitar els valors més extrems d’un indicador substituint-los pels percentils límit. D’aquesta manera, es redueix l’impacte de casos extrems sense eliminar dades, garantit que les dades siguin comparables."
+METODOLOGIA_PAGE.INDEX_SINTETIC,Càlcul de l’índex sintètic
+METODOLOGIA_PAGE.INDEX_SINTETIC_DESC,"L’índex sintètic de compliment dels ODS per municipi es construeix a partir d’una selecció específica d’indicadors per a cada ODS, escollits en funció de la seva rellevància temàtica i de la disponibilitat de dades amb cobertura municipal.
+
+A cada indicador se li assigna un pes específic dins de l’objectiu corresponent, d’acord amb criteris tècnics establerts per garantir un equilibri entre representativitat i qualitat estadística. Els valors ponderats s’agreguen per calcular un índex global per municipi, expressat en una escala de 0 a 100, on 100 representa el màxim grau d’assoliment dels ODS en el conjunt dels indicadors considerats."
+METODOLOGIA_PAGE.INDEX_SINTETIC_FORMULA,"**Fórmula general de l’índex:**
+
+- Indicador positiu = ((Valor - Min) / (Max - Min) * 100) * pes
+- Indicador negatiu = ((Max - Valor) / (Max - Min) * 100) * pes"
+METODOLOGIA_PAGE.COBERTURA_TITLE,Cobertura territorial i temporal
+METODOLOGIA_PAGE.COBERTURA_DESC,El visor inclou els municipis de la província de Barcelona que disposen de dades suficients per al càlcul de l’índex. El període analitzat s’adapta a la disponibilitat de dades de cada font i pot variar segons l’indicador.
+METODOLOGIA_PAGE.ACTUALITZACIO_TITLE,Actualització i millora contínua
+METODOLOGIA_PAGE.ACTUALITZACIO_DESC,"La metodologia està dissenyada per ser escalable i adaptable. S’hi preveu la incorporació progressiva de nous indicadors i fites, així com l’actualització periòdica de dades. Tots els canvis metodològics futurs seran documentats i publicats."
+METODOLOGIA_PAGE.NOTA_TITLE,Nota sobre les dades
+METODOLOGIA_PAGE.NOTA_DESC,"En alguns casos puntuals, les dades més recents poden contenir valors anòmals o no disponibles per a determinats municipis, a causa de canvis en les fonts originals o incidències en els processos d’actualització automàtica. En aquests casos, s’opta per mostrar únicament els anys i valors considerats fiables."
+footer.sections.1.title,Institució
+footer.sections.1.items.1.text,La Diputació de Barcelona
+footer.sections.1.items.1.link,https://www.diba.cat/es/web/ladiputacio
+footer.sections.1.items.2.text,Recintes
+footer.sections.1.items.2.link,https://www.diba.cat/es/web/recintes
+footer.sections.1.items.3.text,Contacte
+footer.sections.1.items.3.link,https://www.diba.cat/ca/contacte
+footer.sections.2.title,Actualitat
+footer.sections.2.items.1.text,El Diari de la Diba
+footer.sections.2.items.1.link,https://www.diba.cat/ca/web/el-diari
+footer.sections.2.items.2.text,Els nostres butlletins
+footer.sections.2.items.2.link,https://www.diba.cat/ca/web/sala-de-premsa/butlletins-diba
+footer.sections.2.items.3.text,Comunitats de pràctica
+footer.sections.2.items.3.link,https://www.diba.cat/ca/comunitats-de-practica
+footer.sections.3.title,Directori
+footer.sections.3.items.1.text,Directori de contacte
+footer.sections.3.items.1.link,https://www.diba.cat/ca/web/directori
+footer.sections.3.items.2.text,Directori de xarxes socials
+footer.sections.3.items.2.link,https://www.diba.cat/ca/xarxes-socials
+footer.sections.3.items.3.text,Directori d’apps
+footer.sections.3.items.3.link,https://www.diba.cat/ca/apps
+footer.legal.text,Avís legal
+footer.legal.link,https://www.diba.cat/ca/avislegal
+footer.access.text,Accessibilitat
+footer.access.link,https://www.diba.cat/ca/accessibilitat
+footer.mapa.text,Mapa web
+footer.mapa.link,https://www.diba.cat/ca/mapa-web
+footer.address,"Diputació de Barcelona. Rambla de Catalunya, 126. 08008 Barcelona. Tel. 934 022 222"
+RELACIO_ENTRE_INDICADORS,Relació entre indicadors
+RELACIO_ENTRE_INDICADORS_DESC,"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia corporis perferendis impedit facere. Hic sapiente quis ex laboriosam repellendus, tempore alias eum aliquid repudiandae, in quidem!"
+COMPARE_WITH,Comparar amb
+SEGMENT_BY,Veure dades per
+COMPARE_PREVIOUS,Comparar amb enquesta anterior
+DIBAROMETRE_NO_QUESTIONS,Per a aquest ODS no hi ha preguntes de valoració ciutadana associades.
+DIBAROMETRE_NO_DATA,No hi ha dades disponibles per {municipi}.
+DIBAROMETRE_NO_DATA_YEAR,No hi ha dades disponibles per a aquest any.
+MENU,Menú
+CONTRIBUCIO_ODS,%
+LLISTA_INDICADORS,Llista d'indicadors de l'ODS
+PREVIOUS_SDG,ODS anterior
+NEXT_SDG,ODS següent
+YEAR,Any
+PLA_ESTRATEGIC,Pla estratègic
+CONSULTEU_CAPES_INFO,Consulteu les següents capes d'informació
+FONT_PRESSUPOST,Font de dades de pressupostos: 
+PRESSUPOST_LINK,Gobierto budgets data
+INDEX_SDG,Índex ODS {sdg}
+SOURCE_CONTEXT,Fonts
+SOURCE_CONTEXT_INFO,"- Població: [Municipis de la província de Barcelona.](https://www.diba.cat/ca/web/municipis) (Diputació de Barcelona)
+- Renda: [Indicadores de renta media y mediana](https://www.ine.es/jaxiT3/Tabla.htm?t=30896) (INE)"
+NO_DATE_FOR_BUDGET,No hi ha assignació de pressupost per aquest ODS
+AVIS_LEGAL_PAGE.TITLE,Avís legal
+AVIS_LEGAL_PAGE.TEXT,"## Avís legal
+
+Aquest portal, titularitat de la Diputació de Barcelona, amb NIF P0800000B, domicili a la rambla de Catalunya, 126 (08008 Barcelona) i telèfon 934 022 222 ([contacte correu electrònic](mailto:contacte{'@'}diba.cat)), està constituït pels llocs web associats als dominis [https://www.diba.cat](https://www.diba.cat), [https://www.sostenible.cat](https://www.sostenible.cat).
+
+## Propietat intel·lectual i industrial
+Aquest lloc web i tots els seus continguts, incloent-hi els textos, les imatges, els àudios, les bases de dades, els codis i qualsevol altre material, són propietat de la Diputació de Barcelona i dels ens de gestió que hi estan vinculats, o de tercers que hagin autoritzat l'ús d'aquests continguts a la Diputació.
+
+Tot aquest material està emparat per la legislació de protecció de la propietat intel·lectual. Els seus titulars es reserven les accions establertes legalment per a reparar els danys i perjudicis causats per qualsevol acte que vulneri els drets de propietat intel·lectual sobre aquests continguts.
+
+Qualsevol accés a aquest lloc web està subjecte a les condicions següents:
+
+- Queda totalment prohibit distribuir, copiar, modificar o trametre tant el contingut de les pàgines com el codi, llevat que es disposi de l’autorització expressa i per escrit de la Diputació de Barcelona. Els usuaris no poden vendre ni cedir ni que sigui gratuïtament, sota cap concepte, la informació que es facilita en aquesta pàgina.
+- DIBA és una marca legalment registrada. Queda absolutament prohibit utilitzar-la o reproduir-la sense l’autorització prèvia i per escrit de la Diputació. Resten protegits en els mateixos termes els drets de propietat industrial referits als serveis i productes de la Diputació de Barcelona i dels ens de gestió que hi estan vinculats, que apareguin en el web o sobre els quals es doni informació.
+- L’usuari es compromet a utilitzar aquest servei sense incórrer en activitats que puguin ser considerades il·lícites o il·legals, que infringeixin els drets de la Diputació de Barcelona o de tercers, o que puguin atemptar contra les normes vigents. La Diputació de Barcelona no es responsable de l’ús de tercers de la informació continguda en el web, si bé caldrà atenir-se a les prescripcions i els advertiments que s’estableixin per a determinats documents i aplicacions.
+
+## Política de privacitat
+- La Diputació de Barcelona compleix estrictament la normativa vigent sobre protecció de dades de caràcter personal i adopta les mesures legalment exigibles per a protegir les vostres dades personals, i preservar-ne la privacitat i la confidencialitat.
+- Les comunicacions de l’usuari del web que continguin dades personals es fan en un entorn segur (a l’URL del web hi ha la icona d’un cadenat tancat) amb l’objectiu de garantir, en la mesura del que sigui possible, la confidencialitat de la informació i la privacitat dels usuaris. Aquest entorn permet encriptar la informació transmesa entre els usuaris i la Diputació.
+- La Diputació de Barcelona és la responsable de les dades recollides en els seus formularis. Si actua per compte d’un ens local o de qualsevol altre organisme com a encarregada del tractament, ha d’indicar-ne el responsable.
+- La informació detallada sobre el tractament de dades en cada cas s'ha d'incloure en el mateix formulari (la finalitat del tractament, la cessió a tercers, el termini de conservació, etc.).
+- Per a qualsevol consulta o queixa relacionades amb el tractament de les vostres dades personals, la Diputació de Barcelona posa a la vostra disposició la bústia del delegat de protecció de dades ([dpd{'@'}diba.cat](mailto:dpd{'@'}diba.cat)).
+- Tot i que per aquesta via obtindreu la resposta adequada, si ho considereu oportú, podeu presentar la reclamació corresponent al web de l’[Autoritat Catalana de Protecció de Dades (APDCAT)](https://apdcat.gencat.cat).
+- Les dades, quan ja no siguin necessàries per a la finalitat que en va motivar la recollida, es conservaran seguint les instruccions de gestió documental i arxiu de la Diputació de Barcelona.
+- Podeu exercir els drets d’accés, rectificació, supressió, limitació o oposició al tractament de les vostres dades, en els termes inclosos en la legislació vigent, a la [Seu electrònica](https://seuelectronica.diba.cat/serveis-de-la-seu/proteccio-dades), presencialment o per correu a l'[Oficina del Registre General de la Diputació de Barcelona](https://www.diba.cat/web/registre), adjuntant-hi una còpia del vostre document d’identitat.
+
+## Política de galetes
+Aquest web utilitza galetes (cookies) per a ajudar el lloc web a analitzar l'ús que els usuaris en fan, per al funcionament i visualització correctes dels continguts publicats, i per a recollir estadístiques.
+
+Per a la recollida d'estadístiques s'utilitza de [Google Analytics](https://analytics.google.com). La informació que generen les galetes (incloent-hi l'adreça IP) és directament transmesa a Google que l’arxiva en els servidors del seu lloc web. Amb la finalitat d’anonimitzar l’adreça IP, la Diputació de Barcelona té activada l’opció «Anonymize IP», incorporada en el mateix sistema, que emmascara els tres darrers dígits de l’adreça convertint-los en zeros.
+
+Aquest portal incorpora ginys de serveis de tercers i enllaços a llocs web de tercers, i les seves polítiques de privacitat són alienes a les de la Diputació de Barcelona. En accedir a aquells llocs podeu decidir si accepteu les seves polítiques de privacitat i de galetes. Amb caràcter general, si navegueu per Internet podeu acceptar o rebutjar les galetes de tercers des de les opcions de configuració del navegador. En cada navegador el procediment és diferent i mitjançant la funció d'ajuda mostrarà com les heu d'acceptar o rebutjar.
+
+Les cookies de tercers que s'utilitzen:
+
+{'|'} Tercer {'|'} Finalitat {'|'}
+{'|'}--------------------{'|'}---------------------{'|'}
+{'|'} Google Analytics {'|'} Analítica web {'|'}
+
+Si malgrat tot voleu desactivar les galetes que recullen la informació podeu rebutjar-ne l’ús per mitjà de la selecció de la configuració apropiada del vostre navegador. No obstant això, heu de saber que, si ho feu, pot ser que no pugueu fer ús de totes les funcionalitats i serveis d’aquest lloc web.
+
+També es poden esborrar les dades de navegació, incloent-hi les cookies, des del navegador que utilitzes. Consulta les opcions i instruccions que ofereix cada navegador.
+
+## Responsabilitat dels continguts
+- La Diputació de Barcelona no garanteix que aquest web i el seu servidor estiguin lliures de virus i no es fa responsable dels possibles danys o perjudicis que es puguin derivar d’interferències, omissions, interrupcions, virus informàtics, avaries telefòniques o desconnexions en el funcionament operatiu d’aquest sistema electrònic, motivats per causes alienes a la Diputació, de retards o bloquejos en l’ús d’aquest sistema electrònic causats per deficiències o sobrecàrregues de línies telefòniques o sobrecàrregues en el sistema d’internet o en altres sistemes electrònics, i de danys que puguin ser causats per terceres persones mitjançant intromissions il·legítimes fora del control de la Diputació.
+- La informació administrativa facilitada a través d’aquest web no substitueix la publicitat legal de les lleis, de les disposicions generals i dels actes que hagin de ser publicats formalment en els diaris oficials, l’edició dels quals és l’únic instrument que dona fe de l’autenticitat del seu contingut.
+- La Diputació de Barcelona no és responsable de la informació que es pugui obtenir a través d’enllaços o que provingui de fonts alienes a aquesta administració.
+- La Diputació de Barcelona no es fa responsable de la legalitat d’altres llocs web de tercers des dels quals es pugui accedir al portal. La Diputació de Barcelona tampoc respon de la legalitat d’altres llocs web de tercers, que puguin estar-hi vinculats o enllaçats des d’aquest portal.
+- La Diputació de Barcelona no garanteix la disponibilitat i continuïtat del funcionament del web i dels seus serveis. Quan sigui raonablement possible, s’advertirà prèviament de les interrupcions en el funcionament del web i dels serveis.
+- La Diputació de Barcelona es reserva el dret a modificar unilateralment, en qualsevol moment i sense avís previ, la presentació, la configuració i els continguts del web, i l’oferta de serveis i les condicions que es requereixen per a utilitzar-lo.
+- L’ús d’aquest web implica l’acceptació plena i sense reserves dels termes i les condicions continguts en el present avís legal.
+
+## Llei aplicable
+Els possibles conflictes relatius a aquest web es regeixen exclusivament pel dret de l’Estat espanyol i de la Comunitat Autònoma de Catalunya, i els jutjats de Barcelona són els únics competents per a decidir. Tot usuari del web, independentment de la jurisdicció territorial des de la qual hi accedeixi, accepta el compliment i el respecte d’aquesta clàusula amb renúncia expressa a qualsevol altre fur que li pogués correspondre."

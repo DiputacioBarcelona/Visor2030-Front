@@ -1,0 +1,312 @@
+MUN_INE,Codi Mun,Municipi,Municipi amb article,Codi Com,Comarca,Population,id_tram_poblacio,Tram etiqueta
+08001,8001,Abrera,Abrera,11,Baix Llobregat,"12,489",6,10.001-20.000
+08002,8002,Aguilar de Segarra,Aguilar de Segarra,7,Bages,288,1,0-500
+08003,8003,Alella,Alella,21,Maresme,"9,801",5,5.001-10.000
+08004,8004,Alpens,Alpens,24,Osona,266,1,0-500
+08005,8005,Ametlla del Vallès (L'),L'Ametlla del Vallès,41,V. Oriental,"8,462",5,5.001-10.000
+08006,8006,Arenys de Mar,Arenys de Mar,21,Maresme,"15,776",6,10.001-20.000
+08007,8007,Arenys de Munt,Arenys de Munt,21,Maresme,"8,931",5,5.001-10.000
+08008,8008,Argençola,Argençola,6,Anoia,217,1,0-500
+08009,8009,Argentona,Argentona,21,Maresme,"12,452",6,10.001-20.000
+08010,8010,Artés,Artés,7,Bages,"5,698",5,5.001-10.000
+08011,8011,Avià,Avià,14,Berguedà,"2,226",3,1.001-3.000
+08012,8012,Avinyó,Avinyó,7,Bages,"2,275",3,1.001-3.000
+08013,8013,Avinyonet del Penedès,Avinyonet del Penedès,3,Alt Penedès,"1,701",3,1.001-3.000
+08014,8014,Aiguafreda,Aiguafreda,41,V. Oriental,"2,504",3,1.001-3.000
+08015,8015,Badalona,Badalona,13,Barcelonès,"220,440",8,+50000
+08016,8016,Bagà,Bagà,14,Berguedà,"2,138",3,1.001-3.000
+08017,8017,Balenyà,Balenyà,24,Osona,"3,821",4,3.001-5.000
+08018,8018,Balsareny,Balsareny,7,Bages,"3,159",4,3.001-5.000
+08019,8019,Barcelona,Barcelona,13,Barcelonès,"1,636,762",8,+50000
+08020,8020,Begues,Begues,11,Baix Llobregat,"7,098",5,5.001-10.000
+08021,8021,Bellprat,Bellprat,6,Anoia,64,1,0-500
+08022,8022,Berga,Berga,14,Berguedà,"16,494",6,10.001-20.000
+08023,8023,Bigues i Riells del Fai,Bigues i Riells del Fai,41,V. Oriental,"9,092",5,5.001-10.000
+08024,8024,Borredà,Borredà,14,Berguedà,445,1,0-500
+08025,8025,Bruc (El),El Bruc,6,Anoia,"2,050",3,1.001-3.000
+08026,8026,Brull (El),El Brull,24,Osona,263,1,0-500
+08027,8027,Cabanyes (Les),Les Cabanyes,3,Alt Penedès,964,2,501-1.000
+08028,8028,Cabrera d'Anoia,Cabrera d'Anoia,6,Anoia,"1,410",3,1.001-3.000
+08029,8029,Cabrera de Mar,Cabrera de Mar,21,Maresme,"4,680",4,3.001-5.000
+08030,8030,Cabrils,Cabrils,21,Maresme,"7,439",5,5.001-10.000
+08031,8031,Calaf,Calaf,6,Anoia,"3,535",4,3.001-5.000
+08032,8032,Caldes d'Estrac,Caldes d'Estrac,21,Maresme,"2,982",3,1.001-3.000
+08033,8033,Caldes de Montbui,Caldes de Montbui,41,V. Oriental,"17,554",6,10.001-20.000
+08034,8034,Calders,Calders,42,Moianès,970,2,501-1.000
+08035,8035,Calella,Calella,21,Maresme,"19,069",6,10.001-20.000
+08036,8036,Calonge de Segarra,Calonge de Segarra,6,Anoia,188,1,0-500
+08037,8037,Calldetenes,Calldetenes,24,Osona,"2,489",3,1.001-3.000
+08038,8038,Callús,Callús,7,Bages,"2,140",3,1.001-3.000
+08039,8039,Campins,Campins,41,V. Oriental,529,2,501-1.000
+08040,8040,Canet de Mar,Canet de Mar,21,Maresme,"14,526",6,10.001-20.000
+08041,8041,Canovelles,Canovelles,41,V. Oriental,"16,629",6,10.001-20.000
+08042,8042,Cànoves i Samalús,Cànoves i Samalús,41,V. Oriental,"3,117",4,3.001-5.000
+08043,8043,Canyelles,Canyelles,17,Garraf,"4,647",4,3.001-5.000
+08044,8044,Capellades,Capellades,6,Anoia,"5,293",5,5.001-10.000
+08045,8045,Capolat,Capolat,14,Berguedà,94,1,0-500
+08046,8046,Cardedeu,Cardedeu,41,V. Oriental,"18,357",6,10.001-20.000
+08047,8047,Cardona,Cardona,7,Bages,"4,636",4,3.001-5.000
+08048,8048,Carme,Carme,6,Anoia,765,2,501-1.000
+08049,8049,Casserres,Casserres,14,Berguedà,"1,608",3,1.001-3.000
+08050,8050,Castellar del Riu,Castellar del Riu,14,Berguedà,169,1,0-500
+08051,8051,Castellar del Vallès,Castellar del Vallès,40,V. Occidental,"24,187",7,20.001-50.000
+08052,8052,Castellar de n'Hug,Castellar de n'Hug,14,Berguedà,159,1,0-500
+08053,8053,Castellbell i el Vilar,Castellbell i el Vilar,7,Bages,"3,647",4,3.001-5.000
+08054,8054,Castellbisbal,Castellbisbal,40,V. Occidental,"12,390",6,10.001-20.000
+08055,8055,Castellcir,Castellcir,42,Moianès,752,2,501-1.000
+08056,8056,Castelldefels,Castelldefels,11,Baix Llobregat,"67,004",8,+50000
+08057,8057,Castell de l'Areny,Castell de l'Areny,14,Berguedà,68,1,0-500
+08058,8058,Castellet i la Gornal,Castellet i la Gornal,3,Alt Penedès,"2,292",3,1.001-3.000
+08059,8059,Castellfollit del Boix,Castellfollit del Boix,7,Bages,436,1,0-500
+08060,8060,Castellfollit de Riubregós,Castellfollit de Riubregós,6,Anoia,151,1,0-500
+08061,8061,Castellgalí,Castellgalí,7,Bages,"2,062",3,1.001-3.000
+08062,8062,Castellnou de Bages,Castellnou de Bages,7,Bages,"1,397",3,1.001-3.000
+08063,8063,Castellolí,Castellolí,6,Anoia,619,2,501-1.000
+08064,8064,Castellterçol,Castellterçol,42,Moianès,"2,463",3,1.001-3.000
+08065,8065,Castellví de la Marca,Castellví de la Marca,3,Alt Penedès,"1,535",3,1.001-3.000
+08066,8066,Castellví de Rosanes,Castellví de Rosanes,11,Baix Llobregat,"1,884",3,1.001-3.000
+08067,8067,Centelles,Centelles,24,Osona,"7,404",5,5.001-10.000
+08068,8068,Cervelló,Cervelló,11,Baix Llobregat,"9,054",5,5.001-10.000
+08069,8069,Collbató,Collbató,11,Baix Llobregat,"4,466",4,3.001-5.000
+08070,8070,Collsuspina,Collsuspina,42,Moianès,342,1,0-500
+08071,8071,Copons,Copons,6,Anoia,310,1,0-500
+08072,8072,Corbera de Llobregat,Corbera de Llobregat,11,Baix Llobregat,"14,822",6,10.001-20.000
+08073,8073,Cornellà de Llobregat,Cornellà de Llobregat,11,Baix Llobregat,"88,592",8,+50000
+08074,8074,Cubelles,Cubelles,17,Garraf,"15,329",6,10.001-20.000
+08075,8075,Dosrius,Dosrius,21,Maresme,"5,481",5,5.001-10.000
+08076,8076,Esparreguera,Esparreguera,11,Baix Llobregat,"22,251",7,20.001-50.000
+08077,8077,Esplugues de Llobregat,Esplugues de Llobregat,11,Baix Llobregat,"46,680",7,20.001-50.000
+08078,8078,Espunyola (L'),L'Espunyola,14,Berguedà,254,1,0-500
+08079,8079,Estany (L'),L'Estany,42,Moianès,406,1,0-500
+08080,8080,Fígols,Fígols,14,Berguedà,42,1,0-500
+08081,8081,Fogars de Montclús,Fogars de Montclús,41,V. Oriental,470,1,0-500
+08082,8082,Fogars de la Selva,Fogars de la Selva,34,Selva,"1,451",3,1.001-3.000
+08083,8083,Folgueroles,Folgueroles,24,Osona,"2,267",3,1.001-3.000
+08084,8084,Fonollosa,Fonollosa,7,Bages,"1,453",3,1.001-3.000
+08085,8085,Font-rubí,Font-rubí,3,Alt Penedès,"1,327",3,1.001-3.000
+08086,8086,Franqueses del Vallès (Les),Les Franqueses del Vallès,41,V. Oriental,"20,092",7,20.001-50.000
+08087,8087,Gallifa,Gallifa,40,V. Occidental,172,1,0-500
+08088,8088,Garriga (La),La Garriga,41,V. Oriental,"16,514",6,10.001-20.000
+08089,8089,Gavà,Gavà,11,Baix Llobregat,"46,771",7,20.001-50.000
+08090,8090,Gaià,Gaià,7,Bages,175,1,0-500
+08091,8091,Gelida,Gelida,3,Alt Penedès,"7,533",5,5.001-10.000
+08092,8092,Gironella,Gironella,14,Berguedà,"4,826",4,3.001-5.000
+08093,8093,Gisclareny,Gisclareny,14,Berguedà,25,1,0-500
+08094,8094,Granada (La),La Granada,3,Alt Penedès,"2,157",3,1.001-3.000
+08095,8095,Granera,Granera,42,Moianès,69,1,0-500
+08096,8096,Granollers,Granollers,41,V. Oriental,"61,275",8,+50000
+08097,8097,Gualba,Gualba,41,V. Oriental,"1,500",3,1.001-3.000
+08098,8098,Sant Salvador de Guardiola,Sant Salvador de Guardiola,7,Bages,"3,179",4,3.001-5.000
+08099,8099,Guardiola de Berguedà,Guardiola de Berguedà,14,Berguedà,908,2,501-1.000
+08100,8100,Gurb,Gurb,24,Osona,"2,681",3,1.001-3.000
+08101,8101,Hospitalet de Llobregat (L'),L'Hospitalet de Llobregat,13,Barcelonès,"264,923",8,+50000
+08102,8102,Igualada,Igualada,6,Anoia,"39,967",7,20.001-50.000
+08103,8103,Jorba,Jorba,6,Anoia,835,2,501-1.000
+08104,8104,Llacuna (La),La Llacuna,6,Anoia,870,2,501-1.000
+08105,8105,Llagosta (La),La Llagosta,41,V. Oriental,"13,480",6,10.001-20.000
+08106,8106,Llinars del Vallès,Llinars del Vallès,41,V. Oriental,"9,938",5,5.001-10.000
+08107,8107,Lliçà d'Amunt,Lliçà d'Amunt,41,V. Oriental,"15,256",6,10.001-20.000
+08108,8108,Lliçà de Vall,Lliçà de Vall,41,V. Oriental,"6,542",5,5.001-10.000
+08109,8109,Lluçà,Lluçà,24,Osona,273,1,0-500
+08110,8110,Malgrat de Mar,Malgrat de Mar,21,Maresme,"18,579",6,10.001-20.000
+08111,8111,Malla,Malla,24,Osona,273,1,0-500
+08112,8112,Manlleu,Manlleu,24,Osona,"20,573",7,20.001-50.000
+08113,8113,Manresa,Manresa,7,Bages,"77,714",8,+50000
+08114,8114,Martorell,Martorell,11,Baix Llobregat,"28,189",7,20.001-50.000
+08115,8115,Martorelles,Martorelles,41,V. Oriental,"4,801",4,3.001-5.000
+08116,8116,Masies de Roda (Les),Les Masies de Roda,24,Osona,700,2,501-1.000
+08117,8117,Masies de Voltregà (Les),Les Masies de Voltregà,24,Osona,"3,141",4,3.001-5.000
+08118,8118,Masnou (El),El Masnou,21,Maresme,"23,515",7,20.001-50.000
+08119,8119,Masquefa,Masquefa,6,Anoia,"9,211",5,5.001-10.000
+08120,8120,Matadepera,Matadepera,40,V. Occidental,"9,326",5,5.001-10.000
+08121,8121,Mataró,Mataró,21,Maresme,"128,265",8,+50000
+08122,8122,Mediona,Mediona,3,Alt Penedès,"2,322",3,1.001-3.000
+08123,8123,Molins de Rei,Molins de Rei,11,Baix Llobregat,"25,868",7,20.001-50.000
+08124,8124,Mollet del Vallès,Mollet del Vallès,41,V. Oriental,"51,318",8,+50000
+08125,8125,Montcada i Reixac,Montcada i Reixac,40,V. Occidental,"36,239",7,20.001-50.000
+08126,8126,Montgat,Montgat,21,Maresme,"12,041",6,10.001-20.000
+08127,8127,Monistrol de Montserrat,Monistrol de Montserrat,7,Bages,"3,034",4,3.001-5.000
+08128,8128,Monistrol de Calders,Monistrol de Calders,42,Moianès,682,2,501-1.000
+08129,8129,Muntanyola,Muntanyola,24,Osona,634,2,501-1.000
+08130,8130,Montclar,Montclar,14,Berguedà,136,1,0-500
+08131,8131,Montesquiu,Montesquiu,24,Osona,998,2,501-1.000
+08132,8132,Montmajor,Montmajor,14,Berguedà,464,1,0-500
+08133,8133,Montmaneu,Montmaneu,6,Anoia,150,1,0-500
+08134,8134,Figaró-Montmany,Figaró-Montmany,41,V. Oriental,"1,114",3,1.001-3.000
+08135,8135,Montmeló,Montmeló,41,V. Oriental,"8,755",5,5.001-10.000
+08136,8136,Montornès del Vallès,Montornès del Vallès,41,V. Oriental,"16,393",6,10.001-20.000
+08137,8137,Montseny,Montseny,41,V. Oriental,342,1,0-500
+08138,8138,Moià,Moià,42,Moianès,"6,267",5,5.001-10.000
+08139,8139,Mura,Mura,7,Bages,224,1,0-500
+08140,8140,Navarcles,Navarcles,7,Bages,"5,977",5,5.001-10.000
+08141,8141,Navàs,Navàs,7,Bages,"6,020",5,5.001-10.000
+08142,8142,Nou de Berguedà (La),La Nou de Berguedà,14,Berguedà,161,1,0-500
+08143,8143,Òdena,Òdena,6,Anoia,"3,643",4,3.001-5.000
+08144,8144,Olvan,Olvan,14,Berguedà,854,2,501-1.000
+08145,8145,Olèrdola,Olèrdola,3,Alt Penedès,"3,692",4,3.001-5.000
+08146,8146,Olesa de Bonesvalls,Olesa de Bonesvalls,3,Alt Penedès,"1,810",3,1.001-3.000
+08147,8147,Olesa de Montserrat,Olesa de Montserrat,11,Baix Llobregat,"23,904",7,20.001-50.000
+08148,8148,Olivella,Olivella,17,Garraf,"3,799",4,3.001-5.000
+08149,8149,Olost,Olost,24,Osona,"1,198",3,1.001-3.000
+08150,8150,Orís,Orís,24,Osona,315,1,0-500
+08151,8151,Oristà,Oristà,24,Osona,541,2,501-1.000
+08152,8152,Orpí,Orpí,6,Anoia,147,1,0-500
+08153,8153,Òrrius,Òrrius,21,Maresme,739,2,501-1.000
+08154,8154,Pacs del Penedès,Pacs del Penedès,3,Alt Penedès,922,2,501-1.000
+08155,8155,Palafolls,Palafolls,21,Maresme,"9,405",5,5.001-10.000
+08156,8156,Palau-solità i Plegamans,Palau-solità i Plegamans,40,V. Occidental,"14,771",6,10.001-20.000
+08157,8157,Pallejà,Pallejà,11,Baix Llobregat,"11,508",6,10.001-20.000
+08158,8158,Papiol (El),El Papiol,11,Baix Llobregat,"4,145",4,3.001-5.000
+08159,8159,Parets del Vallès,Parets del Vallès,41,V. Oriental,"19,082",6,10.001-20.000
+08160,8160,Perafita,Perafita,24,Osona,395,1,0-500
+08161,8161,Piera,Piera,6,Anoia,"15,603",6,10.001-20.000
+08162,8162,Hostalets de Pierola (Els),Els Hostalets de Pierola,6,Anoia,"2,973",3,1.001-3.000
+08163,8163,Pineda de Mar,Pineda de Mar,21,Maresme,"27,272",7,20.001-50.000
+08164,8164,Pla del Penedès (El),El Pla del Penedès,3,Alt Penedès,"1,256",3,1.001-3.000
+08165,8165,Pobla de Claramunt (La),La Pobla de Claramunt,6,Anoia,"2,193",3,1.001-3.000
+08166,8166,Pobla de Lillet (La),La Pobla de Lillet,14,Berguedà,"1,095",3,1.001-3.000
+08167,8167,Polinyà,Polinyà,40,V. Occidental,"8,479",5,5.001-10.000
+08168,8168,Pontons,Pontons,3,Alt Penedès,532,2,501-1.000
+08169,8169,Prat de Llobregat (El),El Prat de Llobregat,11,Baix Llobregat,"64,599",8,+50000
+08170,8170,Prats de Rei (Els),Els Prats de Rei,6,Anoia,532,2,501-1.000
+08171,8171,Prats de Lluçanès,Prats de Lluçanès,24,Osona,"2,569",3,1.001-3.000
+08172,8172,Premià de Mar,Premià de Mar,21,Maresme,"28,119",7,20.001-50.000
+08174,8174,Puigdàlber,Puigdàlber,3,Alt Penedès,526,2,501-1.000
+08175,8175,Puig-reig,Puig-reig,14,Berguedà,"4,178",4,3.001-5.000
+08176,8176,Pujalt,Pujalt,6,Anoia,210,1,0-500
+08177,8177,Quar (La),La Quar,14,Berguedà,53,1,0-500
+08178,8178,Rajadell,Rajadell,7,Bages,548,2,501-1.000
+08179,8179,Rellinars,Rellinars,40,V. Occidental,780,2,501-1.000
+08180,8180,Ripollet,Ripollet,40,V. Occidental,"38,665",7,20.001-50.000
+08181,8181,Roca del Vallès (La),La Roca del Vallès,41,V. Oriental,"10,650",6,10.001-20.000
+08182,8182,Pont de Vilomara i Rocafort (El),El Pont de Vilomara i Rocafort,7,Bages,"3,830",4,3.001-5.000
+08183,8183,Roda de Ter,Roda de Ter,24,Osona,"6,301",5,5.001-10.000
+08184,8184,Rubí,Rubí,40,V. Occidental,"77,464",8,+50000
+08185,8185,Rubió,Rubió,6,Anoia,239,1,0-500
+08187,8187,Sabadell,Sabadell,40,V. Occidental,"213,644",8,+50000
+08188,8188,Sagàs,Sagàs,14,Berguedà,148,1,0-500
+08189,8189,Sant Pere Sallavinera,Sant Pere Sallavinera,6,Anoia,152,1,0-500
+08190,8190,Saldes,Saldes,14,Berguedà,274,1,0-500
+08191,8191,Sallent,Sallent,7,Bages,"6,658",5,5.001-10.000
+08192,8192,Santpedor,Santpedor,7,Bages,"7,554",5,5.001-10.000
+08193,8193,Sant Iscle de Vallalta,Sant Iscle de Vallalta,21,Maresme,"1,332",3,1.001-3.000
+08194,8194,Sant Adrià de Besòs,Sant Adrià de Besòs,13,Barcelonès,"37,097",7,20.001-50.000
+08195,8195,Sant Agustí de Lluçanès,Sant Agustí de Lluçanès,24,Osona,85,1,0-500
+08196,8196,Sant Andreu de la Barca,Sant Andreu de la Barca,11,Baix Llobregat,"27,558",7,20.001-50.000
+08197,8197,Sant Andreu de Llavaneres,Sant Andreu de Llavaneres,21,Maresme,"10,968",6,10.001-20.000
+08198,8198,Sant Antoni de Vilamajor,Sant Antoni de Vilamajor,41,V. Oriental,"6,135",5,5.001-10.000
+08199,8199,Sant Bartomeu del Grau,Sant Bartomeu del Grau,24,Osona,858,2,501-1.000
+08200,8200,Sant Boi de Llobregat,Sant Boi de Llobregat,11,Baix Llobregat,"83,605",8,+50000
+08201,8201,Sant Boi de Lluçanès,Sant Boi de Lluçanès,24,Osona,541,2,501-1.000
+08202,8202,Sant Celoni,Sant Celoni,41,V. Oriental,"17,904",6,10.001-20.000
+08203,8203,Sant Cebrià de Vallalta,Sant Cebrià de Vallalta,21,Maresme,"3,385",4,3.001-5.000
+08204,8204,Sant Climent de Llobregat,Sant Climent de Llobregat,11,Baix Llobregat,"4,129",4,3.001-5.000
+08205,8205,Sant Cugat del Vallès,Sant Cugat del Vallès,40,V. Occidental,"91,006",8,+50000
+08206,8206,Sant Cugat Sesgarrigues,Sant Cugat Sesgarrigues,3,Alt Penedès,"1,007",3,1.001-3.000
+08207,8207,Sant Esteve de Palautordera,Sant Esteve de Palautordera,41,V. Oriental,"2,820",3,1.001-3.000
+08208,8208,Sant Esteve Sesrovires,Sant Esteve Sesrovires,11,Baix Llobregat,"7,612",5,5.001-10.000
+08209,8209,Sant Fost de Campsentelles,Sant Fost de Campsentelles,41,V. Oriental,"8,737",5,5.001-10.000
+08210,8210,Sant Feliu de Codines,Sant Feliu de Codines,41,V. Oriental,"6,259",5,5.001-10.000
+08211,8211,Sant Feliu de Llobregat,Sant Feliu de Llobregat,11,Baix Llobregat,"44,860",7,20.001-50.000
+08212,8212,Sant Feliu Sasserra,Sant Feliu Sasserra,7,Bages,602,2,501-1.000
+08213,8213,Sant Fruitós de Bages,Sant Fruitós de Bages,7,Bages,"8,703",5,5.001-10.000
+08214,8214,Vilassar de Dalt,Vilassar de Dalt,21,Maresme,"9,043",5,5.001-10.000
+08215,8215,Sant Hipòlit de Voltregà,Sant Hipòlit de Voltregà,24,Osona,"3,484",4,3.001-5.000
+08216,8216,Sant Jaume de Frontanyà,Sant Jaume de Frontanyà,14,Berguedà,30,1,0-500
+08217,8217,Sant Joan Despí,Sant Joan Despí,11,Baix Llobregat,"34,123",7,20.001-50.000
+08218,8218,Sant Joan de Vilatorrada,Sant Joan de Vilatorrada,7,Bages,"10,936",6,10.001-20.000
+08219,8219,Vilassar de Mar,Vilassar de Mar,21,Maresme,"20,837",7,20.001-50.000
+08220,8220,Sant Julià de Vilatorta,Sant Julià de Vilatorta,24,Osona,"3,114",4,3.001-5.000
+08221,8221,Sant Just Desvern,Sant Just Desvern,11,Baix Llobregat,"17,805",6,10.001-20.000
+08222,8222,Sant Llorenç d'Hortons,Sant Llorenç d'Hortons,3,Alt Penedès,"2,413",3,1.001-3.000
+08223,8223,Sant Llorenç Savall,Sant Llorenç Savall,40,V. Occidental,"2,373",3,1.001-3.000
+08224,8224,Sant Martí de Centelles,Sant Martí de Centelles,24,Osona,"1,167",3,1.001-3.000
+08225,8225,Sant Martí d'Albars,Sant Martí d'Albars,24,Osona,112,1,0-500
+08226,8226,Sant Martí de Tous,Sant Martí de Tous,6,Anoia,"1,235",3,1.001-3.000
+08227,8227,Sant Martí Sarroca,Sant Martí Sarroca,3,Alt Penedès,"3,264",4,3.001-5.000
+08228,8228,Sant Martí Sesgueioles,Sant Martí Sesgueioles,6,Anoia,343,1,0-500
+08229,8229,Sant Mateu de Bages,Sant Mateu de Bages,7,Bages,603,2,501-1.000
+08230,8230,Premià de Dalt,Premià de Dalt,21,Maresme,"10,448",6,10.001-20.000
+08231,8231,Sant Pere de Ribes,Sant Pere de Ribes,17,Garraf,"30,719",7,20.001-50.000
+08232,8232,Sant Pere de Riudebitlles,Sant Pere de Riudebitlles,3,Alt Penedès,"2,368",3,1.001-3.000
+08233,8233,Sant Pere de Torelló,Sant Pere de Torelló,24,Osona,"2,419",3,1.001-3.000
+08234,8234,Sant Pere de Vilamajor,Sant Pere de Vilamajor,41,V. Oriental,"4,472",4,3.001-5.000
+08235,8235,Sant Pol de Mar,Sant Pol de Mar,21,Maresme,"5,299",5,5.001-10.000
+08236,8236,Sant Quintí de Mediona,Sant Quintí de Mediona,3,Alt Penedès,"2,254",3,1.001-3.000
+08237,8237,Sant Quirze de Besora,Sant Quirze de Besora,24,Osona,"2,167",3,1.001-3.000
+08238,8238,Sant Quirze del Vallès,Sant Quirze del Vallès,40,V. Occidental,"20,141",7,20.001-50.000
+08239,8239,Sant Quirze Safaja,Sant Quirze Safaja,42,Moianès,627,2,501-1.000
+08240,8240,Sant Sadurní d'Anoia,Sant Sadurní d'Anoia,3,Alt Penedès,"12,887",6,10.001-20.000
+08241,8241,Sant Sadurní d'Osormort,Sant Sadurní d'Osormort,24,Osona,78,1,0-500
+08242,8242,Marganell,Marganell,7,Bages,266,1,0-500
+08243,8243,Santa Cecília de Voltregà,Santa Cecília de Voltregà,24,Osona,187,1,0-500
+08244,8244,Santa Coloma de Cervelló,Santa Coloma de Cervelló,11,Baix Llobregat,"8,218",5,5.001-10.000
+08245,8245,Santa Coloma de Gramenet,Santa Coloma de Gramenet,13,Barcelonès,"119,215",8,+50000
+08246,8246,Santa Eugènia de Berga,Santa Eugènia de Berga,24,Osona,"2,248",3,1.001-3.000
+08247,8247,Santa Eulàlia de Riuprimer,Santa Eulàlia de Riuprimer,24,Osona,"1,345",3,1.001-3.000
+08248,8248,Santa Eulàlia de Ronçana,Santa Eulàlia de Ronçana,41,V. Oriental,"7,288",5,5.001-10.000
+08249,8249,Santa Fe del Penedès,Santa Fe del Penedès,3,Alt Penedès,374,1,0-500
+08250,8250,Santa Margarida de Montbui,Santa Margarida de Montbui,6,Anoia,"9,980",5,5.001-10.000
+08251,8251,Santa Margarida i els Monjos,Santa Margarida i els Monjos,3,Alt Penedès,"7,611",5,5.001-10.000
+08252,8252,Barberà del Vallès,Barberà del Vallès,40,V. Occidental,"33,091",7,20.001-50.000
+08253,8253,Santa Maria de Besora,Santa Maria de Besora,24,Osona,150,1,0-500
+08254,8254,L'Esquirol,L'Esquirol,24,Osona,"2,181",3,1.001-3.000
+08255,8255,Santa Maria de Merlès,Santa Maria de Merlès,14,Berguedà,184,1,0-500
+08256,8256,Santa Maria de Martorelles,Santa Maria de Martorelles,41,V. Oriental,893,2,501-1.000
+08257,8257,Santa Maria de Miralles,Santa Maria de Miralles,6,Anoia,126,1,0-500
+08258,8258,Santa Maria d'Oló,Santa Maria d'Oló,42,Moianès,"1,025",3,1.001-3.000
+08259,8259,Santa Maria de Palautordera,Santa Maria de Palautordera,41,V. Oriental,"9,423",5,5.001-10.000
+08260,8260,Santa Perpètua de Mogoda,Santa Perpètua de Mogoda,40,V. Occidental,"25,799",7,20.001-50.000
+08261,8261,Santa Susanna,Santa Susanna,21,Maresme,"3,446",4,3.001-5.000
+08262,8262,Sant Vicenç de Castellet,Sant Vicenç de Castellet,7,Bages,"9,523",5,5.001-10.000
+08263,8263,Sant Vicenç dels Horts,Sant Vicenç dels Horts,11,Baix Llobregat,"28,117",7,20.001-50.000
+08264,8264,Sant Vicenç de Montalt,Sant Vicenç de Montalt,21,Maresme,"6,407",5,5.001-10.000
+08265,8265,Sant Vicenç de Torelló,Sant Vicenç de Torelló,24,Osona,"2,058",3,1.001-3.000
+08266,8266,Cerdanyola del Vallès,Cerdanyola del Vallès,40,V. Occidental,"57,403",8,+50000
+08267,8267,Sentmenat,Sentmenat,40,V. Occidental,"9,078",5,5.001-10.000
+08268,8268,Cercs,Cercs,14,Berguedà,"1,145",3,1.001-3.000
+08269,8269,Seva,Seva,24,Osona,"3,519",4,3.001-5.000
+08270,8270,Sitges,Sitges,17,Garraf,"29,307",7,20.001-50.000
+08271,8271,Sobremunt,Sobremunt,24,Osona,79,1,0-500
+08272,8272,Sora,Sora,24,Osona,209,1,0-500
+08273,8273,Subirats,Subirats,3,Alt Penedès,"3,044",4,3.001-5.000
+08274,8274,Súria,Súria,7,Bages,"5,942",5,5.001-10.000
+08275,8275,Tavèrnoles,Tavèrnoles,24,Osona,316,1,0-500
+08276,8276,Tagamanent,Tagamanent,41,V. Oriental,323,1,0-500
+08277,8277,Talamanca,Talamanca,7,Bages,206,1,0-500
+08278,8278,Taradell,Taradell,24,Osona,"6,489",5,5.001-10.000
+08279,8279,Terrassa,Terrassa,40,V. Occidental,"220,556",8,+50000
+08280,8280,Tavertet,Tavertet,24,Osona,111,1,0-500
+08281,8281,Teià,Teià,21,Maresme,"6,397",5,5.001-10.000
+08282,8282,Tiana,Tiana,21,Maresme,"8,840",5,5.001-10.000
+08283,8283,Tona,Tona,24,Osona,"8,241",5,5.001-10.000
+08284,8284,Tordera,Tordera,21,Maresme,"17,216",6,10.001-20.000
+08285,8285,Torelló,Torelló,24,Osona,"14,347",6,10.001-20.000
+08286,8286,Torre de Claramunt (La),La Torre de Claramunt,6,Anoia,"3,714",4,3.001-5.000
+08287,8287,Torrelavit,Torrelavit,3,Alt Penedès,"1,419",3,1.001-3.000
+08288,8288,Torrelles de Foix,Torrelles de Foix,3,Alt Penedès,"2,348",3,1.001-3.000
+08289,8289,Torrelles de Llobregat,Torrelles de Llobregat,11,Baix Llobregat,"6,041",5,5.001-10.000
+08290,8290,Ullastrell,Ullastrell,40,V. Occidental,"2,093",3,1.001-3.000
+08291,8291,Vacarisses,Vacarisses,40,V. Occidental,"6,688",5,5.001-10.000
+08292,8292,Vallbona d'Anoia,Vallbona d'Anoia,6,Anoia,"1,373",3,1.001-3.000
+08293,8293,Vallcebre,Vallcebre,14,Berguedà,250,1,0-500
+08294,8294,Vallgorguina,Vallgorguina,41,V. Oriental,"2,891",3,1.001-3.000
+08295,8295,Vallirana,Vallirana,11,Baix Llobregat,"15,006",6,10.001-20.000
+08296,8296,Vallromanes,Vallromanes,41,V. Oriental,"2,579",3,1.001-3.000
+08297,8297,Veciana,Veciana,6,Anoia,182,1,0-500
+08298,8298,Vic,Vic,24,Osona,"46,214",7,20.001-50.000
+08299,8299,Vilada,Vilada,14,Berguedà,416,1,0-500
+08300,8300,Viladecavalls,Viladecavalls,40,V. Occidental,"7,512",5,5.001-10.000
+08301,8301,Viladecans,Viladecans,11,Baix Llobregat,"66,611",8,+50000
+08302,8302,Vilanova del Camí,Vilanova del Camí,6,Anoia,"12,458",6,10.001-20.000
+08303,8303,Vilanova de Sau,Vilanova de Sau,24,Osona,299,1,0-500
+08304,8304,Vilobí del Penedès,Vilobí del Penedès,3,Alt Penedès,"1,107",3,1.001-3.000
+08305,8305,Vilafranca del Penedès,Vilafranca del Penedès,3,Alt Penedès,"39,746",7,20.001-50.000
+08306,8306,Vilalba Sasserra,Vilalba Sasserra,41,V. Oriental,716,2,501-1.000
+08307,8307,Vilanova i la Geltrú,Vilanova i la Geltrú,17,Garraf,"67,086",8,+50000
+08308,8308,Viver i Serrateix,Viver i Serrateix,14,Berguedà,168,1,0-500
+08901,8901,Rupit i Pruit,Rupit i Pruit,24,Osona,279,1,0-500
+08902,8902,Vilanova del Vallès,Vilanova del Vallès,41,V. Oriental,"5,432",5,5.001-10.000
+08903,8903,Sant Julià de Cerdanyola,Sant Julià de Cerdanyola,14,Berguedà,228,1,0-500
+08904,8904,Badia del Vallès,Badia del Vallès,40,V. Occidental,"13,380",6,10.001-20.000
+08905,8905,Palma de Cervelló (La),La Palma de Cervelló,11,Baix Llobregat,"2,954",3,1.001-3.000

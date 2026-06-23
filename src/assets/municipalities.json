@@ -1,0 +1,2801 @@
+[
+  {
+    "id": "08001",
+    "name": "Abrera",
+    "municipality_code_6": "080018",
+    "comarca": {
+      "comarca_name": "Baix Llobregat",
+      "comarca_code": "11"
+    }
+  },
+  {
+    "id": "08002",
+    "name": "Aguilar de Segarra",
+    "municipality_code_6": "080023",
+    "comarca": {
+      "comarca_name": "Bages",
+      "comarca_code": "7"
+    }
+  },
+  {
+    "id": "08014",
+    "name": "Aiguafreda",
+    "municipality_code_6": "080142",
+    "comarca": {
+      "comarca_name": "Vallès Oriental",
+      "comarca_code": "41"
+    }
+  },
+  {
+    "id": "08003",
+    "name": "Alella",
+    "municipality_code_6": "080039",
+    "comarca": {
+      "comarca_name": "Maresme",
+      "comarca_code": "21"
+    }
+  },
+  {
+    "id": "08004",
+    "name": "Alpens",
+    "municipality_code_6": "080044",
+    "comarca": {
+      "comarca_name": "Osona",
+      "comarca_code": "24"
+    }
+  },
+  {
+    "id": "08006",
+    "name": "Arenys de Mar",
+    "municipality_code_6": "080060",
+    "comarca": {
+      "comarca_name": "Maresme",
+      "comarca_code": "21"
+    }
+  },
+  {
+    "id": "08007",
+    "name": "Arenys de Munt",
+    "municipality_code_6": "080076",
+    "comarca": {
+      "comarca_name": "Maresme",
+      "comarca_code": "21"
+    }
+  },
+  {
+    "id": "08008",
+    "name": "Argençola",
+    "municipality_code_6": "080082",
+    "comarca": {
+      "comarca_name": "Anoia",
+      "comarca_code": "6"
+    }
+  },
+  {
+    "id": "08009",
+    "name": "Argentona",
+    "municipality_code_6": "080095",
+    "comarca": {
+      "comarca_name": "Maresme",
+      "comarca_code": "21"
+    }
+  },
+  {
+    "id": "08010",
+    "name": "Artés",
+    "municipality_code_6": "080109",
+    "comarca": {
+      "comarca_name": "Bages",
+      "comarca_code": "7"
+    }
+  },
+  {
+    "id": "08011",
+    "name": "Avià",
+    "municipality_code_6": "080116",
+    "comarca": {
+      "comarca_name": "Berguedà",
+      "comarca_code": "14"
+    }
+  },
+  {
+    "id": "08012",
+    "name": "Avinyó",
+    "municipality_code_6": "080121",
+    "comarca": {
+      "comarca_name": "Bages",
+      "comarca_code": "7"
+    }
+  },
+  {
+    "id": "08013",
+    "name": "Avinyonet del Penedès",
+    "municipality_code_6": "080137",
+    "comarca": {
+      "comarca_name": "Alt Penedès",
+      "comarca_code": "3"
+    }
+  },
+  {
+    "id": "08015",
+    "name": "Badalona",
+    "municipality_code_6": "080155",
+    "comarca": {
+      "comarca_name": "Barcelonès",
+      "comarca_code": "13"
+    }
+  },
+  {
+    "id": "08904",
+    "name": "Badia del Vallès",
+    "municipality_code_6": "089045",
+    "comarca": {
+      "comarca_name": "Vallès Occidental",
+      "comarca_code": "40"
+    }
+  },
+  {
+    "id": "08016",
+    "name": "Bagà",
+    "municipality_code_6": "080168",
+    "comarca": {
+      "comarca_name": "Berguedà",
+      "comarca_code": "14"
+    }
+  },
+  {
+    "id": "08017",
+    "name": "Balenyà",
+    "municipality_code_6": "080174",
+    "comarca": {
+      "comarca_name": "Osona",
+      "comarca_code": "24"
+    }
+  },
+  {
+    "id": "08018",
+    "name": "Balsareny",
+    "municipality_code_6": "080180",
+    "comarca": {
+      "comarca_name": "Bages",
+      "comarca_code": "7"
+    }
+  },
+  {
+    "id": "08252",
+    "name": "Barberà del Vallès",
+    "municipality_code_6": "082520",
+    "comarca": {
+      "comarca_name": "Vallès Occidental",
+      "comarca_code": "40"
+    }
+  },
+  {
+    "id": "08019",
+    "name": "Barcelona",
+    "municipality_code_6": "080193",
+    "comarca": {
+      "comarca_name": "Barcelonès",
+      "comarca_code": "13"
+    }
+  },
+  {
+    "id": "08020",
+    "name": "Begues",
+    "municipality_code_6": "080207",
+    "comarca": {
+      "comarca_name": "Baix Llobregat",
+      "comarca_code": "11"
+    }
+  },
+  {
+    "id": "08021",
+    "name": "Bellprat",
+    "municipality_code_6": "080214",
+    "comarca": {
+      "comarca_name": "Anoia",
+      "comarca_code": "6"
+    }
+  },
+  {
+    "id": "08022",
+    "name": "Berga",
+    "municipality_code_6": "080229",
+    "comarca": {
+      "comarca_name": "Berguedà",
+      "comarca_code": "14"
+    }
+  },
+  {
+    "id": "08023",
+    "name": "Bigues i Riells del Fai",
+    "municipality_code_6": "080235",
+    "comarca": {
+      "comarca_name": "Vallès Oriental",
+      "comarca_code": "41"
+    }
+  },
+  {
+    "id": "08024",
+    "name": "Borredà",
+    "municipality_code_6": "080240",
+    "comarca": {
+      "comarca_name": "Berguedà",
+      "comarca_code": "14"
+    }
+  },
+  {
+    "id": "08028",
+    "name": "Cabrera d'Anoia",
+    "municipality_code_6": "080288",
+    "comarca": {
+      "comarca_name": "Anoia",
+      "comarca_code": "6"
+    }
+  },
+  {
+    "id": "08029",
+    "name": "Cabrera de Mar",
+    "municipality_code_6": "080291",
+    "comarca": {
+      "comarca_name": "Maresme",
+      "comarca_code": "21"
+    }
+  },
+  {
+    "id": "08030",
+    "name": "Cabrils",
+    "municipality_code_6": "080305",
+    "comarca": {
+      "comarca_name": "Maresme",
+      "comarca_code": "21"
+    }
+  },
+  {
+    "id": "08031",
+    "name": "Calaf",
+    "municipality_code_6": "080312",
+    "comarca": {
+      "comarca_name": "Anoia",
+      "comarca_code": "6"
+    }
+  },
+  {
+    "id": "08034",
+    "name": "Calders",
+    "municipality_code_6": "080348",
+    "comarca": {
+      "comarca_name": "Moianès",
+      "comarca_code": "42"
+    }
+  },
+  {
+    "id": "08032",
+    "name": "Caldes d'Estrac",
+    "municipality_code_6": "080327",
+    "comarca": {
+      "comarca_name": "Maresme",
+      "comarca_code": "21"
+    }
+  },
+  {
+    "id": "08033",
+    "name": "Caldes de Montbui",
+    "municipality_code_6": "080333",
+    "comarca": {
+      "comarca_name": "Vallès Oriental",
+      "comarca_code": "41"
+    }
+  },
+  {
+    "id": "08035",
+    "name": "Calella",
+    "municipality_code_6": "080351",
+    "comarca": {
+      "comarca_name": "Maresme",
+      "comarca_code": "21"
+    }
+  },
+  {
+    "id": "08037",
+    "name": "Calldetenes",
+    "municipality_code_6": "080370",
+    "comarca": {
+      "comarca_name": "Osona",
+      "comarca_code": "24"
+    }
+  },
+  {
+    "id": "08038",
+    "name": "Callús",
+    "municipality_code_6": "080386",
+    "comarca": {
+      "comarca_name": "Bages",
+      "comarca_code": "7"
+    }
+  },
+  {
+    "id": "08036",
+    "name": "Calonge de Segarra",
+    "municipality_code_6": "080364",
+    "comarca": {
+      "comarca_name": "Anoia",
+      "comarca_code": "6"
+    }
+  },
+  {
+    "id": "08039",
+    "name": "Campins",
+    "municipality_code_6": "080399",
+    "comarca": {
+      "comarca_name": "Vallès Oriental",
+      "comarca_code": "41"
+    }
+  },
+  {
+    "id": "08040",
+    "name": "Canet de Mar",
+    "municipality_code_6": "080403",
+    "comarca": {
+      "comarca_name": "Maresme",
+      "comarca_code": "21"
+    }
+  },
+  {
+    "id": "08041",
+    "name": "Canovelles",
+    "municipality_code_6": "080410",
+    "comarca": {
+      "comarca_name": "Vallès Oriental",
+      "comarca_code": "41"
+    }
+  },
+  {
+    "id": "08042",
+    "name": "Cànoves i Samalús",
+    "municipality_code_6": "080425",
+    "comarca": {
+      "comarca_name": "Vallès Oriental",
+      "comarca_code": "41"
+    }
+  },
+  {
+    "id": "08043",
+    "name": "Canyelles",
+    "municipality_code_6": "080431",
+    "comarca": {
+      "comarca_name": "Garraf",
+      "comarca_code": "17"
+    }
+  },
+  {
+    "id": "08044",
+    "name": "Capellades",
+    "municipality_code_6": "080446",
+    "comarca": {
+      "comarca_name": "Anoia",
+      "comarca_code": "6"
+    }
+  },
+  {
+    "id": "08045",
+    "name": "Capolat",
+    "municipality_code_6": "080459",
+    "comarca": {
+      "comarca_name": "Berguedà",
+      "comarca_code": "14"
+    }
+  },
+  {
+    "id": "08046",
+    "name": "Cardedeu",
+    "municipality_code_6": "080462",
+    "comarca": {
+      "comarca_name": "Vallès Oriental",
+      "comarca_code": "41"
+    }
+  },
+  {
+    "id": "08047",
+    "name": "Cardona",
+    "municipality_code_6": "080478",
+    "comarca": {
+      "comarca_name": "Bages",
+      "comarca_code": "7"
+    }
+  },
+  {
+    "id": "08048",
+    "name": "Carme",
+    "municipality_code_6": "080484",
+    "comarca": {
+      "comarca_name": "Anoia",
+      "comarca_code": "6"
+    }
+  },
+  {
+    "id": "08049",
+    "name": "Casserres",
+    "municipality_code_6": "080497",
+    "comarca": {
+      "comarca_name": "Berguedà",
+      "comarca_code": "14"
+    }
+  },
+  {
+    "id": "08057",
+    "name": "Castell de l'Areny",
+    "municipality_code_6": "080575",
+    "comarca": {
+      "comarca_name": "Berguedà",
+      "comarca_code": "14"
+    }
+  },
+  {
+    "id": "08052",
+    "name": "Castellar de n'Hug",
+    "municipality_code_6": "080522",
+    "comarca": {
+      "comarca_name": "Berguedà",
+      "comarca_code": "14"
+    }
+  },
+  {
+    "id": "08050",
+    "name": "Castellar del Riu",
+    "municipality_code_6": "080500",
+    "comarca": {
+      "comarca_name": "Berguedà",
+      "comarca_code": "14"
+    }
+  },
+  {
+    "id": "08051",
+    "name": "Castellar del Vallès",
+    "municipality_code_6": "080517",
+    "comarca": {
+      "comarca_name": "Vallès Occidental",
+      "comarca_code": "40"
+    }
+  },
+  {
+    "id": "08053",
+    "name": "Castellbell i el Vilar",
+    "municipality_code_6": "080538",
+    "comarca": {
+      "comarca_name": "Bages",
+      "comarca_code": "7"
+    }
+  },
+  {
+    "id": "08054",
+    "name": "Castellbisbal",
+    "municipality_code_6": "080543",
+    "comarca": {
+      "comarca_name": "Vallès Occidental",
+      "comarca_code": "40"
+    }
+  },
+  {
+    "id": "08055",
+    "name": "Castellcir",
+    "municipality_code_6": "080556",
+    "comarca": {
+      "comarca_name": "Moianès",
+      "comarca_code": "42"
+    }
+  },
+  {
+    "id": "08056",
+    "name": "Castelldefels",
+    "municipality_code_6": "080569",
+    "comarca": {
+      "comarca_name": "Baix Llobregat",
+      "comarca_code": "11"
+    }
+  },
+  {
+    "id": "08058",
+    "name": "Castellet i la Gornal",
+    "municipality_code_6": "080581",
+    "comarca": {
+      "comarca_name": "Alt Penedès",
+      "comarca_code": "3"
+    }
+  },
+  {
+    "id": "08060",
+    "name": "Castellfollit de Riubregós",
+    "municipality_code_6": "080608",
+    "comarca": {
+      "comarca_name": "Anoia",
+      "comarca_code": "6"
+    }
+  },
+  {
+    "id": "08059",
+    "name": "Castellfollit del Boix",
+    "municipality_code_6": "080594",
+    "comarca": {
+      "comarca_name": "Bages",
+      "comarca_code": "7"
+    }
+  },
+  {
+    "id": "08061",
+    "name": "Castellgalí",
+    "municipality_code_6": "080615",
+    "comarca": {
+      "comarca_name": "Bages",
+      "comarca_code": "7"
+    }
+  },
+  {
+    "id": "08062",
+    "name": "Castellnou de Bages",
+    "municipality_code_6": "080620",
+    "comarca": {
+      "comarca_name": "Bages",
+      "comarca_code": "7"
+    }
+  },
+  {
+    "id": "08063",
+    "name": "Castellolí",
+    "municipality_code_6": "080636",
+    "comarca": {
+      "comarca_name": "Anoia",
+      "comarca_code": "6"
+    }
+  },
+  {
+    "id": "08064",
+    "name": "Castellterçol",
+    "municipality_code_6": "080641",
+    "comarca": {
+      "comarca_name": "Moianès",
+      "comarca_code": "42"
+    }
+  },
+  {
+    "id": "08065",
+    "name": "Castellví de la Marca",
+    "municipality_code_6": "080654",
+    "comarca": {
+      "comarca_name": "Alt Penedès",
+      "comarca_code": "3"
+    }
+  },
+  {
+    "id": "08066",
+    "name": "Castellví de Rosanes",
+    "municipality_code_6": "080667",
+    "comarca": {
+      "comarca_name": "Baix Llobregat",
+      "comarca_code": "11"
+    }
+  },
+  {
+    "id": "08067",
+    "name": "Centelles",
+    "municipality_code_6": "080673",
+    "comarca": {
+      "comarca_name": "Osona",
+      "comarca_code": "24"
+    }
+  },
+  {
+    "id": "08268",
+    "name": "Cercs",
+    "municipality_code_6": "082687",
+    "comarca": {
+      "comarca_name": "Berguedà",
+      "comarca_code": "14"
+    }
+  },
+  {
+    "id": "08266",
+    "name": "Cerdanyola del Vallès",
+    "municipality_code_6": "082665",
+    "comarca": {
+      "comarca_name": "Vallès Occidental",
+      "comarca_code": "40"
+    }
+  },
+  {
+    "id": "08068",
+    "name": "Cervelló",
+    "municipality_code_6": "080689",
+    "comarca": {
+      "comarca_name": "Baix Llobregat",
+      "comarca_code": "11"
+    }
+  },
+  {
+    "id": "08069",
+    "name": "Collbató",
+    "municipality_code_6": "080692",
+    "comarca": {
+      "comarca_name": "Baix Llobregat",
+      "comarca_code": "11"
+    }
+  },
+  {
+    "id": "08070",
+    "name": "Collsuspina",
+    "municipality_code_6": "080706",
+    "comarca": {
+      "comarca_name": "Moianès",
+      "comarca_code": "42"
+    }
+  },
+  {
+    "id": "08071",
+    "name": "Copons",
+    "municipality_code_6": "080713",
+    "comarca": {
+      "comarca_name": "Anoia",
+      "comarca_code": "6"
+    }
+  },
+  {
+    "id": "08072",
+    "name": "Corbera de Llobregat",
+    "municipality_code_6": "080728",
+    "comarca": {
+      "comarca_name": "Baix Llobregat",
+      "comarca_code": "11"
+    }
+  },
+  {
+    "id": "08073",
+    "name": "Cornellà de Llobregat",
+    "municipality_code_6": "080734",
+    "comarca": {
+      "comarca_name": "Baix Llobregat",
+      "comarca_code": "11"
+    }
+  },
+  {
+    "id": "08074",
+    "name": "Cubelles",
+    "municipality_code_6": "080749",
+    "comarca": {
+      "comarca_name": "Garraf",
+      "comarca_code": "17"
+    }
+  },
+  {
+    "id": "08075",
+    "name": "Dosrius",
+    "municipality_code_6": "080752",
+    "comarca": {
+      "comarca_name": "Maresme",
+      "comarca_code": "21"
+    }
+  },
+  {
+    "id": "08025",
+    "name": "El Bruc",
+    "municipality_code_6": "080253",
+    "comarca": {
+      "comarca_name": "Anoia",
+      "comarca_code": "6"
+    }
+  },
+  {
+    "id": "08026",
+    "name": "El Brull",
+    "municipality_code_6": "080266",
+    "comarca": {
+      "comarca_name": "Osona",
+      "comarca_code": "24"
+    }
+  },
+  {
+    "id": "08118",
+    "name": "El Masnou",
+    "municipality_code_6": "081189",
+    "comarca": {
+      "comarca_name": "Maresme",
+      "comarca_code": "21"
+    }
+  },
+  {
+    "id": "08158",
+    "name": "El Papiol",
+    "municipality_code_6": "081580",
+    "comarca": {
+      "comarca_name": "Baix Llobregat",
+      "comarca_code": "11"
+    }
+  },
+  {
+    "id": "08164",
+    "name": "El Pla del Penedès",
+    "municipality_code_6": "081640",
+    "comarca": {
+      "comarca_name": "Alt Penedès",
+      "comarca_code": "3"
+    }
+  },
+  {
+    "id": "08182",
+    "name": "El Pont de Vilomara i Rocafort",
+    "municipality_code_6": "081825",
+    "comarca": {
+      "comarca_name": "Bages",
+      "comarca_code": "7"
+    }
+  },
+  {
+    "id": "08169",
+    "name": "El Prat de Llobregat",
+    "municipality_code_6": "081691",
+    "comarca": {
+      "comarca_name": "Baix Llobregat",
+      "comarca_code": "11"
+    }
+  },
+  {
+    "id": "08162",
+    "name": "Els Hostalets de Pierola",
+    "municipality_code_6": "081629",
+    "comarca": {
+      "comarca_name": "Anoia",
+      "comarca_code": "6"
+    }
+  },
+  {
+    "id": "08170",
+    "name": "Els Prats de Rei",
+    "municipality_code_6": "081705",
+    "comarca": {
+      "comarca_name": "Anoia",
+      "comarca_code": "6"
+    }
+  },
+  {
+    "id": "08076",
+    "name": "Esparreguera",
+    "municipality_code_6": "080765",
+    "comarca": {
+      "comarca_name": "Baix Llobregat",
+      "comarca_code": "11"
+    }
+  },
+  {
+    "id": "08077",
+    "name": "Esplugues de Llobregat",
+    "municipality_code_6": "080771",
+    "comarca": {
+      "comarca_name": "Baix Llobregat",
+      "comarca_code": "11"
+    }
+  },
+  {
+    "id": "08134",
+    "name": "Figaró-Montmany",
+    "municipality_code_6": "081347",
+    "comarca": {
+      "comarca_name": "Vallès Oriental",
+      "comarca_code": "41"
+    }
+  },
+  {
+    "id": "08080",
+    "name": "Fígols",
+    "municipality_code_6": "080804",
+    "comarca": {
+      "comarca_name": "Berguedà",
+      "comarca_code": "14"
+    }
+  },
+  {
+    "id": "08082",
+    "name": "Fogars de la Selva",
+    "municipality_code_6": "080826",
+    "comarca": {
+      "comarca_name": "Selva",
+      "comarca_code": "34"
+    }
+  },
+  {
+    "id": "08081",
+    "name": "Fogars de Montclús",
+    "municipality_code_6": "080811",
+    "comarca": {
+      "comarca_name": "Vallès Oriental",
+      "comarca_code": "41"
+    }
+  },
+  {
+    "id": "08083",
+    "name": "Folgueroles",
+    "municipality_code_6": "080832",
+    "comarca": {
+      "comarca_name": "Osona",
+      "comarca_code": "24"
+    }
+  },
+  {
+    "id": "08084",
+    "name": "Fonollosa",
+    "municipality_code_6": "080847",
+    "comarca": {
+      "comarca_name": "Bages",
+      "comarca_code": "7"
+    }
+  },
+  {
+    "id": "08085",
+    "name": "Font-rubí",
+    "municipality_code_6": "080850",
+    "comarca": {
+      "comarca_name": "Alt Penedès",
+      "comarca_code": "3"
+    }
+  },
+  {
+    "id": "08090",
+    "name": "Gaià",
+    "municipality_code_6": "080902",
+    "comarca": {
+      "comarca_name": "Bages",
+      "comarca_code": "7"
+    }
+  },
+  {
+    "id": "08087",
+    "name": "Gallifa",
+    "municipality_code_6": "080879",
+    "comarca": {
+      "comarca_name": "Vallès Occidental",
+      "comarca_code": "40"
+    }
+  },
+  {
+    "id": "08089",
+    "name": "Gavà",
+    "municipality_code_6": "080898",
+    "comarca": {
+      "comarca_name": "Baix Llobregat",
+      "comarca_code": "11"
+    }
+  },
+  {
+    "id": "08091",
+    "name": "Gelida",
+    "municipality_code_6": "080919",
+    "comarca": {
+      "comarca_name": "Alt Penedès",
+      "comarca_code": "3"
+    }
+  },
+  {
+    "id": "08092",
+    "name": "Gironella",
+    "municipality_code_6": "080924",
+    "comarca": {
+      "comarca_name": "Berguedà",
+      "comarca_code": "14"
+    }
+  },
+  {
+    "id": "08093",
+    "name": "Gisclareny",
+    "municipality_code_6": "080930",
+    "comarca": {
+      "comarca_name": "Berguedà",
+      "comarca_code": "14"
+    }
+  },
+  {
+    "id": "08095",
+    "name": "Granera",
+    "municipality_code_6": "080958",
+    "comarca": {
+      "comarca_name": "Moianès",
+      "comarca_code": "42"
+    }
+  },
+  {
+    "id": "08096",
+    "name": "Granollers",
+    "municipality_code_6": "080961",
+    "comarca": {
+      "comarca_name": "Vallès Oriental",
+      "comarca_code": "41"
+    }
+  },
+  {
+    "id": "08097",
+    "name": "Gualba",
+    "municipality_code_6": "080977",
+    "comarca": {
+      "comarca_name": "Vallès Oriental",
+      "comarca_code": "41"
+    }
+  },
+  {
+    "id": "08099",
+    "name": "Guardiola de Berguedà",
+    "municipality_code_6": "080996",
+    "comarca": {
+      "comarca_name": "Berguedà",
+      "comarca_code": "14"
+    }
+  },
+  {
+    "id": "08100",
+    "name": "Gurb",
+    "municipality_code_6": "081000",
+    "comarca": {
+      "comarca_name": "Osona",
+      "comarca_code": "24"
+    }
+  },
+  {
+    "id": "08102",
+    "name": "Igualada",
+    "municipality_code_6": "081022",
+    "comarca": {
+      "comarca_name": "Anoia",
+      "comarca_code": "6"
+    }
+  },
+  {
+    "id": "08103",
+    "name": "Jorba",
+    "municipality_code_6": "081038",
+    "comarca": {
+      "comarca_name": "Anoia",
+      "comarca_code": "6"
+    }
+  },
+  {
+    "id": "08005",
+    "name": "L'Ametlla del Vallès",
+    "municipality_code_6": "080057",
+    "comarca": {
+      "comarca_name": "Vallès Oriental",
+      "comarca_code": "41"
+    }
+  },
+  {
+    "id": "08078",
+    "name": "L'Espunyola",
+    "municipality_code_6": "080787",
+    "comarca": {
+      "comarca_name": "Berguedà",
+      "comarca_code": "14"
+    }
+  },
+  {
+    "id": "08254",
+    "name": "L'Esquirol",
+    "municipality_code_6": "082541",
+    "comarca": {
+      "comarca_name": "Osona",
+      "comarca_code": "24"
+    }
+  },
+  {
+    "id": "08079",
+    "name": "L'Estany",
+    "municipality_code_6": "080790",
+    "comarca": {
+      "comarca_name": "Moianès",
+      "comarca_code": "42"
+    }
+  },
+  {
+    "id": "08101",
+    "name": "L'Hospitalet de Llobregat",
+    "municipality_code_6": "081017",
+    "comarca": {
+      "comarca_name": "Barcelonès",
+      "comarca_code": "13"
+    }
+  },
+  {
+    "id": "08088",
+    "name": "La Garriga",
+    "municipality_code_6": "080885",
+    "comarca": {
+      "comarca_name": "Vallès Oriental",
+      "comarca_code": "41"
+    }
+  },
+  {
+    "id": "08094",
+    "name": "La Granada",
+    "municipality_code_6": "080945",
+    "comarca": {
+      "comarca_name": "Alt Penedès",
+      "comarca_code": "3"
+    }
+  },
+  {
+    "id": "08104",
+    "name": "La Llacuna",
+    "municipality_code_6": "081043",
+    "comarca": {
+      "comarca_name": "Anoia",
+      "comarca_code": "6"
+    }
+  },
+  {
+    "id": "08105",
+    "name": "La Llagosta",
+    "municipality_code_6": "081056",
+    "comarca": {
+      "comarca_name": "Vallès Oriental",
+      "comarca_code": "41"
+    }
+  },
+  {
+    "id": "08142",
+    "name": "La Nou de Berguedà",
+    "municipality_code_6": "081424",
+    "comarca": {
+      "comarca_name": "Berguedà",
+      "comarca_code": "14"
+    }
+  },
+  {
+    "id": "08905",
+    "name": "La Palma de Cervelló",
+    "municipality_code_6": "089058",
+    "comarca": {
+      "comarca_name": "Baix Llobregat",
+      "comarca_code": "11"
+    }
+  },
+  {
+    "id": "08165",
+    "name": "La Pobla de Claramunt",
+    "municipality_code_6": "081653",
+    "comarca": {
+      "comarca_name": "Anoia",
+      "comarca_code": "6"
+    }
+  },
+  {
+    "id": "08166",
+    "name": "La Pobla de Lillet",
+    "municipality_code_6": "081666",
+    "comarca": {
+      "comarca_name": "Berguedà",
+      "comarca_code": "14"
+    }
+  },
+  {
+    "id": "08177",
+    "name": "La Quar",
+    "municipality_code_6": "081770",
+    "comarca": {
+      "comarca_name": "Berguedà",
+      "comarca_code": "14"
+    }
+  },
+  {
+    "id": "08181",
+    "name": "La Roca del Vallès",
+    "municipality_code_6": "081810",
+    "comarca": {
+      "comarca_name": "Vallès Oriental",
+      "comarca_code": "41"
+    }
+  },
+  {
+    "id": "08286",
+    "name": "La Torre de Claramunt",
+    "municipality_code_6": "082861",
+    "comarca": {
+      "comarca_name": "Anoia",
+      "comarca_code": "6"
+    }
+  },
+  {
+    "id": "08027",
+    "name": "Les Cabanyes",
+    "municipality_code_6": "080272",
+    "comarca": {
+      "comarca_name": "Alt Penedès",
+      "comarca_code": "3"
+    }
+  },
+  {
+    "id": "08086",
+    "name": "Les Franqueses del Vallès",
+    "municipality_code_6": "080863",
+    "comarca": {
+      "comarca_name": "Vallès Oriental",
+      "comarca_code": "41"
+    }
+  },
+  {
+    "id": "08116",
+    "name": "Les Masies de Roda",
+    "municipality_code_6": "081167",
+    "comarca": {
+      "comarca_name": "Osona",
+      "comarca_code": "24"
+    }
+  },
+  {
+    "id": "08117",
+    "name": "Les Masies de Voltregà",
+    "municipality_code_6": "081173",
+    "comarca": {
+      "comarca_name": "Osona",
+      "comarca_code": "24"
+    }
+  },
+  {
+    "id": "08107",
+    "name": "Lliçà d'Amunt",
+    "municipality_code_6": "081075",
+    "comarca": {
+      "comarca_name": "Vallès Oriental",
+      "comarca_code": "41"
+    }
+  },
+  {
+    "id": "08108",
+    "name": "Lliçà de Vall",
+    "municipality_code_6": "081081",
+    "comarca": {
+      "comarca_name": "Vallès Oriental",
+      "comarca_code": "41"
+    }
+  },
+  {
+    "id": "08106",
+    "name": "Llinars del Vallès",
+    "municipality_code_6": "081069",
+    "comarca": {
+      "comarca_name": "Vallès Oriental",
+      "comarca_code": "41"
+    }
+  },
+  {
+    "id": "08109",
+    "name": "Lluçà",
+    "municipality_code_6": "081094",
+    "comarca": {
+      "comarca_name": "Osona",
+      "comarca_code": "24"
+    }
+  },
+  {
+    "id": "08110",
+    "name": "Malgrat de Mar",
+    "municipality_code_6": "081108",
+    "comarca": {
+      "comarca_name": "Maresme",
+      "comarca_code": "21"
+    }
+  },
+  {
+    "id": "08111",
+    "name": "Malla",
+    "municipality_code_6": "081115",
+    "comarca": {
+      "comarca_name": "Osona",
+      "comarca_code": "24"
+    }
+  },
+  {
+    "id": "08112",
+    "name": "Manlleu",
+    "municipality_code_6": "081120",
+    "comarca": {
+      "comarca_name": "Osona",
+      "comarca_code": "24"
+    }
+  },
+  {
+    "id": "08113",
+    "name": "Manresa",
+    "municipality_code_6": "081136",
+    "comarca": {
+      "comarca_name": "Bages",
+      "comarca_code": "7"
+    }
+  },
+  {
+    "id": "08242",
+    "name": "Marganell",
+    "municipality_code_6": "082423",
+    "comarca": {
+      "comarca_name": "Bages",
+      "comarca_code": "7"
+    }
+  },
+  {
+    "id": "08114",
+    "name": "Martorell",
+    "municipality_code_6": "081141",
+    "comarca": {
+      "comarca_name": "Baix Llobregat",
+      "comarca_code": "11"
+    }
+  },
+  {
+    "id": "08115",
+    "name": "Martorelles",
+    "municipality_code_6": "081154",
+    "comarca": {
+      "comarca_name": "Vallès Oriental",
+      "comarca_code": "41"
+    }
+  },
+  {
+    "id": "08119",
+    "name": "Masquefa",
+    "municipality_code_6": "081192",
+    "comarca": {
+      "comarca_name": "Anoia",
+      "comarca_code": "6"
+    }
+  },
+  {
+    "id": "08120",
+    "name": "Matadepera",
+    "municipality_code_6": "081206",
+    "comarca": {
+      "comarca_name": "Vallès Occidental",
+      "comarca_code": "40"
+    }
+  },
+  {
+    "id": "08121",
+    "name": "Mataró",
+    "municipality_code_6": "081213",
+    "comarca": {
+      "comarca_name": "Maresme",
+      "comarca_code": "21"
+    }
+  },
+  {
+    "id": "08122",
+    "name": "Mediona",
+    "municipality_code_6": "081228",
+    "comarca": {
+      "comarca_name": "Alt Penedès",
+      "comarca_code": "3"
+    }
+  },
+  {
+    "id": "08138",
+    "name": "Moià",
+    "municipality_code_6": "081385",
+    "comarca": {
+      "comarca_name": "Moianès",
+      "comarca_code": "42"
+    }
+  },
+  {
+    "id": "08123",
+    "name": "Molins de Rei",
+    "municipality_code_6": "081234",
+    "comarca": {
+      "comarca_name": "Baix Llobregat",
+      "comarca_code": "11"
+    }
+  },
+  {
+    "id": "08124",
+    "name": "Mollet del Vallès",
+    "municipality_code_6": "081249",
+    "comarca": {
+      "comarca_name": "Vallès Oriental",
+      "comarca_code": "41"
+    }
+  },
+  {
+    "id": "08128",
+    "name": "Monistrol de Calders",
+    "municipality_code_6": "081287",
+    "comarca": {
+      "comarca_name": "Moianès",
+      "comarca_code": "42"
+    }
+  },
+  {
+    "id": "08127",
+    "name": "Monistrol de Montserrat",
+    "municipality_code_6": "081271",
+    "comarca": {
+      "comarca_name": "Bages",
+      "comarca_code": "7"
+    }
+  },
+  {
+    "id": "08125",
+    "name": "Montcada i Reixac",
+    "municipality_code_6": "081252",
+    "comarca": {
+      "comarca_name": "Vallès Occidental",
+      "comarca_code": "40"
+    }
+  },
+  {
+    "id": "08130",
+    "name": "Montclar",
+    "municipality_code_6": "081304",
+    "comarca": {
+      "comarca_name": "Berguedà",
+      "comarca_code": "14"
+    }
+  },
+  {
+    "id": "08131",
+    "name": "Montesquiu",
+    "municipality_code_6": "081311",
+    "comarca": {
+      "comarca_name": "Osona",
+      "comarca_code": "24"
+    }
+  },
+  {
+    "id": "08126",
+    "name": "Montgat",
+    "municipality_code_6": "081265",
+    "comarca": {
+      "comarca_name": "Maresme",
+      "comarca_code": "21"
+    }
+  },
+  {
+    "id": "08132",
+    "name": "Montmajor",
+    "municipality_code_6": "081326",
+    "comarca": {
+      "comarca_name": "Berguedà",
+      "comarca_code": "14"
+    }
+  },
+  {
+    "id": "08133",
+    "name": "Montmaneu",
+    "municipality_code_6": "081332",
+    "comarca": {
+      "comarca_name": "Anoia",
+      "comarca_code": "6"
+    }
+  },
+  {
+    "id": "08135",
+    "name": "Montmeló",
+    "municipality_code_6": "081350",
+    "comarca": {
+      "comarca_name": "Vallès Oriental",
+      "comarca_code": "41"
+    }
+  },
+  {
+    "id": "08136",
+    "name": "Montornès del Vallès",
+    "municipality_code_6": "081363",
+    "comarca": {
+      "comarca_name": "Vallès Oriental",
+      "comarca_code": "41"
+    }
+  },
+  {
+    "id": "08137",
+    "name": "Montseny",
+    "municipality_code_6": "081379",
+    "comarca": {
+      "comarca_name": "Vallès Oriental",
+      "comarca_code": "41"
+    }
+  },
+  {
+    "id": "08129",
+    "name": "Muntanyola",
+    "municipality_code_6": "081290",
+    "comarca": {
+      "comarca_name": "Osona",
+      "comarca_code": "24"
+    }
+  },
+  {
+    "id": "08139",
+    "name": "Mura",
+    "municipality_code_6": "081398",
+    "comarca": {
+      "comarca_name": "Bages",
+      "comarca_code": "7"
+    }
+  },
+  {
+    "id": "08140",
+    "name": "Navarcles",
+    "municipality_code_6": "081402",
+    "comarca": {
+      "comarca_name": "Bages",
+      "comarca_code": "7"
+    }
+  },
+  {
+    "id": "08141",
+    "name": "Navàs",
+    "municipality_code_6": "081419",
+    "comarca": {
+      "comarca_name": "Bages",
+      "comarca_code": "7"
+    }
+  },
+  {
+    "id": "08143",
+    "name": "Òdena",
+    "municipality_code_6": "081430",
+    "comarca": {
+      "comarca_name": "Anoia",
+      "comarca_code": "6"
+    }
+  },
+  {
+    "id": "08145",
+    "name": "Olèrdola",
+    "municipality_code_6": "081458",
+    "comarca": {
+      "comarca_name": "Alt Penedès",
+      "comarca_code": "3"
+    }
+  },
+  {
+    "id": "08146",
+    "name": "Olesa de Bonesvalls",
+    "municipality_code_6": "081461",
+    "comarca": {
+      "comarca_name": "Alt Penedès",
+      "comarca_code": "3"
+    }
+  },
+  {
+    "id": "08147",
+    "name": "Olesa de Montserrat",
+    "municipality_code_6": "081477",
+    "comarca": {
+      "comarca_name": "Baix Llobregat",
+      "comarca_code": "11"
+    }
+  },
+  {
+    "id": "08148",
+    "name": "Olivella",
+    "municipality_code_6": "081483",
+    "comarca": {
+      "comarca_name": "Garraf",
+      "comarca_code": "17"
+    }
+  },
+  {
+    "id": "08149",
+    "name": "Olost",
+    "municipality_code_6": "081496",
+    "comarca": {
+      "comarca_name": "Osona",
+      "comarca_code": "24"
+    }
+  },
+  {
+    "id": "08144",
+    "name": "Olvan",
+    "municipality_code_6": "081445",
+    "comarca": {
+      "comarca_name": "Berguedà",
+      "comarca_code": "14"
+    }
+  },
+  {
+    "id": "08150",
+    "name": "Orís",
+    "municipality_code_6": "081509",
+    "comarca": {
+      "comarca_name": "Osona",
+      "comarca_code": "24"
+    }
+  },
+  {
+    "id": "08151",
+    "name": "Oristà",
+    "municipality_code_6": "081516",
+    "comarca": {
+      "comarca_name": "Osona",
+      "comarca_code": "24"
+    }
+  },
+  {
+    "id": "08152",
+    "name": "Orpí",
+    "municipality_code_6": "081521",
+    "comarca": {
+      "comarca_name": "Anoia",
+      "comarca_code": "6"
+    }
+  },
+  {
+    "id": "08153",
+    "name": "Òrrius",
+    "municipality_code_6": "081537",
+    "comarca": {
+      "comarca_name": "Maresme",
+      "comarca_code": "21"
+    }
+  },
+  {
+    "id": "08154",
+    "name": "Pacs del Penedès",
+    "municipality_code_6": "081542",
+    "comarca": {
+      "comarca_name": "Alt Penedès",
+      "comarca_code": "3"
+    }
+  },
+  {
+    "id": "08155",
+    "name": "Palafolls",
+    "municipality_code_6": "081555",
+    "comarca": {
+      "comarca_name": "Maresme",
+      "comarca_code": "21"
+    }
+  },
+  {
+    "id": "08156",
+    "name": "Palau-solità i Plegamans",
+    "municipality_code_6": "081568",
+    "comarca": {
+      "comarca_name": "Vallès Occidental",
+      "comarca_code": "40"
+    }
+  },
+  {
+    "id": "08157",
+    "name": "Pallejà",
+    "municipality_code_6": "081574",
+    "comarca": {
+      "comarca_name": "Baix Llobregat",
+      "comarca_code": "11"
+    }
+  },
+  {
+    "id": "08159",
+    "name": "Parets del Vallès",
+    "municipality_code_6": "081593",
+    "comarca": {
+      "comarca_name": "Vallès Oriental",
+      "comarca_code": "41"
+    }
+  },
+  {
+    "id": "08160",
+    "name": "Perafita",
+    "municipality_code_6": "081607",
+    "comarca": {
+      "comarca_name": "Osona",
+      "comarca_code": "24"
+    }
+  },
+  {
+    "id": "08161",
+    "name": "Piera",
+    "municipality_code_6": "081614",
+    "comarca": {
+      "comarca_name": "Anoia",
+      "comarca_code": "6"
+    }
+  },
+  {
+    "id": "08163",
+    "name": "Pineda de Mar",
+    "municipality_code_6": "081635",
+    "comarca": {
+      "comarca_name": "Maresme",
+      "comarca_code": "21"
+    }
+  },
+  {
+    "id": "08167",
+    "name": "Polinyà",
+    "municipality_code_6": "081672",
+    "comarca": {
+      "comarca_name": "Vallès Occidental",
+      "comarca_code": "40"
+    }
+  },
+  {
+    "id": "08168",
+    "name": "Pontons",
+    "municipality_code_6": "081688",
+    "comarca": {
+      "comarca_name": "Alt Penedès",
+      "comarca_code": "3"
+    }
+  },
+  {
+    "id": "08171",
+    "name": "Prats de Lluçanès",
+    "municipality_code_6": "081712",
+    "comarca": {
+      "comarca_name": "Osona",
+      "comarca_code": "24"
+    }
+  },
+  {
+    "id": "08230",
+    "name": "Premià de Dalt",
+    "municipality_code_6": "082303",
+    "comarca": {
+      "comarca_name": "Maresme",
+      "comarca_code": "21"
+    }
+  },
+  {
+    "id": "08172",
+    "name": "Premià de Mar",
+    "municipality_code_6": "081727",
+    "comarca": {
+      "comarca_name": "Maresme",
+      "comarca_code": "21"
+    }
+  },
+  {
+    "id": "08175",
+    "name": "Puig-reig",
+    "municipality_code_6": "081751",
+    "comarca": {
+      "comarca_name": "Berguedà",
+      "comarca_code": "14"
+    }
+  },
+  {
+    "id": "08174",
+    "name": "Puigdàlber",
+    "municipality_code_6": "081748",
+    "comarca": {
+      "comarca_name": "Alt Penedès",
+      "comarca_code": "3"
+    }
+  },
+  {
+    "id": "08176",
+    "name": "Pujalt",
+    "municipality_code_6": "081764",
+    "comarca": {
+      "comarca_name": "Anoia",
+      "comarca_code": "6"
+    }
+  },
+  {
+    "id": "08178",
+    "name": "Rajadell",
+    "municipality_code_6": "081786",
+    "comarca": {
+      "comarca_name": "Bages",
+      "comarca_code": "7"
+    }
+  },
+  {
+    "id": "08179",
+    "name": "Rellinars",
+    "municipality_code_6": "081799",
+    "comarca": {
+      "comarca_name": "Vallès Occidental",
+      "comarca_code": "40"
+    }
+  },
+  {
+    "id": "08180",
+    "name": "Ripollet",
+    "municipality_code_6": "081803",
+    "comarca": {
+      "comarca_name": "Vallès Occidental",
+      "comarca_code": "40"
+    }
+  },
+  {
+    "id": "08183",
+    "name": "Roda de Ter",
+    "municipality_code_6": "081831",
+    "comarca": {
+      "comarca_name": "Osona",
+      "comarca_code": "24"
+    }
+  },
+  {
+    "id": "08184",
+    "name": "Rubí",
+    "municipality_code_6": "081846",
+    "comarca": {
+      "comarca_name": "Vallès Occidental",
+      "comarca_code": "40"
+    }
+  },
+  {
+    "id": "08185",
+    "name": "Rubió",
+    "municipality_code_6": "081859",
+    "comarca": {
+      "comarca_name": "Anoia",
+      "comarca_code": "6"
+    }
+  },
+  {
+    "id": "08901",
+    "name": "Rupit i Pruit",
+    "municipality_code_6": "089019",
+    "comarca": {
+      "comarca_name": "Osona",
+      "comarca_code": "24"
+    }
+  },
+  {
+    "id": "08187",
+    "name": "Sabadell",
+    "municipality_code_6": "081878",
+    "comarca": {
+      "comarca_name": "Vallès Occidental",
+      "comarca_code": "40"
+    }
+  },
+  {
+    "id": "08188",
+    "name": "Sagàs",
+    "municipality_code_6": "081884",
+    "comarca": {
+      "comarca_name": "Berguedà",
+      "comarca_code": "14"
+    }
+  },
+  {
+    "id": "08190",
+    "name": "Saldes",
+    "municipality_code_6": "081901",
+    "comarca": {
+      "comarca_name": "Berguedà",
+      "comarca_code": "14"
+    }
+  },
+  {
+    "id": "08191",
+    "name": "Sallent",
+    "municipality_code_6": "081918",
+    "comarca": {
+      "comarca_name": "Bages",
+      "comarca_code": "7"
+    }
+  },
+  {
+    "id": "08194",
+    "name": "Sant Adrià de Besòs",
+    "municipality_code_6": "081944",
+    "comarca": {
+      "comarca_name": "Barcelonès",
+      "comarca_code": "13"
+    }
+  },
+  {
+    "id": "08195",
+    "name": "Sant Agustí de Lluçanès",
+    "municipality_code_6": "081957",
+    "comarca": {
+      "comarca_name": "Osona",
+      "comarca_code": "24"
+    }
+  },
+  {
+    "id": "08196",
+    "name": "Sant Andreu de la Barca",
+    "municipality_code_6": "081960",
+    "comarca": {
+      "comarca_name": "Baix Llobregat",
+      "comarca_code": "11"
+    }
+  },
+  {
+    "id": "08197",
+    "name": "Sant Andreu de Llavaneres",
+    "municipality_code_6": "081976",
+    "comarca": {
+      "comarca_name": "Maresme",
+      "comarca_code": "21"
+    }
+  },
+  {
+    "id": "08198",
+    "name": "Sant Antoni de Vilamajor",
+    "municipality_code_6": "081982",
+    "comarca": {
+      "comarca_name": "Vallès Oriental",
+      "comarca_code": "41"
+    }
+  },
+  {
+    "id": "08199",
+    "name": "Sant Bartomeu del Grau",
+    "municipality_code_6": "081995",
+    "comarca": {
+      "comarca_name": "Osona",
+      "comarca_code": "24"
+    }
+  },
+  {
+    "id": "08200",
+    "name": "Sant Boi de Llobregat",
+    "municipality_code_6": "082009",
+    "comarca": {
+      "comarca_name": "Baix Llobregat",
+      "comarca_code": "11"
+    }
+  },
+  {
+    "id": "08201",
+    "name": "Sant Boi de Lluçanès",
+    "municipality_code_6": "082016",
+    "comarca": {
+      "comarca_name": "Osona",
+      "comarca_code": "24"
+    }
+  },
+  {
+    "id": "08203",
+    "name": "Sant Cebrià de Vallalta",
+    "municipality_code_6": "082037",
+    "comarca": {
+      "comarca_name": "Maresme",
+      "comarca_code": "21"
+    }
+  },
+  {
+    "id": "08202",
+    "name": "Sant Celoni",
+    "municipality_code_6": "082021",
+    "comarca": {
+      "comarca_name": "Vallès Oriental",
+      "comarca_code": "41"
+    }
+  },
+  {
+    "id": "08204",
+    "name": "Sant Climent de Llobregat",
+    "municipality_code_6": "082042",
+    "comarca": {
+      "comarca_name": "Baix Llobregat",
+      "comarca_code": "11"
+    }
+  },
+  {
+    "id": "08205",
+    "name": "Sant Cugat del Vallès",
+    "municipality_code_6": "082055",
+    "comarca": {
+      "comarca_name": "Vallès Occidental",
+      "comarca_code": "40"
+    }
+  },
+  {
+    "id": "08206",
+    "name": "Sant Cugat Sesgarrigues",
+    "municipality_code_6": "082068",
+    "comarca": {
+      "comarca_name": "Alt Penedès",
+      "comarca_code": "3"
+    }
+  },
+  {
+    "id": "08207",
+    "name": "Sant Esteve de Palautordera",
+    "municipality_code_6": "082074",
+    "comarca": {
+      "comarca_name": "Vallès Oriental",
+      "comarca_code": "41"
+    }
+  },
+  {
+    "id": "08208",
+    "name": "Sant Esteve Sesrovires",
+    "municipality_code_6": "082080",
+    "comarca": {
+      "comarca_name": "Baix Llobregat",
+      "comarca_code": "11"
+    }
+  },
+  {
+    "id": "08210",
+    "name": "Sant Feliu de Codines",
+    "municipality_code_6": "082107",
+    "comarca": {
+      "comarca_name": "Vallès Oriental",
+      "comarca_code": "41"
+    }
+  },
+  {
+    "id": "08211",
+    "name": "Sant Feliu de Llobregat",
+    "municipality_code_6": "082114",
+    "comarca": {
+      "comarca_name": "Baix Llobregat",
+      "comarca_code": "11"
+    }
+  },
+  {
+    "id": "08212",
+    "name": "Sant Feliu Sasserra",
+    "municipality_code_6": "082129",
+    "comarca": {
+      "comarca_name": "Bages",
+      "comarca_code": "7"
+    }
+  },
+  {
+    "id": "08209",
+    "name": "Sant Fost de Campsentelles",
+    "municipality_code_6": "082093",
+    "comarca": {
+      "comarca_name": "Vallès Oriental",
+      "comarca_code": "41"
+    }
+  },
+  {
+    "id": "08213",
+    "name": "Sant Fruitós de Bages",
+    "municipality_code_6": "082135",
+    "comarca": {
+      "comarca_name": "Bages",
+      "comarca_code": "7"
+    }
+  },
+  {
+    "id": "08215",
+    "name": "Sant Hipòlit de Voltregà",
+    "municipality_code_6": "082153",
+    "comarca": {
+      "comarca_name": "Osona",
+      "comarca_code": "24"
+    }
+  },
+  {
+    "id": "08193",
+    "name": "Sant Iscle de Vallalta",
+    "municipality_code_6": "081939",
+    "comarca": {
+      "comarca_name": "Maresme",
+      "comarca_code": "21"
+    }
+  },
+  {
+    "id": "08216",
+    "name": "Sant Jaume de Frontanyà",
+    "municipality_code_6": "082166",
+    "comarca": {
+      "comarca_name": "Berguedà",
+      "comarca_code": "14"
+    }
+  },
+  {
+    "id": "08218",
+    "name": "Sant Joan de Vilatorrada",
+    "municipality_code_6": "082188",
+    "comarca": {
+      "comarca_name": "Bages",
+      "comarca_code": "7"
+    }
+  },
+  {
+    "id": "08217",
+    "name": "Sant Joan Despí",
+    "municipality_code_6": "082172",
+    "comarca": {
+      "comarca_name": "Baix Llobregat",
+      "comarca_code": "11"
+    }
+  },
+  {
+    "id": "08903",
+    "name": "Sant Julià de Cerdanyola",
+    "municipality_code_6": "089030",
+    "comarca": {
+      "comarca_name": "Berguedà",
+      "comarca_code": "14"
+    }
+  },
+  {
+    "id": "08220",
+    "name": "Sant Julià de Vilatorta",
+    "municipality_code_6": "082205",
+    "comarca": {
+      "comarca_name": "Osona",
+      "comarca_code": "24"
+    }
+  },
+  {
+    "id": "08221",
+    "name": "Sant Just Desvern",
+    "municipality_code_6": "082212",
+    "comarca": {
+      "comarca_name": "Baix Llobregat",
+      "comarca_code": "11"
+    }
+  },
+  {
+    "id": "08222",
+    "name": "Sant Llorenç d'Hortons",
+    "municipality_code_6": "082227",
+    "comarca": {
+      "comarca_name": "Alt Penedès",
+      "comarca_code": "3"
+    }
+  },
+  {
+    "id": "08223",
+    "name": "Sant Llorenç Savall",
+    "municipality_code_6": "082233",
+    "comarca": {
+      "comarca_name": "Vallès Occidental",
+      "comarca_code": "40"
+    }
+  },
+  {
+    "id": "08225",
+    "name": "Sant Martí d'Albars",
+    "municipality_code_6": "082251",
+    "comarca": {
+      "comarca_name": "Osona",
+      "comarca_code": "24"
+    }
+  },
+  {
+    "id": "08224",
+    "name": "Sant Martí de Centelles",
+    "municipality_code_6": "082248",
+    "comarca": {
+      "comarca_name": "Osona",
+      "comarca_code": "24"
+    }
+  },
+  {
+    "id": "08226",
+    "name": "Sant Martí de Tous",
+    "municipality_code_6": "082264",
+    "comarca": {
+      "comarca_name": "Anoia",
+      "comarca_code": "6"
+    }
+  },
+  {
+    "id": "08227",
+    "name": "Sant Martí Sarroca",
+    "municipality_code_6": "082270",
+    "comarca": {
+      "comarca_name": "Alt Penedès",
+      "comarca_code": "3"
+    }
+  },
+  {
+    "id": "08228",
+    "name": "Sant Martí Sesgueioles",
+    "municipality_code_6": "082286",
+    "comarca": {
+      "comarca_name": "Anoia",
+      "comarca_code": "6"
+    }
+  },
+  {
+    "id": "08229",
+    "name": "Sant Mateu de Bages",
+    "municipality_code_6": "082299",
+    "comarca": {
+      "comarca_name": "Bages",
+      "comarca_code": "7"
+    }
+  },
+  {
+    "id": "08231",
+    "name": "Sant Pere de Ribes",
+    "municipality_code_6": "082310",
+    "comarca": {
+      "comarca_name": "Garraf",
+      "comarca_code": "17"
+    }
+  },
+  {
+    "id": "08232",
+    "name": "Sant Pere de Riudebitlles",
+    "municipality_code_6": "082325",
+    "comarca": {
+      "comarca_name": "Alt Penedès",
+      "comarca_code": "3"
+    }
+  },
+  {
+    "id": "08233",
+    "name": "Sant Pere de Torelló",
+    "municipality_code_6": "082331",
+    "comarca": {
+      "comarca_name": "Osona",
+      "comarca_code": "24"
+    }
+  },
+  {
+    "id": "08234",
+    "name": "Sant Pere de Vilamajor",
+    "municipality_code_6": "082346",
+    "comarca": {
+      "comarca_name": "Vallès Oriental",
+      "comarca_code": "41"
+    }
+  },
+  {
+    "id": "08189",
+    "name": "Sant Pere Sallavinera",
+    "municipality_code_6": "081897",
+    "comarca": {
+      "comarca_name": "Anoia",
+      "comarca_code": "6"
+    }
+  },
+  {
+    "id": "08235",
+    "name": "Sant Pol de Mar",
+    "municipality_code_6": "082359",
+    "comarca": {
+      "comarca_name": "Maresme",
+      "comarca_code": "21"
+    }
+  },
+  {
+    "id": "08236",
+    "name": "Sant Quintí de Mediona",
+    "municipality_code_6": "082362",
+    "comarca": {
+      "comarca_name": "Alt Penedès",
+      "comarca_code": "3"
+    }
+  },
+  {
+    "id": "08237",
+    "name": "Sant Quirze de Besora",
+    "municipality_code_6": "082378",
+    "comarca": {
+      "comarca_name": "Osona",
+      "comarca_code": "24"
+    }
+  },
+  {
+    "id": "08238",
+    "name": "Sant Quirze del Vallès",
+    "municipality_code_6": "082384",
+    "comarca": {
+      "comarca_name": "Vallès Occidental",
+      "comarca_code": "40"
+    }
+  },
+  {
+    "id": "08239",
+    "name": "Sant Quirze Safaja",
+    "municipality_code_6": "082397",
+    "comarca": {
+      "comarca_name": "Moianès",
+      "comarca_code": "42"
+    }
+  },
+  {
+    "id": "08240",
+    "name": "Sant Sadurní d'Anoia",
+    "municipality_code_6": "082401",
+    "comarca": {
+      "comarca_name": "Alt Penedès",
+      "comarca_code": "3"
+    }
+  },
+  {
+    "id": "08241",
+    "name": "Sant Sadurní d'Osormort",
+    "municipality_code_6": "082418",
+    "comarca": {
+      "comarca_name": "Osona",
+      "comarca_code": "24"
+    }
+  },
+  {
+    "id": "08098",
+    "name": "Sant Salvador de Guardiola",
+    "municipality_code_6": "080983",
+    "comarca": {
+      "comarca_name": "Bages",
+      "comarca_code": "7"
+    }
+  },
+  {
+    "id": "08262",
+    "name": "Sant Vicenç de Castellet",
+    "municipality_code_6": "082628",
+    "comarca": {
+      "comarca_name": "Bages",
+      "comarca_code": "7"
+    }
+  },
+  {
+    "id": "08264",
+    "name": "Sant Vicenç de Montalt",
+    "municipality_code_6": "082649",
+    "comarca": {
+      "comarca_name": "Maresme",
+      "comarca_code": "21"
+    }
+  },
+  {
+    "id": "08265",
+    "name": "Sant Vicenç de Torelló",
+    "municipality_code_6": "082652",
+    "comarca": {
+      "comarca_name": "Osona",
+      "comarca_code": "24"
+    }
+  },
+  {
+    "id": "08263",
+    "name": "Sant Vicenç dels Horts",
+    "municipality_code_6": "082634",
+    "comarca": {
+      "comarca_name": "Baix Llobregat",
+      "comarca_code": "11"
+    }
+  },
+  {
+    "id": "08243",
+    "name": "Santa Cecília de Voltregà",
+    "municipality_code_6": "082439",
+    "comarca": {
+      "comarca_name": "Osona",
+      "comarca_code": "24"
+    }
+  },
+  {
+    "id": "08244",
+    "name": "Santa Coloma de Cervelló",
+    "municipality_code_6": "082444",
+    "comarca": {
+      "comarca_name": "Baix Llobregat",
+      "comarca_code": "11"
+    }
+  },
+  {
+    "id": "08245",
+    "name": "Santa Coloma de Gramenet",
+    "municipality_code_6": "082457",
+    "comarca": {
+      "comarca_name": "Barcelonès",
+      "comarca_code": "13"
+    }
+  },
+  {
+    "id": "08246",
+    "name": "Santa Eugènia de Berga",
+    "municipality_code_6": "082460",
+    "comarca": {
+      "comarca_name": "Osona",
+      "comarca_code": "24"
+    }
+  },
+  {
+    "id": "08247",
+    "name": "Santa Eulàlia de Riuprimer",
+    "municipality_code_6": "082476",
+    "comarca": {
+      "comarca_name": "Osona",
+      "comarca_code": "24"
+    }
+  },
+  {
+    "id": "08248",
+    "name": "Santa Eulàlia de Ronçana",
+    "municipality_code_6": "082482",
+    "comarca": {
+      "comarca_name": "Vallès Oriental",
+      "comarca_code": "41"
+    }
+  },
+  {
+    "id": "08249",
+    "name": "Santa Fe del Penedès",
+    "municipality_code_6": "082495",
+    "comarca": {
+      "comarca_name": "Alt Penedès",
+      "comarca_code": "3"
+    }
+  },
+  {
+    "id": "08250",
+    "name": "Santa Margarida de Montbui",
+    "municipality_code_6": "082508",
+    "comarca": {
+      "comarca_name": "Anoia",
+      "comarca_code": "6"
+    }
+  },
+  {
+    "id": "08251",
+    "name": "Santa Margarida i els Monjos",
+    "municipality_code_6": "082515",
+    "comarca": {
+      "comarca_name": "Alt Penedès",
+      "comarca_code": "3"
+    }
+  },
+  {
+    "id": "08258",
+    "name": "Santa Maria d'Oló",
+    "municipality_code_6": "082589",
+    "comarca": {
+      "comarca_name": "Moianès",
+      "comarca_code": "42"
+    }
+  },
+  {
+    "id": "08253",
+    "name": "Santa Maria de Besora",
+    "municipality_code_6": "082536",
+    "comarca": {
+      "comarca_name": "Osona",
+      "comarca_code": "24"
+    }
+  },
+  {
+    "id": "08256",
+    "name": "Santa Maria de Martorelles",
+    "municipality_code_6": "082567",
+    "comarca": {
+      "comarca_name": "Vallès Oriental",
+      "comarca_code": "41"
+    }
+  },
+  {
+    "id": "08255",
+    "name": "Santa Maria de Merlès",
+    "municipality_code_6": "082554",
+    "comarca": {
+      "comarca_name": "Berguedà",
+      "comarca_code": "14"
+    }
+  },
+  {
+    "id": "08257",
+    "name": "Santa Maria de Miralles",
+    "municipality_code_6": "082573",
+    "comarca": {
+      "comarca_name": "Anoia",
+      "comarca_code": "6"
+    }
+  },
+  {
+    "id": "08259",
+    "name": "Santa Maria de Palautordera",
+    "municipality_code_6": "082592",
+    "comarca": {
+      "comarca_name": "Vallès Oriental",
+      "comarca_code": "41"
+    }
+  },
+  {
+    "id": "08260",
+    "name": "Santa Perpètua de Mogoda",
+    "municipality_code_6": "082606",
+    "comarca": {
+      "comarca_name": "Vallès Occidental",
+      "comarca_code": "40"
+    }
+  },
+  {
+    "id": "08261",
+    "name": "Santa Susanna",
+    "municipality_code_6": "082613",
+    "comarca": {
+      "comarca_name": "Maresme",
+      "comarca_code": "21"
+    }
+  },
+  {
+    "id": "08192",
+    "name": "Santpedor",
+    "municipality_code_6": "081923",
+    "comarca": {
+      "comarca_name": "Bages",
+      "comarca_code": "7"
+    }
+  },
+  {
+    "id": "08267",
+    "name": "Sentmenat",
+    "municipality_code_6": "082671",
+    "comarca": {
+      "comarca_name": "Vallès Occidental",
+      "comarca_code": "40"
+    }
+  },
+  {
+    "id": "08269",
+    "name": "Seva",
+    "municipality_code_6": "082690",
+    "comarca": {
+      "comarca_name": "Osona",
+      "comarca_code": "24"
+    }
+  },
+  {
+    "id": "08270",
+    "name": "Sitges",
+    "municipality_code_6": "082704",
+    "comarca": {
+      "comarca_name": "Garraf",
+      "comarca_code": "17"
+    }
+  },
+  {
+    "id": "08271",
+    "name": "Sobremunt",
+    "municipality_code_6": "082711",
+    "comarca": {
+      "comarca_name": "Osona",
+      "comarca_code": "24"
+    }
+  },
+  {
+    "id": "08272",
+    "name": "Sora",
+    "municipality_code_6": "082726",
+    "comarca": {
+      "comarca_name": "Osona",
+      "comarca_code": "24"
+    }
+  },
+  {
+    "id": "08273",
+    "name": "Subirats",
+    "municipality_code_6": "082732",
+    "comarca": {
+      "comarca_name": "Alt Penedès",
+      "comarca_code": "3"
+    }
+  },
+  {
+    "id": "08274",
+    "name": "Súria",
+    "municipality_code_6": "082747",
+    "comarca": {
+      "comarca_name": "Bages",
+      "comarca_code": "7"
+    }
+  },
+  {
+    "id": "08276",
+    "name": "Tagamanent",
+    "municipality_code_6": "082763",
+    "comarca": {
+      "comarca_name": "Vallès Oriental",
+      "comarca_code": "41"
+    }
+  },
+  {
+    "id": "08277",
+    "name": "Talamanca",
+    "municipality_code_6": "082779",
+    "comarca": {
+      "comarca_name": "Bages",
+      "comarca_code": "7"
+    }
+  },
+  {
+    "id": "08278",
+    "name": "Taradell",
+    "municipality_code_6": "082785",
+    "comarca": {
+      "comarca_name": "Osona",
+      "comarca_code": "24"
+    }
+  },
+  {
+    "id": "08275",
+    "name": "Tavèrnoles",
+    "municipality_code_6": "082750",
+    "comarca": {
+      "comarca_name": "Osona",
+      "comarca_code": "24"
+    }
+  },
+  {
+    "id": "08280",
+    "name": "Tavertet",
+    "municipality_code_6": "082802",
+    "comarca": {
+      "comarca_name": "Osona",
+      "comarca_code": "24"
+    }
+  },
+  {
+    "id": "08281",
+    "name": "Teià",
+    "municipality_code_6": "082819",
+    "comarca": {
+      "comarca_name": "Maresme",
+      "comarca_code": "21"
+    }
+  },
+  {
+    "id": "08279",
+    "name": "Terrassa",
+    "municipality_code_6": "082798",
+    "comarca": {
+      "comarca_name": "Vallès Occidental",
+      "comarca_code": "40"
+    }
+  },
+  {
+    "id": "08282",
+    "name": "Tiana",
+    "municipality_code_6": "082824",
+    "comarca": {
+      "comarca_name": "Maresme",
+      "comarca_code": "21"
+    }
+  },
+  {
+    "id": "08283",
+    "name": "Tona",
+    "municipality_code_6": "082830",
+    "comarca": {
+      "comarca_name": "Osona",
+      "comarca_code": "24"
+    }
+  },
+  {
+    "id": "08284",
+    "name": "Tordera",
+    "municipality_code_6": "082845",
+    "comarca": {
+      "comarca_name": "Maresme",
+      "comarca_code": "21"
+    }
+  },
+  {
+    "id": "08285",
+    "name": "Torelló",
+    "municipality_code_6": "082858",
+    "comarca": {
+      "comarca_name": "Osona",
+      "comarca_code": "24"
+    }
+  },
+  {
+    "id": "08287",
+    "name": "Torrelavit",
+    "municipality_code_6": "082877",
+    "comarca": {
+      "comarca_name": "Alt Penedès",
+      "comarca_code": "3"
+    }
+  },
+  {
+    "id": "08288",
+    "name": "Torrelles de Foix",
+    "municipality_code_6": "082883",
+    "comarca": {
+      "comarca_name": "Alt Penedès",
+      "comarca_code": "3"
+    }
+  },
+  {
+    "id": "08289",
+    "name": "Torrelles de Llobregat",
+    "municipality_code_6": "082896",
+    "comarca": {
+      "comarca_name": "Baix Llobregat",
+      "comarca_code": "11"
+    }
+  },
+  {
+    "id": "08290",
+    "name": "Ullastrell",
+    "municipality_code_6": "082900",
+    "comarca": {
+      "comarca_name": "Vallès Occidental",
+      "comarca_code": "40"
+    }
+  },
+  {
+    "id": "08291",
+    "name": "Vacarisses",
+    "municipality_code_6": "082917",
+    "comarca": {
+      "comarca_name": "Vallès Occidental",
+      "comarca_code": "40"
+    }
+  },
+  {
+    "id": "08292",
+    "name": "Vallbona d'Anoia",
+    "municipality_code_6": "082922",
+    "comarca": {
+      "comarca_name": "Anoia",
+      "comarca_code": "6"
+    }
+  },
+  {
+    "id": "08293",
+    "name": "Vallcebre",
+    "municipality_code_6": "082938",
+    "comarca": {
+      "comarca_name": "Berguedà",
+      "comarca_code": "14"
+    }
+  },
+  {
+    "id": "08294",
+    "name": "Vallgorguina",
+    "municipality_code_6": "082943",
+    "comarca": {
+      "comarca_name": "Vallès Oriental",
+      "comarca_code": "41"
+    }
+  },
+  {
+    "id": "08295",
+    "name": "Vallirana",
+    "municipality_code_6": "082956",
+    "comarca": {
+      "comarca_name": "Baix Llobregat",
+      "comarca_code": "11"
+    }
+  },
+  {
+    "id": "08296",
+    "name": "Vallromanes",
+    "municipality_code_6": "082969",
+    "comarca": {
+      "comarca_name": "Vallès Oriental",
+      "comarca_code": "41"
+    }
+  },
+  {
+    "id": "08297",
+    "name": "Veciana",
+    "municipality_code_6": "082975",
+    "comarca": {
+      "comarca_name": "Anoia",
+      "comarca_code": "6"
+    }
+  },
+  {
+    "id": "08298",
+    "name": "Vic",
+    "municipality_code_6": "082981",
+    "comarca": {
+      "comarca_name": "Osona",
+      "comarca_code": "24"
+    }
+  },
+  {
+    "id": "08299",
+    "name": "Vilada",
+    "municipality_code_6": "082994",
+    "comarca": {
+      "comarca_name": "Berguedà",
+      "comarca_code": "14"
+    }
+  },
+  {
+    "id": "08301",
+    "name": "Viladecans",
+    "municipality_code_6": "083015",
+    "comarca": {
+      "comarca_name": "Baix Llobregat",
+      "comarca_code": "11"
+    }
+  },
+  {
+    "id": "08300",
+    "name": "Viladecavalls",
+    "municipality_code_6": "083008",
+    "comarca": {
+      "comarca_name": "Vallès Occidental",
+      "comarca_code": "40"
+    }
+  },
+  {
+    "id": "08305",
+    "name": "Vilafranca del Penedès",
+    "municipality_code_6": "083054",
+    "comarca": {
+      "comarca_name": "Alt Penedès",
+      "comarca_code": "3"
+    }
+  },
+  {
+    "id": "08306",
+    "name": "Vilalba Sasserra",
+    "municipality_code_6": "083067",
+    "comarca": {
+      "comarca_name": "Vallès Oriental",
+      "comarca_code": "41"
+    }
+  },
+  {
+    "id": "08303",
+    "name": "Vilanova de Sau",
+    "municipality_code_6": "083036",
+    "comarca": {
+      "comarca_name": "Osona",
+      "comarca_code": "24"
+    }
+  },
+  {
+    "id": "08302",
+    "name": "Vilanova del Camí",
+    "municipality_code_6": "083020",
+    "comarca": {
+      "comarca_name": "Anoia",
+      "comarca_code": "6"
+    }
+  },
+  {
+    "id": "08902",
+    "name": "Vilanova del Vallès",
+    "municipality_code_6": "089024",
+    "comarca": {
+      "comarca_name": "Vallès Oriental",
+      "comarca_code": "41"
+    }
+  },
+  {
+    "id": "08307",
+    "name": "Vilanova i la Geltrú",
+    "municipality_code_6": "083073",
+    "comarca": {
+      "comarca_name": "Garraf",
+      "comarca_code": "17"
+    }
+  },
+  {
+    "id": "08214",
+    "name": "Vilassar de Dalt",
+    "municipality_code_6": "082140",
+    "comarca": {
+      "comarca_name": "Maresme",
+      "comarca_code": "21"
+    }
+  },
+  {
+    "id": "08219",
+    "name": "Vilassar de Mar",
+    "municipality_code_6": "082191",
+    "comarca": {
+      "comarca_name": "Maresme",
+      "comarca_code": "21"
+    }
+  },
+  {
+    "id": "08304",
+    "name": "Vilobí del Penedès",
+    "municipality_code_6": "083041",
+    "comarca": {
+      "comarca_name": "Alt Penedès",
+      "comarca_code": "3"
+    }
+  },
+  {
+    "id": "08308",
+    "name": "Viver i Serrateix",
+    "municipality_code_6": "083089",
+    "comarca": {
+      "comarca_name": "Berguedà",
+      "comarca_code": "14"
+    }
+  }
+]

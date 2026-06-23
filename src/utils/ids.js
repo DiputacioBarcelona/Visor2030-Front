@@ -1,0 +1,10 @@
+export const ID = "ID";
+export const NOM_COMPLET = "Nom complet";
+export const ANY_CENTRAL = "Any central";
+export const PERIODE = "Període";
+export const MUNICIPI = "Municipi";
+export const COMARCA = "Comarca";
+export const MUN_INTER = "Municipis Escala I";
+export const ESCALA = "ESCALA";
+export const TOTAL = "Total";
+export const PROVINCE = "Provincia";

@@ -1,0 +1,1360 @@
+key,value
+TITLE,Visor 2030
+HOMEPAGE.TITLE,Local SDG indicators in the province of Barcelona
+HOMEPAGE.DESCRIPTION,"From the Diputació de Barcelona, we offer a platform to visualize a system of multidimensional indicators aligned with the 2030 Agenda, reflecting the economic, social, and environmental reality of the municipalities in the province of Barcelona. With this dataset, we aim to encourage debate, reflection, and analysis, as well as to improve decision-making by both local authorities and the Diputació itself."
+HOMEPAGE.SUBTITLE,About the SDGs
+HOMEPAGE.SDG_DESCRIPTION,"The Sustainable Development Goals are a global call to end poverty, protect the planet, and ensure well-being for all people. Adopted by the United Nations in 2015, they provide a common framework to address major global challenges. At the Diputació de Barcelona, we promote their local implementation as a tool for planning, making informed decisions, and monitoring progress towards a more sustainable and fair future."
+HOMEPAGE.FOOTER_TITLE,About Visor 2030
+HOMEPAGE.FOOTER_TEXT,"The viewer measures the degree of progress towards the SDGs in the municipalities based on a selection of 76 indicators distributed across the 17 goals. These indicators have been chosen according to their thematic relevance and the availability of data at the municipal level.
+
+The synthetic index is calculated on a scale from 0 to 100 and includes population weightings, methodological adjustments, and the treatment of outliers to ensure comparability between municipalities. County and provincial references are also included.
+
+The data cover the largest possible number of municipalities and available years from each source, and regular updates are planned."
+HOMEPAGE.METODOLOGIA_BUTTON,Check the methodology
+SDG,SDG {sdg}
+TARGET,Target {target}
+INDICATORS,Indicators
+INDICATOR,Indicator
+EVOLUCIO,Trend
+DISTRIBUCIO,Distribution
+PREVIOUS_YEAR,Previous year
+COMARCA_AVERAGE,County of {comarca}
+PROVINCE_AVERAGE,Province of Barcelona
+SOURCE,Data sources and methodology
+PROVINCIA_BARCELONA,Province of Barcelona
+NO_MUNICIPALITY_DATA,No data available for this municipality
+CHOOSE_TARGET,Choose the target you want to see indicators for
+HIGH,High
+MEDIUM,Medium
+LOW,Low
+VERY_HIGH,Very high
+SI,Yes
+NO,No
+UNKNOWN,---
+ACTUALITZAT,Updated
+NO_ACTUALITZAT,Not updated
+CLICK_SDG,Click on any of the SDGs to see detailed information
+NAVEGA_PER_MUNICIPI,Browse by municipality
+CERCA_MUNICIPI,Search municipality
+SELECCIONA_UN_MUNICIPI,Select a municipality
+PROGRAMS_BUDGET,Program budgets
+PROGRAMS_TITLE,Programs
+BUDGET,Budget
+BUDGET_TITLE,Budget
+TOTAL_BUDGET,Total
+TOTAL_ASSIGNED_BUDGET,Allocated to SDGs
+TOTAL_UNASSIGNED_BUDGET,Not allocated
+PER_CAPITOLS,Breakdown by chapters
+ERROR,There was an error loading the data. Please try again later.
+POINTS_BY_SDG,Score by SDG
+BUDGET_SUBTITLE,"The allocated budget reflects the financial resources dedicated to initiatives linked to the SDGs. It shows both the total and the distribution by goals, as well as the unassigned portion. This analysis helps evaluate the alignment between local policies and sustainability commitments. These are budgeted and assigned resources but not yet settled."
+RANKING,Ranking
+COMPOSITION,Composition
+CHAPTERS,Chapters
+DISTRIBUTION,Distribution
+ALL,All
+FILTER_BY_SDG,Filter by SDG
+SDGS.1.TITLE,No poverty
+SDGS.1.DESCRIPTION,End poverty in all its forms everywhere.
+SDGS.1.TARGETS.1.DESCRIPTION,Reduce extreme poverty
+SDGS.1.TARGETS.1.INDICATORS.1.TITLE,% Population with income < 40%
+SDGS.1.TARGETS.1.INDICATORS.1.DESCRIPTION,Percentage of the population living in consumption units with disposable income below 40% of the median
+SDGS.1.TARGETS.1.INDICATORS.1.UNIT,%
+SDGS.1.TARGETS.1.INDICATORS.1.VALUES.1.TITLE,
+SDGS.1.TARGETS.1.INDICATORS.1.VALUES.1.UNIT,
+SDGS.1.TARGETS.1.INDICATORS.1.VALUES.2.TITLE,
+SDGS.1.TARGETS.1.INDICATORS.1.VALUES.2.UNIT,
+SDGS.1.TARGETS.1.INDICATORS.1.SOURCE,- [Percentage of the population with consumption unit income below/above certain relative thresholds by sex](https://www.ine.es/jaxiT3/Tabla.htm?t=30901) (INE)
+SDGS.1.TARGETS.2.DESCRIPTION,Reduce the proportion of the population living in poverty by increasing comprehensive programs that address it in all its dimensions.
+SDGS.1.TARGETS.2.INDICATORS.1.TITLE,% Population with income < 60%
+SDGS.1.TARGETS.2.INDICATORS.1.DESCRIPTION,Percentage of the population living in consumption units with disposable income below 60% of the median
+SDGS.1.TARGETS.2.INDICATORS.1.UNIT,%
+SDGS.1.TARGETS.2.INDICATORS.1.VALUES.1.TITLE,
+SDGS.1.TARGETS.2.INDICATORS.1.VALUES.1.UNIT,%
+SDGS.1.TARGETS.2.INDICATORS.1.VALUES.2.TITLE,
+SDGS.1.TARGETS.2.INDICATORS.1.VALUES.2.UNIT,
+SDGS.1.TARGETS.2.INDICATORS.1.SOURCE,- [Percentage of the population with consumption unit income below/above certain relative thresholds by sex ](https://www.ine.es/jaxiT3/Tabla.htm?t=30901) (INE)
+SDGS.1.TARGETS.2.INDICATORS.2.TITLE,Median income
+SDGS.1.TARGETS.2.INDICATORS.2.DESCRIPTION,"Value of income which, when ordering all individuals from lowest to highest income, leaves half below this value and the other half above it"
+SDGS.1.TARGETS.2.INDICATORS.2.UNIT,€
+SDGS.1.TARGETS.2.INDICATORS.2.VALUES.1.TITLE,
+SDGS.1.TARGETS.2.INDICATORS.2.VALUES.1.UNIT,€
+SDGS.1.TARGETS.2.INDICATORS.2.VALUES.2.TITLE,
+SDGS.1.TARGETS.2.INDICATORS.2.VALUES.2.UNIT,
+SDGS.1.TARGETS.2.INDICATORS.2.SOURCE,- [Average and median income indicators](https://www.ine.es/jaxiT3/Tabla.htm?t=30896) (INE)
+SDGS.1.TARGETS.2.INDICATORS.3.TITLE,"Number of cooperative members per 1,000 inhabitants"
+SDGS.1.TARGETS.2.INDICATORS.3.DESCRIPTION,"Number of cooperative members per 1,000 inhabitants"
+SDGS.1.TARGETS.2.INDICATORS.3.UNIT,"members per 1,000 inhabitants"
+SDGS.1.TARGETS.2.INDICATORS.3.VALUES.1.TITLE,Number of cooperative members
+SDGS.1.TARGETS.2.INDICATORS.3.VALUES.1.UNIT,members
+SDGS.1.TARGETS.2.INDICATORS.3.VALUES.2.TITLE,Total population
+SDGS.1.TARGETS.2.INDICATORS.3.VALUES.2.UNIT,people
+SDGS.1.TARGETS.2.INDICATORS.3.SOURCE,"- [General Register of Cooperatives of the Generalitat de Catalunya](https://analisi.transparenciacatalunya.cat/Treball/Registre-General-de-Cooperatives-de-la-Generalitat/euku-fzbx/about_data) (Dades Obertes de Catalunya)
+- [Historical population data of the municipalities of Catalunya](https://analisi.transparenciacatalunya.cat/Sector-P-blic/Dades-hist-riques-de-poblaci-dels-municipis-de-Cat/x5sz-niat/about_data) (Dades Obertes de Catalunya)"
+SDGS.1.TARGETS.3.DESCRIPTION,"Strengthen appropriate social protection systems and measures at the local level for all people, in order to achieve broad coverage of vulnerable populations"
+SDGS.1.TARGETS.3.INDICATORS.1.TITLE,"Guaranteed Citizenship Income per 10,000 inhabitants"
+SDGS.1.TARGETS.3.INDICATORS.1.DESCRIPTION,"Average number of people who received the Guaranteed Citizenship Income in the reference year, per 10,000 inhabitants"
+SDGS.1.TARGETS.3.INDICATORS.1.UNIT,"people/10,000 inhabitants"
+SDGS.1.TARGETS.3.INDICATORS.1.VALUES.1.TITLE,Average number of beneficiaries
+SDGS.1.TARGETS.3.INDICATORS.1.VALUES.1.UNIT,people
+SDGS.1.TARGETS.3.INDICATORS.1.VALUES.2.TITLE,Total population
+SDGS.1.TARGETS.3.INDICATORS.1.VALUES.2.UNIT,people
+SDGS.1.TARGETS.3.INDICATORS.1.SOURCE,"- [Guaranteed Citizenship Income ](https://www.idescat.cat/pub/?id=ris&n=9549) (IDESCAT)
+- [Historical population data of the municipalities of Catalunya ](https://analisi.transparenciacatalunya.cat/Sector-P-blic/Dades-hist-riques-de-poblaci-dels-municipis-de-Cat/x5sz-niat/about_data) (Dades Obertes de Catalunya)"
+SDGS.1.TARGETS.4.DESCRIPTION,"Ensure that people, especially the poor and vulnerable, have equal rights as well as access to basic services, natural resources, and economic and financial resources on equal terms."
+SDGS.1.TARGETS.4.INDICATORS.1.TITLE,Unemployment benefit rate
+SDGS.1.TARGETS.4.INDICATORS.1.DESCRIPTION,"Number of people receiving benefits that cover unemployment situations in the contributory, assistance, active insertion income, and employment activation program schemes, in relation to the total number of registered unemployed people who had previous employment."
+SDGS.1.TARGETS.4.INDICATORS.1.UNIT,%
+SDGS.1.TARGETS.4.INDICATORS.1.VALUES.1.TITLE,people receiving benefits
+SDGS.1.TARGETS.4.INDICATORS.1.VALUES.1.UNIT,people
+SDGS.1.TARGETS.4.INDICATORS.1.VALUES.2.TITLE,Annual average of registered unemployed people who had previous employment
+SDGS.1.TARGETS.4.INDICATORS.1.VALUES.2.UNIT,people
+SDGS.1.TARGETS.4.INDICATORS.1.SOURCE,"- [People receiving benefits ](https://www.diba.cat/hg2/presentaciomun.asp?prid=1327) (DIBA)
+- [Registered unemployment](https://www.idescat.cat/pub/?id=atureg&n=4299) (IDESCAT)
+
+The data for June are used for people receiving benefits and the annual average of registered unemployed people."
+SDGS.1.TARGETS.4.INDICATORS.2.TITLE,Proportion of people with disabilities receiving a pension
+SDGS.1.TARGETS.4.INDICATORS.2.DESCRIPTION,Proportion of people with disabilities receiving a pension
+SDGS.1.TARGETS.4.INDICATORS.2.UNIT,%
+SDGS.1.TARGETS.4.INDICATORS.2.VALUES.1.TITLE,Disability pensions
+SDGS.1.TARGETS.4.INDICATORS.2.VALUES.1.UNIT,pensions
+SDGS.1.TARGETS.4.INDICATORS.2.VALUES.2.TITLE,people legally recognized as disabled
+SDGS.1.TARGETS.4.INDICATORS.2.VALUES.2.UNIT,people
+SDGS.1.TARGETS.4.INDICATORS.2.SOURCE,"- [Disability pensions ](https://www.idescat.cat/pub/?id=ppsr&n=9383) (IDESCAT)
+
+- [People legally recognized as disabled](https://www.idescat.cat/pub/?id=regdis&n=441) (IDESCAT)
+
+"
+SDGS.1.TARGETS.5.DESCRIPTION,"Strengthen the resilience of poor and vulnerable people, and reduce their exposure and vulnerability to climate-related extreme events and other economic, social, and environmental shocks and disasters."
+SDGS.1.TARGETS.5.INDICATORS.1.TITLE,Free climate shelters
+SDGS.1.TARGETS.5.INDICATORS.1.DESCRIPTION,Free climate shelters
+SDGS.1.TARGETS.5.INDICATORS.1.UNIT,"shelters/10,000 inhabitants"
+SDGS.1.TARGETS.5.INDICATORS.1.VALUES.1.TITLE,Climate shelters
+SDGS.1.TARGETS.5.INDICATORS.1.VALUES.1.UNIT,shelters
+SDGS.1.TARGETS.5.INDICATORS.1.VALUES.2.TITLE,Population
+SDGS.1.TARGETS.5.INDICATORS.1.VALUES.2.UNIT,people
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.0.TITLE,Free and accessible shelters
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.0.VALUES.1.TITLE,Shelters
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.0.VALUES.1.UNIT,people
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.0.VALUES.2.TITLE,Population
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.0.VALUES.2.UNIT,people
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.2.TITLE,Free and inaccessible shelters
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.2.VALUES.1.TITLE,Shelters
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.2.VALUES.1.UNIT,people
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.2.VALUES.2.TITLE,Population
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.2.VALUES.2.UNIT,people
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.3.TITLE,Free and NA accessible shelters
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.3.VALUES.1.TITLE,Shelters
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.3.VALUES.1.UNIT,people
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.3.VALUES.2.TITLE,Population
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.3.VALUES.2.UNIT,people
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.4.TITLE,Free and accessible shelters
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.4.VALUES.1.TITLE,Shelters
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.4.VALUES.1.UNIT,people
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.4.VALUES.2.TITLE,Population
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.4.VALUES.2.UNIT,people
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.5.TITLE,Non-free and inaccessible shelters
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.5.VALUES.1.TITLE,Shelters
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.5.VALUES.1.UNIT,people
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.5.VALUES.2.TITLE,Population
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.5.VALUES.2.UNIT,people
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.6.TITLE,Free and NA accessible shelters
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.6.VALUES.1.TITLE,Shelters
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.6.VALUES.1.UNIT,people
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.6.VALUES.2.TITLE,Population
+SDGS.1.TARGETS.5.INDICATORS.1.SUBINDICATORS.6.VALUES.2.UNIT,people
+SDGS.1.TARGETS.5.INDICATORS.1.SOURCE,"- [Climate shelters.](https://analisi.transparenciacatalunya.cat/Seguretat/Refugis-clim-tics-dels-municipis-de-Catalunya/9gu7-iwci/about_data) (Dades Obertes de Catalunya)
+- [Historical population data of the municipalities of Catalunya.](https://analisi.transparenciacatalunya.cat/Sector-P-blic/Dades-hist-riques-de-poblaci-dels-municipis-de-Cat/x5sz-niat/about_data) (Dades Obertes de Catalunya)"
+SDGS.2.TITLE,Zero hunger
+SDGS.2.DESCRIPTION,"End hunger, achieve food security and improved nutrition, and promote sustainable agriculture"
+SDGS.2.TARGETS.1.DESCRIPTION,"[Ensure access to safe, nutritious, and sufficient food, especially for people in situations of food vulnerability, promoting sustainable, local agriculture that is resilient to climate change and extreme weather events]"
+SDGS.2.TARGETS.1.INDICATORS.1.TITLE,% Organic agricultural area
+SDGS.2.TARGETS.1.INDICATORS.1.DESCRIPTION,% Organic agricultural area
+SDGS.2.TARGETS.1.INDICATORS.1.UNIT,%
+SDGS.2.TARGETS.1.INDICATORS.1.VALUES.1.TITLE,Area with organic certification
+SDGS.2.TARGETS.1.INDICATORS.1.VALUES.1.UNIT,ha
+SDGS.2.TARGETS.1.INDICATORS.1.VALUES.2.TITLE,Area used for cultivation
+SDGS.2.TARGETS.1.INDICATORS.1.VALUES.2.UNIT,ha
+SDGS.2.TARGETS.1.INDICATORS.1.SOURCE,- [Parcel data of farms (DUN) in Catalunya ](https://analisi.transparenciacatalunya.cat/Medi-Rural-Pesca/Dades-de-parcel-les-d-explotacions-DUN-de-Cataluny/si4p-ygat/about_data) (Dades Obertes de Catalunya)
+SDGS.2.TARGETS.3.DESCRIPTION,Promote agricultural productivity and the incomes of small-scale food producers.
+SDGS.2.TARGETS.3.INDICATORS.1.TITLE,Agricultural land per 100 inhabitants.
+SDGS.2.TARGETS.3.INDICATORS.1.DESCRIPTION,Total area used for cultivation (food and forage) relative to the number of inhabitants (hectares/100 inhabitants)
+SDGS.2.TARGETS.3.INDICATORS.1.UNIT,ha/100 inhabitants
+SDGS.2.TARGETS.3.INDICATORS.1.VALUES.1.TITLE,Area used for cultivation
+SDGS.2.TARGETS.3.INDICATORS.1.VALUES.1.UNIT,ha
+SDGS.2.TARGETS.3.INDICATORS.1.VALUES.2.TITLE,Total population
+SDGS.2.TARGETS.3.INDICATORS.1.VALUES.2.UNIT,people
+SDGS.2.TARGETS.3.INDICATORS.1.SOURCE,"- [Parcel data of farms (DUN) in Catalunya. 
+](https://analisi.transparenciacatalunya.cat/Medi-Rural-Pesca/Dades-de-parcel-les-d-explotacions-DUN-de-Cataluny/si4p-ygat/about_data) (Dades Obertes de Catalunya)
+- [Population. By sex](hhttps://www.idescat.cat/pub/?id=censph&n=538&hist=taules%2Fv2%2Fcensph%2F538%2F565%2Fmun%2Fdata%3F_LAST_%3D3%5Ec%3D2%2Fr%3D1%2Ft%3D-1c%3B0d%2C2%3B-2c%2Fe%3D01) (IDESCAT)"
+SDGS.2.TARGETS.3.INDICATORS.2.TITLE,Agricultural unemployment
+SDGS.2.TARGETS.3.INDICATORS.2.DESCRIPTION,Agricultural unemployment relative to total unemployment
+SDGS.2.TARGETS.3.INDICATORS.2.UNIT,%
+SDGS.2.TARGETS.3.INDICATORS.2.VALUES.1.TITLE,Annual average of registered unemployment in agriculture
+SDGS.2.TARGETS.3.INDICATORS.2.VALUES.1.UNIT,people
+SDGS.2.TARGETS.3.INDICATORS.2.VALUES.2.TITLE,Annual average of total registered unemployment
+SDGS.2.TARGETS.3.INDICATORS.2.VALUES.2.UNIT,people
+SDGS.2.TARGETS.3.INDICATORS.2.SOURCE,- [Registered unemployment. By sectors. Annual averages](https://www.idescat.cat/pub/?id=atureg&n=4302&geo=cat) (IDESCAT)
+SDGS.2.TARGETS.3.INDICATORS.3.TITLE,% Hectares of small-scale farms
+SDGS.2.TARGETS.3.INDICATORS.3.DESCRIPTION,% Hectares of small-scale farms
+SDGS.2.TARGETS.3.INDICATORS.3.UNIT,%
+SDGS.2.TARGETS.3.INDICATORS.3.VALUES.1.TITLE,Hectares of small-scale farms
+SDGS.2.TARGETS.3.INDICATORS.3.VALUES.1.UNIT,ha
+SDGS.2.TARGETS.3.INDICATORS.3.VALUES.2.TITLE,Total hectares of farms
+SDGS.2.TARGETS.3.INDICATORS.3.VALUES.2.UNIT,ha
+SDGS.2.TARGETS.3.INDICATORS.3.SUBINDICATORS.0.TITLE,% Hectares of small-scale farms
+SDGS.2.TARGETS.3.INDICATORS.3.SUBINDICATORS.0.VALUES.1.TITLE,Hectares of small-scale farms
+SDGS.2.TARGETS.3.INDICATORS.3.SUBINDICATORS.0.VALUES.1.UNIT,ha
+SDGS.2.TARGETS.3.INDICATORS.3.SUBINDICATORS.0.VALUES.2.TITLE,Total hectares of farms
+SDGS.2.TARGETS.3.INDICATORS.3.SUBINDICATORS.0.VALUES.2.UNIT,ha
+SDGS.2.TARGETS.3.INDICATORS.3.SUBINDICATORS.2.TITLE,% Small-scale farms
+SDGS.2.TARGETS.3.INDICATORS.3.SUBINDICATORS.2.VALUES.1.TITLE,Small-scale farms
+SDGS.2.TARGETS.3.INDICATORS.3.SUBINDICATORS.2.VALUES.1.UNIT,farms
+SDGS.2.TARGETS.3.INDICATORS.3.SUBINDICATORS.2.VALUES.2.TITLE,Total farms
+SDGS.2.TARGETS.3.INDICATORS.3.SUBINDICATORS.2.VALUES.2.UNIT,farms
+SDGS.2.TARGETS.3.INDICATORS.3.SOURCE,"- [Agricultural census. Farm size by total area (2020)](https://www.idescat.cat/pub/?id=censag&n=16090) (IDESCAT)
+- [Agricultural census. Farm size by total area (2009)](https://www.idescat.cat/pub/?id=censag&n=5099) (IDESCAT)
+- [Agricultural census. Farm size by total area (1982–1999)](https://www.idescat.cat/pub/?id=censag&n=5099) (IDESCAT)"
+SDGS.2.TARGETS.3.INDICATORS.4.TITLE,% of small-scale farms
+SDGS.2.TARGETS.3.INDICATORS.4.DESCRIPTION,% of small-scale farms
+SDGS.2.TARGETS.3.INDICATORS.4.UNIT,%
+SDGS.2.TARGETS.3.INDICATORS.4.VALUES.1.TITLE,Small-scale farms
+SDGS.2.TARGETS.3.INDICATORS.4.VALUES.1.UNIT,farms
+SDGS.2.TARGETS.3.INDICATORS.4.VALUES.2.TITLE,Total farms
+SDGS.2.TARGETS.3.INDICATORS.4.VALUES.2.UNIT,farms
+SDGS.2.TARGETS.3.INDICATORS.4.SOURCE,"- [Agricultural census. Farm size by total area (2020)](https://www.idescat.cat/pub/?id=censag&n=16090) (IDESCAT)
+- [Agricultural census. Farm size by total area (2009)](https://www.idescat.cat/pub/?id=censag&n=5099) (IDESCAT)
+- [Agricultural census. Farm size by total area (1982–1999)](https://www.idescat.cat/pub/?id=censag&n=5099) (IDESCAT)"
+SDGS.2.TARGETS.4.DESCRIPTION,Target name not available
+SDGS.2.TARGETS.5.DESCRIPTION,"Maintain the genetic diversity of seeds, cultivated plants, and farmed and domesticated animals, as well as related wild species"
+SDGS.3.TITLE,Health and well-being
+SDGS.3.DESCRIPTION,Ensure healthy lives and promote well-being for all at all ages.
+SDGS.3.TARGETS.3.DESCRIPTION,Target name not available
+SDGS.3.TARGETS.4.DESCRIPTION,Increase programs promoting healthy habits to reduce the risk of non-communicable diseases and promote mental health and well-being
+SDGS.3.TARGETS.4.INDICATORS.1.TITLE,Old-age index
+SDGS.3.TARGETS.4.INDICATORS.1.DESCRIPTION,Ratio between the population aged 85 and over and the population aged 65 and over.
+SDGS.3.TARGETS.4.INDICATORS.1.UNIT,%
+SDGS.3.TARGETS.4.INDICATORS.1.VALUES.1.TITLE,Population aged 85 and over
+SDGS.3.TARGETS.4.INDICATORS.1.VALUES.1.UNIT,people
+SDGS.3.TARGETS.4.INDICATORS.1.VALUES.2.TITLE,Population aged 65 and over
+SDGS.3.TARGETS.4.INDICATORS.1.VALUES.2.UNIT,people
+SDGS.3.TARGETS.4.INDICATORS.1.SOURCE,"- [Population. By sex and five-year age groups (2023–)](https://www.idescat.cat/pub/?id=censph&n=539&hist=taules%2Fv2%2Fcensph%2F539%2F5976%2Fmun%2Fdata%3FAGE%3DTOTAL%26_LAST_%3D3%5Ec%3D3%2Fr%3D1%2Ft%3D-1c%3B0d%2C2%3B2%2C0%3B-3c%2Fe%3D0) (IDESCAT)
+- [Population on January 1. By sex and age year by year (2014–2022)](https://www.idescat.cat/pub/?id=pmh&n=1180&hist=taules%2Fv2%2Fpmh%2F1180%2F8078%2Fmun%2Fdata%3FAGE%3DTOTAL%26_LAST_%3D3%5Ec%3D3%2Fr%3D1%2Ft%3D-1c%3B0d%2C2%3B2%2C0%3B-3c%2Fe%3D0) (IDESCAT)
+- [Population on January 1. By sex and age year by year (2000–2013)](https://www.idescat.cat/pub/?id=pmh&n=1180&hist=taules%2Fv2%2Fpmh%2F1180%2F1063%2Fmun%2Fdata%3FMUN%3DTOTAL%5Ec%3D3%2Fr%3D2%2Ft%3D1%2C0%3B0d%2C13%3B-2c%3B-3c%2Fe%3D0) (IDESCAT)"
+SDGS.3.TARGETS.4.INDICATORS.2.TITLE,Average age at death
+SDGS.3.TARGETS.4.INDICATORS.2.DESCRIPTION,Average age at death
+SDGS.3.TARGETS.4.INDICATORS.2.UNIT,years
+SDGS.3.TARGETS.4.INDICATORS.2.VALUES.1.TITLE,
+SDGS.3.TARGETS.4.INDICATORS.2.VALUES.1.UNIT,years
+SDGS.3.TARGETS.4.INDICATORS.2.VALUES.2.TITLE,
+SDGS.3.TARGETS.4.INDICATORS.2.VALUES.2.UNIT,
+SDGS.3.TARGETS.4.INDICATORS.2.SOURCE,"- [Deaths by sex and age ](https://www.idescat.cat/pub/?id=def&n=269) (IDESCAT)
+
+There is limited data available for municipalities. For those without data, the county value is used as an indicative value for the municipality."
+SDGS.3.TARGETS.5.DESCRIPTION,"Strengthen the prevention and treatment of substance abuse, including narcotic drug abuse and harmful use of alcohol."
+SDGS.3.TARGETS.6.DESCRIPTION,Halve the number of deaths and injuries caused by road traffic accidents.
+SDGS.3.TARGETS.6.INDICATORS.1.TITLE,Road traffic mortality rate
+SDGS.3.TARGETS.6.INDICATORS.1.DESCRIPTION,"People killed or seriously injured in road traffic accidents per 10,000 inhabitants."
+SDGS.3.TARGETS.6.INDICATORS.1.UNIT,"people/10,000 inhabitants"
+SDGS.3.TARGETS.6.INDICATORS.1.VALUES.1.TITLE,Number of deaths and serious injuries
+SDGS.3.TARGETS.6.INDICATORS.1.VALUES.1.UNIT,people
+SDGS.3.TARGETS.6.INDICATORS.1.VALUES.2.TITLE,Total population
+SDGS.3.TARGETS.6.INDICATORS.1.VALUES.2.UNIT,people
+SDGS.3.TARGETS.6.INDICATORS.1.SOURCE,"- [Traffic accidents with deaths or serious injuries in Catalunya](https://analisi.transparenciacatalunya.cat/Transport/Accidents-de-tr-nsit-amb-morts-o-ferits-greus-a-Ca/rmgc-ncpb/about_data) (Dades Obertes de Catalunya)
+- [Historical population data of the municipalities of Catalunya](https://analisi.transparenciacatalunya.cat/Sector-P-blic/Dades-hist-riques-de-poblaci-dels-municipis-de-Cat/x5sz-niat/about_data) (Dades Obertes de Catalunya)"
+SDGS.3.TARGETS.7.DESCRIPTION,Promote measures to ensure universal access to sexual and reproductive health services.
+SDGS.3.TARGETS.8.DESCRIPTION,Target name not available
+SDGS.3.TARGETS.9.DESCRIPTION,"Substantially reduce the number of deaths and illnesses from hazardous chemicals and air, water, and soil pollution and contamination."
+SDGS.3.TARGETS.d.DESCRIPTION,Target name not available
+SDGS.4.TITLE,Quality education
+SDGS.4.DESCRIPTION,"Ensure inclusive, equitable, and quality education, and promote lifelong learning opportunities for all."
+SDGS.4.TARGETS.1.DESCRIPTION,"Contribute to educational success by guaranteeing access to free, equitable, and quality education."
+SDGS.4.TARGETS.1.INDICATORS.1.TITLE,PFI enrolment rate
+SDGS.4.TARGETS.1.INDICATORS.1.DESCRIPTION,Students enrolled in PFI programs as a percentage of the total population aged 16 to 21 in the municipality
+SDGS.4.TARGETS.1.INDICATORS.1.UNIT,%
+SDGS.4.TARGETS.1.INDICATORS.1.VALUES.1.TITLE,Total number of students enrolled in PFI
+SDGS.4.TARGETS.1.INDICATORS.1.VALUES.1.UNIT,people
+SDGS.4.TARGETS.1.INDICATORS.1.VALUES.2.TITLE,Total population aged 16 to 21
+SDGS.4.TARGETS.1.INDICATORS.1.VALUES.2.UNIT,people
+SDGS.4.TARGETS.1.INDICATORS.1.SOURCE,"- [Students enrolled by type of education and school units](https://analisi.transparenciacatalunya.cat/Educaci-/Alumnes-matriculats-per-ensenyament-i-unitats-dels/xvme-26kg/about_data) (Dades Obertes de Catalunya)
+- [Population. By sex and age year by year (2011–)](https://www.idescat.cat/pub/?id=censph&n=10&hist=taules%2Fv2%2Fcensph%2F10%2F5975%2Fmun%2Fdata%3FAGE%3DTOTAL%26_LAST_%3D3%5Ec%3D3%2Fr%3D1%2Ft%3D-1c%3B0d%2C2%3B2%2C0%3B-3c%2Fe%3D0) (IDESCAT)"
+SDGS.4.TARGETS.1.INDICATORS.2.TITLE,ESO graduation rate
+SDGS.4.TARGETS.1.INDICATORS.2.DESCRIPTION,Secondary education graduates in the municipality as a percentage of total students enrolled in 4th year of ESO.
+SDGS.4.TARGETS.1.INDICATORS.2.UNIT,%
+SDGS.4.TARGETS.1.INDICATORS.2.VALUES.1.TITLE,Total number of 4th year ESO students who graduate
+SDGS.4.TARGETS.1.INDICATORS.2.VALUES.1.UNIT,students
+SDGS.4.TARGETS.1.INDICATORS.2.VALUES.2.TITLE,Total number of 4th year ESO students
+SDGS.4.TARGETS.1.INDICATORS.2.VALUES.2.UNIT,students
+SDGS.4.TARGETS.1.INDICATORS.2.SOURCE,- [Education statistics. Compulsory secondary education.](https://educacio.gencat.cat/ca/departament/estadistiques/estadistiques-ensenyament/curs-actual/eso/) (Departament d'Educació i Formació Professional de la Generalitat de Catalunya)
+SDGS.4.TARGETS.2.DESCRIPTION,Ensure that all children aged 0 to 3 have access to care and development services and to quality early education
+SDGS.4.TARGETS.2.INDICATORS.1.TITLE,First cycle early childhood education rate
+SDGS.4.TARGETS.2.INDICATORS.1.DESCRIPTION,"Percentage of children aged 0 to 2 enrolled in first cycle early childhood education in the municipality (total data and by type of provider: local public corporations, public Department of Education, private)."
+SDGS.4.TARGETS.2.INDICATORS.1.UNIT,%
+SDGS.4.TARGETS.2.INDICATORS.1.VALUES.1.TITLE,Total number of students enrolled in first cycle early childhood education
+SDGS.4.TARGETS.2.INDICATORS.1.VALUES.1.UNIT,people
+SDGS.4.TARGETS.2.INDICATORS.1.VALUES.2.TITLE,Total population aged 0 to 2
+SDGS.4.TARGETS.2.INDICATORS.1.VALUES.2.UNIT,people
+SDGS.4.TARGETS.2.INDICATORS.1.SOURCE,"- [Students enrolled by type of education and school units ](https://analisi.transparenciacatalunya.cat/Educaci-/Alumnes-matriculats-per-ensenyament-i-unitats-dels/xvme-26kg/about_data) (Dades Obertes de Catalunya)
+- [Population. By sex and age year by year (2011–)](https://www.idescat.cat/pub/?id=censph&n=10&hist=taules%2Fv2%2Fcensph%2F10%2F5975%2Fmun%2Fdata%3FAGE%3DTOTAL%26_LAST_%3D3%5Ec%3D3%2Fr%3D1%2Ft%3D-1c%3B0d%2C2%3B2%2C0%3B-3c%2Fe%3D0) (IDESCAT)"
+SDGS.4.TARGETS.3.DESCRIPTION,Target name not available
+SDGS.4.TARGETS.4.DESCRIPTION,"Substantially increase the number of youth and adults who have the necessary skills to access the labor market, decent employment, and entrepreneurship, on equal terms."
+SDGS.4.TARGETS.4.INDICATORS.1.TITLE,Education (Primary education or lower)
+SDGS.4.TARGETS.4.INDICATORS.1.DESCRIPTION,Level of education attained (Primary education or lower)
+SDGS.4.TARGETS.4.INDICATORS.1.UNIT,%
+SDGS.4.TARGETS.4.INDICATORS.1.VALUES.1.TITLE,Population aged 15 and over with primary education or lower
+SDGS.4.TARGETS.4.INDICATORS.1.VALUES.1.UNIT,people
+SDGS.4.TARGETS.4.INDICATORS.1.VALUES.2.TITLE,Total population aged 15 and over
+SDGS.4.TARGETS.4.INDICATORS.1.VALUES.2.UNIT,people
+SDGS.4.TARGETS.4.INDICATORS.1.SUBINDICATORS.0.TITLE,Primary education or lower
+SDGS.4.TARGETS.4.INDICATORS.1.SUBINDICATORS.0.VALUES.1.TITLE,Population aged 15 and over with primary education or lower
+SDGS.4.TARGETS.4.INDICATORS.1.SUBINDICATORS.0.VALUES.1.UNIT,people
+SDGS.4.TARGETS.4.INDICATORS.1.SUBINDICATORS.0.VALUES.2.TITLE,Total population aged 15 and over
+SDGS.4.TARGETS.4.INDICATORS.1.SUBINDICATORS.0.VALUES.2.UNIT,people
+SDGS.4.TARGETS.4.INDICATORS.1.SUBINDICATORS.2.TITLE,Lower secondary education or equivalent
+SDGS.4.TARGETS.4.INDICATORS.1.SUBINDICATORS.2.VALUES.1.TITLE,Population aged 15 and over with lower secondary education or equivalent
+SDGS.4.TARGETS.4.INDICATORS.1.SUBINDICATORS.2.VALUES.1.UNIT,people
+SDGS.4.TARGETS.4.INDICATORS.1.SUBINDICATORS.2.VALUES.2.TITLE,Total population aged 15 and over
+SDGS.4.TARGETS.4.INDICATORS.1.SUBINDICATORS.2.VALUES.2.UNIT,people
+SDGS.4.TARGETS.4.INDICATORS.1.SUBINDICATORS.3.TITLE,Upper secondary education or equivalent
+SDGS.4.TARGETS.4.INDICATORS.1.SUBINDICATORS.3.VALUES.1.TITLE,Population aged 15 and over with upper secondary education or equivalent
+SDGS.4.TARGETS.4.INDICATORS.1.SUBINDICATORS.3.VALUES.1.UNIT,people
+SDGS.4.TARGETS.4.INDICATORS.1.SUBINDICATORS.3.VALUES.2.TITLE,Total population aged 15 and over
+SDGS.4.TARGETS.4.INDICATORS.1.SUBINDICATORS.3.VALUES.2.UNIT,people
+SDGS.4.TARGETS.4.INDICATORS.1.SUBINDICATORS.4.TITLE,Higher education
+SDGS.4.TARGETS.4.INDICATORS.1.SUBINDICATORS.4.VALUES.1.TITLE,Population aged 15 and over with higher education
+SDGS.4.TARGETS.4.INDICATORS.1.SUBINDICATORS.4.VALUES.1.UNIT,people
+SDGS.4.TARGETS.4.INDICATORS.1.SUBINDICATORS.4.VALUES.2.TITLE,Total population aged 15 and over
+SDGS.4.TARGETS.4.INDICATORS.1.SUBINDICATORS.4.VALUES.2.UNIT,people
+SDGS.4.TARGETS.4.INDICATORS.1.SOURCE,- [Population. By level of education attained](https://www.idescat.cat/pub/?id=censph&n=7104&hist=taules%2Fv2%2Fcensph%2F7104%2F20170%2Fmun%2Fdata%5Ec%3D2%2Fr%3D1%2Ft%3D-1c%3B-0d%2C0%3B-2c%2Fe%3D0) (IDESCAT)
+SDGS.4.TARGETS.4.INDICATORS.2.TITLE,Education (lower secondary education)
+SDGS.4.TARGETS.4.INDICATORS.2.DESCRIPTION,Level of education attained (lower secondary education)
+SDGS.4.TARGETS.4.INDICATORS.2.UNIT,%
+SDGS.4.TARGETS.4.INDICATORS.2.VALUES.1.TITLE,Population aged 15 and over with lower secondary education or equivalent
+SDGS.4.TARGETS.4.INDICATORS.2.VALUES.1.UNIT,people
+SDGS.4.TARGETS.4.INDICATORS.2.VALUES.2.TITLE,Total population aged 15 and over
+SDGS.4.TARGETS.4.INDICATORS.2.VALUES.2.UNIT,people
+SDGS.4.TARGETS.4.INDICATORS.2.SOURCE,- [Population. By level of education attained (https://www.idescat.cat/pub/?id=censph&n=7104&hist=taules%2Fv2%2Fcensph%2F7104%2F20170%2Fmun%2Fdata%5Ec%3D2%2Fr%3D1%2Ft%3D-1c%3B-0d%2C0%3B-2c%2Fe%3D0) (IDESCAT)
+SDGS.4.TARGETS.4.INDICATORS.3.TITLE,Education (upper secondary education)
+SDGS.4.TARGETS.4.INDICATORS.3.DESCRIPTION,Level of education attained (upper secondary education)
+SDGS.4.TARGETS.4.INDICATORS.3.UNIT,%
+SDGS.4.TARGETS.4.INDICATORS.3.VALUES.1.TITLE,Population aged 15 and over with upper secondary education or equivalent
+SDGS.4.TARGETS.4.INDICATORS.3.VALUES.1.UNIT,people
+SDGS.4.TARGETS.4.INDICATORS.3.VALUES.2.TITLE,Total population aged 15 and over
+SDGS.4.TARGETS.4.INDICATORS.3.VALUES.2.UNIT,people
+SDGS.4.TARGETS.4.INDICATORS.3.SOURCE,- [Population. By level of education attained ](https://www.idescat.cat/pub/?id=censph&n=7104&hist=taules%2Fv2%2Fcensph%2F7104%2F20170%2Fmun%2Fdata%5Ec%3D2%2Fr%3D1%2Ft%3D-1c%3B-0d%2C0%3B-2c%2Fe%3D0) (IDESCAT)
+SDGS.4.TARGETS.4.INDICATORS.4.TITLE,Education (higher education)
+SDGS.4.TARGETS.4.INDICATORS.4.DESCRIPTION,Level of education attained (higher education)
+SDGS.4.TARGETS.4.INDICATORS.4.UNIT,%
+SDGS.4.TARGETS.4.INDICATORS.4.VALUES.1.TITLE,Population aged 15 and over with higher education
+SDGS.4.TARGETS.4.INDICATORS.4.VALUES.1.UNIT,people
+SDGS.4.TARGETS.4.INDICATORS.4.VALUES.2.TITLE,Total population aged 15 and over
+SDGS.4.TARGETS.4.INDICATORS.4.VALUES.2.UNIT,people
+SDGS.4.TARGETS.4.INDICATORS.4.SOURCE,- [Population. By level of education attained ](https://www.idescat.cat/pub/?id=censph&n=7104&hist=taules%2Fv2%2Fcensph%2F7104%2F20170%2Fmun%2Fdata%5Ec%3D2%2Fr%3D1%2Ft%3D-1c%3B-0d%2C0%3B-2c%2Fe%3D0) (IDESCAT)
+SDGS.4.TARGETS.5.DESCRIPTION,"Remove gender disparities in education and ensure equity in access, conditions, and outcomes for all groups in situations of vulnerability."
+SDGS.4.TARGETS.5.INDICATORS.1.TITLE,Parity index in educational activities
+SDGS.4.TARGETS.5.INDICATORS.1.DESCRIPTION,Parity index between women and men aged over 15 who have participated in educational activities in the last 12 months.
+SDGS.4.TARGETS.5.INDICATORS.1.UNIT,
+SDGS.4.TARGETS.5.INDICATORS.1.VALUES.1.TITLE,Women studying
+SDGS.4.TARGETS.5.INDICATORS.1.VALUES.1.UNIT,women
+SDGS.4.TARGETS.5.INDICATORS.1.VALUES.2.TITLE,Men studying
+SDGS.4.TARGETS.5.INDICATORS.1.VALUES.2.UNIT,men
+SDGS.4.TARGETS.5.INDICATORS.1.SOURCE,- [Population aged 15 and over. By highest level of current studies and sex ](https://www.idescat.cat/pub/?id=censph&n=16690&hist=taules%2Fv2%2Fcensph%2F16690%2F20161%2Fmun%2Fdata%3FEDU_LEV_CS%3DTOTAL%5Ec%3D2%2Fr%3D1%2Ft%3D-1c%3B-0d%2C0%3B-2c%3B3%2C0%2Fe%3D01) (IDESCAT)
+SDGS.4.TARGETS.7.DESCRIPTION,Ensure that all students acquire the theoretical and practical knowledge needed to promote sustainable development.
+SDGS.4.TARGETS.a.DESCRIPTION,"Ensure that educational facilities meet the needs of children and people with disabilities and consider gender issues, offering safe, non-violent, inclusive, and effective learning environments."
+SDGS.4.TARGETS.a.INDICATORS.1.TITLE,Student-teacher ratio
+SDGS.4.TARGETS.a.INDICATORS.1.DESCRIPTION,Student-teacher ratio
+SDGS.4.TARGETS.a.INDICATORS.1.UNIT,students/teacher
+SDGS.4.TARGETS.a.INDICATORS.1.VALUES.1.TITLE,Students in public schools *
+SDGS.4.TARGETS.a.INDICATORS.1.VALUES.1.UNIT,students
+SDGS.4.TARGETS.a.INDICATORS.1.VALUES.2.TITLE,Teachers in public schools *
+SDGS.4.TARGETS.a.INDICATORS.1.VALUES.2.UNIT,teachers
+SDGS.4.TARGETS.a.INDICATORS.1.SOURCE,"- [Students enrolled by type of education and school units](https://analisi.transparenciacatalunya.cat/Educaci-/Alumnes-matriculats-per-ensenyament-i-unitats-dels/xvme-26kg/about_data) (Dades Obertes de Catalunya)
+- [Teaching staff in public schools under the Department of Education](https://analisi.transparenciacatalunya.cat/Educaci-/Personal-docent-en-centres-p-blics-titularitat-del/2ip7-jdgh/about_data) (Dades Obertes de Catalunya)"
+SDGS.5.TITLE,Gender equality
+SDGS.5.DESCRIPTION,Achieve gender equality and empower all women and girls.
+SDGS.5.TARGETS.1.DESCRIPTION,[End all forms of gender discrimination.]
+SDGS.5.TARGETS.1.INDICATORS.1.TITLE,Unemployment gap women vs men
+SDGS.5.TARGETS.1.INDICATORS.1.DESCRIPTION,Female unemployment rate – male unemployment rate
+SDGS.5.TARGETS.1.INDICATORS.1.UNIT,p.p.
+SDGS.5.TARGETS.1.INDICATORS.1.VALUES.1.TITLE,Female unemployment rate
+SDGS.5.TARGETS.1.INDICATORS.1.VALUES.1.UNIT,%
+SDGS.5.TARGETS.1.INDICATORS.1.VALUES.2.TITLE,Male unemployment rate
+SDGS.5.TARGETS.1.INDICATORS.1.VALUES.2.UNIT,%
+SDGS.5.TARGETS.1.INDICATORS.1.SOURCE,"- [Registered unemployment. By sex ](https://www.idescat.cat/pub/?id=atureg&n=4299&geo=mun) (IDESCAT)
+- [Social Security affiliates by place of residence. By sex. Last day of the month ](https://www.idescat.cat/pub/?id=afi&n=8604&hist=taules%2Fv2%2Fafi%2F8604%2F8704%2Fmun%2Fdata%3F_LAST_%3D3%5Ec%3D2%2Fr%3D1%2Ft%3D-1c%3B0d%2C2%3B-2c) (IDESCAT)"
+SDGS.5.TARGETS.2.DESCRIPTION,Eliminate all forms of gender-based violence.
+SDGS.5.TARGETS.4.DESCRIPTION,Recognize and value unpaid care and domestic work through public services and by promoting shared responsibility.
+SDGS.5.TARGETS.5.DESCRIPTION,"Ensure women's full and effective participation and equal opportunities for leadership at all levels of decision-making in political, economic, and public life."
+SDGS.5.TARGETS.5.INDICATORS.1.TITLE,% elected women representatives
+SDGS.5.TARGETS.5.INDICATORS.1.DESCRIPTION,Percentage of municipal council elected positions held by women
+SDGS.5.TARGETS.5.INDICATORS.1.UNIT,%
+SDGS.5.TARGETS.5.INDICATORS.1.VALUES.1.TITLE,Elected positions held by women
+SDGS.5.TARGETS.5.INDICATORS.1.VALUES.1.UNIT,positions
+SDGS.5.TARGETS.5.INDICATORS.1.VALUES.2.TITLE,Total elected positions
+SDGS.5.TARGETS.5.INDICATORS.1.VALUES.2.UNIT,positions
+SDGS.5.TARGETS.5.INDICATORS.1.SOURCE,- [Registered unemployment. By sex ](https://do.diba.cat/api/dataset/electes/pag-fi/) (Diputació de Barcelona)
+SDGS.5.TARGETS.c.DESCRIPTION,Strengthen gender equality policies and the empowerment of women and girls.
+SDGS.5.TARGETS.c.INDICATORS.1.TITLE,Female unemployment rate
+SDGS.5.TARGETS.c.INDICATORS.1.DESCRIPTION,Female unemployment rate
+SDGS.5.TARGETS.c.INDICATORS.1.UNIT,%
+SDGS.5.TARGETS.c.INDICATORS.1.VALUES.1.TITLE,Annual average of registered unemployment (women)
+SDGS.5.TARGETS.c.INDICATORS.1.VALUES.1.UNIT,women
+SDGS.5.TARGETS.c.INDICATORS.1.VALUES.2.TITLE,Annual average of Social Security affiliates (women)
+SDGS.5.TARGETS.c.INDICATORS.1.VALUES.2.UNIT,women
+SDGS.5.TARGETS.c.INDICATORS.1.SOURCE,"- [Registered unemployment. By sex](https://www.idescat.cat/pub/?id=atureg&n=4299&geo=mun) (IDESCAT)
+- [Social Security affiliates by place of residence. By sex. Last day of the month](https://www.idescat.cat/pub/?id=afi&n=8604&hist=taules%2Fv2%2Fafi%2F8604%2F8704%2Fmun%2Fdata%3F_LAST_%3D3%5Ec%3D2%2Fr%3D1%2Ft%3D-1c%3B0d%2C2%3B-2c) (IDESCAT)"
+SDGS.5.TARGETS.c.INDICATORS.2.TITLE,Female employment rate
+SDGS.5.TARGETS.c.INDICATORS.2.DESCRIPTION,Female employment rate
+SDGS.5.TARGETS.c.INDICATORS.2.UNIT,%
+SDGS.5.TARGETS.c.INDICATORS.2.VALUES.1.TITLE,Annual average of Social Security affiliates (women)
+SDGS.5.TARGETS.c.INDICATORS.2.VALUES.1.UNIT,women
+SDGS.5.TARGETS.c.INDICATORS.2.VALUES.2.TITLE,Active population (women)
+SDGS.5.TARGETS.c.INDICATORS.2.VALUES.2.UNIT,women
+SDGS.5.TARGETS.c.INDICATORS.2.SOURCE,"- [Social Security affiliates by place of residence. By sex. Last day of the month ](https://www.idescat.cat/pub/?id=afi&n=8604&hist=taules%2Fv2%2Fafi%2F8604%2F8704%2Fmun%2Fdata%3F_LAST_%3D3%5Ec%3D2%2Fr%3D1%2Ft%3D-1c%3B0d%2C2%3B-2c) (IDESCAT)
+- [Population. By sex and broad age groups](https://www.idescat.cat/pub/?id=censph&n=540&hist=taules%2Fv2%2Fcensph%2F540%2F19948%2Fmun%2Fdata%3FSEX%3DF%26AGE%3DY016_064%2CTOTAL%26_LAST_%3D3%5Er%3D1%2Ft%3D-1c%3B0d%2C2%3B-2c%3B3%2C0%2Fe%3D1) (IDESCAT)"
+SDGS.5.TARGETS.b.DESCRIPTION,Achieve gender equality in the use of ICT.
+SDGS.6.TITLE,Clean water and sanitation
+SDGS.6.DESCRIPTION,Ensure availability and sustainable management of water and sanitation for all.
+SDGS.6.TARGETS.1.DESCRIPTION,"Ensure universal and equitable access to safe and affordable drinking water, with special attention to the most vulnerable groups."
+SDGS.6.TARGETS.1.INDICATORS.1.TITLE,Water price €/m³
+SDGS.6.TARGETS.1.INDICATORS.1.DESCRIPTION,"Water price (in € per m³), including supply price, water fee, and sewerage."
+SDGS.6.TARGETS.1.INDICATORS.1.UNIT,€/m³
+SDGS.6.TARGETS.1.INDICATORS.1.VALUES.1.TITLE,Water price
+SDGS.6.TARGETS.1.INDICATORS.1.VALUES.1.UNIT,€/m³
+SDGS.6.TARGETS.1.INDICATORS.1.VALUES.2.TITLE,
+SDGS.6.TARGETS.1.INDICATORS.1.VALUES.2.UNIT,
+SDGS.6.TARGETS.1.INDICATORS.1.SOURCE,- [Water price by municipality effective on January 1 ](https://aca.gencat.cat/web/.content/10_ACA/L_Observatori_preu_aigua/03-Preu-per-municipis-i-evolucio/Preus_per_municipi_ca.xlsx) (Agència Catalana de l'Aigua)
+SDGS.6.TARGETS.2.DESCRIPTION,Achieve access to adequate and equitable sanitation and hygiene services.
+SDGS.6.TARGETS.3.DESCRIPTION,"Improve water quality by reducing pollution, eliminating discharges, and increasing sustainable drainage systems, recycling, reuse, and use of groundwater."
+SDGS.6.TARGETS.4.DESCRIPTION,Substantially increase water-use efficiency across all sectors and ensure the sustainability of freshwater withdrawal and supply.
+SDGS.6.TARGETS.4.INDICATORS.1.TITLE,Water consumption per inhabitant
+SDGS.6.TARGETS.4.INDICATORS.1.DESCRIPTION,Volume of domestic water consumed (in m³ per inhabitant per year)
+SDGS.6.TARGETS.4.INDICATORS.1.UNIT,m³/inhabitant
+SDGS.6.TARGETS.4.INDICATORS.1.VALUES.1.TITLE,Total water consumption
+SDGS.6.TARGETS.4.INDICATORS.1.VALUES.1.UNIT,m³
+SDGS.6.TARGETS.4.INDICATORS.1.VALUES.2.TITLE,Total population
+SDGS.6.TARGETS.4.INDICATORS.1.VALUES.2.UNIT,people
+SDGS.6.TARGETS.4.INDICATORS.1.SOURCE,- [Volume consumed by municipality (https://aca.gencat.cat/web/.content/20_Aigua/08_consulta_de_dades/01_dades_obertes/01_visualitzacio_interactiva_dades/01_consum-aigua_comarques_catalunya/volum-aigua-consum-municipi.xlsx) (Agència Catalana de l'Aigua)
+SDGS.6.TARGETS.5.DESCRIPTION,"Implement integrated water resources management at all levels, as appropriate, through territorial cooperation."
+SDGS.6.TARGETS.6.DESCRIPTION,"Protect and restore water-related ecosystems, including forests, mountains, wetlands, rivers, aquifers, and lakes throughout the territory with areas of natural value."
+SDGS.6.TARGETS.b.DESCRIPTION,Promote and strengthen the participation of local communities in improving water and sanitation management.
+SDGS.7.TITLE,Clean and affordable energy
+SDGS.7.DESCRIPTION,"Ensure access to affordable, reliable, sustainable, and modern energy for all."
+SDGS.7.TARGETS.1.INDICATORS.1.TITLE,% Household income on energy
+SDGS.7.TARGETS.1.INDICATORS.1.DESCRIPTION,Cost (percentage) of final residential energy consumption (domestic and transport) relative to Gross Disposable Household Income.
+SDGS.7.TARGETS.1.INDICATORS.1.SOURCE,"Consumption of liquid fuels estimated from provincial and Catalan data. GDHI data at municipal level: for small municipalities, county-level data is used. Mobility data based on the vehicle fleet; spending on public transport is not included.
+
+- [GDHI and GDHI per capita ](https://www.idescat.cat/pub/?id=rfdbc&n=13301&hist=taules%2Fv2%2Frfdbc%2F13301%2F14148%2Fmun%2Fdata%3F_LAST_%3D7%5Ec%3D3%2Fr%3D1%2Ft%3D-3c%3B-1c%3B0d%2C6%2Fe%3D11) (IDESCAT)"
+SDGS.7.TARGETS.1.INDICATORS.1.UNIT,%
+SDGS.7.TARGETS.1.INDICATORS.1.VALUES.1.TITLE,Cost of final residential energy consumption per inhabitant
+SDGS.7.TARGETS.1.INDICATORS.1.VALUES.1.UNIT,€
+SDGS.7.TARGETS.1.INDICATORS.1.VALUES.2.TITLE,Income per inhabitant
+SDGS.7.TARGETS.1.INDICATORS.1.VALUES.2.UNIT,€
+SDGS.7.TARGETS.1.DESCRIPTION,"Ensure universal access to affordable, reliable, and modern energy services, with a special focus on households experiencing energy poverty."
+SDGS.7.TARGETS.2.DESCRIPTION,Substantially increase the share of renewable energy in the overall energy mix.
+SDGS.7.TARGETS.2.INDICATORS.1.TITLE,% Households with renewable energy
+SDGS.7.TARGETS.2.INDICATORS.1.DESCRIPTION,Percentage of renewable energy consumed (thermal and electric) out of total energy consumed.
+SDGS.7.TARGETS.2.INDICATORS.1.UNIT,%
+SDGS.7.TARGETS.2.INDICATORS.1.VALUES.1.TITLE,Renewable energy consumed (thermal and electric)
+SDGS.7.TARGETS.2.INDICATORS.1.VALUES.1.UNIT,kWh
+SDGS.7.TARGETS.2.INDICATORS.1.VALUES.2.TITLE,Total energy consumed
+SDGS.7.TARGETS.2.INDICATORS.1.VALUES.2.UNIT,kWh
+SDGS.7.TARGETS.2.INDICATORS.1.SOURCE,- [Energy consumption (by sources and sectors)](https://gissrv.diba.cat/arcgis/rest/services/SITAC/PAES/MapServer) (Diputació de Barcelona)
+SDGS.7.TARGETS.3.DESCRIPTION,Substantially improve energy efficiency.
+SDGS.7.TARGETS.3.INDICATORS.1.TITLE,Household energy consumption
+SDGS.7.TARGETS.3.INDICATORS.1.DESCRIPTION,"Final household consumption (in kWh/inhabitant), including all types of energy. Heating oil, biomass, butane, and propane consumption are estimated based on provincial or Catalan data."
+SDGS.7.TARGETS.3.INDICATORS.1.UNIT,kWh/inhabitant
+SDGS.7.TARGETS.3.INDICATORS.1.VALUES.1.TITLE,Residential energy consumption
+SDGS.7.TARGETS.3.INDICATORS.1.VALUES.1.UNIT,kWh
+SDGS.7.TARGETS.3.INDICATORS.1.VALUES.2.TITLE,Total population
+SDGS.7.TARGETS.3.INDICATORS.1.VALUES.2.UNIT,people
+SDGS.7.TARGETS.3.INDICATORS.1.SOURCE,"- [Electricity consumption by municipalities and sectors in Catalunya
+](https://analisi.transparenciacatalunya.cat/Energia/Consum-d-energia-el-ctrica-per-municipis-i-sectors/8idm-becu/about_data)(Dades Obertes de Catalunya)
+- [Piped natural gas consumption by municipalities and sectors in Catalunya 
+](https://analisi.transparenciacatalunya.cat/Energia/Consum-de-gas-natural-canalitzat-per-municipis-i-s/qvqg-zag8/about_data)(Dades Obertes de Catalunya)
+- [ (Dades Obertes de Catalunya)](https://analisi.transparenciacatalunya.cat/Sector-P-blic/Dades-hist-riques-de-poblaci-dels-municipis-de-Cat/x5sz-niat/about_data) (Dades Obertes de Catalunya)"
+SDGS.8.TITLE,Decent work and economic growth
+SDGS.8.DESCRIPTION,"Promote sustained, inclusive, and sustainable economic growth, full and productive employment, and decent work for all."
+SDGS.8.TARGETS.1.DESCRIPTION,Target name not available
+SDGS.8.TARGETS.2.DESCRIPTION,"Increase overall economic productivity throughout the territory through specialization, diversification of activities, innovation, strategic planning, and territorial cooperation."
+SDGS.8.TARGETS.2.INDICATORS.1.TITLE,GDP per inhabitant
+SDGS.8.TARGETS.2.INDICATORS.1.DESCRIPTION,Gross domestic product at market prices (GDP mp) measures the final result of the economic activity of producing units in the territory.
+SDGS.8.TARGETS.2.INDICATORS.1.UNIT,€
+SDGS.8.TARGETS.2.INDICATORS.1.VALUES.1.TITLE,
+SDGS.8.TARGETS.2.INDICATORS.1.VALUES.1.UNIT,€
+SDGS.8.TARGETS.2.INDICATORS.1.VALUES.2.TITLE,
+SDGS.8.TARGETS.2.INDICATORS.1.VALUES.2.UNIT,
+SDGS.8.TARGETS.2.INDICATORS.1.SOURCE,- Gross domestic product](https://www.idescat.cat/pub/?id=pibc&n=13830&hist=taules%2Fv2%2Fpibc%2F13830%2F14779%2Fmun%2Fdata%5Ec%3D2%2Fr%3D1%2Ft%3D-2c%3B-1c%3B0d%2C12%2Fe%3D11) (IDESCAT)
+SDGS.8.TARGETS.3.DESCRIPTION,"Promote development-oriented policies that support productive activities, decent job creation, entrepreneurship and business growth, creativity, and innovation."
+SDGS.8.TARGETS.3.INDICATORS.1.TITLE,Employment rate
+SDGS.8.TARGETS.3.INDICATORS.1.DESCRIPTION,Number of Social Security affiliates residing in a municipality as a percentage of the population aged 16 to 64 in that municipality.
+SDGS.8.TARGETS.3.INDICATORS.1.UNIT,%
+SDGS.8.TARGETS.3.INDICATORS.1.VALUES.1.TITLE,Number of affiliates
+SDGS.8.TARGETS.3.INDICATORS.1.VALUES.1.UNIT,people
+SDGS.8.TARGETS.3.INDICATORS.1.VALUES.2.TITLE,Population aged 16 to 64
+SDGS.8.TARGETS.3.INDICATORS.1.VALUES.2.UNIT,people
+SDGS.8.TARGETS.3.INDICATORS.1.SOURCE,"- [Social Security affiliates by place of residence. By sex. Last day of the month](https://www.idescat.cat/pub/?id=afi&n=8604) (IDESCAT)
+- [Population. By sex and broad age groups](https://www.idescat.cat/pub/?id=censph&n=540&hist=taules%2Fv2%2Fcensph%2F540%2F19948%2Fmun%2Fdata%3FAGE%3DTOTAL%26_LAST_%3D3%5Ec%3D2%2Fr%3D1%2Ft%3D-1c%3B0d%2C2%3B-2c%3B3%2C0%2Fe%3D01) (IDESCAT)
+- [Population on January 1. By sex and age year by year (2014–)](https://www.idescat.cat/pub/?id=pmh&n=1180&hist=taules%2Fv2%2Fpmh%2F1180%2F8078%2Fmun%2Fdata%3FAGE%3DTOTAL%26_LAST_%3D3%5Ec%3D3%2Fr%3D1%2Ft%3D-1c%3B0d%2C2%3B2%2C0%3B-3c%2Fe%3D0) (IDESCAT)
+- [Population on January 1. By sex and age year by year (2000–2013)](https://www.idescat.cat/pub/?id=pmh&n=1180&hist=taules%2Fv2%2Fpmh%2F1180%2F1063%2Fmun%2Fdata%3FMUN%3DTOTAL%5Ec%3D3%2Fr%3D2%2Ft%3D1%2C0%3B0d%2C13%3B-2c%3B-3c%2Fe%3D0) (IDESCAT)"
+SDGS.8.TARGETS.3.INDICATORS.2.TITLE,"Commercial establishments per 1,000 inhabitants"
+SDGS.8.TARGETS.3.INDICATORS.2.DESCRIPTION,"Number of commercial establishments per 1,000 inhabitants."
+SDGS.8.TARGETS.3.INDICATORS.2.UNIT,"establishments/1,000 inhabitants"
+SDGS.8.TARGETS.3.INDICATORS.2.VALUES.1.TITLE,Number of commercial establishments
+SDGS.8.TARGETS.3.INDICATORS.2.VALUES.1.UNIT,establishments
+SDGS.8.TARGETS.3.INDICATORS.2.VALUES.2.TITLE,Population
+SDGS.8.TARGETS.3.INDICATORS.2.VALUES.2.UNIT,people
+SDGS.8.TARGETS.3.INDICATORS.2.SOURCE,"- [Consultation service of the Census of Commercial Establishments of Catalunya (CECC)
+](https://analisi.transparenciacatalunya.cat/Comer-/Servei-de-consulta-del-Cens-d-establiments-comerci/2dhj-q3r8/about_data) (Dades Obertes de Catalunya)"
+SDGS.8.TARGETS.3.INDICATORS.3.TITLE,Unemployment rate
+SDGS.8.TARGETS.3.INDICATORS.3.DESCRIPTION,Unemployment rate
+SDGS.8.TARGETS.3.INDICATORS.3.SOURCE,- [Indicators on relationship with economic activity ](https://www.idescat.cat/pub/?id=censph&n=16720&hist=taules%2Fv2%2Fcensph%2F16720%2F20208%2Fmun%2Fdata%3FCONCEPT%3DPP_AP_Y16O%5Ec%3D3%2Fr%3D1%2Ft%3D2%2C0%3B-1c%3B-0d%2C0%3B-3c%2Fe%3D1) (IDESCAT)
+SDGS.8.TARGETS.3.INDICATORS.3.UNIT,%
+SDGS.8.TARGETS.3.INDICATORS.3.VALUES.1.TITLE,
+SDGS.8.TARGETS.3.INDICATORS.3.VALUES.1.UNIT,
+SDGS.8.TARGETS.3.INDICATORS.3.VALUES.2.TITLE,
+SDGS.8.TARGETS.3.INDICATORS.3.VALUES.2.UNIT,
+SDGS.8.TARGETS.3.INDICATORS.4.TITLE,% Public procurement to SMEs
+SDGS.8.TARGETS.3.INDICATORS.4.DESCRIPTION,% Public procurement to SMEs
+SDGS.8.TARGETS.3.INDICATORS.4.SOURCE,- [Public procurement in Catalunya: publications on the Public Procurement Services Platform ](https://analisi.transparenciacatalunya.cat/Economia/Contractaci-p-blica-a-Catalunya-publicacions-a-la-/ybgg-dgi6/about_data) (Dades Obertes de Catalunya)
+SDGS.8.TARGETS.3.INDICATORS.4.UNIT,%
+SDGS.8.TARGETS.3.INDICATORS.4.VALUES.1.TITLE,Contracted SMEs
+SDGS.8.TARGETS.3.INDICATORS.4.VALUES.1.UNIT,companies
+SDGS.8.TARGETS.3.INDICATORS.4.VALUES.2.TITLE,Total contracted companies
+SDGS.8.TARGETS.3.INDICATORS.4.VALUES.2.UNIT,companies
+SDGS.8.TARGETS.4.DESCRIPTION,Improve the efficient production and consumption of resources and decouple economic growth from environmental degradation.
+SDGS.8.TARGETS.5.DESCRIPTION,Achieve a high rate of quality employment for the most vulnerable groups throughout the territory.
+SDGS.8.TARGETS.5.INDICATORS.1.TITLE,% unemployed people > 45 years
+SDGS.8.TARGETS.5.INDICATORS.1.DESCRIPTION,% of unemployed people aged > 45 over the total population aged > 45 in the workforce
+SDGS.8.TARGETS.5.INDICATORS.1.UNIT,%
+SDGS.8.TARGETS.5.INDICATORS.1.VALUES.1.TITLE,Unemployed people > 45 years (annual average)
+SDGS.8.TARGETS.5.INDICATORS.1.VALUES.1.UNIT,people
+SDGS.8.TARGETS.5.INDICATORS.1.VALUES.2.TITLE,Population aged 45 to 64
+SDGS.8.TARGETS.5.INDICATORS.1.VALUES.2.UNIT,people
+SDGS.8.TARGETS.5.INDICATORS.1.SOURCE,"- [Registered unemployment. By sex and age](https://www.idescat.cat/pub/?id=atureg&n=4300) (IDESCAT)
+- [Population on January 1. By sex and age year by year.](https://www.idescat.cat/pub/?id=pmh&n=1180&hist=taules%2Fv2%2Fpmh%2F1180%2F8078%2Fmun%2Fdata%3FAGE%3DTOTAL%26_LAST_%3D3%5Ec%3D3%2Fr%3D1%2Ft%3D-1c%3B0d%2C2%3B2%2C0%3B-3c%2Fe%3D0) (IDESCAT)
+"
+SDGS.8.TARGETS.5.INDICATORS.2.TITLE,% unemployed people < 25 years
+SDGS.8.TARGETS.5.INDICATORS.2.DESCRIPTION,% of unemployed people aged < 25 over the total population aged < 25 in the workforce
+SDGS.8.TARGETS.5.INDICATORS.2.UNIT,%
+SDGS.8.TARGETS.5.INDICATORS.2.VALUES.1.TITLE,Unemployed people > 45 years (annual average)
+SDGS.8.TARGETS.5.INDICATORS.2.VALUES.1.UNIT,people
+SDGS.8.TARGETS.5.INDICATORS.2.VALUES.2.TITLE,Population aged 45 to 64
+SDGS.8.TARGETS.5.INDICATORS.2.VALUES.2.UNIT,people
+SDGS.8.TARGETS.5.INDICATORS.2.SOURCE,"- [Registered unemployment. By sex and age](https://www.idescat.cat/pub/?id=atureg&n=4300) (IDESCAT)
+- [Population on January 1. By sex and age year by year.](https://www.idescat.cat/pub/?id=pmh&n=1180&hist=taules%2Fv2%2Fpmh%2F1180%2F8078%2Fmun%2Fdata%3FAGE%3DTOTAL%26_LAST_%3D3%5Ec%3D3%2Fr%3D1%2Ft%3D-1c%3B0d%2C2%3B2%2C0%3B-3c%2Fe%3D0) (IDESCAT)"
+SDGS.8.TARGETS.6.DESCRIPTION,"Substantially reduce the number of young people not in employment, education, or training."
+SDGS.8.TARGETS.8.DESCRIPTION,"Protect labor rights and promote a safe working environment throughout the territory, in particular for migrant women and people in precarious employment."
+SDGS.8.TARGETS.9.DESCRIPTION,"Strengthen policies to promote sustainable, local, high-quality tourism that creates jobs and promotes culture and local products."
+SDGS.8.TARGETS.9.INDICATORS.1.TITLE,Tourism pressure
+SDGS.8.TARGETS.9.INDICATORS.1.DESCRIPTION,"Ratio of tourist accommodation places per 10,000 inhabitants."
+SDGS.8.TARGETS.9.INDICATORS.1.UNIT,"places/10,000 inhabitants"
+SDGS.8.TARGETS.9.INDICATORS.1.VALUES.1.TITLE,Tourist places
+SDGS.8.TARGETS.9.INDICATORS.1.VALUES.1.UNIT,places
+SDGS.8.TARGETS.9.INDICATORS.1.VALUES.2.TITLE,Population
+SDGS.8.TARGETS.9.INDICATORS.1.VALUES.2.UNIT,people
+SDGS.8.TARGETS.9.INDICATORS.1.SOURCE,"- [Hotel beds](https://www.idescat.cat/pub/?id=turall&n=6031) (IDESCAT)
+- [Tourist apartments ](https://www.idescat.cat/pub/?id=turall&n=16721) (IDESCAT)
+- [Rural tourism places](https://www.idescat.cat/pub/?id=turall&n=6039) (IDESCAT)
+- [Camping places ](https://www.idescat.cat/pub/?id=turall&n=6036) (IDESCAT)
+- [Tourist-use accommodation](https://www.idescat.cat/pub/?id=turall&n=16722) (IDESCAT)
+- [Historical population data of the municipalities of Catalunya ](https://analisi.transparenciacatalunya.cat/Sector-P-blic/Dades-hist-riques-de-poblaci-dels-municipis-de-Cat/x5sz-niat/about_data) (Dades Obertes de Catalunya)"
+SDGS.9.TITLE,"Industry, innovation, and infrastructure"
+SDGS.9.DESCRIPTION,"Build resilient infrastructure, promote inclusive and sustainable industrialization, and foster innovation."
+SDGS.9.TARGETS.1.DESCRIPTION,"Develop sustainable, resilient, high-quality infrastructure with strong transformative capacity to support the economic development of the territory, with particular attention to affordable and equitable access."
+SDGS.9.TARGETS.1.INDICATORS.1.TITLE,Internet coverage
+SDGS.9.TARGETS.1.INDICATORS.1.DESCRIPTION,"Coverage provided by fixed networks of at least 100 Mbps, including HFC and FTTH coverage."
+SDGS.9.TARGETS.1.INDICATORS.1.UNIT,%
+SDGS.9.TARGETS.1.INDICATORS.1.VALUES.1.TITLE,
+SDGS.9.TARGETS.1.INDICATORS.1.VALUES.1.UNIT,
+SDGS.9.TARGETS.1.INDICATORS.1.VALUES.2.TITLE,
+SDGS.9.TARGETS.1.INDICATORS.1.VALUES.2.UNIT,
+SDGS.9.TARGETS.2.DESCRIPTION,"Strengthen policies supporting the productive sector to achieve inclusive and sustainable industrialization, increasing the contribution of industry to local employment and to the GDP of the entire territory."
+SDGS.9.TARGETS.2.INDICATORS.1.TITLE,% Employment in the industrial sector
+SDGS.9.TARGETS.2.INDICATORS.1.DESCRIPTION,% of employed population in the industrial sector
+SDGS.9.TARGETS.2.INDICATORS.1.UNIT,%
+SDGS.9.TARGETS.2.INDICATORS.1.VALUES.1.TITLE,Employed population in the industrial sector
+SDGS.9.TARGETS.2.INDICATORS.1.VALUES.1.UNIT,people
+SDGS.9.TARGETS.2.INDICATORS.1.VALUES.2.TITLE,Total employed population
+SDGS.9.TARGETS.2.INDICATORS.1.VALUES.2.UNIT,people
+SDGS.9.TARGETS.2.INDICATORS.1.SOURCE,- [Social Security affiliations by place of residence. By contribution scheme and economic activity sector.](https://www.idescat.cat/pub/?id=afi&n=10602&hist=taules%2Fv2%2Fafi%2F10602%2F11111%2Fmun%2Fdata%3F_LAST_%3D1%5Ec%3D2%2C3%2Fr%3D1%2Ft%3D-1c%3B0d%2C0%3B-2c%3B-3c) (IDESCAT)
+SDGS.9.TARGETS.3.DESCRIPTION,"Increase the access of small industries and other businesses to financial services, including affordable credit, and their integration into value chains and markets."
+SDGS.9.TARGETS.4.DESCRIPTION,"Modernize infrastructure and transform industries to make them sustainable, promoting the adoption of technologies, process improvements, and environmental responsibility."
+SDGS.9.TARGETS.5.DESCRIPTION,Increase scientific research and improve the technological capacity of industrial sectors.
+SDGS.9.TARGETS.5.INDICATORS.1.SOURCE,"- [Contribution account codes and affiliates – Scheme – CNAE 2D](https://www.seg-social.es/wps/portal/wss/internet/EstadisticasPresupuestosEstudios/Estadisticas/est8/est10/est305/c43ad8ea-fe79-4329-ac8e-e5758f3c4d7a/96c57bf8-1cb3-4eea-b77e-1df627a47063) (Seguretat Social)
+"
+SDGS.9.TARGETS.5.INDICATORS.1.UNIT,"companies/10,000 inhabitants"
+SDGS.9.TARGETS.5.INDICATORS.1.DESCRIPTION,"Knowledge-based companies per 10,000 inhabitants"
+SDGS.9.TARGETS.5.INDICATORS.1.TITLE,"Knowledge-based companies per 10,000 inhabitants"
+SDGS.9.TARGETS.5.INDICATORS.1.VALUES.1.TITLE,Knowledge-based companies
+SDGS.9.TARGETS.5.INDICATORS.1.VALUES.1.UNIT,companies
+SDGS.9.TARGETS.5.INDICATORS.1.VALUES.2.TITLE,Total population
+SDGS.9.TARGETS.5.INDICATORS.1.VALUES.2.UNIT,people
+SDGS.9.TARGETS.5.INDICATORS.2.TITLE,Industrial jobs
+SDGS.9.TARGETS.5.INDICATORS.2.DESCRIPTION,Affiliations in the industrial sector within the municipality as a percentage of total affiliations in the municipality.
+SDGS.9.TARGETS.5.INDICATORS.2.UNIT,%
+SDGS.9.TARGETS.5.INDICATORS.2.VALUES.1.TITLE,Affiliations in the industrial sector
+SDGS.9.TARGETS.5.INDICATORS.2.VALUES.1.UNIT,people
+SDGS.9.TARGETS.5.INDICATORS.2.VALUES.2.TITLE,Total affiliations
+SDGS.9.TARGETS.5.INDICATORS.2.VALUES.2.UNIT,people
+SDGS.9.TARGETS.c.DESCRIPTION,Ensure universal and affordable access to the Internet and ICT across the territory.
+SDGS.9.TARGETS.c.INDICATORS.1.TITLE,Internet coverage
+SDGS.9.TARGETS.c.INDICATORS.1.DESCRIPTION,"Coverage provided by fixed networks of at least 100 Mbps, including HFC and FTTH coverage."
+SDGS.9.TARGETS.c.INDICATORS.1.UNIT,%
+SDGS.9.TARGETS.c.INDICATORS.1.VALUES.1.TITLE,
+SDGS.9.TARGETS.c.INDICATORS.1.VALUES.1.UNIT,
+SDGS.9.TARGETS.c.INDICATORS.1.VALUES.2.TITLE,
+SDGS.9.TARGETS.c.INDICATORS.1.VALUES.2.UNIT,
+SDGS.9.TARGETS.b.DESCRIPTION,Target name not available
+SDGS.10.TITLE,Reduced inequalities
+SDGS.10.DESCRIPTION,Reduce inequalities within and among countries.
+SDGS.10.TARGETS.1.DESCRIPTION,Progressively achieve income growth of the bottom 40% of the population in the territory at a rate higher than the national average.
+SDGS.10.TARGETS.1.INDICATORS.1.TITLE,% Population with income < 40%
+SDGS.10.TARGETS.1.INDICATORS.1.DESCRIPTION,Percentage of the population living in consumption units with disposable income below 40% of the median.
+SDGS.10.TARGETS.1.INDICATORS.1.UNIT,%
+SDGS.10.TARGETS.1.INDICATORS.1.VALUES.1.TITLE,
+SDGS.10.TARGETS.1.INDICATORS.1.VALUES.1.UNIT,%
+SDGS.10.TARGETS.1.INDICATORS.1.VALUES.2.TITLE,
+SDGS.10.TARGETS.1.INDICATORS.1.VALUES.2.UNIT,
+SDGS.10.TARGETS.1.INDICATORS.2.TITLE,Gini index
+SDGS.10.TARGETS.1.INDICATORS.2.DESCRIPTION,Degree of inequality in the distribution of a continuous variable. It is calculated based on the sum of the absolute differences between each pair of incomes in the distribution.
+SDGS.10.TARGETS.1.INDICATORS.2.UNIT,
+SDGS.10.TARGETS.1.INDICATORS.2.VALUES.1.TITLE,
+SDGS.10.TARGETS.1.INDICATORS.2.VALUES.1.UNIT,
+SDGS.10.TARGETS.1.INDICATORS.2.VALUES.2.TITLE,
+SDGS.10.TARGETS.1.INDICATORS.2.VALUES.2.UNIT,
+SDGS.10.TARGETS.1.INDICATORS.3.TITLE,Income inequality
+SDGS.10.TARGETS.1.INDICATORS.3.DESCRIPTION,"Inequality in distribution measured through percentile ratios, interpreted as the income received by the top quintile (i.e., the 20% of the population with the highest economic level) in relation to that of the bottom quintile."
+SDGS.10.TARGETS.1.INDICATORS.3.UNIT,
+SDGS.10.TARGETS.1.INDICATORS.3.VALUES.1.TITLE,
+SDGS.10.TARGETS.1.INDICATORS.3.VALUES.1.UNIT,
+SDGS.10.TARGETS.1.INDICATORS.3.VALUES.2.TITLE,
+SDGS.10.TARGETS.1.INDICATORS.3.VALUES.2.UNIT,
+SDGS.10.TARGETS.1.INDICATORS.4.TITLE,Income per inhabitant
+SDGS.10.TARGETS.1.INDICATORS.4.DESCRIPTION,Relationship between the total income of the municipality and/or selected area and the total population of the municipality.
+SDGS.10.TARGETS.1.INDICATORS.4.UNIT,€/inhabitant
+SDGS.10.TARGETS.1.INDICATORS.4.VALUES.1.TITLE,
+SDGS.10.TARGETS.1.INDICATORS.4.VALUES.1.UNIT,
+SDGS.10.TARGETS.1.INDICATORS.4.VALUES.2.TITLE,
+SDGS.10.TARGETS.1.INDICATORS.4.VALUES.2.UNIT,
+SDGS.10.TARGETS.1.INDICATORS.4.SOURCE,- [GDHI and GDHI per inhabitant ](https://www.idescat.cat/pub/?id=rfdbc&n=13301&hist=taules%2Fv2%2Frfdbc%2F13301%2F14148%2Fmun%2Fdata%3F_LAST_%3D7%5Ec%3D3%2Fr%3D1%2Ft%3D-3c%3B-1c%3B0d%2C6%2Fe%3D11) (IDESCAT)
+SDGS.10.TARGETS.2.DESCRIPTION,"Promote social, economic, and political inclusion, with special attention to vulnerable groups, people with disabilities, and racialized people."
+SDGS.10.TARGETS.3.DESCRIPTION,"Ensure equal opportunities and reduce outcome inequalities, also by eliminating discriminatory laws, policies, and practices and promoting appropriate measures."
+SDGS.10.TARGETS.4.DESCRIPTION,"Promote policies, especially fiscal, wage, and social protection policies, to achieve greater equality in the territory."
+SDGS.10.TARGETS.4.INDICATORS.1.TITLE,% Population with income < 50% (men)
+SDGS.10.TARGETS.4.INDICATORS.1.DESCRIPTION,% population with income < 50% (men)
+SDGS.10.TARGETS.4.INDICATORS.1.UNIT,%
+SDGS.10.TARGETS.4.INDICATORS.1.VALUES.1.TITLE,
+SDGS.10.TARGETS.4.INDICATORS.1.VALUES.1.UNIT,%
+SDGS.10.TARGETS.4.INDICATORS.1.VALUES.2.TITLE,
+SDGS.10.TARGETS.4.INDICATORS.1.VALUES.2.UNIT,
+SDGS.10.TARGETS.4.INDICATORS.1.SUBINDICATORS.0.TITLE,Men
+SDGS.10.TARGETS.4.INDICATORS.1.SUBINDICATORS.0.VALUES.1.TITLE,% population with income < 50% (men)
+SDGS.10.TARGETS.4.INDICATORS.1.SUBINDICATORS.0.VALUES.1.UNIT,%
+SDGS.10.TARGETS.4.INDICATORS.1.SUBINDICATORS.0.VALUES.2.TITLE,
+SDGS.10.TARGETS.4.INDICATORS.1.SUBINDICATORS.0.VALUES.2.UNIT,
+SDGS.10.TARGETS.4.INDICATORS.1.SUBINDICATORS.2.TITLE,Women
+SDGS.10.TARGETS.4.INDICATORS.1.SUBINDICATORS.2.VALUES.1.TITLE,% population with income < 50% (women)
+SDGS.10.TARGETS.4.INDICATORS.1.SUBINDICATORS.2.VALUES.1.UNIT,
+SDGS.10.TARGETS.4.INDICATORS.1.SUBINDICATORS.2.VALUES.2.TITLE,
+SDGS.10.TARGETS.4.INDICATORS.1.SUBINDICATORS.2.VALUES.2.UNIT,
+SDGS.10.TARGETS.4.INDICATORS.2.TITLE,% Population with income < 50% (women)
+SDGS.10.TARGETS.4.INDICATORS.2.DESCRIPTION,% Population with income < 50% (women)
+SDGS.10.TARGETS.4.INDICATORS.2.UNIT,%
+SDGS.10.TARGETS.4.INDICATORS.2.VALUES.1.TITLE,
+SDGS.10.TARGETS.4.INDICATORS.2.VALUES.1.UNIT,
+SDGS.10.TARGETS.4.INDICATORS.2.VALUES.2.TITLE,
+SDGS.10.TARGETS.4.INDICATORS.2.VALUES.2.UNIT,
+SDGS.10.TARGETS.7.DESCRIPTION,"Facilitate orderly, safe, regular, and responsible migration and mobility of people, including through the implementation of well-planned and well-managed migration policies."
+SDGS.11.TITLE,Sustainable cities and communities
+SDGS.11.DESCRIPTION,"Make cities and human settlements inclusive, safe, resilient, and sustainable."
+SDGS.11.TARGETS.1.DESCRIPTION,"Ensure access for all people to adequate, safe, and affordable housing and basic services, with special attention to neighborhoods and areas with greater vulnerability."
+SDGS.11.TARGETS.1.INDICATORS.1.TITLE,Economic effort of rent
+SDGS.11.TARGETS.1.INDICATORS.1.DESCRIPTION,Average annual rental price in relation to gross household income.
+SDGS.11.TARGETS.1.INDICATORS.1.UNIT,%
+SDGS.11.TARGETS.1.INDICATORS.1.VALUES.1.TITLE,Average monthly rent amount
+SDGS.11.TARGETS.1.INDICATORS.1.VALUES.1.UNIT,€
+SDGS.11.TARGETS.1.INDICATORS.1.VALUES.2.TITLE,Gross disposable household income / per inhabitant
+SDGS.11.TARGETS.1.INDICATORS.1.VALUES.2.UNIT,€
+SDGS.11.TARGETS.1.INDICATORS.1.SOURCE,"- [Average rental price of dwellings by municipality](https://analisi.transparenciacatalunya.cat/Habitatge/Preu-mitj-del-lloguer-d-habitatges-per-municipi/qww9-bvhh/about_data) (Dades Obertes de Catalunya)
+- [GDHI and GDHI per inhabitant ](https://www.idescat.cat/pub/?id=rfdbc&n=13301&hist=taules%2Fv2%2Frfdbc%2F13301%2F14148%2Fmun%2Fdata%3F_LAST_%3D7%5Ec%3D3%2Fr%3D1%2Ft%3D-3c%3B-1c%3B0d%2C6%2Fe%3D11) (IDESCAT)"
+SDGS.11.TARGETS.2.DESCRIPTION,"Provide access to safe, affordable, accessible, and sustainable transport systems and improve road safety."
+SDGS.11.TARGETS.2.INDICATORS.1.TITLE,Road traffic mortality rate
+SDGS.11.TARGETS.2.INDICATORS.1.DESCRIPTION,"People killed or seriously injured in road traffic accidents per 10,000 inhabitants."
+SDGS.11.TARGETS.2.INDICATORS.1.UNIT,"people/10,000 inhabitants"
+SDGS.11.TARGETS.2.INDICATORS.1.VALUES.1.TITLE,Number of deaths and serious injuries
+SDGS.11.TARGETS.2.INDICATORS.1.VALUES.1.UNIT,people
+SDGS.11.TARGETS.2.INDICATORS.1.VALUES.2.TITLE,Total population
+SDGS.11.TARGETS.2.INDICATORS.1.VALUES.2.UNIT,people
+SDGS.11.TARGETS.2.INDICATORS.1.SOURCE,"- [Traffic accidents with deaths or serious injuries in Catalunya](https://analisi.transparenciacatalunya.cat/Transport/Accidents-de-tr-nsit-amb-morts-o-ferits-greus-a-Ca/rmgc-ncpb/about_data) (Dades Obertes de Catalunya)
+- [Historical population data of the municipalities of Catalunya ](https://analisi.transparenciacatalunya.cat/Sector-P-blic/Dades-hist-riques-de-poblaci-dels-municipis-de-Cat/x5sz-niat/about_data) (Dades Obertes de Catalunya)"
+SDGS.11.TARGETS.3.DESCRIPTION,Achieve an inclusive and sustainable urban model through strategic planning coordinated with territorial stakeholders and with citizen participation.
+SDGS.11.TARGETS.3.INDICATORS.1.TITLE,Percentage of artificial land
+SDGS.11.TARGETS.3.INDICATORS.1.DESCRIPTION,Percentage of artificial (actual or potential) land. Percentage of land designated for urban uses or infrastructure in relation to the total area of the territorial unit.
+SDGS.11.TARGETS.3.INDICATORS.1.UNIT,%
+SDGS.11.TARGETS.3.INDICATORS.1.VALUES.1.TITLE,Urban land area
+SDGS.11.TARGETS.3.INDICATORS.1.VALUES.1.UNIT,ha
+SDGS.11.TARGETS.3.INDICATORS.1.VALUES.2.TITLE,Total area
+SDGS.11.TARGETS.3.INDICATORS.1.VALUES.2.UNIT,ha
+SDGS.11.TARGETS.3.INDICATORS.1.SOURCE,- [Urban planning map data of Catalunya ](https://analisi.transparenciacatalunya.cat/Urbanisme-infraestructures/Dades-del-mapa-urban-stic-de-Catalunya/epsm-zskb/about_data) (Dades Obertes de Catalunya)
+SDGS.11.TARGETS.3.INDICATORS.2.TITLE,Urban facilities per inhabitant
+SDGS.11.TARGETS.3.INDICATORS.2.DESCRIPTION,Urban facilities per inhabitant
+SDGS.11.TARGETS.3.INDICATORS.2.UNIT,m²/inhabitant
+SDGS.11.TARGETS.3.INDICATORS.2.VALUES.1.TITLE,Urban facilities per inhabitant
+SDGS.11.TARGETS.3.INDICATORS.2.VALUES.1.UNIT,m²/inhabitant
+SDGS.11.TARGETS.3.INDICATORS.2.VALUES.2.TITLE,
+SDGS.11.TARGETS.3.INDICATORS.2.VALUES.2.UNIT,
+SDGS.11.TARGETS.3.INDICATORS.2.SOURCE,- [Territorial indicators from the Observatori del Territori](https://analisi.transparenciacatalunya.cat/Urbanisme-infraestructures/Indicadores-territorials-de-l-Observatori-del-Terri/b9cr-32i4/about_data) (Dades Obertes de Catalunya)
+SDGS.11.TARGETS.4.DESCRIPTION,Step up efforts to protect and safeguard cultural and natural heritage.
+SDGS.11.TARGETS.4.INDICATORS.1.TITLE,Green space area (m²)
+SDGS.11.TARGETS.4.INDICATORS.1.DESCRIPTION,Ratio between the municipal population and the area designated as green space or open urban space.
+SDGS.11.TARGETS.4.INDICATORS.1.UNIT,m²/inhabitant
+SDGS.11.TARGETS.4.INDICATORS.1.VALUES.1.TITLE,Green space area
+SDGS.11.TARGETS.4.INDICATORS.1.VALUES.1.UNIT,m²
+SDGS.11.TARGETS.4.INDICATORS.1.VALUES.2.TITLE,Total population
+SDGS.11.TARGETS.4.INDICATORS.1.VALUES.2.UNIT,people
+SDGS.11.TARGETS.4.INDICATORS.2.TITLE,Cultural facilities per population
+SDGS.11.TARGETS.4.INDICATORS.2.DESCRIPTION,Cultural facilities per population
+SDGS.11.TARGETS.4.INDICATORS.2.SOURCE,- [Health and cultural facilities](https://bcnagraria-diba.opendata.arcgis.com/datasets/diba::-equipaments-de-salut-i-cultura/about) (Diputació de Barcelona)
+SDGS.11.TARGETS.4.INDICATORS.2.UNIT,"facilities/10,000 inhabitants"
+SDGS.11.TARGETS.4.INDICATORS.2.VALUES.1.TITLE,Cultural facilities
+SDGS.11.TARGETS.4.INDICATORS.2.VALUES.1.UNIT,facilities
+SDGS.11.TARGETS.4.INDICATORS.2.VALUES.2.TITLE,Total population
+SDGS.11.TARGETS.4.INDICATORS.2.VALUES.2.UNIT,people
+SDGS.11.TARGETS.5.DESCRIPTION,Significantly reduce the number of deaths and economic losses caused by disasters.
+SDGS.11.TARGETS.6.DESCRIPTION,"Reduce the negative environmental impact across the territory, with special focus on air quality and municipal waste management."
+SDGS.11.TARGETS.6.INDICATORS.1.TITLE,Household waste per capita per year
+SDGS.11.TARGETS.6.INDICATORS.1.DESCRIPTION,Household waste generation in kg per inhabitant per year.
+SDGS.11.TARGETS.6.INDICATORS.1.UNIT,kg/inhabitant/year
+SDGS.11.TARGETS.6.INDICATORS.1.VALUES.1.TITLE,Total waste generated
+SDGS.11.TARGETS.6.INDICATORS.1.VALUES.1.UNIT,t
+SDGS.11.TARGETS.6.INDICATORS.1.VALUES.2.TITLE,Population
+SDGS.11.TARGETS.6.INDICATORS.1.VALUES.2.UNIT,people
+SDGS.11.TARGETS.6.INDICATORS.1.SOURCE,- [Municipal waste statistics ](https://analisi.transparenciacatalunya.cat/Medi-Ambient/Estad-stiques-de-residus-municipals/69zu-w48s/about_data) (Dades Obertes de Catalunya)
+SDGS.11.TARGETS.6.INDICATORS.2.TITLE,Selective collection rate
+SDGS.11.TARGETS.6.INDICATORS.2.DESCRIPTION,Percentage of household waste collected separately out of total waste generated.
+SDGS.11.TARGETS.6.INDICATORS.2.UNIT,%
+SDGS.11.TARGETS.6.INDICATORS.2.VALUES.1.TITLE,Total selectively collected
+SDGS.11.TARGETS.6.INDICATORS.2.VALUES.1.UNIT,t
+SDGS.11.TARGETS.6.INDICATORS.2.VALUES.2.TITLE,Total waste generated
+SDGS.11.TARGETS.6.INDICATORS.2.VALUES.2.UNIT,t
+SDGS.11.TARGETS.6.INDICATORS.2.SOURCE,- [Municipal waste statistics](https://analisi.transparenciacatalunya.cat/Medi-Ambient/Estad-stiques-de-residus-municipals/69zu-w48s/about_data) (Dades Obertes de Catalunya)
+SDGS.11.TARGETS.7.DESCRIPTION,"Provide universal access to more green areas and safe, inclusive, and accessible public spaces, especially for women, children, older people, and people with disabilities."
+SDGS.11.TARGETS.7.INDICATORS.1.TITLE,Green space area (m²)
+SDGS.11.TARGETS.7.INDICATORS.1.DESCRIPTION,Ratio between the municipal population and the area designated as green space or open urban space.
+SDGS.11.TARGETS.7.INDICATORS.1.UNIT,m²/inhabitant
+SDGS.11.TARGETS.7.INDICATORS.1.VALUES.1.TITLE,Green space area
+SDGS.11.TARGETS.7.INDICATORS.1.VALUES.1.UNIT,m²
+SDGS.11.TARGETS.7.INDICATORS.1.VALUES.2.TITLE,Annual population (continuous register)
+SDGS.11.TARGETS.7.INDICATORS.1.VALUES.2.UNIT,inhabitants
+SDGS.11.TARGETS.7.INDICATORS.1.SOURCE,- [Urban planning map data of Catalunya ](https://analisi.transparenciacatalunya.cat/Urbanisme-infraestructures/Dades-del-mapa-urban-stic-de-Catalunya/epsm-zskb/about_data) (Dades Obertes de Catalunya)
+SDGS.11.TARGETS.a.DESCRIPTION,"Strengthen local development planning, supporting economic, social, and environmental links between urban, peri-urban, and rural areas."
+SDGS.12.TITLE,Responsible consumption and production
+SDGS.12.DESCRIPTION,Ensure sustainable consumption and production patterns.
+SDGS.12.TARGETS.1.DESCRIPTION,"Promote sustainable consumption and production, and encourage local commerce."
+SDGS.12.TARGETS.1.INDICATORS.1.TITLE,New self-consumption energy installations
+SDGS.12.TARGETS.1.INDICATORS.1.DESCRIPTION,New self-consumption energy installations
+SDGS.12.TARGETS.1.INDICATORS.1.UNIT,"installations/100,000 inhabitants"
+SDGS.12.TARGETS.1.INDICATORS.1.VALUES.1.TITLE,New self-consumption energy installations
+SDGS.12.TARGETS.1.INDICATORS.1.VALUES.1.UNIT,installations
+SDGS.12.TARGETS.1.INDICATORS.1.VALUES.2.TITLE,Total population
+SDGS.12.TARGETS.1.INDICATORS.1.VALUES.2.UNIT,inhabitants
+SDGS.12.TARGETS.1.INDICATORS.1.SOURCE,"- [Self-consumption electricity installations](https://analisi.transparenciacatalunya.cat/Energia/Instal-lacions-d-autoconsum-el-ctric/2b4s-skfm/about_data) (Dades Obertes de Catalunya)
+- [Historical population data of the municipalities of Catalunya](https://analisi.transparenciacatalunya.cat/Sector-P-blic/Dades-hist-riques-de-poblaci-dels-municipis-de-Cat/x5sz-niat/about_data) (Dades Obertes de Catalunya)"
+SDGS.12.TARGETS.2.DESCRIPTION,Ensure sustainable management and efficient use of natural resources.
+SDGS.12.TARGETS.2.INDICATORS.1.TITLE,CO₂ emissions from buildings per capita
+SDGS.12.TARGETS.2.INDICATORS.1.DESCRIPTION,CO₂ emissions from buildings per capita
+SDGS.12.TARGETS.2.INDICATORS.1.UNIT,kgCO₂/inhabitant
+SDGS.12.TARGETS.2.INDICATORS.1.VALUES.1.TITLE,CO₂ emissions
+SDGS.12.TARGETS.2.INDICATORS.1.VALUES.1.UNIT,kgCO₂
+SDGS.12.TARGETS.2.INDICATORS.1.VALUES.2.TITLE,Total population
+SDGS.12.TARGETS.2.INDICATORS.1.VALUES.2.UNIT,people
+SDGS.12.TARGETS.2.INDICATORS.1.SOURCE,"- [Energy performance certificates for buildings](https://analisi.transparenciacatalunya.cat/Energia/Certificats-d-efici-ncia-energ-tica-d-edificis/j6ii-t3w2/about_data) (Dades Obertes de Catalunya)
+- [Historical population data of the municipalities of Catalunya](https://analisi.transparenciacatalunya.cat/Sector-P-blic/Dades-hist-riques-de-poblaci-dels-municipis-de-Cat/x5sz-niat/about_data) (Dades Obertes de Catalunya)"
+SDGS.12.TARGETS.3.DESCRIPTION,Substantially reduce food waste and food losses along production and supply chains.
+SDGS.12.TARGETS.4.DESCRIPTION,Target name not available
+SDGS.12.TARGETS.5.DESCRIPTION,"Significantly reduce waste generation through prevention, reduction, recycling, and reuse policies."
+SDGS.12.TARGETS.5.INDICATORS.1.TITLE,Selective collection rate
+SDGS.12.TARGETS.5.INDICATORS.1.DESCRIPTION,Percentage of household waste collected separately out of total waste generated.
+SDGS.12.TARGETS.5.INDICATORS.1.UNIT,%
+SDGS.12.TARGETS.5.INDICATORS.1.VALUES.1.TITLE,Total selectively collected
+SDGS.12.TARGETS.5.INDICATORS.1.VALUES.1.UNIT,t
+SDGS.12.TARGETS.5.INDICATORS.1.VALUES.2.TITLE,Total waste generated
+SDGS.12.TARGETS.5.INDICATORS.1.VALUES.2.UNIT,t
+SDGS.12.TARGETS.5.INDICATORS.1.SOURCE,- [Municipal waste statistics](https://analisi.transparenciacatalunya.cat/Medi-Ambient/Estad-stiques-de-residus-municipals/69zu-w48s/about_data) (Dades Obertes de Catalunya)
+SDGS.12.TARGETS.5.INDICATORS.2.TITLE,Household waste per capita per year
+SDGS.12.TARGETS.5.INDICATORS.2.DESCRIPTION,[Household waste generation in kg per inhabitant per year.]
+SDGS.12.TARGETS.5.INDICATORS.2.UNIT,kg/inhabitant/year
+SDGS.12.TARGETS.5.INDICATORS.2.VALUES.1.TITLE,Total waste generated
+SDGS.12.TARGETS.5.INDICATORS.2.VALUES.1.UNIT,t
+SDGS.12.TARGETS.5.INDICATORS.2.VALUES.2.TITLE,Population
+SDGS.12.TARGETS.5.INDICATORS.2.VALUES.2.UNIT,people
+SDGS.12.TARGETS.5.INDICATORS.2.SOURCE,- [Municipal waste statistics](https://analisi.transparenciacatalunya.cat/Medi-Ambient/Estad-stiques-de-residus-municipals/69zu-w48s/about_data) (Dades Obertes de Catalunya)
+SDGS.12.TARGETS.6.DESCRIPTION,Encourage businesses to adopt sustainable practices.
+SDGS.12.TARGETS.7.DESCRIPTION,"Promote sustainable public procurement practices (including social, environmental, and economic clauses)."
+SDGS.12.TARGETS.8.DESCRIPTION,Ensure that all citizens have the information and awareness they need to support sustainable development and lifestyles.
+SDGS.12.TARGETS.b.DESCRIPTION,Target name not available
+SDGS.13.TITLE,Climate action
+SDGS.13.DESCRIPTION,Take urgent action to combat climate change and its impacts.
+SDGS.13.TARGETS.1.DESCRIPTION,Strengthen resilience and adaptive capacity to climate-related risks and natural disasters.
+SDGS.13.TARGETS.1.INDICATORS.1.TITLE,Heatwave vulnerability
+SDGS.13.TARGETS.1.INDICATORS.1.DESCRIPTION,"Municipal heatwave and temperature rise vulnerability index (Low, Medium, High, Very High)."
+SDGS.13.TARGETS.1.INDICATORS.1.UNIT,
+SDGS.13.TARGETS.1.INDICATORS.1.VALUES.1.TITLE,
+SDGS.13.TARGETS.1.INDICATORS.1.VALUES.1.UNIT,
+SDGS.13.TARGETS.1.INDICATORS.1.VALUES.2.TITLE,
+SDGS.13.TARGETS.1.INDICATORS.1.VALUES.2.UNIT,
+SDGS.13.TARGETS.1.INDICATORS.1.SOURCE,- Internal data (Diputació de Barcelona)
+SDGS.13.TARGETS.2.DESCRIPTION,"Integrate climate change measures into local policies, strategies, and plans."
+SDGS.13.TARGETS.2.INDICATORS.1.TITLE,CO₂ emissions from buildings per capita
+SDGS.13.TARGETS.2.INDICATORS.1.DESCRIPTION,CO₂ emissions from buildings per capita
+SDGS.13.TARGETS.2.INDICATORS.1.SOURCE,"- [Energy performance certificates for buildings](https://analisi.transparenciacatalunya.cat/Energia/Certificats-d-efici-ncia-energ-tica-d-edificis/j6ii-t3w2/about_data) (Dades Obertes de Catalunya)
+- [Historical population data of the municipalities of Catalunya](https://analisi.transparenciacatalunya.cat/Sector-P-blic/Dades-hist-riques-de-poblaci-dels-municipis-de-Cat/x5sz-niat/about_data) (Dades Obertes de Catalunya)"
+SDGS.13.TARGETS.2.INDICATORS.1.UNIT,kgCO₂/inhabitant
+SDGS.13.TARGETS.2.INDICATORS.1.VALUES.1.TITLE,CO₂ emissions
+SDGS.13.TARGETS.2.INDICATORS.1.VALUES.1.UNIT,kgCO₂
+SDGS.13.TARGETS.2.INDICATORS.1.VALUES.2.TITLE,Total population
+SDGS.13.TARGETS.2.INDICATORS.1.VALUES.2.UNIT,people
+SDGS.13.TARGETS.2.INDICATORS.2.TITLE,Greenhouse gas emissions intensity
+SDGS.13.TARGETS.2.INDICATORS.2.DESCRIPTION,[Ratio between greenhouse gas emissions and energy consumption (in kgCO₂/kWh).]
+SDGS.13.TARGETS.2.INDICATORS.2.UNIT,kgCO₂/kWh
+SDGS.13.TARGETS.2.INDICATORS.2.VALUES.1.TITLE,
+SDGS.13.TARGETS.2.INDICATORS.2.VALUES.1.UNIT,kgCO₂/kWh
+SDGS.13.TARGETS.2.INDICATORS.2.VALUES.2.TITLE,
+SDGS.13.TARGETS.2.INDICATORS.2.VALUES.2.UNIT,
+SDGS.13.TARGETS.2.INDICATORS.2.SOURCE,- Internal data (Diputació de Barcelona)
+SDGS.13.TARGETS.3.DESCRIPTION,"Improve education, awareness, and institutional and citizen capacity on climate change mitigation and adaptation."
+SDGS.14.TITLE,Life below water
+SDGS.14.DESCRIPTION,"Conserve and sustainably use the oceans, seas, and marine resources for sustainable development."
+SDGS.14.TARGETS.1.DESCRIPTION,"Prevent and significantly reduce marine pollution of all kinds, particularly from land-based activities."
+SDGS.14.TARGETS.1.INDICATORS.1.TITLE,% of beaches with excellent water quality
+SDGS.14.TARGETS.1.INDICATORS.1.DESCRIPTION,"Percentage of beaches with excellent bathing water quality out of the total (%), according to the criteria of the Bathing Water Quality Protocol and annual monitoring report by the Catalan Water Agency."
+SDGS.14.TARGETS.1.INDICATORS.1.UNIT,%
+SDGS.14.TARGETS.1.INDICATORS.1.VALUES.1.TITLE,
+SDGS.14.TARGETS.1.INDICATORS.1.VALUES.1.UNIT,%
+SDGS.14.TARGETS.1.INDICATORS.1.VALUES.2.TITLE,
+SDGS.14.TARGETS.1.INDICATORS.1.VALUES.2.UNIT,
+SDGS.14.TARGETS.1.INDICATORS.1.SOURCE,- Internal data (Diputació de Barcelona)
+SDGS.14.TARGETS.2.DESCRIPTION,Protect and promote the sustainable management of marine and coastal ecosystems.
+SDGS.14.TARGETS.2.INDICATORS.1.TITLE,% of coastal strip free from urban development
+SDGS.14.TARGETS.2.INDICATORS.1.DESCRIPTION,"Percentage of the 200-meter-wide inland coastal strip that does not fall into any artificial land use category on the Land Cover Map, relative to the total area (%)."
+SDGS.14.TARGETS.2.INDICATORS.1.UNIT,%
+SDGS.14.TARGETS.2.INDICATORS.1.VALUES.1.TITLE,
+SDGS.14.TARGETS.2.INDICATORS.1.VALUES.1.UNIT,%
+SDGS.14.TARGETS.2.INDICATORS.1.VALUES.2.TITLE,
+SDGS.14.TARGETS.2.INDICATORS.1.VALUES.2.UNIT,
+SDGS.14.TARGETS.2.INDICATORS.1.SOURCE,- Internal data (Diputació de Barcelona)
+SDGS.14.TARGETS.4.DESCRIPTION,Target name not available
+SDGS.14.TARGETS.a.DESCRIPTION,Promote scientific knowledge to improve ocean health and enhance the contribution of marine biodiversity.
+SDGS.14.TARGETS.b.DESCRIPTION,Support small-scale artisanal fishers’ access to marine resources and markets.
+SDGS.15.TITLE,Life on land
+SDGS.15.DESCRIPTION,"Protect, restore, and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, halt and reverse land degradation, and stop biodiversity loss."
+SDGS.15.TARGETS.1.DESCRIPTION,"Ensure the conservation, restoration, and sustainable use of terrestrial and inland freshwater ecosystems, in particular forests, wetlands, mountains, and drylands."
+SDGS.15.TARGETS.1.INDICATORS.1.TITLE,% forest area
+SDGS.15.TARGETS.1.INDICATORS.1.DESCRIPTION,Forest area as a proportion of total land area.
+SDGS.15.TARGETS.1.INDICATORS.1.UNIT,%
+SDGS.15.TARGETS.1.INDICATORS.1.VALUES.1.TITLE,
+SDGS.15.TARGETS.1.INDICATORS.1.VALUES.1.UNIT,%
+SDGS.15.TARGETS.1.INDICATORS.1.VALUES.2.TITLE,
+SDGS.15.TARGETS.1.INDICATORS.1.VALUES.2.UNIT,
+SDGS.15.TARGETS.1.INDICATORS.1.SOURCE,- Internal data (Diputació de Barcelona)
+SDGS.15.TARGETS.1.INDICATORS.2.TITLE,Municipal area with protected status and open space management body
+SDGS.15.TARGETS.1.INDICATORS.2.DESCRIPTION,"Percentage of municipal area protected under sectoral legislation designations (ENPEs, PEIN, Natura 2000 Network, other XPN spaces) and that has a management body for the conservation of natural heritage."
+SDGS.15.TARGETS.1.INDICATORS.2.UNIT,%
+SDGS.15.TARGETS.1.INDICATORS.2.VALUES.1.TITLE,
+SDGS.15.TARGETS.1.INDICATORS.2.VALUES.1.UNIT,%
+SDGS.15.TARGETS.1.INDICATORS.2.VALUES.2.TITLE,
+SDGS.15.TARGETS.1.INDICATORS.2.VALUES.2.UNIT,
+SDGS.15.TARGETS.1.INDICATORS.2.SOURCE,- Internal data (Diputació de Barcelona)
+SDGS.15.TARGETS.2.DESCRIPTION,"Increase the number of sustainably managed forests, end deforestation, restore degraded forests, and significantly increase afforestation and reforestation."
+SDGS.15.TARGETS.2.INDICATORS.1.TITLE,Municipal area corresponding to open spaces
+SDGS.15.TARGETS.2.INDICATORS.1.DESCRIPTION,"Percentage of municipal area protected under sectoral legislation designations (ENPEs, PEIN, Natura 2000 Network, other XPN spaces)."
+SDGS.15.TARGETS.2.INDICATORS.1.UNIT,%
+SDGS.15.TARGETS.2.INDICATORS.1.VALUES.1.TITLE,
+SDGS.15.TARGETS.2.INDICATORS.1.VALUES.1.UNIT,%
+SDGS.15.TARGETS.2.INDICATORS.1.VALUES.2.TITLE,
+SDGS.15.TARGETS.2.INDICATORS.1.VALUES.2.UNIT,
+SDGS.15.TARGETS.2.INDICATORS.1.SOURCE,- Internal data (Diputació de Barcelona)
+SDGS.15.TARGETS.3.DESCRIPTION,"Combat desertification, restore degraded land and soil, including land affected by desertification, drought, and floods."
+SDGS.15.TARGETS.4.DESCRIPTION,"Ensure the conservation of mountain ecosystems, including their biodiversity."
+SDGS.15.TARGETS.4.INDICATORS.1.TITLE,Non-developable land area
+SDGS.15.TARGETS.4.INDICATORS.1.DESCRIPTION,Non-developable land area. Classified in the Urban Planning Map (MUC) as non-developable land (N2: Protection).
+SDGS.15.TARGETS.4.INDICATORS.1.UNIT,%
+SDGS.15.TARGETS.4.INDICATORS.1.VALUES.1.TITLE,Superficie de suelo no urbanizable. Calificación del MUC en el suelo no urbanizable (N2: Protección)
+SDGS.15.TARGETS.4.INDICATORS.1.VALUES.1.UNIT,ha
+SDGS.15.TARGETS.4.INDICATORS.1.VALUES.2.TITLE,Total area
+SDGS.15.TARGETS.4.INDICATORS.1.VALUES.2.UNIT,ha
+SDGS.15.TARGETS.4.INDICATORS.1.SOURCE,- [Urban planning map data of Catalunya](https://analisi.transparenciacatalunya.cat/Urbanisme-infraestructures/Dades-del-mapa-urban-stic-de-Catalunya/epsm-zskb/about_data) (Dades Obertes de Catalunya)
+SDGS.15.TARGETS.5.DESCRIPTION,"Reduce habitat degradation, halt biodiversity loss, and protect endangered species."
+SDGS.15.TARGETS.8.DESCRIPTION,"Take measures to prevent the introduction of invasive alien species and significantly reduce their impact on terrestrial and aquatic ecosystems, as well as control or eradicate priority species."
+SDGS.15.TARGETS.9.DESCRIPTION,"Integrate ecosystem and biodiversity values into local planning, development processes, poverty reduction strategies, and accounting."
+SDGS.15.TARGETS.a.DESCRIPTION,Mobilize financial resources to conserve and sustainably use biodiversity and ecosystems.
+SDGS.16.TITLE,"Peace, justice, and strong institutions."
+SDGS.16.DESCRIPTION,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all, and build effective, accountable, and inclusive institutions at all levels."
+SDGS.16.TARGETS.1.DESCRIPTION,"Significantly reduce all forms of violence and related death rates, with special focus on children."
+SDGS.16.TARGETS.3.DESCRIPTION,"Promote initiatives to improve equitable access to justice and mediation mechanisms, with special attention to vulnerable groups."
+SDGS.16.TARGETS.5.DESCRIPTION,"Strengthen local measures against corruption, improve transparency, and promote accountability in public management."
+SDGS.16.TARGETS.6.DESCRIPTION,"Achieve effective, accountable, transparent, and responsive institutions."
+SDGS.16.TARGETS.6.INDICATORS.1.TITLE,Digital maturity level
+SDGS.16.TARGETS.6.INDICATORS.1.DESCRIPTION,"Degree of digital transformation of the local entity (0–100), based on analysis of key digital and open government indicators."
+SDGS.16.TARGETS.6.INDICATORS.1.UNIT,
+SDGS.16.TARGETS.6.INDICATORS.1.VALUES.1.TITLE,
+SDGS.16.TARGETS.6.INDICATORS.1.VALUES.1.UNIT,
+SDGS.16.TARGETS.6.INDICATORS.1.VALUES.2.TITLE,
+SDGS.16.TARGETS.6.INDICATORS.1.VALUES.2.UNIT,
+SDGS.16.TARGETS.6.INDICATORS.1.SOURCE,- Internal data (Diputació de Barcelona)
+SDGS.16.TARGETS.7.DESCRIPTION,Participation in municipal elections
+SDGS.16.TARGETS.7.INDICATORS.1.TITLE,Number of registered voters who actually cast their vote. Expressed as a percentage of total voters (including blank and null votes) over the total number of registered voters.
+SDGS.16.TARGETS.7.INDICATORS.1.DESCRIPTION,Number of registered voters who actually cast their vote. Expressed as a percentage of total voters (including blank and null votes) over the total number of registered voters.
+SDGS.16.TARGETS.7.INDICATORS.1.UNIT,%
+SDGS.16.TARGETS.7.INDICATORS.1.VALUES.1.TITLE,Voters
+SDGS.16.TARGETS.7.INDICATORS.1.VALUES.1.UNIT,people
+SDGS.16.TARGETS.7.INDICATORS.1.VALUES.2.TITLE,Electoral roll
+SDGS.16.TARGETS.7.INDICATORS.1.VALUES.2.UNIT,people
+SDGS.16.TARGETS.7.INDICATORS.1.SOURCE,- [Electoral processes – Participation](https://analisi.transparenciacatalunya.cat/Sector-P-blic/Processos-electorals-Participaci-/irrv-2mfc/about_data) (Dades Obertes de Catalunya)
+SDGS.16.TARGETS.7.INDICATORS.2.TITLE,Update of participation channels
+SDGS.16.TARGETS.7.INDICATORS.2.DESCRIPTION,Binary indicator (0 Not updated; 1 Updated) regarding the update status of citizen participation channels available on the municipal transparency portal.
+SDGS.16.TARGETS.7.INDICATORS.2.UNIT,
+SDGS.16.TARGETS.7.INDICATORS.2.VALUES.1.TITLE,
+SDGS.16.TARGETS.7.INDICATORS.2.VALUES.1.UNIT,
+SDGS.16.TARGETS.7.INDICATORS.2.VALUES.2.TITLE,
+SDGS.16.TARGETS.7.INDICATORS.2.VALUES.2.UNIT,
+SDGS.16.TARGETS.7.INDICATORS.2.SOURCE,- Internal data (Diputació de Barcelona)
+SDGS.16.TARGETS.10.DESCRIPTION,Ensure public access to information and protect fundamental freedoms.
+SDGS.16.TARGETS.10.INDICATORS.1.TITLE,Update of transparency portals
+SDGS.16.TARGETS.10.INDICATORS.1.DESCRIPTION,Update score (0–10) of the documentation published across all sections of the municipal transparency portal.
+SDGS.16.TARGETS.10.INDICATORS.1.UNIT,
+SDGS.16.TARGETS.10.INDICATORS.1.VALUES.1.TITLE,
+SDGS.16.TARGETS.10.INDICATORS.1.VALUES.1.UNIT,
+SDGS.16.TARGETS.10.INDICATORS.1.VALUES.2.TITLE,
+SDGS.16.TARGETS.10.INDICATORS.1.VALUES.2.UNIT,
+SDGS.16.TARGETS.10.INDICATORS.1.SOURCE,- Internal data (Diputació de Barcelona)
+SDGS.16.TARGETS.b.DESCRIPTION,Promote and implement non-discriminatory local regulations and policies that support sustainable development.
+SDGS.17.TITLE,Partnerships for the goals
+SDGS.17.DESCRIPTION,Strengthen the means of implementation and revitalize the global partnership to achieve the Sustainable Development Goals.
+SDGS.17.TARGETS.1.DESCRIPTION,Strengthen the economic and fiscal autonomy and capacity of local governments.
+SDGS.17.TARGETS.1.INDICATORS.1.DESCRIPTION,"Outstanding debt is calculated based on financial risk operations, such as financial loans, fixed-income securities, and loans or credits transferred to third parties. It does not include commercial debt of local entities, meaning the debt they have with suppliers. Put simply, it is the amount of money that the municipality owes through credit."
+SDGS.17.TARGETS.1.INDICATORS.1.TITLE,Outstanding debt per inhabitant
+SDGS.17.TARGETS.1.INDICATORS.1.UNIT,€/inhabitant
+SDGS.17.TARGETS.1.INDICATORS.1.VALUES.1.TITLE,Total outstanding debt
+SDGS.17.TARGETS.1.INDICATORS.1.VALUES.1.UNIT,€
+SDGS.17.TARGETS.1.INDICATORS.1.VALUES.2.TITLE,Total census
+SDGS.17.TARGETS.1.INDICATORS.1.VALUES.2.UNIT,people
+SDGS.17.TARGETS.1.INDICATORS.1.SOURCE,- [Local government indebtedness](https://analisi.transparenciacatalunya.cat/Sector-P-blic/Endeutament-ens-local/c9ag-cye6/about_data) (Dades Obertes de Catalunya)
+SDGS.17.TARGETS.1.INDICATORS.2.SOURCE,"- [Budgets of municipal entities in Catalunya](https://analisi.transparenciacatalunya.cat/Economia/Pressupostos-dels-ens-municipals-de-Catalunya/4g9s-gzp6/about_data) (Dades Obertes de Catalunya)
+- [Historical data of the municipalities of Catalunya](https://analisi.transparenciacatalunya.cat/Sector-P-blic/Dades-hist-riques-de-poblaci-dels-municipis-de-Cat/x5sz-niat/about_data) (Dades Obertes de Catalunya)
+
+The following codes and concepts are taken into account for calculating revenue:
+
+- IBI: 
+  - 113: Property tax (urban properties)
+  - 112: Property tax (rural properties)
+  - 114: Property tax (special characteristics)
+- IAE:
+  - 130: Business activity tax"
+SDGS.17.TARGETS.1.INDICATORS.2.TITLE,Revenue from IAE and IBI
+SDGS.17.TARGETS.1.INDICATORS.2.DESCRIPTION,"Projected municipal budget revenue from the business activity tax (IAE) and the property tax (IBI), in €/inhabitant."
+SDGS.17.TARGETS.1.INDICATORS.2.UNIT,€/inhabitant
+SDGS.17.TARGETS.1.INDICATORS.2.VALUES.1.TITLE,Revenue from IAE and IBI
+SDGS.17.TARGETS.1.INDICATORS.2.VALUES.1.UNIT,€
+SDGS.17.TARGETS.1.INDICATORS.2.VALUES.2.TITLE,Total population
+SDGS.17.TARGETS.1.INDICATORS.2.VALUES.2.UNIT,people
+SDGS.17.TARGETS.2.DESCRIPTION,Promote development cooperation and ensure that 0.7% of revenue is allocated to this area.
+SDGS.17.TARGETS.2.INDICATORS.1.TITLE,Budget allocated to official development aid
+SDGS.17.TARGETS.2.INDICATORS.1.DESCRIPTION,Budget for official development aid per inhabitant
+SDGS.17.TARGETS.2.INDICATORS.1.UNIT,€/inhabitant
+SDGS.17.TARGETS.2.INDICATORS.1.VALUES.1.TITLE,Budget
+SDGS.17.TARGETS.2.INDICATORS.1.VALUES.1.UNIT,€
+SDGS.17.TARGETS.2.INDICATORS.1.VALUES.2.TITLE,Total population
+SDGS.17.TARGETS.2.INDICATORS.1.VALUES.2.UNIT,people
+SDGS.17.TARGETS.2.INDICATORS.1.SOURCE,- [Fons Català de Coopreació al Desenvolupament](https://fonscatala.org/observatori-de-la-cooperacio-municipalista/)
+SDGS.17.TARGETS.4.DESCRIPTION,Target 17.4
+SDGS.17.TARGETS.4.INDICATORS.1.TITLE,Outstanding debt per inhabitant
+SDGS.17.TARGETS.4.INDICATORS.1.DESCRIPTION,"Outstanding debt is calculated based on financial risk operations, such as financial loans, fixed-income securities, and loans or credits transferred to third parties. It does not include commercial debt of local entities, meaning the debt they have with suppliers. Simply put, it is the amount of money that the municipality owes through credit."
+SDGS.17.TARGETS.4.INDICATORS.1.UNIT,€/inhabitant
+SDGS.17.TARGETS.4.INDICATORS.1.VALUES.1.TITLE,Total outstanding debt
+SDGS.17.TARGETS.4.INDICATORS.1.VALUES.1.UNIT,€
+SDGS.17.TARGETS.4.INDICATORS.1.VALUES.2.TITLE,Total census
+SDGS.17.TARGETS.4.INDICATORS.1.VALUES.2.UNIT,people
+SDGS.17.TARGETS.6.DESCRIPTION,"Increase knowledge sharing and enhance regional and international cooperation — North-South, South-South, and triangular — on economic, social, and environmental development."
+SDGS.17.TARGETS.8.DESCRIPTION,Target name not available
+SDGS.17.TARGETS.14.DESCRIPTION,Improve policy coherence for sustainable development.
+SDGS.17.TARGETS.17.DESCRIPTION,"Promote effective partnerships among public, public-private, and civil society actors to advance sustainable development."
+SDGS.17.TARGETS.17.INDICATORS.1.TITLE,Number of development NGOs per population
+SDGS.17.TARGETS.17.INDICATORS.1.DESCRIPTION,Number of non-governmental development organizations divided by the population.
+SDGS.17.TARGETS.17.INDICATORS.1.UNIT,"entities/100,000 inhabitants"
+SDGS.17.TARGETS.17.INDICATORS.1.VALUES.1.TITLE,Number of development NGOs
+SDGS.17.TARGETS.17.INDICATORS.1.VALUES.1.UNIT,entities
+SDGS.17.TARGETS.17.INDICATORS.1.VALUES.2.TITLE,Total population
+SDGS.17.TARGETS.17.INDICATORS.1.VALUES.2.UNIT,people
+SDGS.17.TARGETS.17.INDICATORS.1.SOURCE,"- [Entities registered in the Register of Non-Governmental Development Organizations (NGDOs)(https://analisi.transparenciacatalunya.cat/Societat-benestar/Entitats-inscrites-en-el-Registre-d-organitzacions/4d69-gxhb/about_data) (Dades Obertes de Catalunya)
+- [Historical population data of the municipalities of Catalunya](https://analisi.transparenciacatalunya.cat/Sector-P-blic/Dades-hist-riques-de-poblaci-dels-municipis-de-Cat/x5sz-niat/about_data) (Dades Obertes de Catalunya)"
+SDGS.17.TARGETS.17.INDICATORS.2.TITLE,Number of new entities per population
+SDGS.17.TARGETS.17.INDICATORS.2.DESCRIPTION,Number of new entities per population
+SDGS.17.TARGETS.17.INDICATORS.2.SOURCE,- [Legal entities in the Register of Entities of Catalunya](https://analisi.transparenciacatalunya.cat/Legislaci-just-cia/Entitats-jur-diques-del-Registre-d-entitats-de-Cat/y6fz-g3ff/about_data) (Dades Obertes de Catalunya)\n- [Historical population data of the municipalities of Catalunya](https://analisi.transparenciacatalunya.cat/Sector-P-blic/Dades-hist-riques-de-poblaci-dels-municipis-de-Cat/x5sz-niat/about_data) (Dades Obertes de Catalunya)
+SDGS.17.TARGETS.17.INDICATORS.2.UNIT,"entities/100,000 inhabitants"
+SDGS.17.TARGETS.17.INDICATORS.2.VALUES.1.TITLE,Number of new entities
+SDGS.17.TARGETS.17.INDICATORS.2.VALUES.1.UNIT,entities
+SDGS.17.TARGETS.17.INDICATORS.2.VALUES.2.TITLE,Total population
+SDGS.17.TARGETS.17.INDICATORS.2.VALUES.2.UNIT,people
+SDGS.17.TARGETS.18.DESCRIPTION,"Improve the availability of high-quality, timely, and reliable data."
+SDGS.17.TARGETS.19.DESCRIPTION,[Promote and support the creation of monitoring systems and indicators to track progress on achieving the SDGs.
+SDGS.undefined.TARGETS.undefined.INDICATORS.undefined.SOURCE,"- [GDHI and GDHI per inhabitant](https://api.idescat.cat/taules/v2/rfdbc/13301/14148/) (IDESCAT)
+
+Estimated liquid fuel consumption is based on provincial and Catalan data. GDHI data at municipal level: for small municipalities, county-level data is used. Mobility data is based on the vehicle fleet; public transport expenses are not included."
+PROGRAMS.0,PUBLIC DEBT
+PROGRAMS.1,BASIC PUBLIC SERVICES
+PROGRAMS.2,SOCIAL PROTECTION AND PROMOTION MEASURES
+PROGRAMS.3,PRODUCTION OF PRIORITY PUBLIC GOODS
+PROGRAMS.4,ECONOMIC MEASURES
+PROGRAMS.9,GENERAL MEASURES
+PROGRAMS.13,Citizen safety and mobility
+PROGRAMS.15,Housing and urban planning
+PROGRAMS.16,Community well-being
+PROGRAMS.17,Environment
+PROGRAMS.21,Pensions
+PROGRAMS.22,Other economic benefits for employees
+PROGRAMS.23,Social services and social promotion
+PROGRAMS.24,Employment promotion
+PROGRAMS.31,Healthcare
+PROGRAMS.32,Education
+PROGRAMS.33,Culture
+PROGRAMS.34,Sports
+PROGRAMS.41,"Agriculture, livestock, and fishing"
+PROGRAMS.42,Industry and energy
+PROGRAMS.43,"Commerce, tourism, and small and medium-sized enterprises"
+PROGRAMS.44,Public transport
+PROGRAMS.45,Infrastructure
+PROGRAMS.46,"Research, development, and innovation"
+PROGRAMS.49,Other economic measures
+PROGRAMS.91,Government bodies
+PROGRAMS.92,General services
+PROGRAMS.93,Financial and tax administration
+PROGRAMS.94,Transfers to other public administrations
+PROGRAMS.130,General administration of security and civil protection
+PROGRAMS.132,Security and public order
+PROGRAMS.133,Traffic and parking management
+PROGRAMS.134,Urban mobility
+PROGRAMS.135,Civil protection
+PROGRAMS.136,Fire prevention and firefighting services
+PROGRAMS.150,General administration of housing and urban planning
+PROGRAMS.151,"Urban planning: planning, management, implementation, and regulation"
+PROGRAMS.152,Housing
+PROGRAMS.153,Public roads
+PROGRAMS.160,Sewerage
+PROGRAMS.161,Household drinking water supply
+PROGRAMS.162,"Waste collection, management, and treatment"
+PROGRAMS.163,Street cleaning
+PROGRAMS.164,Cemeteries and funeral services
+PROGRAMS.165,Public lighting
+PROGRAMS.170,General environmental administration
+PROGRAMS.171,Parks and gardens
+PROGRAMS.172,Environmental protection and improvement
+PROGRAMS.211,Pensions
+PROGRAMS.221,Other economic benefits for employees
+PROGRAMS.231,Primary social care
+PROGRAMS.241,Employment promotion
+PROGRAMS.311,Public health protection
+PROGRAMS.312,"Hospitals, care services, and health centers"
+PROGRAMS.320,General administration of education
+PROGRAMS.321,Creation of preschool and primary education centers
+PROGRAMS.322,Creation of secondary education centers
+PROGRAMS.323,"Operation of preschool, primary, and special education centers"
+PROGRAMS.324,Operation of secondary education centers
+PROGRAMS.325,Monitoring of compulsory schooling compliance
+PROGRAMS.326,Complementary education services
+PROGRAMS.327,Promotion of community coexistence
+PROGRAMS.330,General administration of culture
+PROGRAMS.332,Libraries and archives
+PROGRAMS.333,Cultural facilities and museums
+PROGRAMS.334,Cultural promotion
+PROGRAMS.336,Protection and management of historical and artistic heritage
+PROGRAMS.337,Leisure facilities
+PROGRAMS.338,Festivals and celebrations
+PROGRAMS.340,General administration of sports
+PROGRAMS.341,Sports promotion and support
+PROGRAMS.342,Sports facilities
+PROGRAMS.410,"General administration of agriculture, livestock, and fishing"
+PROGRAMS.412,Improvement of agricultural structures and production systems
+PROGRAMS.414,Rural development
+PROGRAMS.415,Protection and development of fishery resources
+PROGRAMS.419,"Other measures in agriculture, livestock, and fishing"
+PROGRAMS.420,General administration of industry and energy
+PROGRAMS.422,Industry
+PROGRAMS.423,Mining
+PROGRAMS.425,Energy
+PROGRAMS.430,"General administration of commerce, tourism, and small and medium-sized enterprises"
+PROGRAMS.431,Commerce
+PROGRAMS.432,Tourist information and promotion
+PROGRAMS.433,Business development
+PROGRAMS.439,Other sectoral measures
+PROGRAMS.440,General transport administration
+PROGRAMS.441,Passenger transport
+PROGRAMS.442,Transport infrastructure
+PROGRAMS.443,Freight transport
+PROGRAMS.450,General administration of infrastructure
+PROGRAMS.452,Water resources
+PROGRAMS.453,Roads
+PROGRAMS.454,Local roads
+PROGRAMS.459,Other infrastructure
+PROGRAMS.462,Research and studies related to public services
+PROGRAMS.463,"Scientific, technical, and applied research"
+PROGRAMS.491,Information society
+PROGRAMS.492,Knowledge management
+PROGRAMS.493,Consumer and user protection
+PROGRAMS.912,Government bodies
+PROGRAMS.920,General administration
+PROGRAMS.922,Coordination and institutional organization of local entities
+PROGRAMS.923,Basic information and statistics
+PROGRAMS.924,Citizen participation
+PROGRAMS.925,Citizen services
+PROGRAMS.926,Internal communications
+PROGRAMS.929,"Unexpected events, transitional situations, and implementation contingencies"
+PROGRAMS.931,Economic and fiscal policy
+PROGRAMS.932,Tax system management
+PROGRAMS.933,Asset management
+PROGRAMS.934,Debt and treasury management
+PROGRAMS.941,Transfers to Autonomous Communities
+PROGRAMS.942,Transfers to local territorial entities
+PROGRAMS.943,Transfers to other local entities
+PROGRAMS.944,Transfers to the General State Administration
+PROGRAMS.1521,Promotion and management of public housing
+PROGRAMS.1522,Building conservation and renovation
+PROGRAMS.1531,Access to population centers
+PROGRAMS.1532,Paving of public roads
+PROGRAMS.1621,Waste collection
+PROGRAMS.1622,Urban solid waste management
+PROGRAMS.1623,Waste treatment
+PROGRAMS.1721,"Protection against noise, light, and air pollution in urban areas"
+PROGRAMS.3321,Public libraries
+PROGRAMS.3322,Archives
+PROGRAMS.4311,Fairs
+PROGRAMS.4312,Markets and wholesale markets
+PROGRAMS.4313,Street markets
+PROGRAMS.4411,Urban collective passenger transport
+PROGRAMS.4412,Other passenger transport
+PROGRAMS.9231,Management of the municipal register of inhabitants
+PROGRAMS.01,Public debt
+PROGRAMS.011,Public debt
+COMARCA,County
+RENDA_FAMILIAR,Median income
+INDEX_GLOBAL_SDG,Overall SDG index
+TIPUS_GRAFIC,Chart types
+PLANS_TITLE,Strategic plans
+VALORATION_TITLE,Citizen feedback
+VALORATION_SUBTITLE,"Citizen feedback on aspects related to the SDGs comes from a selection of questions from the Dibaròmetre, the survey on citizens' perceptions of the municipality, its services, and the administration of local councils in the Province of Barcelona. The following are the questions related to certain SDGs."
+QUESTIONS,Questions
+ND,Not available
+BUDGET_RANKING,Budget breakdown by targets
+BUDGET_SUMMARY,"{city} allocated **{value}** to SDG {sdg} in {year}, representing {percent} of its budget."
+BUDGET_EVOLUTION,Trend
+EXPLORE_BUDGET_EVOLUTION,Explore the trend of total or target-specific budget dedicated to SDG {sdg}.
+TOTAL,Total
+POINTS_DESCRIPTION,"The overall index shows the aggregated score of the municipality in relation to the Sustainable Development Goals. To calculate it, indicators for each SDG have been normalized and a weighted average obtained, allowing for a synthetic comparison of goal achievement."
+POBLACIO,Population
+SYNTHETIC_INDEX,Synthetic index
+ANALISI,Analysis
+INICI,Home
+METODOLOGIA,Methodology
+NAVEGA_PER_ODS,Browse by SDG
+CERCA_ODS,Search SDG
+ALL_TARGETS,All
+SEE_ALL_TARGETS,View indicators for all targets of SDG
+SHOW_ALL_INDICATORS,Indicators for all targets of SDG {sdg} are displayed.
+VEURE_DADES,View data
+FITES_LOCALITZADES,Located targets
+Indicadores_RELACIONATS,Related indicators
+NO_INDICATORS_AVAILABLE,Indicators not available
+RELACIO_ENTRE_ODS,SDG relationships
+RELACIO_ENTRE_ODS_DESC,Select SDGs to analyze correlations between them at a general scale or by county.
+SIZE,Point size
+FACET,Segmentation
+NONE,Chapter
+BY_COMARCA,Segment by county
+SHOW_MEDIAN_LINES,Show medians
+TOTES,All
+INDEX_SINTETIC,Synthetic index
+INDEX_SINTETIC_TEXT,"The visualization shows the distribution of the index value on a scale from 0 to 100, allowing municipalities to be compared and territorial differences to be detected."
+VALOR_NORMALITZAT,Normalized value
+ESCALA_LOGARITMICA,Logarithmic scale
+DESCARREGA_INFORME,Download the report in PDF
+NA,Not applicable
+MAX,Max.
+MIN,Min.
+HABITANTS,inh.
+PLA_MUNICIPAL,Municipal plan
+PLA_COMARCAL,County plan
+PLA_INTERMUNICIPAL,Intermunicipal plan
+ANALISI_DESC,This section is exploratory and allows you to jointly visualize the degree of achievement of the different SDGs in municipalities through synthetic indexes.
+DISTRIBUCIO_ODS,SDG distribution
+DISTRIBUCIO_ODS_DESC,The visualization shows the distribution of municipalities for each SDG and helps identify patterns and territorial differences. It can also be filtered by county.
+VISIO_GENERAL,Overview
+SHOW_TREND_LINE,Show trend line
+INDICATORS_TEXT,"Next, to facilitate more specific analysis, the detail of the indicators that make up the SDG is presented, each with its own measurement unit."
+INDICADOR_ASSOCIAT,This indicator is associated with Target {target}
+TRAM,Range
+MUNICIPI,Municipality
+TOTS,All
+CERCA,Search
+EXPLORA_CAPES,Explore the different information layers that explain progress on SDG {sdg}.
+INDICATORS_DESCRIPTION,Below are the selected indicators used to monitor progress on the localized targets associated with SDG **{sdg}**. The selection considers the capacity for action of local governments and the availability of statistical data.
+BUDGET_DESCRIPTION,The allocated budget reflects the financial resources dedicated to initiatives related to SDG**{sdg}**.
+PLANS_ESTRATEGICS,Strategic plans
+PLANS_ESTRATEGICS_DESCRIPTION,"The strategic plans have been designed following the principles of the 2030 Agenda. Below is the contribution of the plan actions implemented in the municipality to SDG **{sdg}**, expressed as percentages."
+VALORATION,Citizen feedback
+VALORATION_DESCRIPTION,"Citizen feedback on SDG **{sdg}**comes from a selection of questions in the Dibarometer, the survey on residents’ perceptions of the municipality, its services, and the local government in the Province of Barcelona."
+SDG_GENERIC_TEXT,"Below is a summary of the level of achievement of SDG {sdg} in the municipalities, based on a synthetic index built from a carefully selected set of indicators, chosen for their thematic relevance and data availability at the municipal level."
+DESGLOSSAMENT_PLA,Program breakdown by topic:
+PLANS_SUBTITLE,"The strategic plans have been designed following the principles of the 2030 Agenda. Below is the contribution of the actions in the selected plan to each of the 17 SDGs, expressed as percentages."
+DOWNLOAD_DATA,Download data
+DOWNLOAD_IMAGE,Download image
+METODOLOGIA_SHORT_DESC,"- The process of localizing the SDGs and selecting targets applicable at the municipal level.
+- The criteria used to select the indicators.
+- The adjustments applied: weighting by population, segmentations, groupings, winsorization.
+- The calculation of the synthetic index and its interpretation.
+- The territorial and temporal coverage, and the data update model."
+METODOLOGIA_DESC,"The Visor 2030 aims to measure and compare the level of achievement of the Sustainable Development Goals (SDGs) in the municipalities of the Province of Barcelona using weighted indicators and a synthetic index.
+
+The methodological procedure is detailed below:"
+METODOLOGIA_PAGE.LOCALITZACIO,Localization of the SDGs
+METODOLOGIA_PAGE.LOCALITZACIO_DESC,A localization process was carried out to identify the targets most relevant in the municipal context. This process made it possible to prioritize targets related to areas where local governments have direct action capacity and where statistical data is available.
+METODOLOGIA_PAGE.SELECCIO_Indicadores,Selection of indicators
+METODOLOGIA_PAGE.SELECCIO_Indicadores_DESC,"A total of 76 indicators are shown, distributed across the 17 SDGs, covering social, economic, environmental, and institutional dimensions. Efforts were made to ensure a balanced distribution among goals and adequate territorial representation."
+METODOLOGIA_PAGE.SELECCIO_Indicadores_TEXT,"**The selection of indicators was carried out according to the following criteria:**
+
+- Availability of data for a representative number of municipalities in the province.
+- Existence of historical data with the highest possible temporal continuity, depending on each source's availability.
+- Relevance in relation to the reference target.
+- Source quality (mainly official and public sources).
+
+**The selection of indicators is based on the following references:**
+
+- United Nations Statistical Commission, in relation to the 2030 Agenda for Sustainable Development.
+- SDG indicator set for the European Union, led by Eurostat.
+- Sustainable Development Goals indicators for Catalunya, developed by Idescat together with CADS (Advisory Council for Sustainable Development of Catalunya)."
+METODOLOGIA_PAGE.PONDERACIO,Weighting and methodological adjustments
+METODOLOGIA_PAGE.PONDERACIO_DESC,"To ensure comparability between municipalities with very diverse characteristics, several methodological adjustments have been applied to the indicators:"
+METODOLOGIA_PAGE.PONDERACIO_1_TITLE,Population weighting
+METODOLOGIA_PAGE.PONDERACIO_1_DESC,"In indicators where absolute volume could introduce biases, values have been adjusted by considering the number of inhabitants in each municipality. This makes it possible to obtain relative measures (per person or per thousand inhabitants), which are more comparable between municipalities of different sizes."
+METODOLOGIA_PAGE.PONDERACIO_2_TITLE,Specific adjustments
+METODOLOGIA_PAGE.PONDERACIO_2_DESC,"In some cases, percentage calculations, segmentations by groups (for example, by sex or age groups), as well as groupings of related indicators, have been applied."
+METODOLOGIA_PAGE.PONDERACIO_3_TITLE,Territorial comparison with the county and the province
+METODOLOGIA_PAGE.PONDERACIO_3_DESC,"To help contextualize municipal results, county and provincial reference values have been included. In cases where the data source does not provide directly aggregated county or provincial information, statistical averages have been calculated from the available municipal values within each territorial scope."
+METODOLOGIA_PAGE.PONDERACIO_4_TITLE,Winsorization of extreme values
+METODOLOGIA_PAGE.PONDERACIO_4_DESC,"To prevent outliers from distorting the results of the indicators and the synthetic index, a winsorization process has been applied. This method involves limiting the most extreme values of an indicator by replacing them with threshold percentiles. In this way, the impact of extreme cases is reduced without eliminating data, ensuring comparability."
+METODOLOGIA_PAGE.INDEX_SINTETIC,Calculation of the synthetic index
+METODOLOGIA_PAGE.INDEX_SINTETIC_DESC,"The synthetic SDG achievement index for each municipality is built from a specific selection of indicators for each SDG, chosen based on their thematic relevance and the availability of data with municipal coverage.
+
+Each indicator is assigned a specific weight within its corresponding goal, according to technical criteria established to ensure a balance between representativeness and statistical quality. The weighted values are then aggregated to calculate an overall municipal index, expressed on a scale from 0 to 100, where 100 represents the highest level of SDG achievement across all considered indicators."
+METODOLOGIA_PAGE.INDEX_SINTETIC_FORMULA,"**General formula of the index**
+
+- Positive indicator  = ((Value - Min) / (Max - Min) * 100) * weight
+- Negative indicator = ((Max - Value) / (Max - Min) * 100) * weight"
+METODOLOGIA_PAGE.COBERTURA_TITLE,Territorial and temporal coverage
+METODOLOGIA_PAGE.COBERTURA_DESC,The viewer includes municipalities in the Province of Barcelona that have sufficient data to calculate the index. The analyzed period adapts to the data availability of each source and may vary depending on the indicator.
+METODOLOGIA_PAGE.ACTUALITZACIO_TITLE,Continuous update and improvement
+METODOLOGIA_PAGE.ACTUALITZACIO_DESC,"The methodology is designed to be scalable and adaptable. The progressive incorporation of new indicators and targets is planned, as well as the periodic update of data. All future methodological changes will be documented and published."
+METODOLOGIA_PAGE.NOTA_TITLE,Note on the data
+METODOLOGIA_PAGE.NOTA_DESC,"In some specific cases, the most recent data may contain anomalous values or may not be available for certain municipalities, due to changes in the original sources or issues in the automatic update processes. In these cases, only the years and values considered reliable are shown"
+footer.sections.1.title,Institution
+footer.sections.1.items.1.text,La Diputació de Barcelona
+footer.sections.1.items.1.link,https://www.diba.cat/es/web/ladiputacio
+footer.sections.1.items.2.text,Enclosures
+footer.sections.1.items.2.link,https://www.diba.cat/es/web/recintes
+footer.sections.1.items.3.text,Contact
+footer.sections.1.items.3.link,https://www.diba.cat/ca/contacte
+footer.sections.2.title,Actualidad
+footer.sections.2.items.1.text,The Diba Daily
+footer.sections.2.items.1.link,https://www.diba.cat/ca/web/el-diari
+footer.sections.2.items.2.text,Our newsletters
+footer.sections.2.items.2.link,https://www.diba.cat/ca/web/sala-de-premsa/butlletins-diba
+footer.sections.2.items.3.text,Community of practice
+footer.sections.2.items.3.link,https://www.diba.cat/ca/comunitats-de-practica
+footer.sections.3.title,Directory
+footer.sections.3.items.1.text,Contact directory
+footer.sections.3.items.1.link,https://www.diba.cat/ca/web/directori
+footer.sections.3.items.2.text,Social media directory
+footer.sections.3.items.2.link,https://www.diba.cat/ca/xarxes-socials
+footer.sections.3.items.3.text,Apps directory
+footer.sections.3.items.3.link,https://www.diba.cat/ca/apps
+footer.legal.text,Legal notice
+footer.legal.link,https://www.diba.cat/ca/avislegal
+footer.access.text,Accessibility
+footer.access.link,https://www.diba.cat/ca/accessibilitat
+footer.mapa.text,Site map
+footer.mapa.link,https://www.diba.cat/ca/mapa-web
+footer.address,"Diputació de Barcelona. Rambla de Catalunya, 126. 08008 Barcelona. Tel. 934 022 222"
+RELACIO_ENTRE_Indicadores,Relationship between indicators
+RELACIO_ENTRE_Indicadores_DESC,"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia corporis perferendis impedit facere. Hic sapiente quis ex laboriosam repellendus, tempore alias eum aliquid repudiandae, in quidem!"
+COMPARE_WITH,Compare with
+SEGMENT_BY,View data by
+COMPARE_PREVIOUS,Compare with previous survey
+DIBAROMETRE_NO_QUESTIONS,There are no citizen feedback questions associated with this SDG.
+DIBAROMETRE_NO_DATA,No data available for {municipi}.
+DIBAROMETRE_NO_DATA_YEAR,No data available for this year.
+MENU,Menu
+CONTRIBUCIO_ODS,%
+LLISTA_Indicadores,SDG indicators list
+PREVIOUS_SDG,Previous SDG
+NEXT_SDG,Next SDG
+YEAR,Year
+PLA_ESTRATEGIC,Strategic plan
+CONSULTEU_CAPES_INFO,Check the following information layers
+FONT_PRESSUPOST,Budget data source:
+PRESSUPOST_LINK,Gobierto budgets data
+INDEX_SDG,SDG index {sdg}
+SOURCE_CONTEXT,Sources
+SOURCE_CONTEXT_INFO,"- Population:: [Municipios de la Provincia de Barcelona.](https://www.diba.cat/ca/web/municipis) (Diputació de Barcelona)
+- Income: [Indicadores de renta media y mediana](https://www.ine.es/jaxiT3/Tabla.htm?t=30896) (INE)"
+NO_DATE_FOR_BUDGET,No budget allocation for this SDG
+AVIS_LEGAL_PAGE.TITLE,Legal notice
+AVIS_LEGAL_PAGE.TEXT,"## Legal notice
+This portal, owned by the Diputació de Barcelona, with NIF P0800000B, located at Rambla de Catalunya, 126 (08008 Barcelona), and phone number 934 022 222 (contact email:contacte{'@'}diba.cat)), consists of the websites associated with the domains [https://www.diba.cat](https://www.diba.cat), [https://www.sostenible.cat](https://www.sostenible.cat).
+
+## Intellectual and industrial property
+This website and all its contents, including texts, images, audio, databases, code, and any other material, are the property of the Diputació de Barcelona and its related management bodies, or of third parties who have authorized their use by the Diputació.
+
+All this material is protected by intellectual property laws. The holders reserve the right to take legal action to repair any damage caused by acts that violate intellectual property rights over these contents.
+
+Access to this website is subject to the following conditions:
+
+- t is strictly prohibited to distribute, copy, modify, or transmit both the page contents and the code, unless express written authorization has been obtained from the Diputació de Barcelona. Users may not sell or transfer, even free of charge, the information provided on this page under any circumstances.
+- DIBA is a legally registered trademark. Its use or reproduction without prior written authorization from the Diputació is strictly prohibited. The same protection applies to industrial property rights referring to the services and products of the Diputació de Barcelona and its related management bodies that appear on the website or are described.
+- The user agrees to use this service without engaging in activities that may be considered illegal or that infringe the rights of the Diputació de Barcelona or third parties, or that may violate current regulations. The Diputació de Barcelona is not responsible for third-party use of the information contained on the website, although any specific prescriptions and warnings for certain documents and applications must be followed.
+
+## Privacy policy
+- The Diputació de Barcelona strictly complies with current regulations on the protection of personal data and adopts legally required measures to protect your personal data and preserve your privacy and confidentiality.
+- Communications from website users containing personal data are carried out in a secure environment (a closed padlock icon appears in the website URL) to guarantee, as far as possible, the confidentiality of information and user privacy. This environment allows encryption of information transmitted between users and the Diputació.
+- The Diputació de Barcelona is responsible for the data collected through its forms. If acting on behalf of a local authority or another body as a data processor, this must be indicated.
+- Detailed information on data processing in each case must be included in the respective form (purpose of processing, transfer to third parties, storage period, etc.).
+- For any inquiries or complaints related to the processing of your personal data, the Diputació de Barcelona provides access to its data protection officer at ([dpd{'@'}diba.cat](mailto:dpd{'@'}diba.cat)).
+- Although this channel will provide an appropriate response, if you wish, you can submit a complaint through the website of the Catalan Data Protection Authority (APDCAT): [Autoridad Catalana de Protección de Datos (APDCAT)](https://apdcat.gencat.cat).
+- Data that is no longer needed for the purpose for which it was collected will be retained following the Diputació de Barcelona’s document management and archiving instructions.
+- You may exercise your rights of access, rectification, deletion, limitation, or opposition to the processing of your data, in accordance with current legislation, through the Electronic Headquarters [Sede electrónica](https://seuelectronica.diba.cat/serveis-de-la-seu/proteccio-dades), in person, or by mail to the General Registry Office of the Diputació de Barcelona [Oficina del Registro General de la Diputación de Barcelona](https://www.diba.cat/web/registre), attaching a copy of your identity document.
+
+## Cookie policy
+This website uses cookies to help analyze how users interact with it, to ensure the site functions correctly, to display content properly, and to collect statistics.
+
+For statistical purposes, Google Analytics is used. The information generated by cookies (including your IP address) is transmitted directly to Google and stored on its web servers. To anonymize the IP address, the Diputació de Barcelona has activated the ""Anonymize IP"" option, which masks the last three digits of the address by replacing them with zeros.
+
+This portal includes widgets from third-party services and links to third-party websites, and their privacy policies are independent of that of the Diputació de Barcelona. When accessing these sites, you can decide whether to accept their privacy and cookie policies. In general, when browsing the internet, you can accept or reject third-party cookies in your browser settings. Each browser has different procedures, and the help function explains how to accept or reject them.
+
+{'|'} Third party {'|'} Purpose {'|'}
+{'|'}--------------------{'|'}---------------------{'|'}
+{'|'} Google Analytics {'|'} Web analytics {'|'}
+
+If you still want to disable the cookies that collect this information, you can refuse their use by selecting the appropriate settings in your browser. However, please note that if you do so, you may not be able to use all functionalities and services of this website.
+
+You can also delete browsing data, including cookies, from your browser. Check each browser’s options and instructions.
+
+## Content responsibility
+- The Diputació de Barcelona does not guarantee that this website and its server are free of viruses and is not responsible for any damage that may result from interferences, omissions, interruptions, computer viruses, telephone faults, or disconnections in the operation of this electronic system caused by factors beyond its control, delays, or blockages in its use caused by deficiencies or overloads on telephone lines or Internet systems, or other electronic systems, nor for damage caused by third parties through illegitimate intrusions beyond its control.
+- The administrative information provided through this website does not replace the legal publication of laws, general provisions, and acts that must be formally published in official journals, which are the only instruments that certify their authenticity and content.
+- The Diputació de Barcelona is not responsible for information obtained through links or from external sources.
+- The Diputació de Barcelona is not responsible for the legality of other third-party websites from which this portal may be accessed. Nor is it responsible for the legality of other third-party websites that may be linked to or from this portal.
+- The Diputació de Barcelona does not guarantee the availability and continuity of the website and its services. When reasonably possible, users will be notified in advance of interruptions to website operation and services.
+- The Diputació de Barcelona reserves the right to unilaterally modify, at any time and without prior notice, the presentation, configuration, and content of the website, as well as the services offered and the conditions required for its use.
+- Use of this website implies full and unconditional acceptance of the terms and conditions contained in this legal notice.
+## Applicable law
+
+Any conflicts related to this website are governed exclusively by the laws of the Spanish State and the Autonomous Community of Catalonia, and the courts of Barcelona are the only competent authorities to resolve them. Every user of this website, regardless of their territorial jurisdiction, agrees to comply with and respect this clause, expressly waiving any other jurisdiction that may apply."

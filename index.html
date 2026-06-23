@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="ca">
+  <head>
+    <!-- Google Tag Manager -->
+    <script>
+      (function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+        var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s),
+          dl = l != "dataLayer" ? "&l=" + l : "";
+        j.async = true;
+        j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+        f.parentNode.insertBefore(j, f);
+      })(window, document, "script", "dataLayer", "GTM-WQDPT2DQ");
+    </script>
+    <!-- End Google Tag Manager -->
+
+    <!-- Cookie Accept -->
+    <link
+      rel="stylesheet"
+      href="https://maqueta.diba.cat/v3/assets/css/diba-cookiewarn.css"
+    />
+    <script
+      id="cookieScript"
+      data-lang-ca="{
+        'text': '<h2>La teva privacitat és la nostra prioritat</h2><p>Per protegir la teva intimitat, abans de continuar volem assegurar-nos que saps que, tant nosaltres com els nostres col·laboradors, utilitzem algunes “cookies” a la web per a facilitar-te l’ús:</p><ul><li>Pròpies i de tercers amb finalitats estadístiques, amb les que no es recull informació dels usuaris ni es registren les adreces IP d’accés.</li><li>Pròpies i de tercers per a garantir el funcionament bàsic, com la sessió d’usuari, i aspectes de personalització, com l’idioma de les nostres pàgines. Guardem l’acceptació de cookies durant 30 dies per a millorar l’experiència de navegació. Recorda que pots eliminar les cookies del teu navegador.</li><li>De tercers per mostrar-te informació de les nostres xarxes socials, com Facebook, Twitter, YouTube, etc. A l’accedir a aquests llocs web podràs decidir si acceptes o no les seves polítiques de privacitat i de cookies.</li></ul>',
+        'more_text': 'Més informació',
+        'more_link': 'https://www.diba.cat/avislegal',
+        'accept_text': 'D’acord',
+        'reject_text': 'No, gràcies'
+    }"
+      data-expire="30"
+      type="text/javascript"
+      src="https://maqueta.diba.cat/v3/assets/js/cookie-warn/3.2/cookie-warn.js"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      // Exemple google tag manager. Per defecte no es recullen dades.
+      gtag("consent", "default", {
+        ad_storage: "denied",
+        analytics_storage: "denied",
+      });
+      var cookieWarnCallback = function (accepted) {
+        if (accepted) {
+          // Exemple google tag manager. Si l'usuari accepta les cookies, es recullen dades.
+          gtag("consent", "update", {
+            ad_storage: "granted",
+            analytics_storage: "granted",
+          });
+        }
+      };
+    </script>
+    <!-- End Cookie Accept -->
+
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Visor2030</title>
+    <link rel="icon" type="image/svg+xml" href="/img/sdg-circle.svg" />
+    <link
+      rel="preload"
+      href="/font/NeueHaasDisplayRoman.ttf"
+      as="font"
+      type="font/ttf"
+      crossorigin="anonymous"
+    />
+    <link
+      rel="preload"
+      href="/font/NeueHaasDisplayMediu.ttf"
+      as="font"
+      type="font/ttf"
+      crossorigin="anonymous"
+    />
+    <link
+      rel="preload"
+      href="/font/NeueHaasDisplayBold.ttf"
+      as="font"
+      type="font/ttf"
+      crossorigin="anonymous"
+    />
+
+    <script>
+      window.dibarometre_url =
+        "https://do.diba.cat/static/dibarometre/dibarometre_visor.json";
+    </script>
+    <script src="settings.js"></script>
+  </head>
+  <body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript
+      ><iframe
+        src="https://www.googletagmanager.com/ns.html?id=GTM-WQDPT2DQ"
+        height="0"
+        width="0"
+        style="display: none; visibility: hidden"
+      ></iframe
+    ></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div id="app"></div>
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>

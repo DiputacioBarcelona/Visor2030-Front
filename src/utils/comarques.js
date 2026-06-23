@@ -1,0 +1,45 @@
+export default {
+  "03": "Alt Penedès",
+  "06": "Anoia",
+  "07": "Bages",
+  11: "Baix Llobregat",
+  13: "Barcelonès",
+  14: "Berguedà",
+  17: "Garraf",
+  21: "Maresme",
+  42: "Moianès",
+  24: "Osona",
+  40: "Vallès Occidental",
+  41: "Vallès Oriental",
+};
+
+export const comarquesMap = {
+  "03": "Alt Penedès",
+  "06": "Anoia",
+  "07": "Bages",
+  11: "Baix Llobregat",
+  13: "Barcelonès",
+  14: "Berguedà",
+  17: "Garraf",
+  21: "Maresme",
+  42: "Moianès",
+  34: "Selva",
+  24: "Osona",
+  40: "Vallès Occidental",
+  41: "Vallès Oriental",
+};
+
+export const comarques = {
+  "Alt Penedès": "03",
+  Anoia: "06",
+  Bages: "07",
+  "Baix Llobregat": "11",
+  Barcelonès: "13",
+  Berguedà: "14",
+  Garraf: "17",
+  Maresme: "21",
+  Moianès: "42",
+  Osona: "24",
+  "Vallès Occidental": "40",
+  "Vallès Oriental": "41",
+};

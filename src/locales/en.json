@@ -1,0 +1,2633 @@
+{
+  "TITLE": "Visor 2030",
+  "HOMEPAGE": {
+    "TITLE": "Local SDG indicators in the province of Barcelona",
+    "DESCRIPTION": "From the Diputació de Barcelona, we offer a platform to visualize a system of multidimensional indicators aligned with the 2030 Agenda, reflecting the economic, social, and environmental reality of the municipalities in the province of Barcelona. With this dataset, we aim to encourage debate, reflection, and analysis, as well as to improve decision-making by both local authorities and the Diputació itself.",
+    "SUBTITLE": "About the SDGs",
+    "SDG_DESCRIPTION": "The Sustainable Development Goals are a global call to end poverty, protect the planet, and ensure well-being for all people. Adopted by the United Nations in 2015, they provide a common framework to address major global challenges. At the Diputació de Barcelona, we promote their local implementation as a tool for planning, making informed decisions, and monitoring progress towards a more sustainable and fair future.",
+    "FOOTER_TITLE": "About Visor 2030",
+    "FOOTER_TEXT": "Visor 2030 is an open-source platform that brings together a comprehensive set of multidimensional indicators reflecting the social, economic, and environmental realities of municipalities across the province of Barcelona, aligned with the Sustainable Development Goals (SDGs). These indicators were chosen based on their thematic relevance and the availability of municipal-level data.\n\nThe source code, data architecture, and full set of indicators are openly available for other public institutions to reuse, adapt, and improve.\n\nVisor 2030 supports local decision-making, facilitates monitoring of the Agenda 2030 across the territory, and provides a holistic view of SDG progress within the demarcation of Barcelona.",
+    "METODOLOGIA_BUTTON": "Check the methodology",
+    "ABOUT_BUTTON": "Know more about Visor 2030"
+  },
+  "SDG": "SDG {sdg}",
+  "TARGET": "Target {target}",
+  "INDICATORS": "Indicators",
+  "INDICATOR": "Indicator",
+  "EVOLUCIO": "Trend",
+  "DISTRIBUCIO": "Distribution",
+  "PREVIOUS_YEAR": "Previous year",
+  "COMARCA_AVERAGE": "County of {comarca}",
+  "PROVINCE_AVERAGE": "Province of Barcelona",
+  "SOURCE": "Data sources and methodology",
+  "PROVINCIA_BARCELONA": "Province of Barcelona",
+  "NO_MUNICIPALITY_DATA": "No data available for this municipality",
+  "NO_COMARCA_DATA": "No data available for this county",
+  "NO_AGGREGATION_DATA": "No data available for this aggregation",
+  "MUN_NOT_SEA": "This municipality has no coastal area",
+  "COMARCA_NOT_SEA": "This county has no coastal area",
+  "AGRUPACIO_NOT_SEA": "This aggregation has no coastal area",
+  "CHOOSE_TARGET": "Choose the target you want to see indicators for",
+  "HIGH": "High",
+  "MEDIUM": "Medium",
+  "LOW": "Low",
+  "VERY_HIGH": "Very high",
+  "SI": "Yes",
+  "NO": "No",
+  "UNKNOWN": "---",
+  "ACTUALITZAT": "Updated",
+  "NO_ACTUALITZAT": "Not updated",
+  "CLICK_SDG": "Click on any of the SDGs to see detailed information",
+  "NAVEGA_PER_MUNICIPI": "Explore by municipality",
+  "CERCA_MUNICIPI": "Search municipality",
+  "NAVEGA_PER_COMARCA": "Explore by county",
+  "CERCA_COMARCA": "Search county",
+  "NAVEGA_PER_AGREGACIO": "Explore by aggregation",
+  "CERCA_AGREGACIO": "Search aggregation",
+  "SELECCIONA_UN_MUNICIPI": "Select a municipality",
+  "PROGRAMS_BUDGET": "Program budgets",
+  "PROGRAMS_TITLE": "Programs",
+  "BUDGET": "Budget",
+  "BUDGET_TITLE": "Budget",
+  "TOTAL_BUDGET": "Total",
+  "TOTAL_ASSIGNED_BUDGET": "Allocated to SDGs",
+  "TOTAL_UNASSIGNED_BUDGET": "Not allocated",
+  "PER_CAPITOLS": "Breakdown by chapters",
+  "ERROR": "There was an error loading the data. Please try again later.",
+  "POINTS_BY_SDG": "Score by SDG",
+  "BUDGET_SUBTITLE": "The allocated budget reflects the financial resources dedicated to initiatives linked to the SDGs. It shows both the total and the distribution by goals, as well as the unassigned portion. This analysis helps evaluate the alignment between local policies and sustainability commitments. These are budgeted and assigned resources but not yet settled.",
+  "RANKING": "Ranking",
+  "COMPOSITION": "Composition",
+  "CHAPTERS": "Chapters",
+  "DISTRIBUTION": "Distribution",
+  "ALL": "All",
+  "FILTER_BY_SDG": "Filter by SDG",
+  "SDGS": {
+    "1": {
+      "TITLE": "No poverty",
+      "DESCRIPTION": "End poverty in all its forms everywhere.",
+      "TARGETS": {
+        "1": {
+          "DESCRIPTION": "Reduce extreme poverty",
+          "INDICATORS": {
+            "1": {
+              "TITLE": "% Population with income < 40%",
+              "DESCRIPTION": "Percentage of the population living in consumption units with disposable income below 40% of the median",
+              "UNIT": "%",
+              "VALUES": {
+                "1": {
+                  "TITLE": "",
+                  "UNIT": ""
+                },
+                "2": {
+                  "TITLE": "",
+                  "UNIT": ""
+                }
+              },
+              "SOURCE": "- [Percentage of the population with consumption unit income below/above certain relative thresholds by sex](https://www.ine.es/jaxiT3/Tabla.htm?t=30901) (INE)"
+            }
+          }
+        },
+        "2": {
+          "DESCRIPTION": "Reduce the proportion of the population living in poverty by increasing comprehensive programs that address it in all its dimensions.",
+          "INDICATORS": {
+            "1": {
+              "TITLE": "% Population with income < 60%",
+              "DESCRIPTION": "Percentage of the population living in consumption units with disposable income below 60% of the median",
+              "UNIT": "%",
+              "VALUES": {
+                "1": {
+                  "TITLE": "",
+                  "UNIT": "%"
+                },
+                "2": {
+                  "TITLE": "",
+                  "UNIT": ""
+                }
+              },
+              "SOURCE": "- [Percentage of the population with consumption unit income below/above certain relative thresholds by sex ](https://www.ine.es/jaxiT3/Tabla.htm?t=30901) (INE)"
+            },
+            "2": {
+              "TITLE": "Median income",
+              "DESCRIPTION": "Value of income which, when ordering all individuals from lowest to highest income, leaves half below this value and the other half above it",
+              "UNIT": "€",
+              "VALUES": {
+                "1": {
+                  "TITLE": "",
+                  "UNIT": "€"
+                },
+                "2": {
+                  "TITLE": "",
+                  "UNIT": ""
+                }
+              },
+              "SOURCE": "- [Average and median income indicators](https://www.ine.es/jaxiT3/Tabla.htm?t=30896) (INE)"
+            },
+            "3": {
+              "TITLE": "Number of cooperative members per 1,000 inhabitants",
+              "DESCRIPTION": "Number of cooperative members per 1,000 inhabitants",
+              "UNIT": "members per 1,000 inhabitants",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Number of cooperative members",
+                  "UNIT": "members"
+                },
+                "2": {
+                  "TITLE": "Total population",
+                  "UNIT": "people"
+                }
+              },
+              "SOURCE": "- [General Register of Cooperatives of the Generalitat de Catalunya](https://analisi.transparenciacatalunya.cat/Treball/Registre-General-de-Cooperatives-de-la-Generalitat/euku-fzbx/about_data) (Dades Obertes de Catalunya)\n- [Historical population data of the municipalities of Catalonia](https://analisi.transparenciacatalunya.cat/Sector-P-blic/Dades-hist-riques-de-poblaci-dels-municipis-de-Cat/x5sz-niat/about_data) (Dades Obertes de Catalunya)"
+            }
+          }
+        },
+        "3": {
+          "DESCRIPTION": "Strengthen appropriate social protection systems and measures at the local level for all people, in order to achieve broad coverage of vulnerable populations",
+          "INDICATORS": {
+            "1": {
+              "TITLE": "Guaranteed Citizenship Income per 10,000 inhabitants",
+              "DESCRIPTION": "Average number of people who received the Guaranteed Citizenship Income in the reference year, per 10,000 inhabitants",
+              "UNIT": "people/10,000 inhabitants",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Average number of beneficiaries",
+                  "UNIT": "people"
+                },
+                "2": {
+                  "TITLE": "Total population",
+                  "UNIT": "people"
+                }
+              },
+              "SOURCE": "- [Guaranteed Citizenship Income ](https://www.idescat.cat/pub/?id=ris&n=9549) (IDESCAT)\n- [Historical population data of the municipalities of Catalonia](https://analisi.transparenciacatalunya.cat/Sector-P-blic/Dades-hist-riques-de-poblaci-dels-municipis-de-Cat/x5sz-niat/about_data) (Dades Obertes de Catalunya)"
+            }
+          }
+        },
+        "4": {
+          "DESCRIPTION": "Ensure that people, especially the poor and vulnerable, have equal rights as well as access to basic services, natural resources, and economic and financial resources on equal terms.",
+          "INDICATORS": {
+            "1": {
+              "TITLE": "Unemployment benefit rate",
+              "DESCRIPTION": "Number of people receiving benefits that cover unemployment situations in the contributory, assistance, active insertion income, and employment activation program schemes, in relation to the total number of registered unemployed people who had previous employment.",
+              "UNIT": "%",
+              "VALUES": {
+                "1": {
+                  "TITLE": "people receiving benefits",
+                  "UNIT": "people"
+                },
+                "2": {
+                  "TITLE": "Annual average of registered unemployed people who had previous employment",
+                  "UNIT": "people"
+                }
+              },
+              "SOURCE": "- [People receiving benefits ](https://www.diba.cat/hg2/presentaciomun.asp?prid=1327) (DIBA)\n- [Registered unemployment](https://www.idescat.cat/pub/?id=atureg&n=4299) (IDESCAT)\n\nThe data for June are used for people receiving benefits and the annual average of registered unemployed people."
+            },
+            "2": {
+              "TITLE": "Proportion of people with disabilities receiving a pension",
+              "DESCRIPTION": "Proportion of people with disabilities receiving a pension",
+              "UNIT": "%",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Disability pensions",
+                  "UNIT": "pensions"
+                },
+                "2": {
+                  "TITLE": "people legally recognized as disabled",
+                  "UNIT": "people"
+                }
+              },
+              "SOURCE": "- [Disability pensions ](https://www.idescat.cat/pub/?id=ppsr&n=9383) (IDESCAT)\n\n- [People legally recognized as disabled](https://www.idescat.cat/pub/?id=regdis&n=441) (IDESCAT)\n\n"
+            }
+          }
+        },
+        "5": {
+          "DESCRIPTION": "Strengthen the resilience of poor and vulnerable people, and reduce their exposure and vulnerability to climate-related extreme events and other economic, social, and environmental shocks and disasters.",
+          "INDICATORS": {
+            "1": {
+              "TITLE": "Free climate shelters",
+              "DESCRIPTION": "Free climate shelters",
+              "UNIT": "shelters/10,000 inhabitants",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Climate shelters",
+                  "UNIT": "shelters"
+                },
+                "2": {
+                  "TITLE": "Population",
+                  "UNIT": "people"
+                }
+              },
+              "SUBINDICATORS": {
+                "0": {
+                  "TITLE": "Free and accessible shelters",
+                  "VALUES": {
+                    "1": {
+                      "TITLE": "Shelters",
+                      "UNIT": "people"
+                    },
+                    "2": {
+                      "TITLE": "Population",
+                      "UNIT": "people"
+                    }
+                  }
+                },
+                "2": {
+                  "TITLE": "Free and inaccessible shelters",
+                  "VALUES": {
+                    "1": {
+                      "TITLE": "Shelters",
+                      "UNIT": "people"
+                    },
+                    "2": {
+                      "TITLE": "Population",
+                      "UNIT": "people"
+                    }
+                  }
+                },
+                "3": {
+                  "TITLE": "Free and NA accessible shelters",
+                  "VALUES": {
+                    "1": {
+                      "TITLE": "Shelters",
+                      "UNIT": "people"
+                    },
+                    "2": {
+                      "TITLE": "Population",
+                      "UNIT": "people"
+                    }
+                  }
+                },
+                "4": {
+                  "TITLE": "Free and accessible shelters",
+                  "VALUES": {
+                    "1": {
+                      "TITLE": "Shelters",
+                      "UNIT": "people"
+                    },
+                    "2": {
+                      "TITLE": "Population",
+                      "UNIT": "people"
+                    }
+                  }
+                },
+                "5": {
+                  "TITLE": "Non-free and inaccessible shelters",
+                  "VALUES": {
+                    "1": {
+                      "TITLE": "Shelters",
+                      "UNIT": "people"
+                    },
+                    "2": {
+                      "TITLE": "Population",
+                      "UNIT": "people"
+                    }
+                  }
+                },
+                "6": {
+                  "TITLE": "Free and NA accessible shelters",
+                  "VALUES": {
+                    "1": {
+                      "TITLE": "Shelters",
+                      "UNIT": "people"
+                    },
+                    "2": {
+                      "TITLE": "Population",
+                      "UNIT": "people"
+                    }
+                  }
+                }
+              },
+              "SOURCE": "- [Climate shelters.](https://analisi.transparenciacatalunya.cat/Seguretat/Refugis-clim-tics-dels-municipis-de-Catalunya/9gu7-iwci/about_data) (Dades Obertes de Catalunya)\n- [Historical population data of the municipalities of Catalonia.](https://analisi.transparenciacatalunya.cat/Sector-P-blic/Dades-hist-riques-de-poblaci-dels-municipis-de-Cat/x5sz-niat/about_data) (Dades Obertes de Catalunya)"
+            }
+          }
+        }
+      }
+    },
+    "2": {
+      "TITLE": "Zero hunger",
+      "DESCRIPTION": "End hunger, achieve food security and improved nutrition, and promote sustainable agriculture",
+      "TARGETS": {
+        "1": {
+          "DESCRIPTION": "[Ensure access to safe, nutritious, and sufficient food, especially for people in situations of food vulnerability, promoting sustainable, local agriculture that is resilient to climate change and extreme weather events]",
+          "INDICATORS": {
+            "1": {
+              "TITLE": "% Organic agricultural area",
+              "DESCRIPTION": "% Organic agricultural area",
+              "UNIT": "%",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Area with organic certification",
+                  "UNIT": "ha"
+                },
+                "2": {
+                  "TITLE": "Area used for cultivation",
+                  "UNIT": "ha"
+                }
+              },
+              "SOURCE": "- [Parcel data of farms (DUN) in Catalunya ](https://analisi.transparenciacatalunya.cat/Medi-Rural-Pesca/Dades-de-parcel-les-d-explotacions-DUN-de-Cataluny/si4p-ygat/about_data) (Dades Obertes de Catalunya)"
+            }
+          }
+        },
+        "3": {
+          "DESCRIPTION": "Promote agricultural productivity and the incomes of small-scale food producers.",
+          "INDICATORS": {
+            "1": {
+              "TITLE": "Agricultural land per 100 inhabitants.",
+              "DESCRIPTION": "Total area used for cultivation (food and forage) relative to the number of inhabitants (hectares/100 inhabitants)",
+              "UNIT": "ha/100 inhabitants",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Area used for cultivation",
+                  "UNIT": "ha"
+                },
+                "2": {
+                  "TITLE": "Total population",
+                  "UNIT": "people"
+                }
+              },
+              "SOURCE": "- [Parcel data of farms (DUN) in Catalunya. \n](https://analisi.transparenciacatalunya.cat/Medi-Rural-Pesca/Dades-de-parcel-les-d-explotacions-DUN-de-Cataluny/si4p-ygat/about_data) (Dades Obertes de Catalunya)\n- [Population. By sex](hhttps://www.idescat.cat/pub/?id=censph&n=538&hist=taules%2Fv2%2Fcensph%2F538%2F565%2Fmun%2Fdata%3F_LAST_%3D3%5Ec%3D2%2Fr%3D1%2Ft%3D-1c%3B0d%2C2%3B-2c%2Fe%3D01) (IDESCAT)"
+            },
+            "2": {
+              "TITLE": "Agricultural unemployment",
+              "DESCRIPTION": "Agricultural unemployment relative to total unemployment",
+              "UNIT": "%",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Annual average of registered unemployment in agriculture",
+                  "UNIT": "people"
+                },
+                "2": {
+                  "TITLE": "Annual average of total registered unemployment",
+                  "UNIT": "people"
+                }
+              },
+              "SOURCE": "- [Registered unemployment. By sectors. Annual averages](https://www.idescat.cat/pub/?id=atureg&n=4302&geo=cat) (IDESCAT)"
+            },
+            "3": {
+              "TITLE": "% Hectares of small-scale farms",
+              "DESCRIPTION": "% Hectares of small-scale farms",
+              "UNIT": "%",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Hectares of small-scale farms",
+                  "UNIT": "ha"
+                },
+                "2": {
+                  "TITLE": "Total hectares of farms",
+                  "UNIT": "ha"
+                }
+              },
+              "SUBINDICATORS": {
+                "0": {
+                  "TITLE": "% Hectares of small-scale farms",
+                  "VALUES": {
+                    "1": {
+                      "TITLE": "Hectares of small-scale farms",
+                      "UNIT": "ha"
+                    },
+                    "2": {
+                      "TITLE": "Total hectares of farms",
+                      "UNIT": "ha"
+                    }
+                  }
+                },
+                "2": {
+                  "TITLE": "% Small-scale farms",
+                  "VALUES": {
+                    "1": {
+                      "TITLE": "Small-scale farms",
+                      "UNIT": "farms"
+                    },
+                    "2": {
+                      "TITLE": "Total farms",
+                      "UNIT": "farms"
+                    }
+                  }
+                }
+              },
+              "SOURCE": "- [Agricultural census. Farm size by total area (2020)](https://www.idescat.cat/pub/?id=censag&n=16090) (IDESCAT)\n- [Agricultural census. Farm size by total area (2009)](https://www.idescat.cat/pub/?id=censag&n=5099) (IDESCAT)\n- [Agricultural census. Farm size by total area (1982–1999)](https://www.idescat.cat/pub/?id=censag&n=5099) (IDESCAT)"
+            },
+            "4": {
+              "TITLE": "% of small-scale farms",
+              "DESCRIPTION": "% of small-scale farms",
+              "UNIT": "%",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Small-scale farms",
+                  "UNIT": "farms"
+                },
+                "2": {
+                  "TITLE": "Total farms",
+                  "UNIT": "farms"
+                }
+              },
+              "SOURCE": "- [Agricultural census. Farm size by total area (2020)](https://www.idescat.cat/pub/?id=censag&n=16090) (IDESCAT)\n- [Agricultural census. Farm size by total area (2009)](https://www.idescat.cat/pub/?id=censag&n=5099) (IDESCAT)\n- [Agricultural census. Farm size by total area (1982–1999)](https://www.idescat.cat/pub/?id=censag&n=5099) (IDESCAT)"
+            }
+          }
+        },
+        "4": {
+          "DESCRIPTION": "Target name not available"
+        },
+        "5": {
+          "DESCRIPTION": "Maintain the genetic diversity of seeds, cultivated plants, and farmed and domesticated animals, as well as related wild species"
+        }
+      }
+    },
+    "3": {
+      "TITLE": "Health and well-being",
+      "DESCRIPTION": "Ensure healthy lives and promote well-being for all at all ages.",
+      "TARGETS": {
+        "3": {
+          "DESCRIPTION": "Target name not available"
+        },
+        "4": {
+          "DESCRIPTION": "Increase programs promoting healthy habits to reduce the risk of non-communicable diseases and promote mental health and well-being",
+          "INDICATORS": {
+            "1": {
+              "TITLE": "Old-age index",
+              "DESCRIPTION": "Ratio between the population aged 85 and over and the population aged 65 and over.",
+              "UNIT": "%",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Population aged 85 and over",
+                  "UNIT": "people"
+                },
+                "2": {
+                  "TITLE": "Population aged 65 and over",
+                  "UNIT": "people"
+                }
+              },
+              "SOURCE": "- [Population. By sex and five-year age groups (2023–)](https://www.idescat.cat/pub/?id=censph&n=539&hist=taules%2Fv2%2Fcensph%2F539%2F5976%2Fmun%2Fdata%3FAGE%3DTOTAL%26_LAST_%3D3%5Ec%3D3%2Fr%3D1%2Ft%3D-1c%3B0d%2C2%3B2%2C0%3B-3c%2Fe%3D0) (IDESCAT)\n- [Population on January 1. By sex and age year by year (2014–2022)](https://www.idescat.cat/pub/?id=pmh&n=1180&hist=taules%2Fv2%2Fpmh%2F1180%2F8078%2Fmun%2Fdata%3FAGE%3DTOTAL%26_LAST_%3D3%5Ec%3D3%2Fr%3D1%2Ft%3D-1c%3B0d%2C2%3B2%2C0%3B-3c%2Fe%3D0) (IDESCAT)\n- [Population on January 1. By sex and age year by year (2000–2013)](https://www.idescat.cat/pub/?id=pmh&n=1180&hist=taules%2Fv2%2Fpmh%2F1180%2F1063%2Fmun%2Fdata%3FMUN%3DTOTAL%5Ec%3D3%2Fr%3D2%2Ft%3D1%2C0%3B0d%2C13%3B-2c%3B-3c%2Fe%3D0) (IDESCAT)"
+            },
+            "2": {
+              "TITLE": "Average age at death",
+              "DESCRIPTION": "Average age at death",
+              "UNIT": "years",
+              "VALUES": {
+                "1": {
+                  "TITLE": "",
+                  "UNIT": "years"
+                },
+                "2": {
+                  "TITLE": "",
+                  "UNIT": ""
+                }
+              },
+              "SOURCE": "- [Deaths by sex and age ](https://www.idescat.cat/pub/?id=def&n=269) (IDESCAT)\n\nThere is limited data available for municipalities. For those without data, the county value is used as an indicative value for the municipality."
+            }
+          }
+        },
+        "5": {
+          "DESCRIPTION": "Strengthen the prevention and treatment of substance abuse, including narcotic drug abuse and harmful use of alcohol."
+        },
+        "6": {
+          "DESCRIPTION": "Halve the number of deaths and injuries caused by road traffic accidents.",
+          "INDICATORS": {
+            "1": {
+              "TITLE": "Road traffic mortality rate",
+              "DESCRIPTION": "People killed or seriously injured in road traffic accidents per 10,000 inhabitants.",
+              "UNIT": "people/10,000 inhabitants",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Number of deaths and serious injuries",
+                  "UNIT": "people"
+                },
+                "2": {
+                  "TITLE": "Total population",
+                  "UNIT": "people"
+                }
+              },
+              "SOURCE": "- [Traffic accidents with deaths or serious injuries in Catalunya](https://analisi.transparenciacatalunya.cat/Transport/Accidents-de-tr-nsit-amb-morts-o-ferits-greus-a-Ca/rmgc-ncpb/about_data) (Dades Obertes de Catalunya)\n- [Historical population data of the municipalities of Catalonia](https://analisi.transparenciacatalunya.cat/Sector-P-blic/Dades-hist-riques-de-poblaci-dels-municipis-de-Cat/x5sz-niat/about_data) (Dades Obertes de Catalunya)"
+            }
+          }
+        },
+        "7": {
+          "DESCRIPTION": "Promote measures to ensure universal access to sexual and reproductive health services."
+        },
+        "8": {
+          "DESCRIPTION": "Target name not available"
+        },
+        "9": {
+          "DESCRIPTION": "Substantially reduce the number of deaths and illnesses from hazardous chemicals and air, water, and soil pollution and contamination."
+        },
+        "d": {
+          "DESCRIPTION": "Target name not available"
+        }
+      }
+    },
+    "4": {
+      "TITLE": "Quality education",
+      "DESCRIPTION": "Ensure inclusive, equitable, and quality education, and promote lifelong learning opportunities for all.",
+      "TARGETS": {
+        "1": {
+          "DESCRIPTION": "Contribute to educational success by guaranteeing access to free, equitable, and quality education.",
+          "INDICATORS": {
+            "1": {
+              "TITLE": "PFI enrolment rate",
+              "DESCRIPTION": "Students enrolled in PFI programs as a percentage of the total population aged 16 to 21 in the municipality",
+              "UNIT": "%",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Total number of students enrolled in PFI",
+                  "UNIT": "people"
+                },
+                "2": {
+                  "TITLE": "Total population aged 16 to 21",
+                  "UNIT": "people"
+                }
+              },
+              "SOURCE": "- [Students enrolled by type of education and school units](https://analisi.transparenciacatalunya.cat/Educaci-/Alumnes-matriculats-per-ensenyament-i-unitats-dels/xvme-26kg/about_data) (Dades Obertes de Catalunya)\n- [Population. By sex and age year by year (2011–)](https://www.idescat.cat/pub/?id=censph&n=10&hist=taules%2Fv2%2Fcensph%2F10%2F5975%2Fmun%2Fdata%3FAGE%3DTOTAL%26_LAST_%3D3%5Ec%3D3%2Fr%3D1%2Ft%3D-1c%3B0d%2C2%3B2%2C0%3B-3c%2Fe%3D0) (IDESCAT)"
+            },
+            "2": {
+              "TITLE": "ESO graduation rate",
+              "DESCRIPTION": "Secondary education graduates in the municipality as a percentage of total students enrolled in 4th year of ESO.",
+              "UNIT": "%",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Total number of 4th year ESO students who graduate",
+                  "UNIT": "students"
+                },
+                "2": {
+                  "TITLE": "Total number of 4th year ESO students",
+                  "UNIT": "students"
+                }
+              },
+              "SOURCE": "- [Education statistics. Compulsory secondary education.](https://educacio.gencat.cat/ca/departament/estadistiques/estadistiques-ensenyament/curs-actual/eso/) (Departament d'Educació i Formació Professional de la Generalitat de Catalunya)"
+            }
+          }
+        },
+        "2": {
+          "DESCRIPTION": "Ensure that all children aged 0 to 3 have access to care and development services and to quality early education",
+          "INDICATORS": {
+            "1": {
+              "TITLE": "First cycle early childhood education rate",
+              "DESCRIPTION": "Percentage of children aged 0 to 2 enrolled in first cycle early childhood education in the municipality (total data and by type of provider: local public corporations, public Department of Education, private).",
+              "UNIT": "%",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Total number of students enrolled in first cycle early childhood education",
+                  "UNIT": "people"
+                },
+                "2": {
+                  "TITLE": "Total population aged 0 to 2",
+                  "UNIT": "people"
+                }
+              },
+              "SOURCE": "- [Students enrolled by type of education and school units ](https://analisi.transparenciacatalunya.cat/Educaci-/Alumnes-matriculats-per-ensenyament-i-unitats-dels/xvme-26kg/about_data) (Dades Obertes de Catalunya)\n- [Population. By sex and age year by year (2011–)](https://www.idescat.cat/pub/?id=censph&n=10&hist=taules%2Fv2%2Fcensph%2F10%2F5975%2Fmun%2Fdata%3FAGE%3DTOTAL%26_LAST_%3D3%5Ec%3D3%2Fr%3D1%2Ft%3D-1c%3B0d%2C2%3B2%2C0%3B-3c%2Fe%3D0) (IDESCAT)"
+            }
+          }
+        },
+        "3": {
+          "DESCRIPTION": "Target name not available"
+        },
+        "4": {
+          "DESCRIPTION": "Substantially increase the number of youth and adults who have the necessary skills to access the labor market, decent employment, and entrepreneurship, on equal terms.",
+          "INDICATORS": {
+            "1": {
+              "TITLE": "Education (Primary education or lower)",
+              "DESCRIPTION": "Level of education attained (Primary education or lower)",
+              "UNIT": "%",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Population aged 15 and over with primary education or lower",
+                  "UNIT": "people"
+                },
+                "2": {
+                  "TITLE": "Total population aged 15 and over",
+                  "UNIT": "people"
+                }
+              },
+              "SUBINDICATORS": {
+                "0": {
+                  "TITLE": "Primary education or lower",
+                  "VALUES": {
+                    "1": {
+                      "TITLE": "Population aged 15 and over with primary education or lower",
+                      "UNIT": "people"
+                    },
+                    "2": {
+                      "TITLE": "Total population aged 15 and over",
+                      "UNIT": "people"
+                    }
+                  }
+                },
+                "2": {
+                  "TITLE": "Lower secondary education or equivalent",
+                  "VALUES": {
+                    "1": {
+                      "TITLE": "Population aged 15 and over with lower secondary education or equivalent",
+                      "UNIT": "people"
+                    },
+                    "2": {
+                      "TITLE": "Total population aged 15 and over",
+                      "UNIT": "people"
+                    }
+                  }
+                },
+                "3": {
+                  "TITLE": "Upper secondary education or equivalent",
+                  "VALUES": {
+                    "1": {
+                      "TITLE": "Population aged 15 and over with upper secondary education or equivalent",
+                      "UNIT": "people"
+                    },
+                    "2": {
+                      "TITLE": "Total population aged 15 and over",
+                      "UNIT": "people"
+                    }
+                  }
+                },
+                "4": {
+                  "TITLE": "Higher education",
+                  "VALUES": {
+                    "1": {
+                      "TITLE": "Population aged 15 and over with higher education",
+                      "UNIT": "people"
+                    },
+                    "2": {
+                      "TITLE": "Total population aged 15 and over",
+                      "UNIT": "people"
+                    }
+                  }
+                }
+              },
+              "SOURCE": "- [Population. By level of education attained](https://www.idescat.cat/pub/?id=censph&n=7104&hist=taules%2Fv2%2Fcensph%2F7104%2F20170%2Fmun%2Fdata%5Ec%3D2%2Fr%3D1%2Ft%3D-1c%3B-0d%2C0%3B-2c%2Fe%3D0) (IDESCAT)"
+            },
+            "2": {
+              "TITLE": "Education (lower secondary education)",
+              "DESCRIPTION": "Level of education attained (lower secondary education)",
+              "UNIT": "%",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Population aged 15 and over with lower secondary education or equivalent",
+                  "UNIT": "people"
+                },
+                "2": {
+                  "TITLE": "Total population aged 15 and over",
+                  "UNIT": "people"
+                }
+              },
+              "SOURCE": "- [Population. By level of education attained](https://www.idescat.cat/pub/?id=censph&n=7104&hist=taules%2Fv2%2Fcensph%2F7104%2F20170%2Fmun%2Fdata%5Ec%3D2%2Fr%3D1%2Ft%3D-1c%3B-0d%2C0%3B-2c%2Fe%3D0) (IDESCAT)"
+            },
+            "3": {
+              "TITLE": "Education (upper secondary education)",
+              "DESCRIPTION": "Level of education attained (upper secondary education)",
+              "UNIT": "%",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Population aged 15 and over with upper secondary education or equivalent",
+                  "UNIT": "people"
+                },
+                "2": {
+                  "TITLE": "Total population aged 15 and over",
+                  "UNIT": "people"
+                }
+              },
+              "SOURCE": "- [Population. By level of education attained](https://www.idescat.cat/pub/?id=censph&n=7104&hist=taules%2Fv2%2Fcensph%2F7104%2F20170%2Fmun%2Fdata%5Ec%3D2%2Fr%3D1%2Ft%3D-1c%3B-0d%2C0%3B-2c%2Fe%3D0) (IDESCAT)"
+            },
+            "4": {
+              "TITLE": "Education (higher education)",
+              "DESCRIPTION": "Level of education attained (higher education)",
+              "UNIT": "%",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Population aged 15 and over with higher education",
+                  "UNIT": "people"
+                },
+                "2": {
+                  "TITLE": "Total population aged 15 and over",
+                  "UNIT": "people"
+                }
+              },
+              "SOURCE": "- [Population. By level of education attained ](https://www.idescat.cat/pub/?id=censph&n=7104&hist=taules%2Fv2%2Fcensph%2F7104%2F20170%2Fmun%2Fdata%5Ec%3D2%2Fr%3D1%2Ft%3D-1c%3B-0d%2C0%3B-2c%2Fe%3D0) (IDESCAT)"
+            }
+          }
+        },
+        "5": {
+          "DESCRIPTION": "Remove gender disparities in education and ensure equity in access, conditions, and outcomes for all groups in situations of vulnerability.",
+          "INDICATORS": {
+            "1": {
+              "TITLE": "Parity index in educational activities",
+              "DESCRIPTION": "Parity index between women and men aged over 15 who have participated in educational activities in the last 12 months.",
+              "UNIT": "",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Women studying",
+                  "UNIT": "women"
+                },
+                "2": {
+                  "TITLE": "Men studying",
+                  "UNIT": "men"
+                }
+              },
+              "SOURCE": "- [Population aged 15 and over. By highest level of current studies and sex ](https://www.idescat.cat/pub/?id=censph&n=16690&hist=taules%2Fv2%2Fcensph%2F16690%2F20161%2Fmun%2Fdata%3FEDU_LEV_CS%3DTOTAL%5Ec%3D2%2Fr%3D1%2Ft%3D-1c%3B-0d%2C0%3B-2c%3B3%2C0%2Fe%3D01) (IDESCAT)"
+            }
+          }
+        },
+        "7": {
+          "DESCRIPTION": "Ensure that all students acquire the theoretical and practical knowledge needed to promote sustainable development."
+        },
+        "a": {
+          "DESCRIPTION": "Ensure that educational facilities meet the needs of children and people with disabilities and consider gender issues, offering safe, non-violent, inclusive, and effective learning environments.",
+          "INDICATORS": {
+            "1": {
+              "TITLE": "Student-teacher ratio",
+              "DESCRIPTION": "Student-teacher ratio",
+              "UNIT": "students/teacher",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Students in public schools *",
+                  "UNIT": "students"
+                },
+                "2": {
+                  "TITLE": "Teachers in public schools *",
+                  "UNIT": "teachers"
+                }
+              },
+              "SOURCE": "- [Students enrolled by type of education and school units](https://analisi.transparenciacatalunya.cat/Educaci-/Alumnes-matriculats-per-ensenyament-i-unitats-dels/xvme-26kg/about_data) (Dades Obertes de Catalunya)\n- [Teaching staff in public schools under the Department of Education](https://analisi.transparenciacatalunya.cat/Educaci-/Personal-docent-en-centres-p-blics-titularitat-del/2ip7-jdgh/about_data) (Dades Obertes de Catalunya)"
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "TITLE": "Gender equality",
+      "DESCRIPTION": "Achieve gender equality and empower all women and girls.",
+      "TARGETS": {
+        "1": {
+          "DESCRIPTION": "[End all forms of gender discrimination.]",
+          "INDICATORS": {
+            "1": {
+              "TITLE": "Unemployment gap women vs men",
+              "DESCRIPTION": "Female unemployment rate – male unemployment rate",
+              "UNIT": "p.p.",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Female unemployment rate",
+                  "UNIT": "%"
+                },
+                "2": {
+                  "TITLE": "Male unemployment rate",
+                  "UNIT": "%"
+                }
+              },
+              "SOURCE": "- [Registered unemployment. By sex ](https://www.idescat.cat/pub/?id=atureg&n=4299&geo=mun) (IDESCAT)\n- [Social Security affiliates by place of residence. By sex. Last day of the month ](https://www.idescat.cat/pub/?id=afi&n=8604&hist=taules%2Fv2%2Fafi%2F8604%2F8704%2Fmun%2Fdata%3F_LAST_%3D3%5Ec%3D2%2Fr%3D1%2Ft%3D-1c%3B0d%2C2%3B-2c) (IDESCAT)"
+            }
+          }
+        },
+        "2": {
+          "DESCRIPTION": "Eliminate all forms of gender-based violence."
+        },
+        "4": {
+          "DESCRIPTION": "Recognize and value unpaid care and domestic work through public services and by promoting shared responsibility."
+        },
+        "5": {
+          "DESCRIPTION": "Ensure women's full and effective participation and equal opportunities for leadership at all levels of decision-making in political, economic, and public life.",
+          "INDICATORS": {
+            "1": {
+              "TITLE": "% elected women representatives",
+              "DESCRIPTION": "Percentage of municipal council elected positions held by women",
+              "UNIT": "%",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Elected positions held by women",
+                  "UNIT": "positions"
+                },
+                "2": {
+                  "TITLE": "Total elected positions",
+                  "UNIT": "positions"
+                }
+              },
+              "SOURCE": "- [Registered unemployment. By sex ](https://dadesobertes.diba.cat/datasets/carrecs-electes) (Diputació de Barcelona)"
+            }
+          }
+        },
+        "c": {
+          "DESCRIPTION": "Strengthen gender equality policies and the empowerment of women and girls.",
+          "INDICATORS": {
+            "1": {
+              "TITLE": "Female unemployment rate",
+              "DESCRIPTION": "Female unemployment rate",
+              "UNIT": "%",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Annual average of registered unemployment (women)",
+                  "UNIT": "women"
+                },
+                "2": {
+                  "TITLE": "Annual average of Social Security affiliates (women)",
+                  "UNIT": "women"
+                }
+              },
+              "SOURCE": "- [Registered unemployment. By sex](https://www.idescat.cat/pub/?id=atureg&n=4299&geo=mun) (IDESCAT)\n- [Social Security affiliates by place of residence. By sex. Last day of the month](https://www.idescat.cat/pub/?id=afi&n=8604&hist=taules%2Fv2%2Fafi%2F8604%2F8704%2Fmun%2Fdata%3F_LAST_%3D3%5Ec%3D2%2Fr%3D1%2Ft%3D-1c%3B0d%2C2%3B-2c) (IDESCAT)"
+            },
+            "2": {
+              "TITLE": "Female employment rate",
+              "DESCRIPTION": "Female employment rate",
+              "UNIT": "%",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Annual average of Social Security affiliates (women)",
+                  "UNIT": "women"
+                },
+                "2": {
+                  "TITLE": "Active population (women)",
+                  "UNIT": "women"
+                }
+              },
+              "SOURCE": "- [Social Security affiliates by place of residence. By sex. Last day of the month ](https://www.idescat.cat/pub/?id=afi&n=8604&hist=taules%2Fv2%2Fafi%2F8604%2F8704%2Fmun%2Fdata%3F_LAST_%3D3%5Ec%3D2%2Fr%3D1%2Ft%3D-1c%3B0d%2C2%3B-2c) (IDESCAT)\n- [Population. By sex and broad age groups](https://www.idescat.cat/pub/?id=censph&n=540&hist=taules%2Fv2%2Fcensph%2F540%2F19948%2Fmun%2Fdata%3FSEX%3DF%26AGE%3DY016_064%2CTOTAL%26_LAST_%3D3%5Er%3D1%2Ft%3D-1c%3B0d%2C2%3B-2c%3B3%2C0%2Fe%3D1) (IDESCAT)"
+            }
+          }
+        },
+        "b": {
+          "DESCRIPTION": "Achieve gender equality in the use of ICT."
+        }
+      }
+    },
+    "6": {
+      "TITLE": "Clean water and sanitation",
+      "DESCRIPTION": "Ensure availability and sustainable management of water and sanitation for all.",
+      "TARGETS": {
+        "1": {
+          "DESCRIPTION": "Ensure universal and equitable access to safe and affordable drinking water, with special attention to the most vulnerable groups.",
+          "INDICATORS": {
+            "1": {
+              "TITLE": "Water price €/m³",
+              "DESCRIPTION": "Water price (in € per m³), including supply price, water fee, and sewerage.",
+              "UNIT": "€/m³",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Water price",
+                  "UNIT": "€/m³"
+                },
+                "2": {
+                  "TITLE": "",
+                  "UNIT": ""
+                }
+              },
+              "SOURCE": "- [Water price by municipality effective on January 1 ](https://aca.gencat.cat/web/.content/10_ACA/L_Observatori_preu_aigua/03-Preu-per-municipis-i-evolucio/Preus_per_municipi_ca.xlsx) (Agència Catalana de l'Aigua)"
+            }
+          }
+        },
+        "2": {
+          "DESCRIPTION": "Achieve access to adequate and equitable sanitation and hygiene services."
+        },
+        "3": {
+          "DESCRIPTION": "Improve water quality by reducing pollution, eliminating discharges, and increasing sustainable drainage systems, recycling, reuse, and use of groundwater."
+        },
+        "4": {
+          "DESCRIPTION": "Substantially increase water-use efficiency across all sectors and ensure the sustainability of freshwater withdrawal and supply.",
+          "INDICATORS": {
+            "1": {
+              "TITLE": "Water consumption per inhabitant",
+              "DESCRIPTION": "Volume of domestic water consumed (in m³ per inhabitant per year)",
+              "UNIT": "m³/inhabitant",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Total water consumption",
+                  "UNIT": "m³"
+                },
+                "2": {
+                  "TITLE": "Total population",
+                  "UNIT": "people"
+                }
+              },
+              "SOURCE": "- [Volume consumed by municipality](https://aca.gencat.cat/web/.content/20_Aigua/08_consulta_de_dades/01_dades_obertes/01_visualitzacio_interactiva_dades/01_consum-aigua_comarques_catalunya/volum-aigua-consum-municipi.xlsx) (Agència Catalana de l'Aigua)"
+            }
+          }
+        },
+        "5": {
+          "DESCRIPTION": "Implement integrated water resources management at all levels, as appropriate, through territorial cooperation."
+        },
+        "6": {
+          "DESCRIPTION": "Protect and restore water-related ecosystems, including forests, mountains, wetlands, rivers, aquifers, and lakes throughout the territory with areas of natural value."
+        },
+        "b": {
+          "DESCRIPTION": "Promote and strengthen the participation of local communities in improving water and sanitation management."
+        }
+      }
+    },
+    "7": {
+      "TITLE": "Clean and affordable energy",
+      "DESCRIPTION": "Ensure access to affordable, reliable, sustainable, and modern energy for all.",
+      "TARGETS": {
+        "1": {
+          "INDICATORS": {
+            "1": {
+              "TITLE": "% Household income on energy",
+              "DESCRIPTION": "Cost (percentage) of final residential energy consumption (domestic and transport) relative to Gross Disposable Household Income.",
+              "SOURCE": "- [Residential energy consumption](https://gissrv-test.diba.cat/arcgis/rest/services/SITAC/Dades_ODS/MapServer) (Diputació de Barcelona)\n- [Historical population data for the municipalities of Catalonia](https://analisi.transparenciacatalunya.cat/Sector-P-blic/Dades-hist-riques-de-poblaci-dels-municipis-de-Cat/x5sz-niat/about_data) (Dades Obertes de Catalunya)\n- [GDHI and GDHI per capita](https://www.idescat.cat/pub/?id=rfdbc&n=13301&hist=taules%2Fv2%2Frfdbc%2F13301%2F14148%2Fmun%2Fdata%3F_LAST_%3D7%5Ec%3D3%2Fr%3D1%2Ft%3D-3c%3B-1c%3B0d%2C6%2Fe%3D11) (IDESCAT)\n\nConsumption of liquid fuels estimated from provincial and Catalan data. GDHI data at municipal level: for small municipalities, county-level data is used. Mobility data based on the vehicle fleet; spending on public transport is not included.",
+              "UNIT": "%",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Cost of final residential energy consumption per inhabitant",
+                  "UNIT": "€"
+                },
+                "2": {
+                  "TITLE": "Income per inhabitant",
+                  "UNIT": "€"
+                }
+              }
+            }
+          },
+          "DESCRIPTION": "Ensure universal access to affordable, reliable, and modern energy services, with a special focus on households experiencing energy poverty."
+        },
+        "2": {
+          "DESCRIPTION": "Substantially increase the share of renewable energy in the overall energy mix.",
+          "INDICATORS": {
+            "1": {
+              "TITLE": "% Households with renewable energy",
+              "DESCRIPTION": "Percentage of renewable energy consumed (thermal and electric) out of total energy consumed.",
+              "UNIT": "%",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Renewable energy consumed (thermal and electric)",
+                  "UNIT": "kWh"
+                },
+                "2": {
+                  "TITLE": "Total energy consumed",
+                  "UNIT": "kWh"
+                }
+              },
+              "SOURCE": "- [Energy consumption (by sources and sectors)](https://gissrv.diba.cat/arcgis/rest/services/SITAC/PAES/MapServer) (Diputació de Barcelona)"
+            }
+          }
+        },
+        "3": {
+          "DESCRIPTION": "Substantially improve energy efficiency.",
+          "INDICATORS": {
+            "1": {
+              "TITLE": "Household energy consumption",
+              "DESCRIPTION": "Final household consumption (in kWh/inhabitant), including all types of energy. Heating oil, biomass, butane, and propane consumption are estimated based on provincial or Catalan data.",
+              "UNIT": "kWh/inhabitant",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Residential energy consumption",
+                  "UNIT": "kWh"
+                },
+                "2": {
+                  "TITLE": "Total population",
+                  "UNIT": "people"
+                }
+              },
+              "SOURCE": "- [Electricity consumption by municipalities and sectors in Catalunya\n](https://analisi.transparenciacatalunya.cat/Energia/Consum-d-energia-el-ctrica-per-municipis-i-sectors/8idm-becu/about_data)(Dades Obertes de Catalunya)\n- [Piped natural gas consumption by municipalities and sectors in Catalunya \n](https://analisi.transparenciacatalunya.cat/Energia/Consum-de-gas-natural-canalitzat-per-municipis-i-s/qvqg-zag8/about_data)(Dades Obertes de Catalunya)\n- [Historical population data of the municipalities of Catalonia](https://analisi.transparenciacatalunya.cat/Sector-P-blic/Dades-hist-riques-de-poblaci-dels-municipis-de-Cat/x5sz-niat/about_data) (Dades Obertes de Catalunya)"
+            }
+          }
+        }
+      }
+    },
+    "8": {
+      "TITLE": "Decent work and economic growth",
+      "DESCRIPTION": "Promote sustained, inclusive, and sustainable economic growth, full and productive employment, and decent work for all.",
+      "TARGETS": {
+        "1": {
+          "DESCRIPTION": "Target name not available"
+        },
+        "2": {
+          "DESCRIPTION": "Increase overall economic productivity throughout the territory through specialization, diversification of activities, innovation, strategic planning, and territorial cooperation.",
+          "INDICATORS": {
+            "1": {
+              "TITLE": "GDP per inhabitant",
+              "DESCRIPTION": "Gross domestic product at market prices (GDP mp) measures the final result of the economic activity of producing units in the territory.",
+              "UNIT": "€",
+              "VALUES": {
+                "1": {
+                  "TITLE": "",
+                  "UNIT": "€"
+                },
+                "2": {
+                  "TITLE": "",
+                  "UNIT": ""
+                }
+              },
+              "SOURCE": "- [Gross domestic product](https://www.idescat.cat/pub/?id=pibc&n=13830&hist=taules%2Fv2%2Fpibc%2F13830%2F14779%2Fmun%2Fdata%5Ec%3D2%2Fr%3D1%2Ft%3D-2c%3B-1c%3B0d%2C12%2Fe%3D11) (IDESCAT)"
+            }
+          }
+        },
+        "3": {
+          "DESCRIPTION": "Promote development-oriented policies that support productive activities, decent job creation, entrepreneurship and business growth, creativity, and innovation.",
+          "INDICATORS": {
+            "1": {
+              "TITLE": "Employment rate",
+              "DESCRIPTION": "Number of Social Security affiliates residing in a municipality as a percentage of the population aged 16 to 64 in that municipality.",
+              "UNIT": "%",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Number of affiliates",
+                  "UNIT": "people"
+                },
+                "2": {
+                  "TITLE": "Population aged 16 to 64",
+                  "UNIT": "people"
+                }
+              },
+              "SOURCE": "- [Social Security affiliates by place of residence. By sex. Last day of the month](https://www.idescat.cat/pub/?id=afi&n=8604) (IDESCAT)\n- [Population. By sex and broad age groups](https://www.idescat.cat/pub/?id=censph&n=540&hist=taules%2Fv2%2Fcensph%2F540%2F19948%2Fmun%2Fdata%3FAGE%3DTOTAL%26_LAST_%3D3%5Ec%3D2%2Fr%3D1%2Ft%3D-1c%3B0d%2C2%3B-2c%3B3%2C0%2Fe%3D01) (IDESCAT)\n- [Population on January 1. By sex and age year by year (2014–)](https://www.idescat.cat/pub/?id=pmh&n=1180&hist=taules%2Fv2%2Fpmh%2F1180%2F8078%2Fmun%2Fdata%3FAGE%3DTOTAL%26_LAST_%3D3%5Ec%3D3%2Fr%3D1%2Ft%3D-1c%3B0d%2C2%3B2%2C0%3B-3c%2Fe%3D0) (IDESCAT)\n- [Population on January 1. By sex and age year by year (2000–2013)](https://www.idescat.cat/pub/?id=pmh&n=1180&hist=taules%2Fv2%2Fpmh%2F1180%2F1063%2Fmun%2Fdata%3FMUN%3DTOTAL%5Ec%3D3%2Fr%3D2%2Ft%3D1%2C0%3B0d%2C13%3B-2c%3B-3c%2Fe%3D0) (IDESCAT)"
+            },
+            "2": {
+              "TITLE": "Commercial establishments per 1,000 inhabitants",
+              "DESCRIPTION": "Number of commercial establishments per 1,000 inhabitants.",
+              "UNIT": "establishments/1,000 inhabitants",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Number of commercial establishments",
+                  "UNIT": "establishments"
+                },
+                "2": {
+                  "TITLE": "Population",
+                  "UNIT": "people"
+                }
+              },
+              "SOURCE": "- [Consultation service of the Census of Commercial Establishments of Catalunya (CECC)\n](https://analisi.transparenciacatalunya.cat/Comer-/Servei-de-consulta-del-Cens-d-establiments-comerci/2dhj-q3r8/about_data) (Dades Obertes de Catalunya)"
+            },
+            "3": {
+              "TITLE": "Unemployment rate",
+              "DESCRIPTION": "Unemployment rate",
+              "SOURCE": "- [Indicators on relationship with economic activity ](https://www.idescat.cat/pub/?id=censph&n=16720&hist=taules%2Fv2%2Fcensph%2F16720%2F20208%2Fmun%2Fdata%3FCONCEPT%3DPP_AP_Y16O%5Ec%3D3%2Fr%3D1%2Ft%3D2%2C0%3B-1c%3B-0d%2C0%3B-3c%2Fe%3D1) (IDESCAT)",
+              "UNIT": "%",
+              "VALUES": {
+                "1": {
+                  "TITLE": "",
+                  "UNIT": ""
+                },
+                "2": {
+                  "TITLE": "",
+                  "UNIT": ""
+                }
+              }
+            },
+            "4": {
+              "TITLE": "% Public procurement to SMEs",
+              "DESCRIPTION": "% Public procurement to SMEs",
+              "SOURCE": "- [Public procurement in Catalunya: publications on the Public Procurement Services Platform ](https://analisi.transparenciacatalunya.cat/Economia/Contractaci-p-blica-a-Catalunya-publicacions-a-la-/ybgg-dgi6/about_data) (Dades Obertes de Catalunya)",
+              "UNIT": "%",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Contracted SMEs",
+                  "UNIT": "companies"
+                },
+                "2": {
+                  "TITLE": "Total contracted companies",
+                  "UNIT": "companies"
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "DESCRIPTION": "Improve the efficient production and consumption of resources and decouple economic growth from environmental degradation."
+        },
+        "5": {
+          "DESCRIPTION": "Achieve a high rate of quality employment for the most vulnerable groups throughout the territory.",
+          "INDICATORS": {
+            "1": {
+              "TITLE": "% unemployed people > 45 years",
+              "DESCRIPTION": "% of unemployed people aged > 45 over the total population aged > 45 in the workforce",
+              "UNIT": "%",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Unemployed people > 45 years (annual average)",
+                  "UNIT": "people"
+                },
+                "2": {
+                  "TITLE": "Population aged 45 to 64",
+                  "UNIT": "people"
+                }
+              },
+              "SOURCE": "- [Registered unemployment. By sex and age](https://www.idescat.cat/pub/?id=atureg&n=4300) (IDESCAT)\n- [Population on January 1. By sex and age year by year.](https://www.idescat.cat/pub/?id=pmh&n=1180&hist=taules%2Fv2%2Fpmh%2F1180%2F8078%2Fmun%2Fdata%3FAGE%3DTOTAL%26_LAST_%3D3%5Ec%3D3%2Fr%3D1%2Ft%3D-1c%3B0d%2C2%3B2%2C0%3B-3c%2Fe%3D0) (IDESCAT)\n"
+            },
+            "2": {
+              "TITLE": "% unemployed people < 25 years",
+              "DESCRIPTION": "% of unemployed people aged < 25 over the total population aged < 25 in the workforce",
+              "UNIT": "%",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Unemployed people > 45 years (annual average)",
+                  "UNIT": "people"
+                },
+                "2": {
+                  "TITLE": "Population aged 45 to 64",
+                  "UNIT": "people"
+                }
+              },
+              "SOURCE": "- [Registered unemployment. By sex and age](https://www.idescat.cat/pub/?id=atureg&n=4300) (IDESCAT)\n- [Population on January 1. By sex and age year by year.](https://www.idescat.cat/pub/?id=pmh&n=1180&hist=taules%2Fv2%2Fpmh%2F1180%2F8078%2Fmun%2Fdata%3FAGE%3DTOTAL%26_LAST_%3D3%5Ec%3D3%2Fr%3D1%2Ft%3D-1c%3B0d%2C2%3B2%2C0%3B-3c%2Fe%3D0) (IDESCAT)"
+            }
+          }
+        },
+        "6": {
+          "DESCRIPTION": "Substantially reduce the number of young people not in employment, education, or training."
+        },
+        "8": {
+          "DESCRIPTION": "Protect labor rights and promote a safe working environment throughout the territory, in particular for migrant women and people in precarious employment."
+        },
+        "9": {
+          "DESCRIPTION": "Strengthen policies to promote sustainable, local, high-quality tourism that creates jobs and promotes culture and local products.",
+          "INDICATORS": {
+            "1": {
+              "TITLE": "Tourism pressure",
+              "DESCRIPTION": "Ratio of tourist accommodation places per 10,000 inhabitants.",
+              "UNIT": "places/10,000 inhabitants",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Tourist places",
+                  "UNIT": "places"
+                },
+                "2": {
+                  "TITLE": "Population",
+                  "UNIT": "people"
+                }
+              },
+              "SOURCE": "- [Hotel beds](https://www.idescat.cat/pub/?id=turall&n=6031) (IDESCAT)\n- [Tourist apartments ](https://www.idescat.cat/pub/?id=turall&n=16721) (IDESCAT)\n- [Rural tourism places](https://www.idescat.cat/pub/?id=turall&n=6039) (IDESCAT)\n- [Camping places ](https://www.idescat.cat/pub/?id=turall&n=6036) (IDESCAT)\n- [Tourist-use accommodation](https://www.idescat.cat/pub/?id=turall&n=16722) (IDESCAT)\n- [Historical population data of the municipalities of Catalonia](https://analisi.transparenciacatalunya.cat/Sector-P-blic/Dades-hist-riques-de-poblaci-dels-municipis-de-Cat/x5sz-niat/about_data) (Dades Obertes de Catalunya)"
+            }
+          }
+        }
+      }
+    },
+    "9": {
+      "TITLE": "Industry, innovation, and infrastructure",
+      "DESCRIPTION": "Build resilient infrastructure, promote inclusive and sustainable industrialization, and foster innovation.",
+      "TARGETS": {
+        "1": {
+          "DESCRIPTION": "Develop sustainable, resilient, high-quality infrastructure with strong transformative capacity to support the economic development of the territory, with particular attention to affordable and equitable access.",
+          "INDICATORS": {
+            "1": {
+              "TITLE": "Internet coverage",
+              "DESCRIPTION": "Coverage provided by fixed networks of at least 100 Mbps, including HFC and FTTH coverage.",
+              "UNIT": "%",
+              "VALUES": {
+                "1": {
+                  "TITLE": "",
+                  "UNIT": ""
+                },
+                "2": {
+                  "TITLE": "",
+                  "UNIT": ""
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "DESCRIPTION": "Strengthen policies supporting the productive sector to achieve inclusive and sustainable industrialization, increasing the contribution of industry to local employment and to the GDP of the entire territory.",
+          "INDICATORS": {
+            "1": {
+              "TITLE": "% Employment in the industrial sector",
+              "DESCRIPTION": "% of employed population in the industrial sector",
+              "UNIT": "%",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Employed population in the industrial sector",
+                  "UNIT": "people"
+                },
+                "2": {
+                  "TITLE": "Total employed population",
+                  "UNIT": "people"
+                }
+              },
+              "SOURCE": "- [Social Security affiliations by place of residence. By contribution scheme and economic activity sector.](https://www.idescat.cat/pub/?id=afi&n=10602&hist=taules%2Fv2%2Fafi%2F10602%2F11111%2Fmun%2Fdata%3F_LAST_%3D1%5Ec%3D2%2C3%2Fr%3D1%2Ft%3D-1c%3B0d%2C0%3B-2c%3B-3c) (IDESCAT)"
+            }
+          }
+        },
+        "3": {
+          "DESCRIPTION": "Increase the access of small industries and other businesses to financial services, including affordable credit, and their integration into value chains and markets."
+        },
+        "4": {
+          "DESCRIPTION": "Modernize infrastructure and transform industries to make them sustainable, promoting the adoption of technologies, process improvements, and environmental responsibility."
+        },
+        "5": {
+          "DESCRIPTION": "Increase scientific research and improve the technological capacity of industrial sectors.",
+          "INDICATORS": {
+            "1": {
+              "SOURCE": "- [Contribution account codes and affiliates – Scheme – CNAE 2D](https://www.seg-social.es/wps/portal/wss/internet/EstadisticasPresupuestosEstudios/Estadisticas/est8/est10/est305/c43ad8ea-fe79-4329-ac8e-e5758f3c4d7a/96c57bf8-1cb3-4eea-b77e-1df627a47063) (Seguretat Social)\n",
+              "UNIT": "companies/10,000 inhabitants",
+              "DESCRIPTION": "Knowledge-based companies per 10,000 inhabitants",
+              "TITLE": "Knowledge-based companies per 10,000 inhabitants",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Knowledge-based companies",
+                  "UNIT": "companies"
+                },
+                "2": {
+                  "TITLE": "Total population",
+                  "UNIT": "people"
+                }
+              }
+            },
+            "2": {
+              "TITLE": "Industrial jobs",
+              "DESCRIPTION": "Affiliations in the industrial sector within the municipality as a percentage of total affiliations in the municipality.",
+              "UNIT": "%",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Affiliations in the industrial sector",
+                  "UNIT": "people"
+                },
+                "2": {
+                  "TITLE": "Total affiliations",
+                  "UNIT": "people"
+                }
+              }
+            }
+          }
+        },
+        "c": {
+          "DESCRIPTION": "Ensure universal and affordable access to the Internet and ICT across the territory.",
+          "INDICATORS": {
+            "1": {
+              "TITLE": "Internet coverage",
+              "DESCRIPTION": "Coverage provided by fixed networks of at least 100 Mbps, including HFC and FTTH coverage.",
+              "UNIT": "%",
+              "VALUES": {
+                "1": {
+                  "TITLE": "",
+                  "UNIT": ""
+                },
+                "2": {
+                  "TITLE": "",
+                  "UNIT": ""
+                }
+              },
+              "SOURCE": "- [Coverage information](https://avance.digital.gob.es/banda-ancha/cobertura/Paginas/informacion-cobertura.aspx) (Secretaría de Estado de Telecomunicaciones e Infrastructuras digitales)"
+            }
+          }
+        },
+        "b": {
+          "DESCRIPTION": "Target name not available"
+        }
+      }
+    },
+    "10": {
+      "TITLE": "Reduced inequalities",
+      "DESCRIPTION": "Reduce inequalities within and among countries.",
+      "TARGETS": {
+        "1": {
+          "DESCRIPTION": "Progressively achieve income growth of the bottom 40% of the population in the territory at a rate higher than the national average.",
+          "INDICATORS": {
+            "1": {
+              "TITLE": "% Population with income < 40%",
+              "DESCRIPTION": "Percentage of the population living in consumption units with disposable income below 40% of the median.",
+              "UNIT": "%",
+              "VALUES": {
+                "1": {
+                  "TITLE": "",
+                  "UNIT": "%"
+                },
+                "2": {
+                  "TITLE": "",
+                  "UNIT": ""
+                }
+              }
+            },
+            "2": {
+              "TITLE": "Gini index",
+              "DESCRIPTION": "Degree of inequality in the distribution of a continuous variable. It is calculated based on the sum of the absolute differences between each pair of incomes in the distribution.",
+              "UNIT": "",
+              "VALUES": {
+                "1": {
+                  "TITLE": "",
+                  "UNIT": ""
+                },
+                "2": {
+                  "TITLE": "",
+                  "UNIT": ""
+                }
+              },
+              "SOURCE": "- [Gini index and income distribution P80/P20](https://www.ine.es/jaxiT3/Tabla.htm?t=37686) (INE)"
+            },
+            "3": {
+              "TITLE": "Income inequality",
+              "DESCRIPTION": "Inequality in distribution measured through percentile ratios, interpreted as the income received by the top quintile (i.e., the 20% of the population with the highest economic level) in relation to that of the bottom quintile.",
+              "UNIT": "",
+              "VALUES": {
+                "1": {
+                  "TITLE": "",
+                  "UNIT": ""
+                },
+                "2": {
+                  "TITLE": "",
+                  "UNIT": ""
+                }
+              },
+              "SOURCE": "- [Gini index and income distribution P80/P20](https://www.ine.es/jaxiT3/Tabla.htm?t=37686) (INE)"
+            },
+            "4": {
+              "TITLE": "Income per inhabitant",
+              "DESCRIPTION": "Relationship between the total income of the municipality and/or selected area and the total population of the municipality.",
+              "UNIT": "€/inhabitant",
+              "VALUES": {
+                "1": {
+                  "TITLE": "",
+                  "UNIT": ""
+                },
+                "2": {
+                  "TITLE": "",
+                  "UNIT": ""
+                }
+              },
+              "SOURCE": "- [GDHI and GDHI per inhabitant ](https://www.idescat.cat/pub/?id=rfdbc&n=13301&hist=taules%2Fv2%2Frfdbc%2F13301%2F14148%2Fmun%2Fdata%3F_LAST_%3D7%5Ec%3D3%2Fr%3D1%2Ft%3D-3c%3B-1c%3B0d%2C6%2Fe%3D11) (IDESCAT)"
+            }
+          }
+        },
+        "2": {
+          "DESCRIPTION": "Promote social, economic, and political inclusion, with special attention to vulnerable groups, people with disabilities, and racialized people."
+        },
+        "3": {
+          "DESCRIPTION": "Ensure equal opportunities and reduce outcome inequalities, also by eliminating discriminatory laws, policies, and practices and promoting appropriate measures."
+        },
+        "4": {
+          "DESCRIPTION": "Promote policies, especially fiscal, wage, and social protection policies, to achieve greater equality in the territory.",
+          "INDICATORS": {
+            "1": {
+              "TITLE": "% Population with income < 50% (men)",
+              "DESCRIPTION": "% population with income < 50% (men)",
+              "UNIT": "%",
+              "VALUES": {
+                "1": {
+                  "TITLE": "",
+                  "UNIT": "%"
+                },
+                "2": {
+                  "TITLE": "",
+                  "UNIT": ""
+                }
+              },
+              "SOURCE": "- [Percentage of the population with consumption unit income below/above certain relative thresholds by sex](https://www.ine.es/jaxiT3/Tabla.htm?t=30901) (INE)",
+              "SUBINDICATORS": {
+                "0": {
+                  "TITLE": "Men",
+                  "VALUES": {
+                    "1": {
+                      "TITLE": "% population with income < 50% (men)",
+                      "UNIT": "%"
+                    },
+                    "2": {
+                      "TITLE": "",
+                      "UNIT": ""
+                    }
+                  }
+                },
+                "2": {
+                  "TITLE": "Women",
+                  "VALUES": {
+                    "1": {
+                      "TITLE": "% population with income < 50% (women)",
+                      "UNIT": ""
+                    },
+                    "2": {
+                      "TITLE": "",
+                      "UNIT": ""
+                    }
+                  }
+                }
+              }
+            },
+            "2": {
+              "TITLE": "% Population with income < 50% (women)",
+              "DESCRIPTION": "% Population with income < 50% (women)",
+              "UNIT": "%",
+              "VALUES": {
+                "1": {
+                  "TITLE": "",
+                  "UNIT": ""
+                },
+                "2": {
+                  "TITLE": "",
+                  "UNIT": ""
+                }
+              },
+              "SOURCE": "- [Percentage of the population with consumption unit income below/above certain relative thresholds by sex](https://www.ine.es/jaxiT3/Tabla.htm?t=30901) (INE)"
+            }
+          }
+        },
+        "7": {
+          "DESCRIPTION": "Facilitate orderly, safe, regular, and responsible migration and mobility of people, including through the implementation of well-planned and well-managed migration policies."
+        }
+      }
+    },
+    "11": {
+      "TITLE": "Sustainable cities and communities",
+      "DESCRIPTION": "Make cities and human settlements inclusive, safe, resilient, and sustainable.",
+      "TARGETS": {
+        "1": {
+          "DESCRIPTION": "Ensure access for all people to adequate, safe, and affordable housing and basic services, with special attention to neighborhoods and areas with greater vulnerability.",
+          "INDICATORS": {
+            "1": {
+              "TITLE": "Economic effort of rent",
+              "DESCRIPTION": "Average annual rental price in relation to gross household income.",
+              "UNIT": "%",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Average monthly rent amount",
+                  "UNIT": "€"
+                },
+                "2": {
+                  "TITLE": "Gross disposable household income / per inhabitant",
+                  "UNIT": "€"
+                }
+              },
+              "SOURCE": "- [Average rental price of dwellings by municipality](https://analisi.transparenciacatalunya.cat/Habitatge/Preu-mitj-del-lloguer-d-habitatges-per-municipi/qww9-bvhh/about_data) (Dades Obertes de Catalunya)\n- [GDHI and GDHI per inhabitant ](https://www.idescat.cat/pub/?id=rfdbc&n=13301&hist=taules%2Fv2%2Frfdbc%2F13301%2F14148%2Fmun%2Fdata%3F_LAST_%3D7%5Ec%3D3%2Fr%3D1%2Ft%3D-3c%3B-1c%3B0d%2C6%2Fe%3D11) (IDESCAT)"
+            }
+          }
+        },
+        "2": {
+          "DESCRIPTION": "Provide access to safe, affordable, accessible, and sustainable transport systems and improve road safety.",
+          "INDICATORS": {
+            "1": {
+              "TITLE": "Road traffic mortality rate",
+              "DESCRIPTION": "People killed or seriously injured in road traffic accidents per 10,000 inhabitants.",
+              "UNIT": "people/10,000 inhabitants",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Number of deaths and serious injuries",
+                  "UNIT": "people"
+                },
+                "2": {
+                  "TITLE": "Total population",
+                  "UNIT": "people"
+                }
+              },
+              "SOURCE": "- [Traffic accidents with deaths or serious injuries in Catalunya](https://analisi.transparenciacatalunya.cat/Transport/Accidents-de-tr-nsit-amb-morts-o-ferits-greus-a-Ca/rmgc-ncpb/about_data) (Dades Obertes de Catalunya)\n- [Historical population data of the municipalities of Catalonia](https://analisi.transparenciacatalunya.cat/Sector-P-blic/Dades-hist-riques-de-poblaci-dels-municipis-de-Cat/x5sz-niat/about_data) (Dades Obertes de Catalunya)"
+            }
+          }
+        },
+        "3": {
+          "DESCRIPTION": "Achieve an inclusive and sustainable urban model through strategic planning coordinated with territorial stakeholders and with citizen participation.",
+          "INDICATORS": {
+            "1": {
+              "TITLE": "Percentage of artificial land",
+              "DESCRIPTION": "Percentage of artificial (actual or potential) land. Percentage of land designated for urban uses or infrastructure in relation to the total area of the territorial unit.",
+              "UNIT": "%",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Urban land area",
+                  "UNIT": "ha"
+                },
+                "2": {
+                  "TITLE": "Total area",
+                  "UNIT": "ha"
+                }
+              },
+              "SOURCE": "- [Urban planning map data of Catalunya ](https://analisi.transparenciacatalunya.cat/Urbanisme-infraestructures/Dades-del-mapa-urban-stic-de-Catalunya/epsm-zskb/about_data) (Dades Obertes de Catalunya)"
+            },
+            "2": {
+              "TITLE": "Urban facilities per inhabitant",
+              "DESCRIPTION": "Urban facilities per inhabitant",
+              "UNIT": "m²/inhabitant",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Urban facilities per inhabitant",
+                  "UNIT": "m²/inhabitant"
+                },
+                "2": {
+                  "TITLE": "",
+                  "UNIT": ""
+                }
+              },
+              "SOURCE": "- [Territorial indicators from the Observatori del Territori](https://analisi.transparenciacatalunya.cat/Urbanisme-infraestructures/Indicadores-territorials-de-l-Observatori-del-Terri/b9cr-32i4/about_data) (Dades Obertes de Catalunya)"
+            }
+          }
+        },
+        "4": {
+          "DESCRIPTION": "Step up efforts to protect and safeguard cultural and natural heritage.",
+          "INDICATORS": {
+            "1": {
+              "TITLE": "Green space area (m²)",
+              "DESCRIPTION": "Ratio between the municipal population and the area designated as green space or open urban space.",
+              "UNIT": "m²/inhabitant",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Green space area",
+                  "UNIT": "m²"
+                },
+                "2": {
+                  "TITLE": "Total population",
+                  "UNIT": "people"
+                }
+              }
+            },
+            "2": {
+              "TITLE": "Cultural facilities per population",
+              "DESCRIPTION": "Cultural facilities per population",
+              "SOURCE": "- [Cultural facilities in Catalonia](https://analisi.transparenciacatalunya.cat/en/Cultura-oci/Equipaments-culturals-de-Catalunya/48s6-82h2/about_data) (Dades Obertes de Catalunya)\n- [Historical population data for the municipalities of Catalonia](https://analisi.transparenciacatalunya.cat/Sector-P-blic/Dades-hist-riques-de-poblaci-dels-municipis-de-Cat/x5sz-niat/about_data) (Dades Obertes de Catalunya)",
+              "UNIT": "facilities/10,000 inhabitants",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Cultural facilities",
+                  "UNIT": "facilities"
+                },
+                "2": {
+                  "TITLE": "Total population",
+                  "UNIT": "people"
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "DESCRIPTION": "Significantly reduce the number of deaths and economic losses caused by disasters."
+        },
+        "6": {
+          "DESCRIPTION": "Reduce the negative environmental impact across the territory, with special focus on air quality and municipal waste management.",
+          "INDICATORS": {
+            "1": {
+              "TITLE": "Household waste per capita per year",
+              "DESCRIPTION": "Household waste generation in kg per inhabitant per year.",
+              "UNIT": "kg/inhabitant/year",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Total waste generated",
+                  "UNIT": "t"
+                },
+                "2": {
+                  "TITLE": "Population",
+                  "UNIT": "people"
+                }
+              },
+              "SOURCE": "- [Municipal waste statistics ](https://analisi.transparenciacatalunya.cat/Medi-Ambient/Estad-stiques-de-residus-municipals/69zu-w48s/about_data) (Dades Obertes de Catalunya)"
+            },
+            "2": {
+              "TITLE": "Selective collection rate",
+              "DESCRIPTION": "Percentage of household waste collected separately out of total waste generated.",
+              "UNIT": "%",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Total selectively collected",
+                  "UNIT": "t"
+                },
+                "2": {
+                  "TITLE": "Total waste generated",
+                  "UNIT": "t"
+                }
+              },
+              "SOURCE": "- [Municipal waste statistics](https://analisi.transparenciacatalunya.cat/Medi-Ambient/Estad-stiques-de-residus-municipals/69zu-w48s/about_data) (Dades Obertes de Catalunya)"
+            }
+          }
+        },
+        "7": {
+          "DESCRIPTION": "Provide universal access to more green areas and safe, inclusive, and accessible public spaces, especially for women, children, older people, and people with disabilities.",
+          "INDICATORS": {
+            "1": {
+              "TITLE": "Green space area (m²)",
+              "DESCRIPTION": "Ratio between the municipal population and the area designated as green space or open urban space.",
+              "UNIT": "m²/inhabitant",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Green space area",
+                  "UNIT": "m²"
+                },
+                "2": {
+                  "TITLE": "Annual population (continuous register)",
+                  "UNIT": "inhabitants"
+                }
+              },
+              "SOURCE": "- [Urban planning map data of Catalunya ](https://analisi.transparenciacatalunya.cat/Urbanisme-infraestructures/Dades-del-mapa-urban-stic-de-Catalunya/epsm-zskb/about_data) (Dades Obertes de Catalunya)"
+            }
+          }
+        },
+        "a": {
+          "DESCRIPTION": "Strengthen local development planning, supporting economic, social, and environmental links between urban, peri-urban, and rural areas."
+        }
+      }
+    },
+    "12": {
+      "TITLE": "Responsible consumption and production",
+      "DESCRIPTION": "Ensure sustainable consumption and production patterns.",
+      "TARGETS": {
+        "1": {
+          "DESCRIPTION": "Promote sustainable consumption and production, and encourage local commerce.",
+          "INDICATORS": {
+            "1": {
+              "TITLE": "New self-consumption energy installations",
+              "DESCRIPTION": "New self-consumption energy installations",
+              "UNIT": "installations/100,000 inhabitants",
+              "VALUES": {
+                "1": {
+                  "TITLE": "New self-consumption energy installations",
+                  "UNIT": "installations"
+                },
+                "2": {
+                  "TITLE": "Total population",
+                  "UNIT": "inhabitants"
+                }
+              },
+              "SOURCE": "- [Self-consumption electricity installations](https://analisi.transparenciacatalunya.cat/Energia/Instal-lacions-d-autoconsum-el-ctric/2b4s-skfm/about_data) (Dades Obertes de Catalunya)\n- [Historical population data of the municipalities of Catalonia](https://analisi.transparenciacatalunya.cat/Sector-P-blic/Dades-hist-riques-de-poblaci-dels-municipis-de-Cat/x5sz-niat/about_data) (Dades Obertes de Catalunya)"
+            }
+          }
+        },
+        "2": {
+          "DESCRIPTION": "Ensure sustainable management and efficient use of natural resources.",
+          "INDICATORS": {
+            "1": {
+              "TITLE": "CO₂ emissions from buildings per capita",
+              "DESCRIPTION": "CO₂ emissions from buildings per capita",
+              "UNIT": "kgCO₂/inhabitant",
+              "VALUES": {
+                "1": {
+                  "TITLE": "CO₂ emissions",
+                  "UNIT": "kgCO₂"
+                },
+                "2": {
+                  "TITLE": "Total population",
+                  "UNIT": "people"
+                }
+              },
+              "SOURCE": "- [Energy performance certificates for buildings](https://analisi.transparenciacatalunya.cat/Energia/Certificats-d-efici-ncia-energ-tica-d-edificis/j6ii-t3w2/about_data) (Dades Obertes de Catalunya)\n- [Historical population data of the municipalities of Catalonia](https://analisi.transparenciacatalunya.cat/Sector-P-blic/Dades-hist-riques-de-poblaci-dels-municipis-de-Cat/x5sz-niat/about_data) (Dades Obertes de Catalunya)"
+            }
+          }
+        },
+        "3": {
+          "DESCRIPTION": "Substantially reduce food waste and food losses along production and supply chains."
+        },
+        "4": {
+          "DESCRIPTION": "Target name not available"
+        },
+        "5": {
+          "DESCRIPTION": "Significantly reduce waste generation through prevention, reduction, recycling, and reuse policies.",
+          "INDICATORS": {
+            "1": {
+              "TITLE": "Selective collection rate",
+              "DESCRIPTION": "Percentage of household waste collected separately out of total waste generated.",
+              "UNIT": "%",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Total selectively collected",
+                  "UNIT": "t"
+                },
+                "2": {
+                  "TITLE": "Total waste generated",
+                  "UNIT": "t"
+                }
+              },
+              "SOURCE": "- [Municipal waste statistics](https://analisi.transparenciacatalunya.cat/Medi-Ambient/Estad-stiques-de-residus-municipals/69zu-w48s/about_data) (Dades Obertes de Catalunya)"
+            },
+            "2": {
+              "TITLE": "Household waste per capita per year",
+              "DESCRIPTION": "[Household waste generation in kg per inhabitant per year.]",
+              "UNIT": "kg/inhabitant/year",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Total waste generated",
+                  "UNIT": "t"
+                },
+                "2": {
+                  "TITLE": "Population",
+                  "UNIT": "people"
+                }
+              },
+              "SOURCE": "- [Municipal waste statistics](https://analisi.transparenciacatalunya.cat/Medi-Ambient/Estad-stiques-de-residus-municipals/69zu-w48s/about_data) (Dades Obertes de Catalunya)"
+            }
+          }
+        },
+        "6": {
+          "DESCRIPTION": "Encourage businesses to adopt sustainable practices."
+        },
+        "7": {
+          "DESCRIPTION": "Promote sustainable public procurement practices (including social, environmental, and economic clauses)."
+        },
+        "8": {
+          "DESCRIPTION": "Ensure that all citizens have the information and awareness they need to support sustainable development and lifestyles."
+        },
+        "b": {
+          "DESCRIPTION": "Target name not available"
+        }
+      }
+    },
+    "13": {
+      "TITLE": "Climate action",
+      "DESCRIPTION": "Take urgent action to combat climate change and its impacts.",
+      "TARGETS": {
+        "1": {
+          "DESCRIPTION": "Strengthen resilience and adaptive capacity to climate-related risks and natural disasters.",
+          "INDICATORS": {
+            "1": {
+              "TITLE": "Heatwave vulnerability",
+              "DESCRIPTION": "Municipal heatwave and temperature rise vulnerability index (Low, Medium, High, Very High).",
+              "UNIT": "",
+              "VALUES": {
+                "1": {
+                  "TITLE": "",
+                  "UNIT": ""
+                },
+                "2": {
+                  "TITLE": "",
+                  "UNIT": ""
+                }
+              },
+              "SOURCE": "- Internal data (Diputació de Barcelona)"
+            }
+          }
+        },
+        "2": {
+          "DESCRIPTION": "Integrate climate change measures into local policies, strategies, and plans.",
+          "INDICATORS": {
+            "1": {
+              "TITLE": "CO₂ emissions from buildings per capita",
+              "DESCRIPTION": "CO₂ emissions from buildings per capita",
+              "SOURCE": "- [Energy performance certificates for buildings](https://analisi.transparenciacatalunya.cat/Energia/Certificats-d-efici-ncia-energ-tica-d-edificis/j6ii-t3w2/about_data) (Dades Obertes de Catalunya)\n- [Historical population data of the municipalities of Catalonia](https://analisi.transparenciacatalunya.cat/Sector-P-blic/Dades-hist-riques-de-poblaci-dels-municipis-de-Cat/x5sz-niat/about_data) (Dades Obertes de Catalunya)",
+              "UNIT": "kgCO₂/inhabitant",
+              "VALUES": {
+                "1": {
+                  "TITLE": "CO₂ emissions",
+                  "UNIT": "kgCO₂"
+                },
+                "2": {
+                  "TITLE": "Total population",
+                  "UNIT": "people"
+                }
+              }
+            },
+            "2": {
+              "TITLE": "Greenhouse gas emissions intensity",
+              "DESCRIPTION": "[Ratio between greenhouse gas emissions and energy consumption (in kgCO₂/kWh).]",
+              "UNIT": "kgCO₂/kWh",
+              "VALUES": {
+                "1": {
+                  "TITLE": "",
+                  "UNIT": "kgCO₂/kWh"
+                },
+                "2": {
+                  "TITLE": "",
+                  "UNIT": ""
+                }
+              },
+              "SOURCE": "- Internal data (Diputació de Barcelona)"
+            }
+          }
+        },
+        "3": {
+          "DESCRIPTION": "Improve education, awareness, and institutional and citizen capacity on climate change mitigation and adaptation."
+        }
+      }
+    },
+    "14": {
+      "TITLE": "Life below water",
+      "DESCRIPTION": "Conserve and sustainably use the oceans, seas, and marine resources for sustainable development.",
+      "TARGETS": {
+        "1": {
+          "DESCRIPTION": "Prevent and significantly reduce marine pollution of all kinds, particularly from land-based activities.",
+          "INDICATORS": {
+            "1": {
+              "TITLE": "% of beaches with excellent water quality",
+              "DESCRIPTION": "Percentage of beaches with excellent bathing water quality out of the total (%), according to the criteria of the Bathing Water Quality Protocol and annual monitoring report by the Catalan Water Agency.",
+              "UNIT": "%",
+              "VALUES": {
+                "1": {
+                  "TITLE": "",
+                  "UNIT": "%"
+                },
+                "2": {
+                  "TITLE": "",
+                  "UNIT": ""
+                }
+              },
+              "SOURCE": "- [Results of the classification of bathing water quality in Catalonia](https://aca.gencat.cat/ca/laigua/estat-del-medi-hidric/qualitat-de-les-aiguees-de-bany/index.html#googtrans(ca{'|'}en)) (Agència Catalana de l'Aigua). Directive 2006/7/EC on the management of bathing water quality. In 2023, the results of the bathing water quality classifications were obtained by bathing areas (83 coastal and 4 inland in the Barcelona region). Due to the severe drought (insufficient water for sampling), the 4 inland bathing areas were decommissioned."
+            }
+          }
+        },
+        "2": {
+          "DESCRIPTION": "Protect and promote the sustainable management of marine and coastal ecosystems.",
+          "INDICATORS": {
+            "1": {
+              "TITLE": "% of coastal strip free from urban development",
+              "DESCRIPTION": "Percentage of the 200-meter-wide inland coastal strip that does not fall into any artificial land use category on the Land Cover Map, relative to the total area (%).",
+              "UNIT": "%",
+              "VALUES": {
+                "1": {
+                  "TITLE": "",
+                  "UNIT": "%"
+                },
+                "2": {
+                  "TITLE": "",
+                  "UNIT": ""
+                }
+              },
+              "SOURCE": "- [PDUSC 2022](https://sig.gencat.cat/visors/hipermapa.html). Intersection of the PDUSC 2022 area with municipal boundaries.\n- [Institut Cartogràfic i Geològic de Catalunya](https://www.icgc.cat/en/Geoinformation-and-Maps/Data-and-products/Cartographic-geoinformation/Coastline)"
+            }
+          }
+        },
+        "4": {
+          "DESCRIPTION": "Target name not available"
+        },
+        "a": {
+          "DESCRIPTION": "Promote scientific knowledge to improve ocean health and enhance the contribution of marine biodiversity."
+        },
+        "b": {
+          "DESCRIPTION": "Support small-scale artisanal fishers’ access to marine resources and markets."
+        }
+      }
+    },
+    "15": {
+      "TITLE": "Life on land",
+      "DESCRIPTION": "Protect, restore, and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, halt and reverse land degradation, and stop biodiversity loss.",
+      "TARGETS": {
+        "1": {
+          "DESCRIPTION": "Ensure the conservation, restoration, and sustainable use of terrestrial and inland freshwater ecosystems, in particular forests, wetlands, mountains, and drylands.",
+          "INDICATORS": {
+            "1": {
+              "TITLE": "% forest area",
+              "DESCRIPTION": "Forest area as a proportion of total land area.",
+              "UNIT": "%",
+              "VALUES": {
+                "1": {
+                  "TITLE": "",
+                  "UNIT": "%"
+                },
+                "2": {
+                  "TITLE": "",
+                  "UNIT": ""
+                }
+              },
+              "SOURCE": "- [Land cover (big changes) of 2018](https://www.icgc.cat/en/Geoinformation-and-Maps/Maps/Land-cover-map-Catalonia) (Institut Cartogràfic i Geològic de Catalunya). Intersection of the protection figures that have a management body with the municipal area and the categories corresponding to the open spaces of the 2018 land cover map.\n- [Hipermapa](https://sig.gencat.cat/visors/hipermapa.html) (Generalitat de Catalunya)."
+            },
+            "2": {
+              "TITLE": "Municipal area with protected status and open space management body",
+              "DESCRIPTION": "Percentage of municipal area protected under sectoral legislation designations (ENPEs, PEIN, Natura 2000 Network, other XPN spaces) and that has a management body for the conservation of natural heritage.",
+              "UNIT": "%",
+              "VALUES": {
+                "1": {
+                  "TITLE": "",
+                  "UNIT": "%"
+                },
+                "2": {
+                  "TITLE": "",
+                  "UNIT": ""
+                }
+              },
+              "SOURCE": "- [Land cover (big changes) of 2018](https://www.icgc.cat/en/Geoinformation-and-Maps/Maps/Land-cover-map-Catalonia) (Institut Cartogràfic i Geològic de Catalunya). Intersection of the protection figures that have a management body with the municipal area and the categories corresponding to the open spaces of the 2018 land cover map.\n- [Hipermapa](https://sig.gencat.cat/visors/hipermapa.html) (Generalitat de Catalunya).\n- [Geographic information](https://sitmun.diba.cat/descarregues/home) (Infraestructura de Dades Espacials de la província de Barcelona)."
+            }
+          }
+        },
+        "2": {
+          "DESCRIPTION": "Increase the number of sustainably managed forests, end deforestation, restore degraded forests, and significantly increase afforestation and reforestation.",
+          "INDICATORS": {
+            "1": {
+              "TITLE": "Municipal area corresponding to open spaces",
+              "DESCRIPTION": "Percentage of municipal area protected under sectoral legislation designations (ENPEs, PEIN, Natura 2000 Network, other XPN spaces).",
+              "UNIT": "%",
+              "VALUES": {
+                "1": {
+                  "TITLE": "",
+                  "UNIT": "%"
+                },
+                "2": {
+                  "TITLE": "",
+                  "UNIT": ""
+                }
+              },
+              "SOURCE": "- [Land cover (big changes) of 2018](https://www.icgc.cat/en/Geoinformation-and-Maps/Maps/Land-cover-map-Catalonia) (Institut Cartogràfic i Geològic de Catalunya). Intersection of the protection figures that have a management body with the municipal area and the categories corresponding to the open spaces of the 2018 land cover map.\n- [Hipermapa](https://sig.gencat.cat/visors/hipermapa.html) (Generalitat de Catalunya)."
+            }
+          }
+        },
+        "3": {
+          "DESCRIPTION": "Combat desertification, restore degraded land and soil, including land affected by desertification, drought, and floods."
+        },
+        "4": {
+          "DESCRIPTION": "Ensure the conservation of mountain ecosystems, including their biodiversity.",
+          "INDICATORS": {
+            "1": {
+              "TITLE": "Non-developable land area",
+              "DESCRIPTION": "Non-developable land area. Classified in the Urban Planning Map (MUC) as non-developable land (N2: Protection).",
+              "UNIT": "%",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Superficie de suelo no urbanizable. Calificación del MUC en el suelo no urbanizable (N2: Protección)",
+                  "UNIT": "ha"
+                },
+                "2": {
+                  "TITLE": "Total area",
+                  "UNIT": "ha"
+                }
+              },
+              "SOURCE": "- [Urban planning map data of Catalunya](https://analisi.transparenciacatalunya.cat/Urbanisme-infraestructures/Dades-del-mapa-urban-stic-de-Catalunya/epsm-zskb/about_data) (Dades Obertes de Catalunya)"
+            }
+          }
+        },
+        "5": {
+          "DESCRIPTION": "Reduce habitat degradation, halt biodiversity loss, and protect endangered species."
+        },
+        "8": {
+          "DESCRIPTION": "Take measures to prevent the introduction of invasive alien species and significantly reduce their impact on terrestrial and aquatic ecosystems, as well as control or eradicate priority species."
+        },
+        "9": {
+          "DESCRIPTION": "Integrate ecosystem and biodiversity values into local planning, development processes, poverty reduction strategies, and accounting."
+        },
+        "a": {
+          "DESCRIPTION": "Mobilize financial resources to conserve and sustainably use biodiversity and ecosystems."
+        }
+      }
+    },
+    "16": {
+      "TITLE": "Peace, justice, and strong institutions.",
+      "DESCRIPTION": "Promote peaceful and inclusive societies for sustainable development, provide access to justice for all, and build effective, accountable, and inclusive institutions at all levels.",
+      "TARGETS": {
+        "1": {
+          "DESCRIPTION": "Significantly reduce all forms of violence and related death rates, with special focus on children."
+        },
+        "3": {
+          "DESCRIPTION": "Promote initiatives to improve equitable access to justice and mediation mechanisms, with special attention to vulnerable groups."
+        },
+        "5": {
+          "DESCRIPTION": "Strengthen local measures against corruption, improve transparency, and promote accountability in public management."
+        },
+        "6": {
+          "DESCRIPTION": "Achieve effective, accountable, transparent, and responsive institutions.",
+          "INDICATORS": {
+            "1": {
+              "TITLE": "Digital maturity level",
+              "DESCRIPTION": "Degree of digital transformation of the local entity (0–100), based on analysis of key digital and open government indicators.",
+              "UNIT": "",
+              "VALUES": {
+                "1": {
+                  "TITLE": "",
+                  "UNIT": ""
+                },
+                "2": {
+                  "TITLE": "",
+                  "UNIT": ""
+                }
+              },
+              "SOURCE": "- [Digital Maturity Index](https://app.powerbi.com/view?r=eyJrIjoiNjRlMDQ3YzktNDc4Yi00ZjU0LWJkNTItZDhmNDA2YjQ1Mjc5IiwidCI6IjM3YThhMGI5LTE4NzQtNGU1ZC1iMWY1LTExMDQwYzFjMDdmYyIsImMiOjl9) (Administració Oberta de Catalunya). [Methodology](https://www.aoc.cat/en/projecte-innovacio/imd/#annex)."
+            }
+          }
+        },
+        "7": {
+          "DESCRIPTION": "Participation in municipal elections",
+          "INDICATORS": {
+            "1": {
+              "TITLE": "Participation in municipal elections",
+              "DESCRIPTION": "Number of registered voters who actually cast their vote. Expressed as a percentage of total voters (including blank and null votes) over the total number of registered voters.",
+              "UNIT": "%",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Voters",
+                  "UNIT": "people"
+                },
+                "2": {
+                  "TITLE": "Electoral roll",
+                  "UNIT": "people"
+                }
+              },
+              "SOURCE": "- [Electoral processes – Participation](https://analisi.transparenciacatalunya.cat/Sector-P-blic/Processos-electorals-Participaci-/irrv-2mfc/about_data) (Dades Obertes de Catalunya)"
+            },
+            "2": {
+              "TITLE": "Update of participation channels",
+              "DESCRIPTION": "Binary indicator (0 Not updated; 1 Updated) regarding the update status of citizen participation channels available on the municipal transparency portal.",
+              "UNIT": "",
+              "VALUES": {
+                "1": {
+                  "TITLE": "",
+                  "UNIT": ""
+                },
+                "2": {
+                  "TITLE": "",
+                  "UNIT": ""
+                }
+              },
+              "SOURCE": "- [Report on transparency, access to public information, and good governance](https://www.sindic.cat/en/page.asp?id=648) (Síndic de Greuges de Catalunya)."
+            }
+          }
+        },
+        "10": {
+          "DESCRIPTION": "Ensure public access to information and protect fundamental freedoms.",
+          "INDICATORS": {
+            "1": {
+              "TITLE": "Update of transparency portals",
+              "DESCRIPTION": "Update score (0–10) of the documentation published across all sections of the municipal transparency portal.",
+              "UNIT": "",
+              "VALUES": {
+                "1": {
+                  "TITLE": "",
+                  "UNIT": ""
+                },
+                "2": {
+                  "TITLE": "",
+                  "UNIT": ""
+                }
+              },
+              "SOURCE": "- [Report on transparency, access to public information, and good governance](https://www.sindic.cat/en/page.asp?id=648) (Síndic de Greuges de Catalunya). Aggregated based on the different categories of information related to the update status of the Pi i Sunyer survey as follows:\n   1. General information (0,1,2)\n   2. Governing bodies (0, 1, 2, 3)\n   3. Dependent organizations (0, 1, 2)\n  4. Organizations with representation (0, 1)\n   5. Participation channels  (0, 1)\n   6. Administrative structure (0, 1, 2, 3)\n   7. Public services (0, 1, 2, 3)\n   8. Economic information ( 0, 1, 2, 3)\n   9. Contracting (0, 1)\n   10. Planning (0, 1, 2, 3)\n   11. Interest groups (0, 1)\n\n   For each category and municipality, the proportion of its value over 1 is calculated. Once the proportional values over 1 are transformed, the average of the proportional values obtained for the 11 items is calculated, and then multiplied by 10 to construct an index out of 10."
+            }
+          }
+        },
+        "b": {
+          "DESCRIPTION": "Promote and implement non-discriminatory local regulations and policies that support sustainable development."
+        }
+      }
+    },
+    "17": {
+      "TITLE": "Partnerships for the goals",
+      "DESCRIPTION": "Strengthen the means of implementation and revitalize the global partnership to achieve the Sustainable Development Goals.",
+      "TARGETS": {
+        "1": {
+          "DESCRIPTION": "Strengthen the economic and fiscal autonomy and capacity of local governments.",
+          "INDICATORS": {
+            "1": {
+              "DESCRIPTION": "Outstanding debt is calculated based on financial risk operations, such as financial loans, fixed-income securities, and loans or credits transferred to third parties. It does not include commercial debt of local entities, meaning the debt they have with suppliers. Put simply, it is the amount of money that the municipality owes through credit.",
+              "TITLE": "Outstanding debt per inhabitant",
+              "UNIT": "€/inhabitant",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Total outstanding debt",
+                  "UNIT": "€"
+                },
+                "2": {
+                  "TITLE": "Total census",
+                  "UNIT": "people"
+                }
+              },
+              "SOURCE": "- [Local government indebtedness](https://analisi.transparenciacatalunya.cat/Sector-P-blic/Endeutament-ens-local/c9ag-cye6/about_data) (Dades Obertes de Catalunya)"
+            },
+            "2": {
+              "SOURCE": "- [Budgets of municipal entities in Catalunya](https://analisi.transparenciacatalunya.cat/Economia/Pressupostos-dels-ens-municipals-de-Catalunya/4g9s-gzp6/about_data) (Dades Obertes de Catalunya)\n- [Historical data of the municipalities of Catalunya](https://analisi.transparenciacatalunya.cat/Sector-P-blic/Dades-hist-riques-de-poblaci-dels-municipis-de-Cat/x5sz-niat/about_data) (Dades Obertes de Catalunya)\n\nThe following codes and concepts are taken into account for calculating revenue:\n\n- IBI: \n  - 113: Property tax (urban properties)\n  - 112: Property tax (rural properties)\n  - 114: Property tax (special characteristics)\n- IAE:\n  - 130: Business activity tax",
+              "TITLE": "Revenue from IAE and IBI",
+              "DESCRIPTION": "Projected municipal budget revenue from the business activity tax (IAE) and the property tax (IBI), in €/inhabitant.",
+              "UNIT": "€/inhabitant",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Revenue from IAE and IBI",
+                  "UNIT": "€"
+                },
+                "2": {
+                  "TITLE": "Total population",
+                  "UNIT": "people"
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "DESCRIPTION": "Promote development cooperation and ensure that 0.7% of revenue is allocated to this area.",
+          "INDICATORS": {
+            "1": {
+              "TITLE": "Budget allocated to official development aid",
+              "DESCRIPTION": "Budget for official development aid per inhabitant",
+              "UNIT": "€/inhabitant",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Budget",
+                  "UNIT": "€"
+                },
+                "2": {
+                  "TITLE": "Total population",
+                  "UNIT": "people"
+                }
+              },
+              "SOURCE": "- [Fons Català de Coopreació al Desenvolupament](https://fonscatala.org/observatori-de-la-cooperacio-municipalista/)"
+            }
+          }
+        },
+        "4": {
+          "DESCRIPTION": "Target 17.4",
+          "INDICATORS": {
+            "1": {
+              "TITLE": "Outstanding debt per inhabitant",
+              "DESCRIPTION": "Outstanding debt is calculated based on financial risk operations, such as financial loans, fixed-income securities, and loans or credits transferred to third parties. It does not include commercial debt of local entities, meaning the debt they have with suppliers. Simply put, it is the amount of money that the municipality owes through credit.",
+              "UNIT": "€/inhabitant",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Total outstanding debt",
+                  "UNIT": "€"
+                },
+                "2": {
+                  "TITLE": "Total census",
+                  "UNIT": "people"
+                }
+              }
+            }
+          }
+        },
+        "6": {
+          "DESCRIPTION": "Increase knowledge sharing and enhance regional and international cooperation — North-South, South-South, and triangular — on economic, social, and environmental development."
+        },
+        "8": {
+          "DESCRIPTION": "Target name not available"
+        },
+        "14": {
+          "DESCRIPTION": "Improve policy coherence for sustainable development."
+        },
+        "17": {
+          "DESCRIPTION": "Promote effective partnerships among public, public-private, and civil society actors to advance sustainable development.",
+          "INDICATORS": {
+            "1": {
+              "TITLE": "Number of development NGOs per population",
+              "DESCRIPTION": "Number of non-governmental development organizations divided by the population.",
+              "UNIT": "entities/100,000 inhabitants",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Number of development NGOs",
+                  "UNIT": "entities"
+                },
+                "2": {
+                  "TITLE": "Total population",
+                  "UNIT": "people"
+                }
+              },
+              "SOURCE": "- [Entities registered in the Register of Non-Governmental Development Organizations (NGDOs)](https://analisi.transparenciacatalunya.cat/Societat-benestar/Entitats-inscrites-en-el-Registre-d-organitzacions/4d69-gxhb/about_data) (Dades Obertes de Catalunya)\n- [Historical population data of the municipalities of Catalonia](https://analisi.transparenciacatalunya.cat/Sector-P-blic/Dades-hist-riques-de-poblaci-dels-municipis-de-Cat/x5sz-niat/about_data) (Dades Obertes de Catalunya)"
+            },
+            "2": {
+              "TITLE": "Number of new entities per population",
+              "DESCRIPTION": "Number of new entities per population",
+              "SOURCE": "- [Legal entities in the Register of Entities of Catalunya](https://analisi.transparenciacatalunya.cat/Legislaci-just-cia/Entitats-jur-diques-del-Registre-d-entitats-de-Cat/y6fz-g3ff/about_data) (Dades Obertes de Catalunya)\\n- [Historical population data of the municipalities of Catalonia](https://analisi.transparenciacatalunya.cat/Sector-P-blic/Dades-hist-riques-de-poblaci-dels-municipis-de-Cat/x5sz-niat/about_data) (Dades Obertes de Catalunya)",
+              "UNIT": "entities/100,000 inhabitants",
+              "VALUES": {
+                "1": {
+                  "TITLE": "Number of new entities",
+                  "UNIT": "entities"
+                },
+                "2": {
+                  "TITLE": "Total population",
+                  "UNIT": "people"
+                }
+              }
+            }
+          }
+        },
+        "18": {
+          "DESCRIPTION": "Improve the availability of high-quality, timely, and reliable data."
+        },
+        "19": {
+          "DESCRIPTION": "[Promote and support the creation of monitoring systems and indicators to track progress on achieving the SDGs."
+        }
+      }
+    },
+    "undefined": {
+      "TARGETS": {
+        "undefined": {
+          "INDICATORS": {
+            "undefined": {
+              "SOURCE": "- [GDHI and GDHI per inhabitant](https://api.idescat.cat/taules/v2/rfdbc/13301/14148/) (IDESCAT)\n\nEstimated liquid fuel consumption is based on provincial and Catalan data. GDHI data at municipal level: for small municipalities, county-level data is used. Mobility data is based on the vehicle fleet; public transport expenses are not included."
+            }
+          }
+        }
+      }
+    }
+  },
+  "PROGRAMS": {
+    "0": "PUBLIC DEBT",
+    "1": "BASIC PUBLIC SERVICES",
+    "2": "SOCIAL PROTECTION AND PROMOTION MEASURES",
+    "3": "PRODUCTION OF PRIORITY PUBLIC GOODS",
+    "4": "ECONOMIC MEASURES",
+    "9": "GENERAL MEASURES",
+    "13": "Citizen safety and mobility",
+    "15": "Housing and urban planning",
+    "16": "Community well-being",
+    "17": "Environment",
+    "21": "Pensions",
+    "22": "Other economic benefits for employees",
+    "23": "Social services and social promotion",
+    "24": "Employment promotion",
+    "31": "Healthcare",
+    "32": "Education",
+    "33": "Culture",
+    "34": "Sports",
+    "41": "Agriculture, livestock, and fishing",
+    "42": "Industry and energy",
+    "43": "Commerce, tourism, and small and medium-sized enterprises",
+    "44": "Public transport",
+    "45": "Infrastructure",
+    "46": "Research, development, and innovation",
+    "49": "Other economic measures",
+    "91": "Government bodies",
+    "92": "General services",
+    "93": "Financial and tax administration",
+    "94": "Transfers to other public administrations",
+    "130": "General administration of security and civil protection",
+    "132": "Security and public order",
+    "133": "Traffic and parking management",
+    "134": "Urban mobility",
+    "135": "Civil protection",
+    "136": "Fire prevention and firefighting services",
+    "150": "General administration of housing and urban planning",
+    "151": "Urban planning: planning, management, implementation, and regulation",
+    "152": "Housing",
+    "153": "Public roads",
+    "160": "Sewerage",
+    "161": "Household drinking water supply",
+    "162": "Waste collection, management, and treatment",
+    "163": "Street cleaning",
+    "164": "Cemeteries and funeral services",
+    "165": "Public lighting",
+    "170": "General environmental administration",
+    "171": "Parks and gardens",
+    "172": "Environmental protection and improvement",
+    "211": "Pensions",
+    "221": "Other economic benefits for employees",
+    "231": "Primary social care",
+    "241": "Employment promotion",
+    "311": "Public health protection",
+    "312": "Hospitals, care services, and health centers",
+    "320": "General administration of education",
+    "321": "Creation of preschool and primary education centers",
+    "322": "Creation of secondary education centers",
+    "323": "Operation of preschool, primary, and special education centers",
+    "324": "Operation of secondary education centers",
+    "325": "Monitoring of compulsory schooling compliance",
+    "326": "Complementary education services",
+    "327": "Promotion of community coexistence",
+    "330": "General administration of culture",
+    "332": "Libraries and archives",
+    "333": "Cultural facilities and museums",
+    "334": "Cultural promotion",
+    "336": "Protection and management of historical and artistic heritage",
+    "337": "Leisure facilities",
+    "338": "Festivals and celebrations",
+    "340": "General administration of sports",
+    "341": "Sports promotion and support",
+    "342": "Sports facilities",
+    "410": "General administration of agriculture, livestock, and fishing",
+    "412": "Improvement of agricultural structures and production systems",
+    "414": "Rural development",
+    "415": "Protection and development of fishery resources",
+    "419": "Other measures in agriculture, livestock, and fishing",
+    "420": "General administration of industry and energy",
+    "422": "Industry",
+    "423": "Mining",
+    "425": "Energy",
+    "430": "General administration of commerce, tourism, and small and medium-sized enterprises",
+    "431": "Commerce",
+    "432": "Tourist information and promotion",
+    "433": "Business development",
+    "439": "Other sectoral measures",
+    "440": "General transport administration",
+    "441": "Passenger transport",
+    "442": "Transport infrastructure",
+    "443": "Freight transport",
+    "450": "General administration of infrastructure",
+    "452": "Water resources",
+    "453": "Roads",
+    "454": "Local roads",
+    "459": "Other infrastructure",
+    "462": "Research and studies related to public services",
+    "463": "Scientific, technical, and applied research",
+    "491": "Information society",
+    "492": "Knowledge management",
+    "493": "Consumer and user protection",
+    "912": "Government bodies",
+    "920": "General administration",
+    "922": "Coordination and institutional organization of local entities",
+    "923": "Basic information and statistics",
+    "924": "Citizen participation",
+    "925": "Citizen services",
+    "926": "Internal communications",
+    "929": "Unexpected events, transitional situations, and implementation contingencies",
+    "931": "Economic and fiscal policy",
+    "932": "Tax system management",
+    "933": "Asset management",
+    "934": "Debt and treasury management",
+    "941": "Transfers to Autonomous Communities",
+    "942": "Transfers to local territorial entities",
+    "943": "Transfers to other local entities",
+    "944": "Transfers to the General State Administration",
+    "1521": "Promotion and management of public housing",
+    "1522": "Building conservation and renovation",
+    "1531": "Access to population centers",
+    "1532": "Paving of public roads",
+    "1621": "Waste collection",
+    "1622": "Urban solid waste management",
+    "1623": "Waste treatment",
+    "1721": "Protection against noise, light, and air pollution in urban areas",
+    "3321": "Public libraries",
+    "3322": "Archives",
+    "4311": "Fairs",
+    "4312": "Markets and wholesale markets",
+    "4313": "Street markets",
+    "4411": "Urban collective passenger transport",
+    "4412": "Other passenger transport",
+    "9231": "Management of the municipal register of inhabitants",
+    "01": "Public debt",
+    "011": "Public debt"
+  },
+  "COMARCA": "County",
+  "RENDA_FAMILIAR": "Median income",
+  "INDEX_GLOBAL_SDG": "Overall SDG index",
+  "TIPUS_GRAFIC": "Chart types",
+  "PLANS_TITLE": "Strategic plans",
+  "VALORATION_TITLE": "Citizen feedback",
+  "VALORATION_SUBTITLE": "Citizen feedback on aspects related to the SDGs comes from a selection of questions from the Dibaròmetre, the survey on citizens' perceptions of the municipality, its services, and the administration of local councils in the Province of Barcelona. The following are the questions related to certain SDGs.",
+  "QUESTIONS": "Questions",
+  "ND": "Not available",
+  "BUDGET_RANKING": "Budget breakdown by targets",
+  "BUDGET_SUMMARY": "{city} allocated **{value}** to SDG {sdg} in {year}, representing {percent} of its budget.",
+  "BUDGET_EVOLUTION": "Trend",
+  "EXPLORE_BUDGET_EVOLUTION": "Explore the trend of total or target-specific budget dedicated to SDG {sdg}.",
+  "TOTAL": "Total",
+  "POINTS_DESCRIPTION": "The overall index shows the aggregated score of the municipality in relation to the Sustainable Development Goals. To calculate it, indicators for each SDG have been normalized and a weighted average obtained, allowing for a synthetic comparison of goal achievement.",
+  "POBLACIO": "Population",
+  "SYNTHETIC_INDEX": "Synthetic index",
+  "ANALISI": "Analysis",
+  "INICI": "Home",
+  "METODOLOGIA": "Methodology",
+  "NAVEGA_PER_ODS": "Explore by SDG",
+  "CERCA_ODS": "Search SDG",
+  "ALL_TARGETS": "All",
+  "SEE_ALL_TARGETS": "View indicators for all targets of SDG",
+  "SHOW_ALL_INDICATORS": "Indicators for all targets of SDG {sdg} are displayed.",
+  "VEURE_DADES": "View data",
+  "FITES_LOCALITZADES": "Located targets",
+  "FITA_LOCALITZADA": "Located target",
+  "INDICADORS_RELACIONATS": "Related indicators",
+  "NO_INDICATORS_AVAILABLE": "Indicators not available",
+  "RELACIO_ENTRE_ODS": "SDG correlations",
+  "RELACIO_ENTRE_ODS_DESC": "Select SDGs to analyze correlations between them at a general scale or by county.",
+  "SIZE": "Point size",
+  "FACET": "Segmentation",
+  "NONE": "Chapter",
+  "BY_COMARCA": "Segment by county",
+  "SHOW_MEDIAN_LINES": "Show medians",
+  "TOTES": "All",
+  "INDEX_SINTETIC": "Synthetic index",
+  "INDEX_SINTETIC_TEXT": "The visualization shows the distribution of the index value on a scale from 0 to 100, allowing municipalities to be compared and territorial differences to be detected.",
+  "VALOR_NORMALITZAT": "Normalized value",
+  "ESCALA_LOGARITMICA": "Logarithmic scale",
+  "DESCARREGA_INFORME": "Download the report in PDF",
+  "NA": "Not applicable",
+  "MAX": "Max.",
+  "MIN": "Min.",
+  "HABITANTS": "inh.",
+  "PLA_M": "Municipal plan",
+  "PLA_C": "County plan",
+  "PLA_I": "Intermunicipal plan",
+  "all_plans": "All plans",
+  "all_periods": "All time periods",
+  "aggregate_total_1": "Of the total actions from all the strategic plans, the dedication to ",
+  "aggregate_total_2": " has been of:",
+  "by_plan": "Plans",
+  "by_period": "Time periods",
+  "ANALISI_DESC": "This section is exploratory and allows you to jointly visualize the degree of achievement of the different SDGs in municipalities through synthetic indexes.",
+  "DISTRIBUCIO_ODS": "SDG distribution",
+  "DISTRIBUCIO_ODS_DESC": "The visualization shows the distribution of municipalities for each SDG and allows patterns and territorial differences to be identified.\n\nFilters can be applied across different aggregations. In addition, by selecting a set of municipalities within an SDG on the chart, these are highlighted across the others, facilitating comparison between SDGs.",
+  "VISIO_GENERAL": "Overview",
+  "SHOW_TREND_LINE": "Show trend line",
+  "INDICATORS_TEXT": "Next, to facilitate more specific analysis, the detail of the indicators that make up the SDG is presented, each with its own measurement unit.",
+  "INDICADOR_ASSOCIAT": "This indicator is associated with Target {target}",
+  "TRAM": "Range",
+  "TRAM_OPTIONS": {
+    "micro": "Micro: up to 500 inhabitants",
+    "petits": "Small: from 501 to 2,000 inhabitants",
+    "mitjans": "Medium: from 2,001 to 10,000 inhabitants",
+    "grans": "Large: from 10,001 to 50,000 inhabitants",
+    "molt-grans": "Very large: more than 50,000 inhabitants"
+  },
+  "MUNICIPI": "Municipality",
+  "TOTS": "All",
+  "CERCA": "Search",
+  "EXPLORA_CAPES": "Explore the different information layers that explain progress on SDG {sdg}.",
+  "INDICATORS_DESCRIPTION": "Below are the selected indicators used to monitor progress on the localized targets associated with SDG **{sdg}**. The selection considers the capacity for action of local governments and the availability of statistical data.",
+  "BUDGET_DESCRIPTION": "The allocated budget reflects the financial resources dedicated to initiatives related to SDG **{sdg}**.",
+  "PLANS_ESTRATEGICS": "Strategic plans",
+  "PLANS_ESTRATEGICS_DESCRIPTION": "The strategic plans have been coded following the principles of the 2030 Agenda. Below is the contribution of the plan actions implemented in the municipality to SDG **{sdg}**, expressed as percentages.",
+  "VALORATION": "Citizen feedback",
+  "VALORATION_DESCRIPTION": "Citizen feedback on SDG **{sdg}** comes from a selection of questions in the Dibarometer, the survey on residents’ perceptions of the municipality, its services, and the local government in the Province of Barcelona.",
+  "SDG_GENERIC_TEXT": "Below is a summary of the level of achievement of SDG **{sdg}** in the municipalities, based on a synthetic index built from a carefully selected set of indicators, chosen for their thematic relevance and data availability at the municipal level.",
+  "DESGLOSSAMENT_PLA": "Program breakdown by topic:",
+  "DESGLOSSAMENT_PLANS": "Programs breakdown by topic:",
+  "PLANS_SUBTITLE": "The strategic plans have been coded following the principles of the 2030 Agenda. Below is the contribution of the actions in the selected plan to each of the 17 SDGs, expressed as percentages.",
+  "info_planType_selector": "View contribution by:",
+  "DOWNLOAD_DATA": "Download data",
+  "DOWNLOAD_IMAGE": "Download image",
+  "METODOLOGIA_SHORT_DESC": "- The process of localizing the SDGs and selecting targets applicable at the municipal level.\n- The criteria used to select the indicators.\n- The adjustments applied: weighting by population, segmentations, aggregations, winsorization.\n- The calculation of the synthetic index and its interpretation.\n- The territorial and temporal coverage, and the data update model.",
+  "METODOLOGIA_DESC": "The Visor 2030 aims to measure and compare the level of achievement of the Sustainable Development Goals (SDGs) in the municipalities of the Province of Barcelona using weighted indicators and a synthetic index.\n\nThe methodological procedure is detailed below:",
+  "METODOLOGIA_PAGE": {
+    "LOCALITZACIO": "Localizing the SDGs",
+    "LOCALITZACIO_DESC": "A localization process was carried out to identify the targets most relevant in the municipal context. This process made it possible to prioritize targets related to areas where local governments have direct action capacity and where statistical data is available.",
+    "SELECCIO_INDICADORS": "Selection of indicators",
+    "SELECCIO_INDICADORS_DESC": "A total of 76 indicators are shown, distributed across the 17 SDGs, covering social, economic, environmental, and institutional dimensions. Efforts were made to ensure a balanced distribution among goals and adequate territorial representation.",
+    "SELECCIO_INDICADORS_TEXT": "**The selection of indicators was carried out according to the following criteria:**\n\n- Availability of data for a representative number of municipalities in the province.\n- Existence of historical data with the highest possible temporal continuity, depending on each source's availability.\n- Relevance in relation to the reference target.\n- Source quality (mainly official and public sources).\n\n**The selection of indicators is based on the following references:**\n\n- United Nations Statistical Commission, in relation to the 2030 Agenda for Sustainable Development.\n- SDG indicator set for the European Union, led by Eurostat.\n- Sustainable Development Goals indicators for Catalunya, developed by Idescat together with CADS (Advisory Council for Sustainable Development of Catalunya).",
+    "PONDERACIO": "Weighting and methodological adjustments",
+    "PONDERACIO_DESC": "To ensure comparability between municipalities with very diverse characteristics, several methodological adjustments have been applied to the indicators:",
+    "PONDERACIO_1_TITLE": "Population weighting",
+    "PONDERACIO_1_DESC": "In indicators where absolute volume could introduce biases, values have been adjusted by considering the number of inhabitants in each municipality. This makes it possible to obtain relative measures (per person or per thousand inhabitants), which are more comparable between municipalities of different sizes.",
+    "PONDERACIO_2_TITLE": "Specific adjustments",
+    "PONDERACIO_2_DESC": "In some cases, percentage calculations, segmentations by groups (for example, by sex or age groups), as well as aggregations of related indicators, have been applied.",
+    "PONDERACIO_3_TITLE": "Territorial comparison with the county and the province",
+    "PONDERACIO_3_DESC": "To help contextualize municipal results, county and provincial reference values have been included. In cases where the data source does not provide directly aggregated county or provincial information, statistical averages have been calculated from the available municipal values within each territorial scope.",
+    "PONDERACIO_4_TITLE": "Winsorization of extreme values",
+    "PONDERACIO_4_DESC": "To prevent outliers from distorting the results of the indicators and the synthetic index, a winsorization process has been applied. This method involves limiting the most extreme values of an indicator by replacing them with threshold percentiles. In this way, the impact of extreme cases is reduced without eliminating data, ensuring comparability.",
+    "INDEX_SINTETIC": "Calculation of the synthetic index",
+    "INDEX_SINTETIC_DESC": "The synthetic SDG achievement index for each municipality is built from a specific selection of indicators for each SDG, chosen based on their thematic relevance and the availability of data with municipal coverage.\n\nEach indicator is assigned a specific weight within its corresponding goal, according to technical criteria established to ensure a balance between representativeness and statistical quality. The weighted values are then aggregated to calculate an overall municipal index, expressed on a scale from 0 to 100, where 100 represents the highest level of SDG achievement across all considered indicators.",
+    "INDEX_SINTETIC_FORMULA": "**General formula of the index**\n\n- Positive indicator  = ((Value - Min) / (Max - Min) * 100) * weight\n- Negative indicator = ((Max - Value) / (Max - Min) * 100) * weight",
+    "COBERTURA_TITLE": "Territorial and temporal coverage",
+    "COBERTURA_DESC": "The viewer includes municipalities in the Province of Barcelona that have sufficient data to calculate the index. The analyzed period adapts to the data availability of each source and may vary depending on the indicator.",
+    "ACTUALITZACIO_TITLE": "Continuous update and improvement",
+    "ACTUALITZACIO_DESC": "The methodology is designed to be scalable and adaptable. The progressive incorporation of new indicators and targets is planned, as well as the periodic update of data. All future methodological changes will be documented and published.",
+    "NOTA_TITLE": "Note on the data",
+    "NOTA_DESC": "In some specific cases, the most recent data may contain anomalous values or may not be available for certain municipalities, due to changes in the original sources or issues in the automatic update processes. In these cases, only the years and values considered reliable are shown",
+    "CONSULTEU_DETALLS": "Check indicators in detail",
+    "BACK_TO_LIST": "Back to SDG list",
+    "AGRUPACIONS_TERRITORIALS": "Territorial aggregations",
+    "AGRUPACIONS_TERRITORIALS_DESC": "The Visor 2030 allows indicators to be analysed across different territorial levels and criteria. Data can be explored by county, section, municipality and other aggregations that categorise municipalities according to shared characteristics.\n\nThis approach facilitates comparisons between municipalities, the identification of territorial patterns, and a more contextualised interpretation of results.\nThe definition and full description of all available aggregations can be consulted through the information selector located on the right-hand side.",
+    "AGRUPACIONS_TERRITORIALS_CONSULTA": "Check territorial aggregations in detail",
+    "AMBITS_PLANEJAMENT": "Planning areas",
+    "FONT_DADES": "Data source",
+    "REGIM_GENERAL": "General regime workers",
+    "AUTONOMS": "Self-employed workers",
+    "AGRUPACIONS_TERRITORIALS_ITEMS": {
+      "amb": {
+        "title": "Barcelona Metropolitan Area",
+        "description": "Municipalities included within the territorial scope of the Barcelona Metropolitan Area in accordance with Article 2 of Law 31/2010 of 3 August."
+      },
+      "rmb": {
+        "title": "Barcelona Metropolitan Region",
+        "description": "Municipalities included within the metropolitan planning territorial scope in accordance with Law 1/1995 of 16 March on the General Territorial Plan of Catalonia and its subsequent updates, as defined by Idescat."
+      },
+      "com": {
+        "title": "Central Catalonia",
+        "description": "Municipalities included within the territorial planning scope of Central Catalonia in accordance with Law 1/1995 of 16 March on the General Territorial Plan of Catalonia and its subsequent updates, as defined by Idescat."
+      },
+      "pen": {
+        "title": "Penedès",
+        "description": "Municipalities included within the territorial planning scope of Penedès in accordance with Law 1/1995 of 16 March on the General Territorial Plan of Catalonia and its subsequent updates, as defined by Idescat."
+      },
+      "val": {
+        "title": "Vallès",
+        "description": "Municipalities belonging to Vallès Oriental and Vallès Occidental."
+      },
+      "ind": {
+        "title": "Industrial municipalities",
+        "description": "Municipalities with an industrial employment location quotient (including salaried and self-employed workers) equal to or greater than 1.5. The quotient measures whether industrial activity is concentrated in the municipality compared with the province, which serves as the reference territory.\n\nData source: Statistics on salaried and self-employed employment based on Social Security registrations (Idescat):"
+      },
+      "munt": {
+        "title": "Mountain municipalities",
+        "description": "Municipalities included within counties and mountain areas defined by Law 2/1983 of 9 March on high mountain areas."
+      },
+      "lit": {
+        "title": "Coastal municipalities",
+        "description": {
+          "1": "Municipalities with coastline. The ",
+          "2": "Department of Territory, Housing and Ecological Transition",
+          "3": " also includes municipalities that, despite not having coastline, are affected by the Coastal Law."
+        }
+      },
+      "int": {
+        "title": "Inland municipalities",
+        "description": "Municipalities that are neither mountain nor coastal municipalities."
+      },
+      "rur": {
+        "title": "Rural municipalities",
+        "description": "Municipalities defined by Law 8/2025 of 30 July on the Statute of Rural Municipalities. A rural municipality has a population equal to or below 2,000 inhabitants and belongs to a rural county. It also includes municipalities with fewer than 2,000 inhabitants belonging to neighbouring counties that meet one of the following conditions: population density equal to or below 90 inhabitants per square kilometre or negative population growth over the last ten years.",
+        "source": "Llei 8/2025"
+      },
+      "micro": {
+        "title": "Micro-municipalities",
+        "description": "Municipalities with fewer than 500 inhabitants."
+      },
+      "macro": {
+        "title": "Very large municipalities",
+        "description": "Municipalities with more than 50,000 inhabitants."
+      }
+    }
+  },
+  "footer": {
+    "sections": {
+      "1": {
+        "title": "Institution",
+        "items": {
+          "1": {
+            "text": "La Diputació de Barcelona",
+            "link": "https://www.diba.cat/es/web/ladiputacio"
+          },
+          "2": {
+            "text": "Enclosures",
+            "link": "https://www.diba.cat/es/web/recintes"
+          },
+          "3": {
+            "text": "Contact",
+            "link": "https://www.diba.cat/ca/contacte"
+          }
+        }
+      },
+      "2": {
+        "title": "Actualidad",
+        "items": {
+          "1": {
+            "text": "The Diba Daily",
+            "link": "https://www.diba.cat/ca/web/el-diari"
+          },
+          "2": {
+            "text": "Our newsletters",
+            "link": "https://www.diba.cat/ca/web/sala-de-premsa/butlletins-diba"
+          },
+          "3": {
+            "text": "Community of practice",
+            "link": "https://www.diba.cat/ca/comunitats-de-practica"
+          }
+        }
+      },
+      "3": {
+        "title": "Directory",
+        "items": {
+          "1": {
+            "text": "Contact directory",
+            "link": "https://www.diba.cat/ca/web/directori"
+          },
+          "2": {
+            "text": "Social media directory",
+            "link": "https://www.diba.cat/ca/xarxes-socials"
+          },
+          "3": {
+            "text": "Apps directory",
+            "link": "https://www.diba.cat/ca/apps"
+          }
+        }
+      }
+    },
+    "legal": {
+      "text": "Legal notice",
+      "link": "https://www.diba.cat/ca/avislegal"
+    },
+    "access": {
+      "text": "Accessibility",
+      "link": "https://www.diba.cat/ca/accessibilitat"
+    },
+    "mapa": {
+      "text": "Site map",
+      "link": "https://www.diba.cat/ca/mapa-web"
+    },
+    "address": "Diputació de Barcelona. Rambla de Catalunya, 126. 08008 Barcelona. Tel. 934 022 222"
+  },
+  "RELACIO_ENTRE_Indicadores": "Relationship between indicators",
+  "RELACIO_ENTRE_Indicadores_DESC": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia corporis perferendis impedit facere. Hic sapiente quis ex laboriosam repellendus, tempore alias eum aliquid repudiandae, in quidem!",
+  "COMPARE_WITH": "Compare with",
+  "SEGMENT_BY": "View data by",
+  "COMPARE_PREVIOUS": "Compare with previous survey",
+  "DIBAROMETRE_NO_QUESTIONS": "There are no citizen feedback questions associated with this SDG.",
+  "DIBAROMETRE_NO_DATA": "No data available for {municipi}.",
+  "DIBAROMETRE_NO_DATA_YEAR": "No data available for this year.",
+  "MENU": "Menu",
+  "CONTRIBUCIO_ODS": "Contribution",
+  "LLISTA_Indicadores": "SDG indicators list",
+  "PREVIOUS_SDG": "Previous SDG",
+  "NEXT_SDG": "Next SDG",
+  "YEAR": "Year",
+  "PLA_ESTRATEGIC": "Strategic plan",
+  "CONSULTEU_CAPES_INFO": "Check the following information layers",
+  "FONT_PRESSUPOST": "Budget data source: ",
+  "PRESSUPOST_LINK": "Ministry of Finance",
+  "INDEX_SDG": "SDG index {sdg}",
+  "SOURCE_CONTEXT": "Sources",
+  "SOURCE_CONTEXT_INFO": "- Population: [Municipalities of the Province of Barcelona ({populationDate})](https://www.diba.cat/ca/web/municipis) (Diputació de Barcelona)\n- Income: [Average and Median Income Indicators ({incomeDate})](https://www.ine.es/jaxiT3/Tabla.htm?t=30896) (INE)",
+  "NO_DATE_FOR_BUDGET": "No budget allocation for this SDG",
+  "AVIS_LEGAL_PAGE": {
+    "TITLE": "Legal notice",
+    "TEXT": "## Legal notice\nThis portal, owned by the Diputació de Barcelona, with NIF P0800000B, located at Rambla de Catalunya, 126 (08008 Barcelona), and phone number 934 022 222 (contact email:contacte{'@'}diba.cat)), consists of the websites associated with the domains [https://www.diba.cat](https://www.diba.cat), [https://www.sostenible.cat](https://www.sostenible.cat).\n\n## Intellectual and industrial property\nThis website and all its contents, including texts, images, audio, databases, code, and any other material, are the property of the Diputació de Barcelona and its related management bodies, or of third parties who have authorized their use by the Diputació.\n\nAll this material is protected by intellectual property laws. The holders reserve the right to take legal action to repair any damage caused by acts that violate intellectual property rights over these contents.\n\nAccess to this website is subject to the following conditions:\n\n- t is strictly prohibited to distribute, copy, modify, or transmit both the page contents and the code, unless express written authorization has been obtained from the Diputació de Barcelona. Users may not sell or transfer, even free of charge, the information provided on this page under any circumstances.\n- DIBA is a legally registered trademark. Its use or reproduction without prior written authorization from the Diputació is strictly prohibited. The same protection applies to industrial property rights referring to the services and products of the Diputació de Barcelona and its related management bodies that appear on the website or are described.\n- The user agrees to use this service without engaging in activities that may be considered illegal or that infringe the rights of the Diputació de Barcelona or third parties, or that may violate current regulations. The Diputació de Barcelona is not responsible for third-party use of the information contained on the website, although any specific prescriptions and warnings for certain documents and applications must be followed.\n\n## Privacy policy\n- The Diputació de Barcelona strictly complies with current regulations on the protection of personal data and adopts legally required measures to protect your personal data and preserve your privacy and confidentiality.\n- Communications from website users containing personal data are carried out in a secure environment (a closed padlock icon appears in the website URL) to guarantee, as far as possible, the confidentiality of information and user privacy. This environment allows encryption of information transmitted between users and the Diputació.\n- The Diputació de Barcelona is responsible for the data collected through its forms. If acting on behalf of a local authority or another body as a data processor, this must be indicated.\n- Detailed information on data processing in each case must be included in the respective form (purpose of processing, transfer to third parties, storage period, etc.).\n- For any inquiries or complaints related to the processing of your personal data, the Diputació de Barcelona provides access to its data protection officer at ([dpd{'@'}diba.cat](mailto:dpd{'@'}diba.cat)).\n- Although this channel will provide an appropriate response, if you wish, you can submit a complaint through the website of the Catalan Data Protection Authority (APDCAT): [Autoridad Catalana de Protección de Datos (APDCAT)](https://apdcat.gencat.cat).\n- Data that is no longer needed for the purpose for which it was collected will be retained following the Diputació de Barcelona’s document management and archiving instructions.\n- You may exercise your rights of access, rectification, deletion, limitation, or opposition to the processing of your data, in accordance with current legislation, through the Electronic Headquarters [Sede electrónica](https://seuelectronica.diba.cat/serveis-de-la-seu/proteccio-dades), in person, or by mail to the General Registry Office of the Diputació de Barcelona [Oficina del Registro General de la Diputación de Barcelona](https://www.diba.cat/web/registre), attaching a copy of your identity document.\n\n## Cookie policy\nThis website uses cookies to help analyze how users interact with it, to ensure the site functions correctly, to display content properly, and to collect statistics.\n\nFor statistical purposes, Google Analytics is used. The information generated by cookies (including your IP address) is transmitted directly to Google and stored on its web servers. To anonymize the IP address, the Diputació de Barcelona has activated the \"Anonymize IP\" option, which masks the last three digits of the address by replacing them with zeros.\n\nThis portal includes widgets from third-party services and links to third-party websites, and their privacy policies are independent of that of the Diputació de Barcelona. When accessing these sites, you can decide whether to accept their privacy and cookie policies. In general, when browsing the internet, you can accept or reject third-party cookies in your browser settings. Each browser has different procedures, and the help function explains how to accept or reject them.\n\n{'|'} Third party {'|'} Purpose {'|'}\n{'|'}--------------------{'|'}---------------------{'|'}\n{'|'} Google Analytics {'|'} Web analytics {'|'}\n\nIf you still want to disable the cookies that collect this information, you can refuse their use by selecting the appropriate settings in your browser. However, please note that if you do so, you may not be able to use all functionalities and services of this website.\n\nYou can also delete browsing data, including cookies, from your browser. Check each browser’s options and instructions.\n\n## Content responsibility\n- The Diputació de Barcelona does not guarantee that this website and its server are free of viruses and is not responsible for any damage that may result from interferences, omissions, interruptions, computer viruses, telephone faults, or disconnections in the operation of this electronic system caused by factors beyond its control, delays, or blockages in its use caused by deficiencies or overloads on telephone lines or Internet systems, or other electronic systems, nor for damage caused by third parties through illegitimate intrusions beyond its control.\n- The administrative information provided through this website does not replace the legal publication of laws, general provisions, and acts that must be formally published in official journals, which are the only instruments that certify their authenticity and content.\n- The Diputació de Barcelona is not responsible for information obtained through links or from external sources.\n- The Diputació de Barcelona is not responsible for the legality of other third-party websites from which this portal may be accessed. Nor is it responsible for the legality of other third-party websites that may be linked to or from this portal.\n- The Diputació de Barcelona does not guarantee the availability and continuity of the website and its services. When reasonably possible, users will be notified in advance of interruptions to website operation and services.\n- The Diputació de Barcelona reserves the right to unilaterally modify, at any time and without prior notice, the presentation, configuration, and content of the website, as well as the services offered and the conditions required for its use.\n- Use of this website implies full and unconditional acceptance of the terms and conditions contained in this legal notice.\n## Applicable law\n\nAny conflicts related to this website are governed exclusively by the laws of the Spanish State and the Autonomous Community of Catalonia, and the courts of Barcelona are the only competent authorities to resolve them. Every user of this website, regardless of their territorial jurisdiction, agrees to comply with and respect this clause, expressly waiving any other jurisdiction that may apply."
+  },
+  "ABOUT": "About Visor 2030",
+  "ABOUT_MENU": "About Visor",
+  "ABOUT_PAGE": {
+    "QUE_ES": "What is it?",
+    "QUE_ES_DESC": "Visor 2030 is an initiative of the **Diputació de Barcelona** created to provide data on the **social, economic, and environmental reality of the municipalities in the province of Barcelona**, framed through the SDGs.\n\nVisor 2030 is not just a database. It is a living knowledge space that offers municipalities **localized, updated, and SDG-aligned information**, so they can design, implement, and evaluate public policies with a transformative vision.",
+    "OBJECTIUS": "What are its goals?",
+    "OBJECTIUS_DESC": "- Facilitate the localization, alignment, and monitoring of the 2030 Agenda and the SDGs in the Barcelona area.\n- Guide decision-making by providing useful information for local planning and policy development processes.\n- Help raise awareness of the SDGs and their local implementation among citizens.\n- Offer a 360º view with different types of data on SDG progress in the territory.",
+    "A_QUI": "Who is it for?",
+    "A_QUI_DESC": "- **Local governments**: a decision-making compass for politicians and technical staff, providing a quick snapshot of the municipality and the territory as a whole to identify priority areas for action.\n- **Citizens**: intuitive visualizations and simplified reports that help explain the SDGs and engage society in shared challenges.\n- **Diputació de Barcelona**: support for technical teams in the territory by providing contextual data from multidimensional indicators and territorial analyses.\n- **Data experts**: analytical flexibility with advanced filters and the option to download raw data for customized studies.",
+    "QUI_SOM": "Who are we?",
+    "QUI_SOM_DESC": "The project is led by the **Strategy 2030 Service** with support from the **Technical Office for Economic Development Strategies** and the **Technical Internet Office** of the Diputació de Barcelona.\n\nThe development of the indicator set and the ongoing monitoring and improvement of the platform are carried out in collaboration with a **group of expert data advisors** from various areas of the Diputació de Barcelona.",
+    "SOLUCIO": "An open-source solution",
+    "SOLUCIO_DESC": "Visor 2030 is a **flexible tool**. Designed to grow and adapt. With a modular and integrative approach that allows for the addition of new indicators and functionalities, **evolving** as needs change.\n\nMoreover, it is an **open-source** project. Its source code, architecture, and indicator logic are available so that **other public institutions can reuse, adapt, and improve them**, building alliances to provide local governments with high-quality data to advance effective sustainable development.\n\n**For more information**: Strategy 2030 Service ([s.agenda2030{'@'}diba.cat](mailto:s.agenda2030{'@'}diba.cat))"
+  },
+  "NOM_SINTETIC": "Synthetic name",
+  "NOM_COMPLET": "Full name",
+  "UNITAT_FINAL": "Indicator unit",
+  "SENTIT": "Indicator direction",
+  "SENTIT_POSITIU": "Positive (Higher is better)",
+  "SENTIT_NEGATIU": "Negative (Lower is better)",
+  "WEIGHT": "Indicator weight within SDG {sdg} for synthetic index calculation",
+  "DIMENSION_WEIGHT": "SDG weight within the dimension for synthetic index calculation",
+  "UBICACIO": "Location",
+  "RURALITAT": "Rurality",
+  "OTHER_GROUPINGS": "Other aggregations",
+  "REGION": "Region",
+  "GROUPING": {
+    "amb": "Barcelona Metropolitan Area",
+    "rmb": "Barcelona Metropolitan Region",
+    "industrials": "Industrial municipalities",
+    "muntanya": "Mountain municipalities",
+    "litoral": "Coastal municipalities",
+    "interior": "Inland municipalities",
+    "rural": "Rural municipalities",
+    "rural-especial-atencio": "Rural of special attention",
+    "incorporat": "Incorporated",
+    "no-rural": "Non-rural municipalities",
+    "valles": "Vallès",
+    "penedes": "Penedès",
+    "comarques-centrals": "Comarques Centrals"
+  },
+  "AMB_REGION": "Barcelona Metropolitan Area",
+  "RMB_REGION": "Barcelona Metropolitan Region",
+  "INDUSTRIAL_MUNICIPALITIES": "Industrial municipalities",
+  "MOUNTAIN": "Mountain",
+  "COASTLINE": "Coastline",
+  "INLAND": "Inland",
+  "RURALS": "Rurals",
+  "NO_RURALS": "Non-rurals",
+  "MICROVILLAGES": "Microvillages",
+  "BIG_CITIES": "Big cities",
+  "OPTIONS": "options",
+  "MUN_SIZE": "Municipality size",
+  "OTHERS": "Others",
+  "INFO_TOOLTIP_GROUPINGS": "Check aggregations methodology",
+  "MUNICIPIS": "Municipalities",
+  "COMARQUES": "Counties",
+  "AGREGACIONS": "Aggregations",
+  "SELECCIONA_UNA_COMARCA": "Select a county",
+  "SELECCIONA_UNA_AGREGACIO": "Select an aggregation",
+  "WARNING": "Value exceeds 100%. Data may not be representative."
+}
