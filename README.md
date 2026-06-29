@@ -2,6 +2,8 @@
 
 Aplicació pública (SPA) que visualitza els indicadors dels **Objectius de Desenvolupament Sostenible (ODS)** de municipis catalans. Aquesta és la part *frontend* del projecte Visor 2030.
 
+Copyright (C) Diputació de Barcelona
+
 - **Visor públic**: [https://visor2030.diba.cat/](https://visor2030.diba.cat/)
 - **Documentació tècnica**: [https://visor2030-documentacio.diba.cat/](https://visor2030-documentacio.diba.cat/)
 
